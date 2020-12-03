@@ -1,4 +1,6 @@
 AB Testing
+AB testing
+AI
 AIML
 API
 AWS
@@ -13,6 +15,7 @@ AnswerRocket
 Artificial Intelligence
 AutoCAD
 Autoencoder
+Autoencoders
 Azure
 Bash
 Big Data
@@ -25,6 +28,8 @@ C#
 C++
 CG
 CICD
+CNN
+CNNs
 COBOL
 CSS
 CUDA-Convnet
@@ -38,6 +43,7 @@ Cloud
 Common Lisp
 Computer Vision
 Convolutional Neural Network
+Convolutional Neural Networks
 CricleCI
 D3
 DBxtra
@@ -73,7 +79,10 @@ Generative Models
 Git
 GitHub
 GitLab
+Github
+Gitlab
 Go
+Golang
 Graph Neural Networks
 HBase
 HTML
@@ -90,6 +99,7 @@ JS
 JSON
 Java
 JavaScript
+Javascript
 Jenkins
 Jira
 Julia
@@ -101,6 +111,7 @@ Linux
 Looker
 Lua
 MATLAB
+ML
 MQL4
 MS Office
 MS SQL
@@ -109,6 +120,7 @@ MapReduce
 Maple
 MariaDB
 Mathematica
+Matlab
 Mercury
 Microsoft Office
 Minitab
@@ -117,12 +129,15 @@ Modelling
 MongoDB
 MySQL
 NET
+NLP
 Naive Bayes
 Natural Language Processing
 Networking
 Neural Network
+Neural Networks
 NoSQL
 NodeJS
+Nodejs
 OpenCV
 OpenEdge ABL
 Oracle
@@ -137,20 +152,26 @@ Plecto
 Plotly
 PostgreSQL
 Power BI
+PowerBI
 PowerPoint
 PowerShell
 PySpark
 PyTorch
+Pyspark
 Python
+Pytorch
 QA
 Qlik
 R 
 RDBMS
 REST
 RESTful
+RNN
+RNNs
 Random Forest
 ReactJS
 Recurrent Neural Network
+Recurrent Neural Networks
 Redshift
 Regression
 Roambi Analytics
@@ -167,9 +188,11 @@ Salesforce
 Scala
 Scheme
 Scikit-learn
+Scikitlearn
 Scratch
 Shell
 Sisense
+Sklearn
 Software Development
 Software Engineering
 Spark
@@ -182,6 +205,7 @@ Swift
 TCPIP
 Tableau
 TensorFlow
+Tensorflow
 Theano
 Torch
 UNIX
@@ -190,7 +214,12 @@ VBA
 VBScript
 VMware
 Variational Autoencoder
+Variational Autoencoders
 Visual Basic
 Windows
 XML
 iDashboards
+iOS
+Support Vector Machine
+Recommender System
+Graph Network
