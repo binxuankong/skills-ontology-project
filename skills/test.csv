@@ -1,0 +1,728 @@
+,Skill,Source
+0,.NET Framework,Own
+1,3D Modeling,Own
+2,API Design,Own
+3,API Gateway,Own
+4,API Management,Own
+5,ASP.NET,Own
+6,ATLAS.ti (Qualitative Data Analysis Software),Own
+7,AWK (Programming Language),Own
+8,AWS Elastic MapReduce (EMR),Own
+9,AWS Kinesis,Own
+10,AWS Lambda,Own
+11,AWS SageMaker,Own
+12,Accounts Receivable,Own
+13,Active Database Management Systems,Own
+14,Adaptive Insights (Software),Own
+15,Addressing Schemes,Own
+16,Adobe Spark,Own
+17,Adversarial Machine Learning,Own
+18,Agile Software Development,Own
+19,Air Brakes,Training
+20,Air Handler,Training
+21,Aircraft Maintenance,Training
+22,Airflow,Own
+23,Airworthiness,Training
+24,Alice Concierge (Software),Own
+25,Allegro Common Lisp,Own
+26,Alteryx,Own
+27,Aluminium-Conductor Steel-Reinforced Cabling,Training
+28,Amazon DynamoDB,Own
+29,Amazon Elastic Compute Cloud,Own
+30,Amazon Redshift,Own
+31,Android ButterKnife,Own
+32,Android Debug Bridge,Own
+33,Android Marshmallow,Own
+34,Android NDK,Own
+35,Android Software Development,Own
+36,Android Studio,Own
+37,Android Ui,Own
+38,Angular (Web Framework),Own
+39,Angular CLI,Own
+40,Angular Material,Own
+41,Angular Ui,Own
+42,Apache Cassandra,Own
+43,Apache HBase,Own
+44,Apache Hadoop,Own
+45,Apache Hive,Own
+46,Apache Kafka,Own
+47,Apache Pig,Own
+48,Apache Spark,Training
+49,Apigee,Own
+50,App Inventor For Android,Own
+51,Apple Pascal,Own
+52,Application Programming Interface (API),Own
+53,Applications Of Artificial Intelligence,Own
+54,ArcGIS (GIS Software),Own
+55,Artificial Intelligence,Own
+56,Artificial Intelligence Markup Language (AIML),Own
+57,Artificial Intelligence Systems,Own
+58,Artificial Linguistic Internet Computer Entity (ALICE),Own
+59,Artificial Neural Networks,Own
+60,Asynchronous Javascript,Own
+61,AutoCAD,Own
+62,AutoCAD Architecture,Own
+63,AutoCAD Civil 3D,Own
+64,AutoCAD DXF,Own
+65,AutoCAD Plant 3D,Own
+66,Autoencoders,Own
+67,Automated Machine Learning,Own
+68,Automotive Service Excellence,Own
+69,Azure Active Directory,Own
+70,Azure Cloud Services,Own
+71,Azure Cosmos DB,Own
+72,Azure DevOps,Own
+73,Azure Internet of Things (IoT),Own
+74,Azure Kubernetes Service,Own
+75,Azure Logic Apps,Own
+76,Azure Service Bus,Own
+77,Azuread,Own
+78,Backbone.Js,Own
+79,Backup And Restore,Own
+80,Balance Spring,Own
+81,Bash (Scripting Language),Own
+82,Basic First Aid,Training
+83,Basic Linear Algebra Subprograms,Training
+84,Big Data,Own
+85,BigQuery,Own
+86,Binomial Heap,Own
+87,Bitbucket,Own
+88,Boost (C++ Libraries),Own
+89,Bourne Shell,Own
+90,Brand Awareness,Own
+91,Building Information Modeling,Own
+92,Business Awareness,Own
+93,Business Excellence,Own
+94,Business Intelligence,Own
+95,Business Intelligence Development,Own
+96,Business Intelligence Development Studio,Own
+97,Business Intelligence Testing,Own
+98,Business Intelligence Tools,Own
+99,Business Model,Own
+100,Business Process Execution Language,Own
+101,Business Process Modeling,Own
+102,Business Requirements,Own
+103,C Shell,Own
+104,C# (Programming Language),Own
+105,C# Fundamentals,Own
+106,C++ (Programming Language),Own
+107,C++ Concepts,Own
+108,C++ Server Pages,Own
+109,C++/CLI,Own
+110,C++14,Own
+111,CGI Scripting,Own
+112,CGIC (ANSI C Library For CGI Programming),Own
+113,COBOL (Programming Language),Own
+114,CSS Animations,Own
+115,CSS Codes,Own
+116,CSS Flex Box Layout,Own
+117,CSS Frameworks,Own
+118,Caffe,Own
+119,Caffe2,Own
+120,Canva (Software),Own
+121,Canvasjs,Own
+122,Canvassing,Own
+123,Cardiopulmonary Resuscitation (CPR),Own
+124,Caregiving,Own
+125,Cascading Style Sheets (CSS),Own
+126,Cash Handling,Own
+127,Cash Register,Own
+128,CatBoost (Machine Learning Library),Own
+129,Cgi Application,Own
+130,Cglib,Own
+131,Cgroups,Own
+132,Chain Restaurants,Own
+133,Channel Allocation Schemes,Own
+134,Character Encodings In HTML,Own
+135,Chartio,Own
+136,Cisco Spark,Own
+137,Citect Scada,Own
+138,Classification And Regression Tree (CART),Training
+139,Classified Information,Own
+140,Classified Networks,Own
+141,Cloud Computing,Own
+142,Cloud Computing Architecture,Own
+143,Cloud Computing Security,Own
+144,Cloud Engineering,Own
+145,Cloud Infrastructure,Own
+146,Cloud Technologies,Own
+147,Cloudera Impala,Own
+148,Collections,Own
+149,Column-Oriented DBMS,Training
+150,Command-Query Responsibility Segregation (Software Development),Own
+151,Common Lisp Interface Manager,Own
+152,Common Lisp Object Systems,Own
+153,Component Pascal,Own
+154,Component-Based Software Engineering,Own
+155,Comprehensive Perl Archive Network (CPAN),Own
+156,Compressed Air,Training
+157,Computer Networks,Own
+158,Computer Science,Own
+159,Computer Security Awareness Training,Own
+160,Computer Vision,Training
+161,Computer-Aided Design,Training
+162,Computer-Aided Manufacturing,Training
+163,Computer-Aided Software Engineering,Own
+164,Concurrent Pascal,Own
+165,Consumer Database Management System,Own
+166,Consumer Packaged Goods,Own
+167,Content Repository API For Java,Own
+168,Convolutional Neural Networks,Own
+169,Corona (Software Development Kit),Own
+170,Csslint,Own
+171,Customer Experience,Own
+172,Customer Relationship Management,Own
+173,Customer Satisfaction,Own
+174,D3.Js,Own
+175,Dashboard,Training
+176,Data Analysis,Own
+177,Data Analysis And Display (DADiSP),Own
+178,Data Capture (SQL),Own
+179,Data Classification,Own
+180,Data Distribution Services,Own
+181,Data Engineering,Own
+182,Data Engineering Scripting Language,Own
+183,Data Governance,Own
+184,Data Modeling,Own
+185,Data Visualization,Training
+186,Data Warehousing And Business Intelligence (DWBI),Own
+187,Database Management Systems,Own
+188,Databricks,Own
+189,Debian Linux,Own
+190,Decision Tree Learning,Own
+191,Dedoose (Qualitative Data Analysis Software),Own
+192,Deep Learning,Own
+193,Deeplearning4j,Own
+194,DevOps,Own
+195,Development Aid,Training
+196,Dewey Decimal Classification,Own
+197,Digital Dashboards,Training
+198,Dimensionality Reduction,Own
+199,Distributed Computing,Own
+200,Distributed Control Systems,Own
+201,Distributed Data Store,Own
+202,Distributed Database Management System (DDBMS),Own
+203,Distributed Temperature Sensing (DTS),Own
+204,Distribution Management Systems,Own
+205,Diversity Scheme,Own
+206,Docker (Software),Own
+207,Docker Container,Own
+208,Docker Engine,Own
+209,Docker Swarm,Own
+210,Dockerfile,Own
+211,Dockerhub,Own
+212,Document Classification,Own
+213,Domo,Own
+214,Dynamic HTML,Own
+215,ESPRIT AutoCAD,Own
+216,Elasticsearch,Own
+217,Electric Power Distribution,Own
+218,Elementary Matrix (Linear Algebra),Training
+219,Emacs Lisp,Own
+220,Embeddable Common Lisp,Own
+221,Embedded C++,Own
+222,Ember.Js,Own
+223,Equal Channel Angular Extrusion,Own
+224,Erlang,Own
+225,Excel Formulas,Own
+226,Excel Macros,Own
+227,Excel Pivot Tables And Charts,Own
+228,Excel Services,Own
+229,Excel Solver,Own
+230,ExcelPackage,Own
+231,Execute Plans,Own
+232,Executive Coaching,Own
+233,Executive Information Systems,Own
+234,Executive Search,Own
+235,Executive Sponsor,Own
+236,Experimental Software Engineering,Own
+237,Exploratory Data Analysis,Own
+238,Ext JS,Own
+239,Extensible Markup Language (XML),Own
+240,Extract Transform Load (ETL),Own
+241,FLUKA Particle Transport Code (Fortran Software),Own
+242,Factor Analysis,Own
+243,Factory And Site Acceptance Testing,Own
+244,Factory Reset,Own
+245,Fast Moving Consumer Goods,Own
+246,Fibonacci Heap,Own
+247,Fibre-Reinforced Plastic,Training
+248,Financial Data Analysis,Own
+249,Financial Modeling,Own
+250,Financial Services Compensation Scheme,Own
+251,Fingerprint Identification And Classification,Own
+252,Finished Good,Own
+253,Food Safety,Own
+254,Forth (Programming Language),Own
+255,Fortran (Programming Language),Own
+256,Fortran90,Own
+257,Fortran95,Own
+258,FourGen Computer-Aided Software Engineering (CASE) Tools,Own
+259,Free Pascal,Own
+260,Front End (Software Engineering),Own
+261,Full Stack Software Engineering,Own
+262,GIS Applications,Own
+263,GIS Mapping,Own
+264,GNU Cobol,Own
+265,GNU Common Lisp,Own
+266,Gensim (NLP Software),Training
+267,Gift Wrapping,Own
+268,Git (Version Control System),Training
+269,Git Flow,Training
+270,Git Stash,Training
+271,Gitbook,Training
+272,Github,Own
+273,Gitkraken,Training
+274,Gitlab,Training
+275,Gitolite,Training
+276,Gitorious,Training
+277,Gitweb,Training
+278,Go (Programming Language),Own
+279,Go-to-Market Strategy,Own
+280,Good Clinical Practices (GCP),Own
+281,Good Manufacturing Practices,Own
+282,Google Analytics,Own
+283,Google Cloud,Own
+284,Google Cloud Platform (GCP),Own
+285,Google Kubernetes Engine (GKE),Own
+286,Graph Theory,Training
+287,Grunt.js,Own
+288,Gulp.js,Own
+289,HP Pascal,Own
+290,HTML Abstraction Markup Language,Own
+291,HTML Document Object Models,Own
+292,HTML Formatting,Own
+293,HTML5,Own
+294,Hadoop Distributed File System (HDFS),Training
+295,Hadoop2,Training
+296,Heap Dump,Own
+297,Heap Leaching,Own
+298,Heap Size,Own
+299,Heapster,Own
+300,Hedge Accounting,Own
+301,Hedge Funds,Own
+302,Hedging,Own
+303,Hibernate (Java),Own
+304,High Performance Fortran (Concurrent Programming Language),Own
+305,Home Care,Own
+306,Hotel And Restaurant Management,Own
+307,Human Factors,Own
+308,Human Factors And Ergonomics,Own
+309,Human Factors Engineering,Own
+310,Hydraulically Activated Pipeline Pigging,Own
+311,HyperText Markup Language (HTML),Own
+312,IBM AIX,Training
+313,IBM Cgidev2,Own
+314,IBM Cognos Business Intelligence,Own
+315,IBM InfoSphere (ETL Tools),Training
+316,IBM Scalable Architecture For Financial Reporting,Own
+317,Insurance Sales,Own
+318,Intel Fortran Compilers,Own
+319,International Classification Of Diseases,Own
+320,J2C - Java To C++ Converter,Own
+321,JIRA,Own
+322,JIRA Studio,Own
+323,JSON,Own
+324,JSON Web Signature (JWS),Own
+325,JSON Web Token (JWT),Own
+326,JSON With Padding (JSONP),Own
+327,JSON-RPC Protocol,Own
+328,Jasmine (JavaScript Testing Framework),Training
+329,Java (Programming Language),Training
+330,Java API For RESTful Web Services,Own
+331,Java Architecture For XML Binding,Own
+332,Java Database Connectivity,Own
+333,Java Enterprise Edition,Own
+334,Java Message Service (JMS),Own
+335,Java Persistence API,Own
+336,Java Platform Enterprise Edition (J2EE),Training
+337,Java Servlet,Own
+338,Java XML,Own
+339,JavaScript (Programming Language),Training
+340,JavaScript Frameworks,Own
+341,JavaScript Libraries,Own
+342,JavaServer Pages,Own
+343,Javascript Build,Own
+344,Javascript Engine,Own
+345,Javascriptcore,Own
+346,Jenkins,Own
+347,Jenkins 2,Own
+348,Jenkinsfile,Own
+349,Json.net,Own
+350,Jsonkit,Own
+351,Jsonpath,Own
+352,Jupyter,Own
+353,Jupyter Notebook,Own
+354,Keras (Neural Network Library),Own
+355,Keratin Smoothing,Own
+356,Knockout.js,Own
+357,Korn Shell,Own
+358,Kubernetes,Own
+359,Library For WWW In Perl,Own
+360,Linear Algebra,Training
+361,Linear Algebra Package (LAPACK),Training
+362,Linear Regression,Training
+363,Link Capacity Adjustment Scheme,Own
+364,Linux,Own
+365,Linux Administration,Own
+366,Linux Commands,Own
+367,Linux Kernel,Own
+368,Linux On Embedded Systems,Own
+369,Linux Servers,Own
+370,Local Area Networks,Own
+371,Logistic Regression,Training
+372,Looker Analytics,Own
+373,Lua (Scripting Language),Own
+374,Luigi (Python Package),Own
+375,MATLAB,Training
+376,MIT/GNU Scheme,Own
+377,Machine Learning,Own
+378,Machine Learning Algorithms,Own
+379,Machine Learning For Personalized Medicine,Own
+380,Manufacturing Execution System (MES),Own
+381,MapR (Big Data),Own
+382,MapReduce,Own
+383,Maple (Software),Own
+384,MapleSim,Own
+385,MariaDB,Own
+386,Mathematical Analysis,Own
+387,Mathematical Finance,Own
+388,Mathematical Logic,Own
+389,Mathematical Modeling,Own
+390,Mathematical Optimization,Own
+391,Mathematical Programming,Own
+392,Mathematical Sciences,Own
+393,Mathematical Statistics,Own
+394,Medical Records,Own
+395,Mercurial,Own
+396,Mercury Cadmium Telluride,Own
+397,Microsoft Azure,Own
+398,Microsoft Business Intelligence,Own
+399,Microsoft Foundation Class Library (C++ Libraries),Own
+400,Microsoft Office 365,Own
+401,Microsoft Office Accounting,Own
+402,Microsoft Office Document Imaging,Own
+403,Microsoft Office Live Meeting,Own
+404,Microsoft Office PerformancePoint Servers,Own
+405,Microsoft Office Picture Management,Own
+406,Microsoft Office Project (MOPS),Own
+407,Microsoft Office Project Portfolio Servers,Own
+408,Microsoft Office SharePoint Server,Own
+409,Microsoft Office XML Formats,Own
+410,Microsoft SQL Server Data Engine (MSDE),Own
+411,Microsoft SQL Servers,Training
+412,Microsoft Visual Studio,Training
+413,Microstrategy Software Development Kit,Own
+414,Minitab,Own
+415,Model View Controller,Own
+416,Model-Driven Software Engineering,Own
+417,MongoDB,Own
+418,Multi-Factor Authentication,Own
+419,Multidimensional Database Management Systems,Own
+420,Multiple Linear Regression,Training
+421,MySQL,Own
+422,MySQL Workbench,Own
+423,MySQLi,Own
+424,Mysql++,Own
+425,Mysql2,Own
+426,Mysql5,Own
+427,Mysqladmin,Own
+428,Mysqlbinlog,Own
+429,Mysqlimport,Own
+430,NLP 5-Step Sales Process,Training
+431,NLTK (NLP Analysis),Training
+432,Naive Bayes,Own
+433,Naive Bayes Classifier,Own
+434,Natural Language Processing,Own
+435,Natural Language Processing Systems,Own
+436,Network Engineering,Own
+437,Network Infrastructure,Own
+438,Network Routing,Own
+439,Network Security,Own
+440,Network Switches,Own
+441,Networking Hardware,Own
+442,New Database Manager (NDBM),Own
+443,Nice (Unix Utility),Own
+444,NoSQL,Training
+445,Node.Js,Own
+446,Nonlinear Dimensionality Reduction,Own
+447,Nonlinear Regression,Training
+448,Numerical Linear Algebra,Training
+449,Nursing Interventions Classification,Own
+450,Object Oriented CSS,Own
+451,Object Pascal,Own
+452,Object-Oriented JavaScript,Own
+453,OpenCV,Own
+454,Operational Excellence,Training
+455,Oracle Business Intelligence Enterprise Edition,Own
+456,Oracle Cloud,Own
+457,Oracle Databases,Own
+458,Oracle E-Business Suite,Own
+459,Oracle Essbase,Own
+460,Oracle Exadata,Own
+461,Oracle Fusion Middleware,Own
+462,Oracle Hyperion,Own
+463,Oracle Linux,Own
+464,Oracle SQL Developer,Training
+465,Oracle WebLogic Server,Own
+466,Ordinary Least Squares (Regression Analysis),Own
+467,Org.json,Own
+468,PCRE - Perl Compatible Regular Expressions,Own
+469,PHP (Scripting Language),Own
+470,PHP Development,Own
+471,PHPMyAdmin,Own
+472,PL/SQL,Training
+473,Package.json,Own
+474,Panda3D,Own
+475,PandaBoard,Own
+476,Pandas (Python Package),Own
+477,Pascal (Programming Language),Own
+478,Perl (Programming Language),Own
+479,Perl Object Environments,Own
+480,Perl Regular Expressions,Own
+481,Perl5,Own
+482,Perl6,Own
+483,Perlbal,Own
+484,Php 7,Own
+485,PhpStorm,Own
+486,Phpbb,Own
+487,Phpbb3,Own
+488,Phpspec,Own
+489,Phpunit,Own
+490,Physical Restraint,Own
+491,Pigging,Own
+492,Piggyback (Transportation),Own
+493,Planned Giving,Own
+494,Plotly,Own
+495,Plsqldeveloper,Own
+496,Pneumatic Valve Springs,Own
+497,Point Of Sale,Own
+498,PostgreSQL,Own
+499,Power BI,Own
+500,Power Distribution,Own
+501,PowerPoint Animation,Own
+502,Predictive Modeling,Own
+503,Preparing Executive Summaries,Own
+504,Product Quality (QA/QC),Own
+505,Public Cloud,Own
+506,PyTorch (Machine Learning Library),Own
+507,Pyspark,Own
+508,Python (Programming Language),Training
+509,Python Imaging Libraries,Own
+510,Python Server Pages,Own
+511,Python Tools For Visual Studio,Own
+512,Qlik Sense (Data Analytics Software),Own
+513,QlikView (Data Analytics Software),Own
+514,Quadrature Amplitude Modulation (QAM),Own
+515,Qualitative Data Analysis,Own
+516,Qualitative Data Analysis Software,Own
+517,Quantitative Data Analysis,Own
+518,Quantum GIS (QGIS),Own
+519,Quantum Scalar Servers,Own
+520,R (Programming Language),Training
+521,RESTful API,Own
+522,Raima Database Management,Own
+523,Ramaze (Free Software Programmed In Ruby),Own
+524,Random Forest Algorithm,Own
+525,React.js,Own
+526,Reconciliation,Own
+527,Recurrent Neural Network (RNN),Own
+528,Red Hat Enterprise Linux,Own
+529,Red Hat Linux,Own
+530,Regression Analysis,Own
+531,Regression Testing,Training
+532,Rehabilitation,Own
+533,Reinforced Concrete,Training
+534,Reinforced Masonry Building,Training
+535,Reinforcement,Training
+536,Reinforcement Learning,Training
+537,Relational Database Management Systems,Own
+538,Responsive HTML,Own
+539,Restaurant Management,Own
+540,Restaurant Operation,Own
+541,Restocking Shelves,Own
+542,Restructuring (Business),Own
+543,Ridge/LASSO Regressions,Training
+544,Risk Factor,Own
+545,Risk Management,Own
+546,Rooting (Android OS),Own
+547,Ruby (Programming Language),Own
+548,Ruby On Rails,Own
+549,Ruby Version Management,Own
+550,RubyCocoa,Own
+551,RubyGems,Own
+552,RubyMine,Own
+553,Rubylith,Own
+554,SAP ABAP,Own
+555,SAP Applications,Own
+556,SAP Business Suite,Own
+557,SAP Concur (Travel And Invoice Software),Own
+558,SAP ERP,Own
+559,SAP FI/CO,Own
+560,SAP Frontend,Own
+561,SAP Functional,Own
+562,SAP HANA,Own
+563,SAP Knowledge Warehouse,Own
+564,SAP NetWeaver Business Warehouse,Own
+565,SAS (Software),Own
+566,SAS Scalable Performance Data Servers,Own
+567,SIMATIC WinCC (SCADA System),Own
+568,SPSS (Statistical Software),Training
+569,SPSS Modeler,Own
+570,SQL (Programming Language),Own
+571,SQL Azure,Own
+572,SQL Server Analysis Services,Own
+573,SQL Server Integration Services (SSIS),Own
+574,SQL Server Reporting Services,Training
+575,Safe Restraining Techniques (Veterinary),Own
+576,Safety Standards,Own
+577,Safety Training,Own
+578,Sales Excellence,Own
+579,Sales Management,Own
+580,Sales Process,Own
+581,Salesforce Communities,Own
+582,Salesforce Object Query Language (SOQL),Own
+583,Salesforce Object Search Language (SOSL),Own
+584,Salesforce Social Studio,Own
+585,Salesforce.Com,Own
+586,Sampling (Statistics),Own
+587,Scala (Programming Language),Own
+588,Scalability,Own
+589,Scalability Testing,Own
+590,Scalable Vector Graphics,Own
+591,Scalable Video Coding,Own
+592,Scalar Field,Own
+593,Scalatest,Own
+594,Scheme (Programming Language),Own
+595,Scheme 48,Own
+596,Scikit-learn (Machine Learning Library),Own
+597,Scratch Live,Own
+598,Scratch Space,Own
+599,Scratchboard,Own
+600,Scratchbox,Own
+601,Scratchpad,Own
+602,Scrum (Software Development),Own
+603,Secure Shell,Own
+604,Security Awareness,Own
+605,Semantic HTML,Own
+606,Sexual Harassment Awareness,Own
+607,Shell Script,Own
+608,Shellcode,Own
+609,Simple Linear Regression,Training
+610,Sisense,Own
+611,Sitemaps (XML),Own
+612,Smart Factory,Own
+613,Software Development,Own
+614,Software Development Engineer in Test,Own
+615,Software Development Life Cycle,Own
+616,Software Development Methodologies,Own
+617,Software Engineering,Own
+618,Software Engineering 2004,Own
+619,Software Engineering Process,Own
+620,Software Factory,Own
+621,Sound Reinforcement Systems,Training
+622,SpaCy (NLP Software),Training
+623,Spark Framework,Training
+624,Spark Plasma Sintering,Training
+625,Spark Plug,Own
+626,Spark Streaming,Training
+627,Spark Testing,Training
+628,Sparklines,Own
+629,Sparkr,Own
+630,Splunk,Own
+631,Spring Boot,Own
+632,Spring Framework,Own
+633,Spring Security,Own
+634,Spring.net,Own
+635,Spring4d,Own
+636,SpringSource,Own
+637,Springboard,Own
+638,Springfox,Own
+639,Stata,Own
+640,Static HTML,Own
+641,Statistical Hypothesis Testing,Own
+642,Statistical Inference,Training
+643,Statistical Methods,Training
+644,Statistical Modeling,Training
+645,Statistical Packages,Own
+646,Statistical Process Controls,Own
+647,Statistical Softwares,Own
+648,Statistics,Own
+649,Steel Bank Common Lisp,Own
+650,Strategy Execution,Own
+651,Stuttgart Neural Network Simulator (SNNS),Own
+652,Supervisory Control And Data Acquisition (SCADA),Own
+653,Survey Data Analysis,Own
+654,Swift (Programming Language),Own
+655,Swift 3D,Own
+656,Swift Data,Own
+657,TC Shell (Unix),Own
+658,Tableau (Business Intelligence Software),Own
+659,Tensorflow,Own
+660,Teradata SQL,Training
+661,Test Execution Engine,Own
+662,Theano (Software),Own
+663,Traffic Generation Models,Own
+664,Transact-SQL,Own
+665,Translation Memory EXchange (XML Spec),Own
+666,Tru64 Unix,Own
+667,Turbo Pascal,Own
+668,UCSD Pascal,Own
+669,Unified Modeling Languages,Own
+670,Unix,Own
+671,Unix Commands,Own
+672,Unix File Systems,Own
+673,Unix Security,Own
+674,Unix Shell,Own
+675,Unix System Services,Own
+676,Unix Tools,Own
+677,Unobtrusive JavaScript,Training
+678,VBScript (Visual Basic Scripting Edition),Own
+679,VMWare Workspace ONE,Own
+680,VMware Certified Associate,Own
+681,VMware ESX Servers,Own
+682,VMware Horizon View,Own
+683,VMware Infrastructure,Own
+684,VMware Servers,Own
+685,VMware ThinApp,Own
+686,VMware VSphere,Own
+687,VMware Virtualization,Own
+688,VMware Workstation,Own
+689,Virtual Private Networks (VPN),Own
+690,Vissim (Mathematical Modeling),Own
+691,Visual Acuity,Training
+692,Visual Basic (Programming Language),Training
+693,Visual Basic .NET (Programming Language),Own
+694,Visual Basic Extension,Own
+695,Visual Basic For Applications,Own
+696,Visual C++ (Programming Language),Own
+697,Visual Design,Training
+698,Visual Merchandising,Training
+699,Visualforce,Training
+700,Vue.js,Own
+701,WATerloo FORTRAN IV (WATFIV),Own
+702,Water Distribution,Own
+703,Water Regulations Advisory Scheme,Own
+704,Wide Area Networks,Own
+705,Window Treatments,Own
+706,Windows API,Own
+707,Windows Communication Foundation,Own
+708,Windows Desktop,Own
+709,Windows Forms,Own
+710,Windows Meeting Space,Own
+711,Windows PowerShell,Own
+712,Windows Presentation Foundation,Own
+713,Windows Servers,Own
+714,Windows Shell,Own
+715,Windows Software Trace Preprocessor,Own
+716,Windows Vista,Own
+717,Wolfram Mathematica,Own
+718,Word VBA,Own
+719,XML Editor,Own
+720,XML Schema,Own
+721,XML-RPC,Own
+722,XMLSpy,Own
+723,XMLhttprequest,Own
+724,Xamarin.android,Own
+725,Yii PHP Framework,Own
+726,Z Shell,Own

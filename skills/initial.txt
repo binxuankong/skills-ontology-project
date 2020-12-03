@@ -1,0 +1,196 @@
+AB Testing
+AIML
+API
+AWS
+Adaptive Insights
+Airflow
+Alice
+Alteryx
+Android
+Angular
+AngularJS
+AnswerRocket
+Artificial Intelligence
+AutoCAD
+Autoencoder
+Azure
+Bash
+Big Data
+BigQuery
+Bitbucket
+BrandMap
+Business Intelligence
+C
+C#
+C++
+CG
+CICD
+COBOL
+CSS
+CUDA-Convnet
+Caffe
+Canva
+Cassandra
+Chartio
+Classification
+ClicData
+Cloud
+Common Lisp
+Computer Vision
+Convolutional Neural Network
+CricleCI
+D3
+DBxtra
+Data Analysis
+Data Engineering
+Data Visualisation
+Database Management
+Databricks
+Decision Trees
+Deep Learning
+Deeplearning4j
+DevOps
+Dimensionality Reduction
+Distribution
+Docker
+Domo
+DynamoDB
+ETL
+EXEC
+Elasticsearch
+Emacs Lisp
+Erlang
+Excel
+Factor
+Fastai
+Forth
+Fortran
+Frontend
+GCP
+GIS
+Geckoboard
+Generative Models
+Git
+GitHub
+GitLab
+Go
+Graph Neural Networks
+HBase
+HTML
+Hadoop
+Hbase
+Heap
+Hedge
+Hive
+Impala
+Improvado
+Infogram
+JIRA
+JS
+JSON
+Java
+JavaScript
+Jenkins
+Jira
+Julia
+Jupyter
+Kafka
+Keras
+Kubernetes
+Linux
+Looker
+Lua
+MATLAB
+MQL4
+MS Office
+MS SQL
+Machine Learning
+MapReduce
+Maple
+MariaDB
+Mathematica
+Mercury
+Microsoft Office
+Minitab
+MoData
+Modelling
+MongoDB
+MySQL
+NET
+Naive Bayes
+Natural Language Processing
+Networking
+Neural Network
+NoSQL
+NodeJS
+OpenCV
+OpenEdge ABL
+Oracle
+PHP
+PLSQL
+Pandas
+Pascal
+Perl
+Php
+Pig
+Plecto
+Plotly
+PostgreSQL
+Power BI
+PowerPoint
+PowerShell
+PySpark
+PyTorch
+Python
+QA
+Qlik
+R 
+RDBMS
+REST
+RESTful
+Random Forest
+ReactJS
+Recurrent Neural Network
+Redshift
+Regression
+Roambi Analytics
+Ruby
+Rust
+SAP
+SAS
+SCADA
+SPARK
+SPSS
+SQL
+SVM
+Salesforce
+Scala
+Scheme
+Scikit-learn
+Scratch
+Shell
+Sisense
+Software Development
+Software Engineering
+Spark
+Splunk
+Spring
+Stata
+Statistical Modelling
+Statistics
+Swift
+TCPIP
+Tableau
+TensorFlow
+Theano
+Torch
+UNIX
+Unix
+VBA
+VBScript
+VMware
+Variational Autoencoder
+Visual Basic
+Windows
+XML
+iDashboards
