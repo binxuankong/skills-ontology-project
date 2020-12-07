@@ -1,0 +1,746 @@
+,Skill
+0,.NET Framework
+1,3D Modeling
+2,API Design
+3,API Gateway
+4,API Management
+5,ASP.NET
+6,ATLAS.ti (Qualitative Data Analysis Software)
+7,AWK (Programming Language)
+8,AWS Elastic MapReduce (EMR)
+9,AWS Kinesis
+10,AWS Lambda
+11,AWS SageMaker
+12,Accounts Receivable
+13,Active Database Management Systems
+14,Adaptive Insights (Software)
+15,Addressing Schemes
+16,Adobe Spark
+17,Adversarial Machine Learning
+18,Agile Software Development
+19,Air Brakes
+20,Air Handler
+21,Aircraft Maintenance
+22,Airflow
+23,Airworthiness
+24,Alice Concierge (Software)
+25,Allegro Common Lisp
+26,Alteryx
+27,Aluminium-Conductor Steel-Reinforced Cabling
+28,Amazon DynamoDB
+29,Amazon Elastic Compute Cloud
+30,Amazon Redshift
+31,Android ButterKnife
+32,Android Debug Bridge
+33,Android Marshmallow
+34,Android NDK
+35,Android Software Development
+36,Android Studio
+37,Android Ui
+38,Angular (Web Framework)
+39,Angular CLI
+40,Angular Material
+41,Angular Ui
+42,Apache Cassandra
+43,Apache HBase
+44,Apache Hadoop
+45,Apache Hive
+46,Apache Kafka
+47,Apache Pig
+48,Apache Spark
+49,Apigee
+50,App Inventor For Android
+51,App Store (IOS)
+52,Apple Pascal
+53,Application Programming Interface (API)
+54,Applications Of Artificial Intelligence
+55,ArcGIS (GIS Software)
+56,Artificial Intelligence
+57,Artificial Intelligence Markup Language (AIML)
+58,Artificial Intelligence Systems
+59,Artificial Linguistic Internet Computer Entity (ALICE)
+60,Artificial Neural Networks
+61,Asynchronous Javascript
+62,AutoCAD
+63,AutoCAD Architecture
+64,AutoCAD Civil 3D
+65,AutoCAD DXF
+66,AutoCAD Plant 3D
+67,Autoencoders
+68,Automated Machine Learning
+69,Automotive Service Excellence
+70,Azure Active Directory
+71,Azure Cloud Services
+72,Azure Cosmos DB
+73,Azure DevOps
+74,Azure Internet of Things (IoT)
+75,Azure Kubernetes Service
+76,Azure Logic Apps
+77,Azure Service Bus
+78,Azuread
+79,Backbone.Js
+80,Backup And Restore
+81,Balance Spring
+82,Bash (Scripting Language)
+83,Basic First Aid
+84,Basic Linear Algebra Subprograms
+85,Big Data
+86,BigQuery
+87,Binomial Heap
+88,Bitbucket
+89,Boost (C++ Libraries)
+90,Bourne Shell
+91,Brand Awareness
+92,Building Information Modeling
+93,Business Awareness
+94,Business Excellence
+95,Business Intelligence
+96,Business Intelligence Development
+97,Business Intelligence Development Studio
+98,Business Intelligence Testing
+99,Business Intelligence Tools
+100,Business Model
+101,Business Process Execution Language
+102,Business Process Modeling
+103,Business Requirements
+104,C Shell
+105,C# (Programming Language)
+106,C# Fundamentals
+107,C++ (Programming Language)
+108,C++ Concepts
+109,C++ Server Pages
+110,C++/CLI
+111,C++14
+112,CGI Scripting
+113,CGIC (ANSI C Library For CGI Programming)
+114,COBOL (Programming Language)
+115,CSS Animations
+116,CSS Codes
+117,CSS Flex Box Layout
+118,CSS Frameworks
+119,Caffe
+120,Caffe2
+121,Canva (Software)
+122,Canvasjs
+123,Canvassing
+124,Cardiopulmonary Resuscitation (CPR)
+125,Caregiving
+126,Cascading Style Sheets (CSS)
+127,Cash Handling
+128,Cash Register
+129,CatBoost (Machine Learning Library)
+130,Cgi Application
+131,Cglib
+132,Cgroups
+133,Chain Restaurants
+134,Channel Allocation Schemes
+135,Character Encodings In HTML
+136,Chartio
+137,Cisco IOS
+138,Cisco Spark
+139,Citect Scada
+140,Classification And Regression Tree (CART)
+141,Classified Information
+142,Classified Networks
+143,Cloud Computing
+144,Cloud Computing Architecture
+145,Cloud Computing Security
+146,Cloud Engineering
+147,Cloud Infrastructure
+148,Cloud Technologies
+149,Cloudera Impala
+150,Collections
+151,Column-Oriented DBMS
+152,Command-Query Responsibility Segregation (Software Development)
+153,Common Lisp Interface Manager
+154,Common Lisp Object Systems
+155,Component Pascal
+156,Component-Based Software Engineering
+157,Comprehensive Perl Archive Network (CPAN)
+158,Compressed Air
+159,Computer Networks
+160,Computer Science
+161,Computer Security Awareness Training
+162,Computer Vision
+163,Computer-Aided Design
+164,Computer-Aided Manufacturing
+165,Computer-Aided Software Engineering
+166,Concurrent Pascal
+167,Consumer Database Management System
+168,Consumer Packaged Goods
+169,Content Repository API For Java
+170,Convolutional Neural Networks
+171,Corona (Software Development Kit)
+172,Csslint
+173,Customer Experience
+174,Customer Relationship Management
+175,Customer Satisfaction
+176,D3.Js
+177,Dashboard
+178,Data Analysis
+179,Data Analysis And Display (DADiSP)
+180,Data Capture (SQL)
+181,Data Classification
+182,Data Distribution Services
+183,Data Engineering
+184,Data Engineering Scripting Language
+185,Data Governance
+186,Data Modeling
+187,Data Visualization
+188,Data Warehousing And Business Intelligence (DWBI)
+189,Database Management Systems
+190,Databricks
+191,Debian Linux
+192,Decision Tree Learning
+193,Dedoose (Qualitative Data Analysis Software)
+194,Deep Learning
+195,Deeplearning4j
+196,DevOps
+197,Development Aid
+198,Dewey Decimal Classification
+199,Digital Dashboards
+200,Dimensionality Reduction
+201,Distributed Computing
+202,Distributed Control Systems
+203,Distributed Data Store
+204,Distributed Database Management System (DDBMS)
+205,Distributed Temperature Sensing (DTS)
+206,Distribution Management Systems
+207,Diversity Scheme
+208,Docker (Software)
+209,Docker Container
+210,Docker Engine
+211,Docker Swarm
+212,Dockerfile
+213,Dockerhub
+214,Document Classification
+215,Domo
+216,Dynamic HTML
+217,ESPRIT AutoCAD
+218,Elasticsearch
+219,Electric Power Distribution
+220,Elementary Matrix (Linear Algebra)
+221,Emacs Lisp
+222,Embeddable Common Lisp
+223,Embedded C++
+224,Ember.Js
+225,Equal Channel Angular Extrusion
+226,Erlang
+227,Excel Formulas
+228,Excel Macros
+229,Excel Pivot Tables And Charts
+230,Excel Services
+231,Excel Solver
+232,ExcelPackage
+233,Execute Plans
+234,Executive Coaching
+235,Executive Information Systems
+236,Executive Search
+237,Executive Sponsor
+238,Experimental Software Engineering
+239,Exploratory Data Analysis
+240,Ext JS
+241,Extensible Markup Language (XML)
+242,Extract Transform Load (ETL)
+243,FLUKA Particle Transport Code (Fortran Software)
+244,Factor Analysis
+245,Factory And Site Acceptance Testing
+246,Factory Reset
+247,Fast Moving Consumer Goods
+248,Fibonacci Heap
+249,Fibre-Reinforced Plastic
+250,Financial Data Analysis
+251,Financial Modeling
+252,Financial Services Compensation Scheme
+253,Fingerprint Identification And Classification
+254,Finished Good
+255,Food Safety
+256,Forth (Programming Language)
+257,Fortran (Programming Language)
+258,Fortran90
+259,Fortran95
+260,FourGen Computer-Aided Software Engineering (CASE) Tools
+261,Free Pascal
+262,Front End (Software Engineering)
+263,Full Stack Software Engineering
+264,GIS Applications
+265,GIS Mapping
+266,GNU Cobol
+267,GNU Common Lisp
+268,Gensim (NLP Software)
+269,Gift Wrapping
+270,Git (Version Control System)
+271,Git Flow
+272,Git Stash
+273,Gitbook
+274,Github
+275,Gitkraken
+276,Gitlab
+277,Gitolite
+278,Gitorious
+279,Gitweb
+280,Go (Programming Language)
+281,Go-to-Market Strategy
+282,Good Clinical Practices (GCP)
+283,Good Manufacturing Practices
+284,Google Analytics
+285,Google Cloud
+286,Google Cloud Platform (GCP)
+287,Google Kubernetes Engine (GKE)
+288,Graph Theory
+289,Grunt.js
+290,Gulp.js
+291,HP Pascal
+292,HTML Abstraction Markup Language
+293,HTML Document Object Models
+294,HTML Formatting
+295,HTML5
+296,Hadoop Distributed File System (HDFS)
+297,Hadoop2
+298,Heap Dump
+299,Heap Leaching
+300,Heap Size
+301,Heapster
+302,Hedge Accounting
+303,Hedge Funds
+304,Hedging
+305,Hibernate (Java)
+306,High Performance Fortran (Concurrent Programming Language)
+307,Home Care
+308,Hotel And Restaurant Management
+309,Human Factors
+310,Human Factors And Ergonomics
+311,Human Factors Engineering
+312,Hydraulically Activated Pipeline Pigging
+313,HyperText Markup Language (HTML)
+314,IBM AIX
+315,IBM Cgidev2
+316,IBM Cognos Business Intelligence
+317,IBM InfoSphere (ETL Tools)
+318,IBM Scalable Architecture For Financial Reporting
+319,IOS SDK
+320,Insurance Sales
+321,Intel Fortran Compilers
+322,International Classification Of Diseases
+323,Internet Of Things (IoT)
+324,Ion Chromatography
+325,Ionic Framework
+326,Ionizing Radiation
+327,Iostat
+328,J2C - Java To C++ Converter
+329,JIRA
+330,JIRA Studio
+331,JSON
+332,JSON Web Signature (JWS)
+333,JSON Web Token (JWT)
+334,JSON With Padding (JSONP)
+335,JSON-RPC Protocol
+336,Jasmine (JavaScript Testing Framework)
+337,Java (Programming Language)
+338,Java API For RESTful Web Services
+339,Java Architecture For XML Binding
+340,Java Database Connectivity
+341,Java Enterprise Edition
+342,Java Message Service (JMS)
+343,Java Persistence API
+344,Java Platform Enterprise Edition (J2EE)
+345,Java Servlet
+346,Java XML
+347,JavaScript (Programming Language)
+348,JavaScript Frameworks
+349,JavaScript Libraries
+350,JavaServer Pages
+351,Javascript Build
+352,Javascript Engine
+353,Javascriptcore
+354,Jenkins
+355,Jenkins 2
+356,Jenkinsfile
+357,Json.net
+358,Jsonkit
+359,Jsonpath
+360,Jupyter
+361,Jupyter Notebook
+362,Keras (Neural Network Library)
+363,Keratin Smoothing
+364,Knockout.js
+365,Korn Shell
+366,Kubernetes
+367,Library For WWW In Perl
+368,Linear Algebra
+369,Linear Algebra Package (LAPACK)
+370,Linear Regression
+371,Link Capacity Adjustment Scheme
+372,Linux
+373,Linux Administration
+374,Linux Commands
+375,Linux Kernel
+376,Linux On Embedded Systems
+377,Linux Servers
+378,Local Area Networks
+379,Logistic Regression
+380,Looker Analytics
+381,Lua (Scripting Language)
+382,Luigi (Python Package)
+383,MATLAB
+384,MIT/GNU Scheme
+385,ML.NET
+386,ML/I
+387,MLCAD
+388,MLwiN
+389,Machine Learning
+390,Machine Learning Algorithms
+391,Machine Learning For Personalized Medicine
+392,Manufacturing Execution System (MES)
+393,MapR (Big Data)
+394,MapReduce
+395,Maple (Software)
+396,MapleSim
+397,MariaDB
+398,Mathematical Analysis
+399,Mathematical Finance
+400,Mathematical Logic
+401,Mathematical Modeling
+402,Mathematical Optimization
+403,Mathematical Programming
+404,Mathematical Sciences
+405,Mathematical Statistics
+406,Maximum Length Sequence System Analyser (MLSSA)
+407,Medical Records
+408,Mercurial
+409,Mercury Cadmium Telluride
+410,Microsoft Azure
+411,Microsoft Business Intelligence
+412,Microsoft Foundation Class Library (C++ Libraries)
+413,Microsoft Office 365
+414,Microsoft Office Accounting
+415,Microsoft Office Document Imaging
+416,Microsoft Office Live Meeting
+417,Microsoft Office PerformancePoint Servers
+418,Microsoft Office Picture Management
+419,Microsoft Office Project (MOPS)
+420,Microsoft Office Project Portfolio Servers
+421,Microsoft Office SharePoint Server
+422,Microsoft Office XML Formats
+423,Microsoft SQL Server Data Engine (MSDE)
+424,Microsoft SQL Servers
+425,Microsoft Visual Studio
+426,Microstrategy Software Development Kit
+427,Minitab
+428,Mload
+429,Model View Controller
+430,Model-Driven Software Engineering
+431,MongoDB
+432,Moscow ML
+433,Multi-Factor Authentication
+434,Multidimensional Database Management Systems
+435,Multiple Linear Regression
+436,MySQL
+437,MySQL Workbench
+438,MySQLi
+439,Mysql++
+440,Mysql2
+441,Mysql5
+442,Mysqladmin
+443,Mysqlbinlog
+444,Mysqlimport
+445,NLP 5-Step Sales Process
+446,NLTK (NLP Analysis)
+447,Naive Bayes
+448,Naive Bayes Classifier
+449,Natural Language Processing
+450,Natural Language Processing Systems
+451,Network Engineering
+452,Network Infrastructure
+453,Network Routing
+454,Network Security
+455,Network Switches
+456,Networking Hardware
+457,New Database Manager (NDBM)
+458,Nice (Unix Utility)
+459,NoSQL
+460,Node.Js
+461,Nonlinear Dimensionality Reduction
+462,Nonlinear Regression
+463,Numerical Linear Algebra
+464,Nursing Interventions Classification
+465,Object Oriented CSS
+466,Object Pascal
+467,Object-Oriented JavaScript
+468,OpenCV
+469,Operational Excellence
+470,Oracle Business Intelligence Enterprise Edition
+471,Oracle Cloud
+472,Oracle Databases
+473,Oracle E-Business Suite
+474,Oracle Essbase
+475,Oracle Exadata
+476,Oracle Fusion Middleware
+477,Oracle Hyperion
+478,Oracle Linux
+479,Oracle SQL Developer
+480,Oracle WebLogic Server
+481,Ordinary Least Squares (Regression Analysis)
+482,Org.json
+483,PCRE - Perl Compatible Regular Expressions
+484,PHP (Scripting Language)
+485,PHP Development
+486,PHPMyAdmin
+487,PL/SQL
+488,Package.json
+489,Panda3D
+490,PandaBoard
+491,Pandas (Python Package)
+492,Pascal (Programming Language)
+493,Perl (Programming Language)
+494,Perl Object Environments
+495,Perl Regular Expressions
+496,Perl5
+497,Perl6
+498,Perlbal
+499,Php 7
+500,PhpStorm
+501,Phpbb
+502,Phpbb3
+503,Phpspec
+504,Phpunit
+505,Physical Restraint
+506,Pigging
+507,Piggyback (Transportation)
+508,Planned Giving
+509,Plotly
+510,Plsqldeveloper
+511,Pneumatic Valve Springs
+512,Point Of Sale
+513,PostgreSQL
+514,Power BI
+515,Power Distribution
+516,PowerPoint Animation
+517,Predictive Modeling
+518,Preparing Executive Summaries
+519,Product Quality (QA/QC)
+520,Public Cloud
+521,PyTorch (Machine Learning Library)
+522,Pyspark
+523,Python (Programming Language)
+524,Python Imaging Libraries
+525,Python Server Pages
+526,Python Tools For Visual Studio
+527,Qlik Sense (Data Analytics Software)
+528,QlikView (Data Analytics Software)
+529,Quadrature Amplitude Modulation (QAM)
+530,Qualitative Data Analysis
+531,Qualitative Data Analysis Software
+532,Quantitative Data Analysis
+533,Quantum GIS (QGIS)
+534,Quantum Scalar Servers
+535,R (Programming Language)
+536,RESTful API
+537,Raima Database Management
+538,Ramaze (Free Software Programmed In Ruby)
+539,Random Forest Algorithm
+540,React.js
+541,Recommender Systems
+542,Reconciliation
+543,Recurrent Neural Network (RNN)
+544,Red Hat Enterprise Linux
+545,Red Hat Linux
+546,Regression Analysis
+547,Regression Testing
+548,Rehabilitation
+549,Reinforced Concrete
+550,Reinforced Masonry Building
+551,Reinforcement
+552,Reinforcement Learning
+553,Relational Database Management Systems
+554,Responsive HTML
+555,Restaurant Management
+556,Restaurant Operation
+557,Restocking Shelves
+558,Restructuring (Business)
+559,Ridge/LASSO Regressions
+560,Risk Factor
+561,Risk Management
+562,Rooting (Android OS)
+563,Ruby (Programming Language)
+564,Ruby On Rails
+565,Ruby Version Management
+566,RubyCocoa
+567,RubyGems
+568,RubyMine
+569,Rubylith
+570,SAP ABAP
+571,SAP Applications
+572,SAP Business Suite
+573,SAP Concur (Travel And Invoice Software)
+574,SAP ERP
+575,SAP FI/CO
+576,SAP Frontend
+577,SAP Functional
+578,SAP HANA
+579,SAP Knowledge Warehouse
+580,SAP NetWeaver Business Warehouse
+581,SAS (Software)
+582,SAS Scalable Performance Data Servers
+583,SIMATIC WinCC (SCADA System)
+584,SPSS (Statistical Software)
+585,SPSS Modeler
+586,SQL (Programming Language)
+587,SQL Azure
+588,SQL Server Analysis Services
+589,SQL Server Integration Services (SSIS)
+590,SQL Server Reporting Services
+591,Safe Restraining Techniques (Veterinary)
+592,Safety Standards
+593,Safety Training
+594,Sales Excellence
+595,Sales Management
+596,Sales Process
+597,Salesforce Communities
+598,Salesforce Object Query Language (SOQL)
+599,Salesforce Object Search Language (SOSL)
+600,Salesforce Social Studio
+601,Salesforce.Com
+602,Sampling (Statistics)
+603,Scala (Programming Language)
+604,Scalability
+605,Scalability Testing
+606,Scalable Vector Graphics
+607,Scalable Video Coding
+608,Scalar Field
+609,Scalatest
+610,Scheme (Programming Language)
+611,Scheme 48
+612,Scikit-learn (Machine Learning Library)
+613,Scratch Live
+614,Scratch Space
+615,Scratchboard
+616,Scratchbox
+617,Scratchpad
+618,Scrum (Software Development)
+619,Secure Shell
+620,Security Awareness
+621,Semantic HTML
+622,Sexual Harassment Awareness
+623,Shell Script
+624,Shellcode
+625,Simple Linear Regression
+626,Sisense
+627,Sitemaps (XML)
+628,Smart Factory
+629,Socket.io
+630,Software Development
+631,Software Development Engineer in Test
+632,Software Development Life Cycle
+633,Software Development Methodologies
+634,Software Engineering
+635,Software Engineering 2004
+636,Software Engineering Process
+637,Software Factory
+638,Sound Reinforcement Systems
+639,SpaCy (NLP Software)
+640,Spark Framework
+641,Spark Plasma Sintering
+642,Spark Plug
+643,Spark Streaming
+644,Spark Testing
+645,Sparklines
+646,Sparkr
+647,Splunk
+648,Spring Boot
+649,Spring Framework
+650,Spring Security
+651,Spring.net
+652,Spring4d
+653,SpringSource
+654,Springboard
+655,Springfox
+656,Stata
+657,Static HTML
+658,Statistical Hypothesis Testing
+659,Statistical Inference
+660,Statistical Methods
+661,Statistical Modeling
+662,Statistical Packages
+663,Statistical Process Controls
+664,Statistical Softwares
+665,Statistics
+666,Steel Bank Common Lisp
+667,Strategy Execution
+668,Stuttgart Neural Network Simulator (SNNS)
+669,Supervisory Control And Data Acquisition (SCADA)
+670,Support Vector Machine
+671,Survey Data Analysis
+672,Swift (Programming Language)
+673,Swift 3D
+674,Swift Data
+675,TC Shell (Unix)
+676,Tableau (Business Intelligence Software)
+677,Tensorflow
+678,Teradata SQL
+679,Test Execution Engine
+680,Theano (Software)
+681,Traffic Generation Models
+682,Transact-SQL
+683,Translation Memory EXchange (XML Spec)
+684,Tru64 Unix
+685,Turbo Pascal
+686,UCSD Pascal
+687,Unified Modeling Languages
+688,Unix
+689,Unix Commands
+690,Unix File Systems
+691,Unix Security
+692,Unix Shell
+693,Unix System Services
+694,Unix Tools
+695,Unobtrusive JavaScript
+696,VBScript (Visual Basic Scripting Edition)
+697,VMWare Workspace ONE
+698,VMware Certified Associate
+699,VMware ESX Servers
+700,VMware Horizon View
+701,VMware Infrastructure
+702,VMware Servers
+703,VMware ThinApp
+704,VMware VSphere
+705,VMware Virtualization
+706,VMware Workstation
+707,Virtual Private Networks (VPN)
+708,Vissim (Mathematical Modeling)
+709,Visual Acuity
+710,Visual Basic (Programming Language)
+711,Visual Basic .NET (Programming Language)
+712,Visual Basic Extension
+713,Visual Basic For Applications
+714,Visual C++ (Programming Language)
+715,Visual Design
+716,Visual Merchandising
+717,Visualforce
+718,Vue.js
+719,WATerloo FORTRAN IV (WATFIV)
+720,Water Distribution
+721,Water Regulations Advisory Scheme
+722,Wide Area Networks
+723,Window Treatments
+724,Windows API
+725,Windows Communication Foundation
+726,Windows Desktop
+727,Windows Forms
+728,Windows Meeting Space
+729,Windows PowerShell
+730,Windows Presentation Foundation
+731,Windows Servers
+732,Windows Shell
+733,Windows Software Trace Preprocessor
+734,Windows Vista
+735,Wolfram Mathematica
+736,Word VBA
+737,XML Editor
+738,XML Schema
+739,XML-RPC
+740,XMLSpy
+741,XMLhttprequest
+742,Xamarin.android
+743,Yii PHP Framework
+744,Z Shell
