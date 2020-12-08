@@ -39,3 +39,12 @@ def get_emsi_skills(query, access_token, limit=10, soft_skills=False, certificat
     headers = {'authorization': 'Bearer {}'.format(access_token)}
     response = requests.request("GET", url, headers=headers, params=querystring)
     return response.json()['data']
+
+
+# Extract skills from text
+def extract_skills(text, access_token, confidence_threshold=0.6):
+    url = "https://emsiservices.com/skills/versions/latest/extract"
+    payload = {"text": text, "confidenceThreshold": confidence_threshold}
+    headers = {'authorization': 'Bearer {}'.format(access_token), 'content-type': 'text/plain'}
+    response = requests.request("POST", url, data=payload, headers=headers)
+    return response.json()['data']
