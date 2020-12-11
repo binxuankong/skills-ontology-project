@@ -1,0 +1,2635 @@
+,Skill
+0,HyperText Markup Language (HTML)
+1,HTML5
+2,Dynamic HTML
+3,Semantic HTML
+4,Character Encodings In HTML
+5,Responsive HTML
+6,HTML Abstraction Markup Language
+7,HTML Document Object Models
+8,Static HTML
+9,HTML Formatting
+10,Remote Desktop Protocol (RDP)
+11,Microsoft Operating Systems
+12,Microsoft Windows SDK
+13,Microsoft Windows CE
+14,Microsoft Windows ME
+15,Microsoft Windows NT WorkStation
+16,Microsoft Windows XP Desktop Administration
+18,Architecture Of Windows NT
+19,Collaboration Data Objects For Windows NT Servers
+20,R (Programming Language)
+21,Oracle WebLogic Server
+22,Weblogic12c
+23,Weblogic11g
+24,Bea Weblogic Application Server 8.1
+25,Microsoft SQL Servers
+26,SQL Server Reporting Services
+27,SQL Server Integration Services (SSIS)
+28,SQL Server Analysis Services
+29,SQL Server Management Studio
+30,SQL Server Agent
+31,SQL Server Express
+32,SQL Server Master Data Services
+33,Microsoft SQL Server Data Engine (MSDE)
+34,SQL Server Compact
+35,Embedded SQL
+36,SQL (Programming Language)
+38,PL/SQL
+39,Transact-SQL
+41,Teradata SQL
+43,Oracle SQL Developer
+44,Data Capture (SQL)
+46,Relational Databases
+47,Database Administration
+48,Oracle Databases
+49,Database Systems
+50,Database Design
+51,Relational Database Management Systems
+52,Database Application
+53,Database Management Systems
+54,Database Development
+55,Operational Databases
+57,Extensible HyperText Markup Language (XHTML)
+58,XHTML Mobile Profiles
+59,FirstPage
+60,HTML Editor
+61,Macromedia HomeSite (HTML Editor)
+62,CoffeeCup HTML Editor
+63,JavaScript (Programming Language)
+64,JavaScript Frameworks
+65,JavaScript Libraries
+66,Jasmine (JavaScript Testing Framework)
+67,Object-Oriented JavaScript
+68,Javascript Build
+69,Asynchronous Javascript
+70,Unobtrusive JavaScript
+71,Javascript Engine
+72,Javascriptcore
+74,HTML5shiv
+75,Algorithms
+76,Machine Learning Algorithms
+77,Algorithm Design
+78,Random Forest Algorithm
+79,Treatment Algorithms
+80,SLAM Algorithms (Simultaneous Localization And Mapping)
+81,Search Algorithms
+82,Analysis Of Algorithms
+83,Algorithmic Trading
+84,Graph Algorithms
+85,Memory Management
+86,Non-Volatile Memory
+87,Random-Access Memory
+88,Translation Memory EXchange (XML Spec)
+89,Virtual Memory
+90,Memory Systems
+91,Shared Memory
+92,Flash Memory
+93,Long Short-Term Memory (LSTM)
+94,In-Memory Database
+95,Computer Programming
+96,Profiling (Computer Programming)
+99,Data Structures
+100,Persistent Data Structure
+101,Data Structure Alignment
+102,Data-Structured Language
+103,Array Data Structures
+104,Sprite (Computer Graphics Data Structures)
+105,Object-Oriented Programming (OOP)
+106,Object Oriented Programming Language
+107,Object Oriented Programming And Systems
+108,Blitz BASIC (Object-Oriented Programming Language)
+109,Object-Oriented Software Engineering (Object-Oriented Programming)
+111,Translation Memory Managers
+112,Paging (Memory Management)
+113,DOS Memory Management
+114,Expanded Memory Manager
+115,Memory Pool (Memory Management)
+116,Memory Management Unit (Virtual Memory)
+117,Abstract Data Types
+118,C Data Types (C Programming Language)
+119,Binary Trees
+120,Binary Search Trees
+121,Binary Search Algorithms
+123,AVL Tree
+125,Graphic Design
+126,Graphical User Interface
+127,GraphQL
+128,Motion Graphic Design
+129,Graphic Communication
+130,Computer Graphics
+131,Graphite (Software)
+132,Graphing
+133,Autodesk 3DS Max (3D Graphics Software)
+134,Graph Database
+135,Spanning Tree Protocols
+136,Rectilinear Minimum Spanning Trees
+137,Cryptographic Hash Functions
+138,Secure Hash Algorithm
+139,Hash Table
+140,Shortest Path Problem
+141,3D Computer Graphics
+142,3D Computer Graphics Software
+146,2D Computer Graphics
+147,Real-Time Computer Graphics
+149,Virtual Reality
+150,Virtual Reality Scene Generators
+151,Virtual Reality Modeling Language
+152,Virtual-Reality Peripheral Network (VRPN)
+153,Customer Interaction Management
+154,Interaction Design
+155,Human-Computer Interaction
+156,Drug Interaction
+157,Computer Aided Three-Dimensional Interactive Application (CATIA)
+158,Interactive Voice Response
+159,Interactive Media
+160,Interactive Learning
+161,Interactive Marketing
+162,Interactive Communications
+163,Excel Pivot Tables And Charts
+164,Organizational Charts
+165,Flow Process Chart
+166,Project Charter
+167,Control Chart
+168,Burn Down Charts
+169,Association Of Chartered Certified Accountants
+170,Chart Abstraction
+171,Gantt Charts
+172,Chart.js
+173,Cloud Computing
+174,Cloud Computing Security
+175,Cloud Computing Architecture
+176,IBM Cloud Computing
+177,Open Cloud Computing Interface
+178,EMC Cloud Computing
+179,Web Servers
+180,Web Server Gateway Interface
+181,IPlant Web Server
+182,Zeus Web Server
+183,Microsoft Personal Web Servers
+184,Image Processing
+185,Digital Image Processing
+186,Medical Image Processing Analysis And Visualization (MIPAV)
+187,Virtual Private Servers
+188,Backup Devices
+189,Backup And Restore
+190,Symantec Backup Exec
+191,Remote Backup Services
+192,Ghost (Backup Software)
+193,Backup Tools (Backup Software)
+194,Backup Replication
+195,Incremental Backup
+196,Virtual Backup
+197,Backup Agent
+198,Web Hosting Services
+199,Shared Web Hosting Services
+200,Data Security
+201,PCI Data Security Standards
+202,Business Requirements
+203,Virtual Private Networks (VPN)
+204,Private Networks
+205,Dynamic Multipoint Virtual Private Networks
+206,Mobile Virtual Private Networks
+207,Private Network-To-Network Interface
+208,Digital Private Network Signalling Systems
+209,Cisco Secure Virtual Private Network
+210,AEP Netilla Secure Remote Access (Virtual Private Networks)
+211,Wireless Network Interface Controllers
+212,Encryption
+213,Advanced Encryption Standard (AES)
+214,BitLocker Drive Encryption
+215,Encryption Software
+216,Database Encryption
+217,High Assurance Internet Protocols Encryptor
+218,XML Encryption
+219,Data Encryption Standard
+220,Encrypting File Systems
+221,Filesystem-Level Encryption
+222,Performance Appraisal
+223,Performance Management
+224,Key Performance Indicators (KPIs)
+225,Performance Improvement
+226,Performance Review
+227,Performance Metric
+228,Performance Tuning
+229,Employee Performance Management
+230,Performance Reporting
+231,Business Performance Management
+232,Network Switches
+233,Circuit Switches
+234,In-Plane Switching (IPS)
+235,Multiprotocol Label Switching
+236,Switchgear
+237,Switchboard Operator
+238,Switch (Electrical Components)
+239,Limit Switch
+240,Cisco Nexus Switches
+241,LAN Switching
+242,Wi-Fi Protected Access
+243,Security Policies
+244,Cyber Security
+245,Securities (Finance)
+246,Network Security
+247,Social Security
+248,Security Systems
+249,Security Controls
+250,Security Requirements Analysis
+251,Physical Security
+253,Indexing
+254,Indexer
+255,Indexed Sequential Access Method (ISAM)
+256,Enterprise Master Patient Index
+257,Refractive Index
+258,Database Indexes
+259,Indexeddb
+260,Indexing Head
+261,Latent Semantic Indexing
+262,Secondary Indexes
+263,Amazon Web Services
+264,Web Services
+265,Angular (Web Framework)
+266,Web Applications
+267,Web Development
+268,Web Design
+269,Web Navigation
+270,Responsive Web Design
+272,Web Analytics
+273,Risk Management
+274,Risk Analysis
+275,Risk Mitigation
+276,Credit Risk
+277,Project Risk Management
+278,Operational Risk
+279,Risk Management Framework
+280,Risk Appetite
+281,Risk-Based Testing
+282,Business Risk Management
+283,Arduino
+284,Internet Protocols Suite
+285,Internet Protocol Telephony
+286,Internet Protocol Security (IP SEC)
+287,Internet Protocols
+288,Virtual Internet Protocol Address
+289,Connect-Direct (Internet Protocols Based Network Software)
+291,Internet Protocol Essentials
+292,Internet Protocols Control Protocols
+293,Internet Protocols Detail Record
+294,Operating Systems
+295,Operational Systems
+296,Solaris (Operating System)
+298,Ubuntu (Operating System)
+299,Real-Time Operating Systems
+300,Network Operating System (NOS)
+301,Robot Operating Systems
+302,Convergent Technologies Operating Systems
+303,Embedded Operating Systems
+304,PIC Microcontroller
+305,PIC Microcontrollers
+306,Advanced Microcontroller Bus Architecture
+307,AT91SAM (Microcontrollers)
+308,Communications Protocols
+309,Web Cache Communication Protocols
+310,Cellular Data Communication Protocols
+311,Desktop COmmunication Protocol (DCOP)
+312,Space Communications Protocol Specifications (Space Standards)
+313,Wireshark
+314,Internet Of Things (IoT)
+315,Industrial Internet of Things (IIoT)
+316,Azure Internet of Things (IoT)
+317,Systems Design
+318,Electrical System Design
+319,PC System Design Guide
+322,Internet Services
+325,Internet Marketing
+327,Internet Information Services
+328,Internetworking
+329,Internet Security
+330,Portfolio Management
+331,Project Portfolio Management
+332,Health Insurance Portability And Accountability Act (HIPAA) Compliance
+333,Web Portals
+334,Application Portfolio Management
+335,Portfolio Analysis
+336,Design Portfolio
+337,Portfolio Optimization
+338,Portlet
+339,Enterprise Portal
+340,C (Programming Language)
+341,Objective-C (Programming Language)
+342,ECMAScript (C Programming Language Family)
+343,MISRA C (C Programming Language)
+344,GNU Cflow (C Programming Language)
+346,Debugging
+347,GNU Debuggers
+348,Android Debug Bridge
+349,Data Display Debuggers
+350,Kernel Debuggers
+351,Background Debug Mode
+352,Remote Debugging
+353,Script Debuggers
+354,Microsoft Visual Studio Debuggers
+355,IIS Debugging
+356,Multichannel Buffered Serial Port
+357,Serial Port
+359,Java (Programming Language)
+360,Python (Programming Language)
+363,C# (Programming Language)
+364,C++ (Programming Language)
+365,Speech-Language Pathology
+366,Language Translation
+368,File Systems
+369,Network File Systems
+370,Hadoop Distributed File System (HDFS)
+371,Distributed File Systems
+372,Coherent Remote File System (CRFS)
+373,File System Permissions
+374,NT File System (NTFS)
+375,Electronic Filing System
+376,Journaling File Systems
+377,General Parallel File Systems
+378,Application Programming Interface (API)
+379,User Interface
+380,User Interface Design
+381,Command-Line Interface
+383,Human Machine Interfaces
+384,Interface Design
+385,Data Interfaces
+386,Serial Peripheral Interface
+387,Network Interface Controllers
+388,Raspberry Pi
+390,Mathematical Optimization
+391,Business Mathematics
+392,Advanced Mathematics
+393,Mathematics Education
+394,Applied Mathematics
+395,General Mathematics
+396,Mathematical Modeling
+397,Mathematical Sciences
+398,Mathematical Finance
+399,Wolfram Mathematica
+400,Microsoft Visual Studio
+402,Visual Basic (Programming Language)
+403,Programmable Logic Controllers
+404,Business Logic
+405,Ladder Logic
+406,Logic Analyzer
+407,Logical Reasoning
+408,Relay Logic
+409,Logic Synthesis
+410,Logical Data Models
+411,Digital Logic
+412,Programmable Logic Controller Control Panel
+413,JPEG 2000
+414,Motion JPEG
+415,Software Engineering
+416,Front End (Software Engineering)
+417,Full Stack Software Engineering
+418,Software Engineering Process
+419,Computer-Aided Software Engineering
+420,Software Engineering 2004
+421,Model-Driven Software Engineering
+422,Experimental Software Engineering
+423,Component-Based Software Engineering
+424,FourGen Computer-Aided Software Engineering (CASE) Tools
+425,SQLite
+426,Software Testing
+427,Software Testing Automation Framework
+428,Oracle Application Testing Suite (Software Testing Tools)
+429,Test-Driven Development (TDD)
+430,Acceptance Test-Driven Development
+431,Programming Tools
+432,Automatically Programmed Tool
+433,Dbxpert (SQL Programming Tool)
+434,Mobile Robot Programming Toolkit
+435,Software Development
+437,Scrum (Software Development)
+438,Software as a Service (SaaS)
+439,SAS (Software)
+440,Software Systems
+441,Docker (Software)
+443,Software Development Life Cycle
+444,Tableau (Business Intelligence Software)
+445,Object-Relational Mapping
+446,Mapping
+447,MapReduce
+448,Business Process Mapping
+449,Data Mapping
+451,Value Stream Mapping
+452,Scale (Map)
+453,Site Maps
+454,Google Maps
+455,GIS Mapping
+456,SQLAlchemy
+457,Object-Relational Database
+458,Kubernetes
+459,Google Kubernetes Engine (GKE)
+460,Azure Kubernetes Service
+461,Google App Engines
+462,Google Cloud Platform (GCP)
+464,Cloud Platform System
+465,Xen Cloud Platform
+466,DevOps
+467,Azure DevOps
+468,Operating System Level Virtualization
+469,Load Balancing
+470,Network Load Balancing
+471,Gateway Load Balancing Protocols
+472,Global Server Load Balancing
+473,Elastic Load Balancer
+474,Network Load Balancing Services
+476,AWS CLI (Command Line Interface)
+477,HP Command Line Interface (CLI)
+478,CA Workload Automation Ae
+479,IBM Workload Manager For Z/OS (WLM/SRM)
+480,IBM Tivoli Workload Scheduler
+481,Apache Hypertext Transfer Protocol Server
+482,Secure Hypertext Transfer Protocols
+483,BigQuery
+484,Identity Management Systems
+485,Federated Identity Management
+486,Microsoft Forefront Identity Manager
+487,NetIQ Identity Manager
+488,Tivoli Identity Manager
+489,Online Identity Management
+490,SCIM- System For Cross-Domain Identity Management
+491,Role-Based Access Control (RBAC)
+492,Cloud Storage
+493,BigTable Implementations
+494,Java Persistence API
+496,Container-Managed Persistence
+497,Persistent Storage
+498,Persistence Framework
+499,Persistent Memory
+500,Java Persistence Query Language
+501,Persistent M Llerian Duct Syndrome
+502,Persistent Shared Object Models
+503,Persistent Bioaccumulative And Toxic (PBT)
+504,Roundcube
+505,Round-Robin DNS
+506,Clinical Rounds
+507,Multidisciplinary Rounds
+508,Deficit Round Robin
+509,Topology
+510,Network Topology
+511,Topology Optimization
+512,Physical Topology
+513,Internet Topology
+514,Evolutionary Acquisition Of Neural Topologies
+515,Link Layer Topology Discovery
+516,Test Execution Engine
+517,Execute Plans
+518,Executive Search
+519,Preparing Executive Summaries
+520,Executive Information Systems
+521,Strategy Execution
+522,Manufacturing Execution System (MES)
+523,Executive Sponsor
+524,Executive Coaching
+525,Business Process Execution Language
+526,Data Compilation
+527,Compilers
+528,Optimizing Compilers
+529,Low Level Virtual Machine (Free Compilers And Interpreters)
+530,Compiler Design
+531,Compiler Developments
+532,Financial Statement Compilation
+533,GNU Compiler Collection
+534,Cross Compiling
+535,Compiler Construction
+536,Access Controls
+537,Network Access Control
+538,Access Control List
+540,Terminal Access Controller Access-Control System (TACACS)
+541,LenelS2 (Access Control System)
+542,IBM Resource Access Control Facility
+543,Access Control Facility
+544,Electronic Access Control
+545,Media Access Controls
+546,Solution Architecture
+547,Service-Oriented Architecture
+548,Systems Architecture
+549,Software Architecture
+550,Enterprise Architecture
+551,Data Architecture
+552,Applications Architecture
+553,Architectural Drawing
+554,Architecture Design And Assessment Systems
+555,Network Architecture
+556,Display Devices
+557,Service Provisioning
+558,User Provisioning
+559,Network Provisioning
+560,Service Provisioning Markup Languages
+561,Thin Provisioning
+562,Operations Administration Maintenance And Provisioning (OAMP)
+563,Provisional Qms Auditor
+564,BMC User Administration And Provisioning
+565,Over-The-Air Service Provisioning
+566,Control And Provisioning Of Wireless Access Points (CAPWAP)
+567,Telephone Numbering Plans
+568,Telephone Numbering Planning
+569,Network Troubleshooting
+570,Authentications
+571,AAA Server (Authentication Authorization And Accounting)
+572,Multi-Factor Authentication
+573,Pluggable Authentication Module (PAM)
+574,Remote Authentication Dial In User Service (RADIUS)
+575,Authentication Protocols
+576,Extensible Authentication Protocol
+577,Integrated Windows Authentication
+578,Basic Access Authentication
+579,Authentication Servers
+581,Enterprise Distributed Object Computing (Unified Modeling Language)
+582,Object Constraint Language
+583,Object Code
+585,YAML
+586,Email Marketing
+587,Email Management
+588,Email Filtering
+589,Mass Emails
+590,Email Production
+591,Email Migration
+592,Outlook Web App (Email Clients)
+593,Email Archiving
+594,Email Processing
+595,Vero Data-Driven Email Marketing Software
+596,Credential Providers
+597,Credential Manager
+598,Educational Credential Assessment
+599,Throughput
+600,High Throughput Screening
+601,Rolled Throughput Yield
+602,Measuring Network Throughput
+603,High Throughput File Systems
+604,Vim (Text Editor)
+605,Scientific WorkPlace (Text Editor)
+606,Text Editor
+607,ActiveState Komodo (Unix Text Editors)
+608,GWD Text Editor
+609,SemWare Editor (DOS Text Editors)
+610,TextWrangler (Mac OS Text Editors)
+611,BBEdit Lite (Mac OS Text Editors)
+612,Interrupt Handling
+613,Microsoft Azure
+614,Cloud Foundry
+615,HP OpenView
+616,SAP NetWeaver Business Warehouse
+617,SAP NetWeaver
+618,SAP NetWeaver Process Integration
+619,SAP NetWeaver Data Management
+620,SAP NetWeaver Application Servers
+621,SAP NetWeaver Visual Composer
+622,SAP NetWeaver Portals
+623,SAP NetWeaver Development Infrastructure
+624,SAP XMII (SAP NetWeaver)
+626,Sybase (Software)
+627,SAP Sybase Adaptive Server Enterprise
+628,Sybase IQ
+629,SAP Sybase SQL
+630,Sybase PowerDesigner
+631,SAP Sybase SQL Anywhere
+632,Sybase Unwired Platform
+633,Sybase IAnywhere
+634,Sybase PowerAMC
+635,Sybase RAP
+636,IBM Websphere Application Server
+637,IBM WebSphere MQ
+638,IBM WebSphere DataPower SOA Appliances
+639,IBM WebSphere Portal
+640,IBM WebSphere Message Broker
+641,IBM WebSphere Process Server
+642,IBM Websphere ESB
+643,IBM Websphere Integration Developer
+644,IBM WebSphere Adapters
+645,IBM WebSphere Portlet Factory
+646,Citrix XenApp
+647,Synapse Citrix
+648,Citrix Workspace
+649,Citrix WinFrame
+650,Citrix Systems
+651,Cryptocurrency
+652,Cryptography
+653,Public Key Cryptography
+654,Public Key Cryptography Standards (PKCS)
+655,Quantum Cryptography
+656,Java Cryptography Extension
+657,Java Cryptography Architecture
+658,Elliptic Curve Cryptography
+659,Visual Cryptography
+660,Blockchain
+661,Ethereum
+664,Access Modifiers
+665,SolidWorks (CAD)
+666,Solid Modeling
+667,Solid State Drive
+668,Solid Principles
+669,Solid Edge
+670,Solid Mechanics
+671,Solid-State Drives
+672,Solid-Phase Extraction
+673,Solids Control
+674,3d Solid And Surface Modeling
+676,Internet Server Application Programming Interface
+677,Performance Application Programming Interface
+678,Telephony Application Programming Interface
+679,Messaging Application Programming Interface
+680,Netscape Server Application Programming Interface
+681,Common ISDN Application Programming Interface (CAPI)
+682,Integrated Database Application Program Interface (IDAPI)
+683,Emulator High-Level Language Application Program Interface (EHLLAPI)
+684,Peer-To-Peer
+685,Short Message Peer-To-Peer
+686,Peer To Peer Remote Copy
+687,IBM Advanced Peer-To-Peer Networking
+688,Usability
+689,Usability Testing
+690,Web Usability
+691,Mobile Application Development
+692,Web Application Development
+693,Rapid Application Development
+694,IBM Rational Application Developer
+695,Oracle Application Development Framework
+696,Application Development Languages
+697,Application Development System Online (ADSO)
+698,Sun Certified Mobile Application Developer
+699,Scalability
+700,Scalability Testing
+701,Scalable Vector Graphics
+702,SAS Scalable Performance Data Servers
+703,Scalable Video Coding
+704,IBM Scalable Architecture For Financial Reporting
+705,Scalable Inman Flash Replacement
+706,Scalable Transmission Control Protocol
+707,Scalable Urban Traffic Controls
+711,User Interface Testing
+712,Cursor (Graphical User Interface Elements)
+713,Yahoo! User Interface Library (YUI)
+714,Graphical User Interface Testing
+715,Voice User Interface
+716,Conversational User Interface
+717,User Interface Specification
+718,Game Programming
+719,Java Annotation
+720,Video Game Development
+721,Console Applications
+722,Iterative And Incremental Development
+723,Iterative Design
+724,Iterative Method
+725,Iterator Patterns
+726,Iterators
+727,Iterm
+728,Iterative Reconstruction
+729,Class Hierarchy
+730,Exception Handling
+731,Software Design Patterns
+732,Distributed Design Patterns
+733,Composite Patterns(Software Design Patterns)
+734,Linked Lists
+735,Minimax
+736,Syntax
+737,Abstract Syntax Tree
+738,Java Syntax
+739,C Sharp Syntax
+740,Abstract Syntax Notation One
+741,PHP Syntax And Semantics
+742,Carefully Controlled Alternative PHP Syntax (CCAPS)
+743,Field-Programmable Gate Array (FPGA)
+744,Disk Arrays
+745,Gate Arrays
+746,Array Formulas
+747,Video Graphics Array
+748,Disk Array Controllers
+749,Focal Plane Array
+750,Arraignments
+752,Array Comparative Genomic Hybridization (ACGH)
+754,Visual C++ (Programming Language)
+755,C++ Server Pages
+756,Boost (C++ Libraries)
+757,Embedded C++
+758,Microsoft Foundation Class Library (C++ Libraries)
+759,C++14
+760,J2C - Java To C++ Converter
+761,C++/CLI
+762,C++ Concepts
+763,Windows Software Trace Preprocessor
+764,C Preprocessor
+765,Preprocessor
+766,Structured Programming
+767,Graph Theory
+768,Lambda Calculus
+776,Standard Template Library (STL)
+777,Standard Template Libraries
+778,Abstractions
+779,Data Abstraction
+781,Abstraction Layers
+782,Abstract Management
+784,Geospatial Data Abstraction Library (GDAL)
+785,Hardware Abstraction
+786,Abstract Factory Pattern
+787,Abstract Class
+788,Business Process
+789,Sales Process
+790,Process Improvements
+791,Continuous Improvement Process
+792,Nursing Process
+793,Manufacturing Processes
+794,Payroll Processing
+795,Engineering Design Process
+796,Production Process
+797,Data Processing
+798,LU Decomposition
+799,Simulations
+800,Simulink
+801,Computer Simulation
+802,Simulation Software
+803,Medical Simulation
+804,SPICE (Simulation Tool)
+805,Electronic Circuit Simulation
+806,Process Simulation
+808,Water Quality Analysis Simulation Program
+809,Data Analysis
+810,Financial Analysis
+812,Root Cause Analysis
+813,Business Analysis
+814,Systems Analysis
+815,Requirements Analysis
+817,Needs Analysis
+818,Variance Analysis
+819,Parallel Computing
+820,QCD Parallel Computing On The Cell Broadband Engine (QPACE)
+824,Consumer Database Management System
+825,Multidimensional Database Management Systems
+826,Active Database Management Systems
+827,Distributed Database Management System (DDBMS)
+828,Database Normalization
+829,Data Modeling
+830,Business Model
+831,Financial Modeling
+832,Model View Controller
+833,3D Modeling
+834,Predictive Modeling
+835,Statistical Modeling
+836,Unified Modeling Languages
+837,Business Process Modeling
+838,Building Information Modeling
+840,Erwin (Data Modeling Software)
+842,Toad Data Modeler
+843,Core Architecture Data Model
+844,Object-Oriented Data Model For Database Modelling
+845,Joint Consultation Command And Control Information Exchange Data Model (JC3IEDM)
+846,MySQL
+847,Mysql5
+848,MySQL Workbench
+849,MySQLi
+850,Mysqlimport
+851,Mysql++
+852,Mysql2
+853,Mysqladmin
+854,Mysqlbinlog
+855,Entity Relationship Models
+856,Tensorflow
+857,Keras (Neural Network Library)
+858,Keratin Smoothing
+859,Deep Learning
+860,Convolutional Neural Networks
+861,Computer Vision
+862,Artificial Neural Networks
+863,Machine Learning
+865,Scikit-learn (Machine Learning Library)
+866,PyTorch (Machine Learning Library)
+867,Automated Machine Learning
+868,Adversarial Machine Learning
+869,CatBoost (Machine Learning Library)
+870,Machine Learning For Personalized Medicine
+872,Authorization (Computing)
+873,Financial Industry Regulatory Authorities
+875,Delegated Authority
+876,Return Merchandise Authorization
+877,Prior Authorization
+878,Assessment And Authorization
+879,Return Goods Authorization Process
+880,Transit Authorization
+881,Authoring Software
+882,OAuth
+883,JSON Web Token (JWT)
+884,JSON
+886,JSON With Padding (JSONP)
+887,JSON Web Signature (JWS)
+888,JSON-RPC Protocol
+889,Json.net
+890,Package.json
+891,Jsonkit
+892,Jsonpath
+893,Org.json
+894,Java KeyStore (JKS)
+895,Arbitration
+896,Arbitrage
+897,Statistical Arbitrage
+898,Arbitrage Pricing Theories
+899,Convertible Arbitrage
+900,Volatility Arbitrage
+901,Arbitration Act
+902,Fixed Income Arbitrage
+903,Triangular Arbitrage
+904,Arbitrated Loop
+905,Product Strategies
+906,Extensible Markup Language (XML)
+907,Extensible Stylesheet Language Transformations (XSLT)
+908,Extensible Stylesheet Language (XSL)
+910,VxLAN (Virtual Extensible LAN)
+911,Extensible Application Markup Language
+912,XBRL (Extensible Business Reporting Language)
+913,Java Management Extensions
+915,Domain Name System Security Extensions
+916,Advanced Traffic Management Systems
+917,Advanced Air Traffic Management Systems
+918,Analytics
+919,Analytical Thinking
+920,Google Analytics
+921,Business Analytics
+922,Analytical Techniques
+924,Predictive Analytics
+925,Adobe Analytics
+926,Marketing Analytics
+927,Analytical Chemistry
+930,Open Web Application Security
+931,Web Application Frameworks
+932,Web Application Security
+933,Web Application Description Language (WADL)
+934,Web Application Attack And Audit Framework (W3AF)
+935,GIAC Web Application Security
+936,Google Storage
+938,Stack Trace
+939,Dataflow
+940,Dataflow Architecture
+941,Financial Business Solution
+942,Cloud Infrastructure
+943,Cloud Infrastructure Management Interface (CIMI)
+944,Cloud Applications
+945,Adobe Marketing Cloud
+946,Google Cloud Dataproc
+947,Wireless Sensor Networks
+949,Contiki
+950,Protocol Stack
+951,Bluetooth Protocols Stack
+954,Context Switch
+955,Project Schedules
+956,Production Schedule
+957,Audit Schedules
+958,Final Assembly Schedule
+959,Event Scheduling
+960,Job Scheduling (Inventory Management)
+961,Critical Path Method (CPM) Scheduling
+962,Harmonized Tariff Schedule
+963,Block Scheduling
+964,Control-M (Batch Scheduling Software)
+965,FreeRTOS
+966,Mutual Exclusion (Mutex)
+967,Software Requirements Specification
+968,Software Requirements Analysis
+969,Hardware Compatibility (Software Requirements)
+970,Project Management
+971,Project Planning
+973,Microsoft Project
+974,Milestones (Project Management)
+975,Project Implementation
+976,Project Scoping
+977,Project Coordination
+978,Project Engineering
+981,Software Design
+982,Software Design Documents
+983,Software Design Description
+985,Verification And Validation
+986,Program Evaluation
+987,Psychological Evaluations
+988,Course Evaluations
+989,Online Surveys (Evaluation Methods)
+990,Job Evaluation
+991,Project Evaluation
+992,Clinical Evaluation
+993,Policy Evaluation
+994,Evaluation Of Care
+995,Supplier Evaluation
+996,Scala (Programming Language)
+997,Hierarchical And Recursive Queries In SQL
+998,Recursive Partitioning
+999,Recursive Descent
+1000,Recursion
+1001,Color Matching
+1002,Impedance Matching
+1003,Pattern Matching
+1004,Match Moving
+1005,Approximate String Matching
+1006,Image Matching
+1007,Template Matching
+1008,Matcher
+1009,Matching Pursuit
+1011,Functional Programming
+1012,Algebraic Logic Functional [Programming Language]
+1013,Revenue Stream
+1014,Streamlining
+1016,Stream Processing
+1017,Spark Streaming
+1018,Data Streaming
+1019,HTTP Live Streaming
+1020,Stream Restoration
+1021,Tabular Data Stream
+1022,Streamlines
+1023,Functional Design
+1024,Unified Parallel C
+1025,Task Parallel Library (.NET Framework)
+1026,Interactive Computing
+1027,Generally Accepted Accounting Principles
+1028,Design Elements And Principles
+1029,Kanban Principles
+1030,Basic Accounting Principles
+1031,Safety Principles
+1032,Statutory Accounting Principles
+1034,Approximation Induction Principle
+1035,Pareto Principle
+1036,Equator Principles
+1038,Semantics
+1039,Semantic Web
+1040,Semantic Search
+1041,Semantic Analysis
+1042,Semantic Parsing
+1043,Semantic Technology
+1045,Semantic Interoperability
+1046,Semantic Web Services
+1047,Social Media Marketing
+1048,Interactive Programming
+1049,Combinatorics
+1050,Combinatorial Optimization
+1051,Combinatorial Design
+1052,Combinatory Logic
+1053,A3 Problem Solving Techniques
+1054,Cooperative Distributed Problem Solving
+1055,Algebra
+1056,Elementary Algebra
+1057,Linear Algebra
+1058,Elementary Matrix (Linear Algebra)
+1059,Basic Linear Algebra Subprograms
+1060,Matrix Algebra
+1061,Numerical Linear Algebra
+1062,Linear Algebra Package (LAPACK)
+1063,Abstract Algebra
+1065,Pseudocode
+1075,Genetic Algorithm
+1076,Dynamic Program Analysis
+1077,Dynamic Programming
+1078,Package Sorting
+1079,Cell Sorting
+1080,Mail Sorter
+1081,Sorting Machines
+1082,Automated Sortation
+1083,Optical Sorting
+1084,Sorting Algorithm
+1085,SortSite
+1086,Sort-Merge
+1087,Sequence Alignment
+1088,Multiple Sequence Alignment
+1090,Computer Science
+1091,Session (Computer Science)
+1092,Computational Science And Engineering
+1093,Prototype (Computer Science)
+1094,Video Game Design
+1095,Electronic System-Level Design And Verification
+1096,Unreal Engine
+1097,Integrated Development Environments
+1098,Aptana Studio (Linux Integrated Development Environments)
+1099,Marketing Collateral
+1100,Collateral Management
+1101,Collateral Development
+1102,Collateral Design
+1103,Collateralized Debt Obligation
+1104,Collateralized Loan Obligation
+1106,Business Process Reengineering
+1108,Business Process Management
+1109,Business Process Improvement
+1110,Business Process Automation
+1112,Business Process Outsourcing
+1113,Dynamic Business Process Management
+1115,Technical Documentation
+1116,Software Documentation
+1117,Project Documentation
+1118,User Requirements Documents
+1119,Document Management Systems
+1120,Market Requirements Documents
+1122,Document Imaging
+1123,Document Object Model
+1124,Electronic Documents
+1125,Scenario Testing
+1126,Child Behavior Checklists
+1127,Extensible Configuration Checklist Description Format
+1128,Automation Anywhere (RPA Software)
+1130,Quantitative Data Analysis
+1131,Financial Data Analysis
+1132,Exploratory Data Analysis
+1133,Qualitative Data Analysis
+1134,Survey Data Analysis
+1135,ATLAS.ti (Qualitative Data Analysis Software)
+1136,Dedoose (Qualitative Data Analysis Software)
+1137,Qualitative Data Analysis Software
+1138,Data Analysis And Display (DADiSP)
+1139,Web Pages
+1140,Dynamic Web Pages
+1141,Preventive Maintenance
+1142,Equipment Maintenance
+1143,Vehicle Maintenance
+1144,Planned Maintenance
+1145,Corrective Maintenance
+1146,Predictive Maintenance
+1147,Aircraft Maintenance
+1148,Property Maintenance
+1149,Computerized Maintenance Management Systems
+1150,Health Maintenance
+1151,Uploadcare
+1152,Strategic Planning
+1153,Treatment Planning
+1154,Business Planning
+1155,Meal Planning and Preparation
+1157,Planogram
+1158,Test Planning
+1159,Discharge Planning
+1160,Enterprise Resource Planning
+1161,Lesson Planning
+1163,Node.Js
+1165,Disaster Recovery
+1166,Disaster Planning
+1167,Disaster Response
+1168,Disaster Recovery Solution
+1169,Disaster Recovery Plan
+1170,Business Continuity And Disaster Recovery
+1171,Disaster Area
+1172,Simplified Disaster Recovery
+1173,Disaster Assessment And Coordination
+1174,Disaster Medicine
+1175,Apache Zookeeper
+1176,Teleprocessing Monitor
+1177,Computer Networks
+1178,Computer Network Defense
+1179,Peering (Computer Networking)
+1180,Computer Network Operations
+1181,Computer Network Technologies
+1182,Attached Resource Computer NETwork (ARCNET)
+1183,Personal Computer Network File Systems
+1186,Independent Computing Architecture
+1187,Calculus
+1188,Integral Calculus
+1189,Stochastic Calculus
+1190,Multivariable Calculus
+1192,Vector Calculus
+1193,Calculus Removal
+1194,Differential Calculus
+1195,Matrix Calculus
+1196,Ito Calculus
+1198,IBM Rational Software Architecture
+1200,Javac - Java Programming Language Compiler
+1201,Unix
+1202,Unix Shell
+1203,Unix Commands
+1204,Nice (Unix Utility)
+1205,Unix Tools
+1206,Unix Security
+1207,TC Shell (Unix)
+1208,Unix File Systems
+1209,Unix System Services
+1210,Tru64 Unix
+1211,Technical Writing
+1212,Writing Systems
+1213,Proposal Writing
+1214,Grant Writing
+1215,Business Writing
+1216,Academic Writing
+1217,Creative Writing
+1218,Medical Writing
+1219,Professional Writing
+1220,Legal Writing
+1221,Test Case
+1222,Function Points
+1233,Entry Point
+1234,Version Control
+1235,Git (Version Control System)
+1236,Version Control Software
+1237,SourceGear Vault (Version Control System)
+1238,Polytron Version Control System (PVCS)
+1239,IBM Configuration Management Version Control
+1240,Quma Version Control System (QVCS)
+1241,Presentation Layer
+1242,Enzyme Substrate
+1243,Substring
+1244,Exponential Smoothing
+1246,Smooth Muscle Tissue
+1247,Data Smoothing
+1248,SmoothWall
+1249,Data Visualization
+1250,Data Dictionary
+1251,Diction
+1252,Monolingual Learner's Dictionary
+1253,Dragon Dictation
+1254,Medical Dictionary
+1255,MacSpeech Dictate
+1256,Grand Dictionnaire Terminologique
+1257,ECCMA Open Technical Dictionary (EOTD)
+1259,Visual Analytics
+1260,Material Handling
+1261,Marketing Materials
+1262,Materials Management
+1263,Material Requirements Planning
+1264,Material Safety Data Sheet
+1265,Materials Science
+1266,Plastic Materials
+1267,Composite Materials
+1268,Material Flow
+1269,Materials Engineering
+1281,Resource Management
+1282,Human Resource Management
+1283,Resource Allocation
+1284,Human Resources Information System (HRIS)
+1285,Resourcing
+1286,Resource Planning
+1287,Resource Utilization
+1288,Project Resources
+1289,Water Resources
+1290,Multi Touch
+1291,Physics Engine
+1292,Particle Systems
+1293,Swift (Programming Language)
+1294,Physics
+1295,Physical Therapy
+1296,Physical Inventory
+1297,Computerized Physician Order Entry
+1299,Torque (Physics)
+1300,Physical Medicine And Rehabilitation
+1301,Physical Exercises
+1302,Physical Design
+1303,Physical Restraint
+1304,Social Networks
+1305,Yammer (Social Networking Tool)
+1306,Distributed Social Networking Protocols
+1309,Recommender Systems
+1310,SERVQUAL
+1311,Rewrite Rules
+1312,MATLAB
+1313,AutoCAD
+1314,AutoCAD Civil 3D
+1315,ESPRIT AutoCAD
+1316,AutoCAD Plant 3D
+1317,AutoCAD Architecture
+1318,AutoCAD DXF
+1319,Hidden Surface Determination
+1320,Distance Transform On Curved Space
+1321,Business Objects Processing Framework
+1322,Business Objects Framework
+1323,Color Balance
+1324,Labelled Transition System Analyser
+1325,Cisco Systems VPN Client
+1326,Video Home System (VHS)
+1327,Systemic Vascular Resistance
+1328,Computerized System Validation
+1329,Unix System V
+1330,OS/VS2 (Operating System/Virtual Storage 2)
+1331,Variable Room Acoustics System (VRAS)
+1332,Journalling Flash File System Version 2 (JFFS2)
+1333,Control Flow Diagram
+1334,Organizational Structure
+1335,Proactive Maintenance
+1337,Change Management
+1338,Network Configuration And Change Management
+1339,Change Management Planning
+1340,CA Software Change Management
+1341,Lean Manufacturing
+1342,Continuous Integration
+1343,Continuous Delivery
+1345,Markov Chain
+1346,Markov Chain Monte Carlo
+1347,Continuous-Time Markov Chain
+1348,Computation Tree Logic
+1349,Eclipse (Software)
+1350,Pygame
+1351,Collision Detection
+1352,Carrier Sense Multiple Access With Collision Detection
+1353,Utilization Management
+1355,Public Utility
+1356,Electric Utility
+1357,Ping (Networking Utility)
+1358,Utility Software
+1359,Drug Utilization Review
+1360,Capacity Utilization
+1362,Data Transport Utility
+1363,Payment Processing
+1364,Payment Systems
+1365,Payment Service Provider
+1366,Tuition Payments
+1367,Payment Method
+1368,Payment Schedule
+1369,Payment Gateway
+1370,Prospective Payment Systems
+1371,Electronic Federal Tax Payment Systems
+1372,Instant Payment Notification
+1373,Sales Management
+1374,Salesforce.Com
+1376,Insurance Sales
+1377,Point Of Sale
+1378,Sales Training
+1379,Booking (Sales)
+1380,Sales Territory
+1381,Regional Sales
+1382,Sales Operations
+1383,POSIX (IEEE Standards)
+1384,POSIX Threads
+1385,Microsoft POSIX SubSystems
+1386,C POSIX Library
+1387,DirectX (Software)
+1388,DirectX Video Acceleration
+1389,Discrete Optimization
+1390,COBOL (Programming Language)
+1391,GNU Cobol
+1392,Arithmetic
+1393,Arithmetic Logic Unit
+1394,GNU Multiple Precision Arithmetic Libraries
+1395,Unweighted Pair Group Method With Arithmetic Mean (UPGMA)
+1396,Mainframe Computing
+1397,IBM Mainframe
+1398,Mainframe Testing
+1399,IBM Mainframe Utility Programs
+1400,Mainframe Express Enterprise Edition
+1401,IBM System Z10 (IBM System/360 Mainframe Line)
+1402,Test Automation
+1404,Test Automation Management Tools
+1405,Mobile App Test Automation
+1406,Drag And Drop
+1407,Selenium
+1408,Selenium Webdriver
+1409,Selenium2library
+1411,Agile Management
+1413,Agile Software Development
+1416,Project Management Software
+1417,Project Management Life Cycle
+1418,Project Management Institute (PMI) Methodology
+1419,Project Management Office (PMO)
+1420,Software Project Management
+1421,Agile Project Management
+1422,Project Management Process
+1423,Associate Project Management
+1424,Anchoring
+1425,Weather Anchoring
+1426,Property Management
+1427,Yardi (Property Management Software)
+1428,Intellectual Property
+1429,Property Tax
+1431,Property Management Systems
+1432,Real Property
+1433,Non-Disclosure Agreement (Intellectual Property Law)
+1434,Web Property
+1435,Property Information
+1436,Parenteral Nutrition
+1437,Total Parenteral Nutrition (TPN)
+1438,Parent Child Interaction Therapy
+1439,Child-Parent Psychotherapy
+1440,Parental Control
+1441,Employee Benefits
+1442,Benefits Administration
+1443,Benefits Enrollment Processes
+1444,Cost Benefit Analysis
+1445,Benefits Realisation Management
+1446,Explanation Of Benefits (EOB)
+1447,Electronic Benefits Transfer (EBT)
+1448,Pharmacy Benefit Management
+1449,Health Care Benefits
+1450,Patient Benefits
+1451,MiMiC Simulation Software
+1452,Mimicry
+1453,Collaborative Research
+1454,Collaborative Communications
+1455,Collaborative Design
+1456,Social Collaboration
+1457,Project Collaboration
+1458,Cloud Collaboration
+1459,IBM Rational Team Concert (Collaboration Tool)
+1460,Collaborative Filtering
+1461,Collaborative Innovation Networks
+1462,Collaborative Planning Forecasting And Replenishment (CPFR)
+1463,Customer Experience
+1464,User Experience
+1465,Experimentation
+1466,User Experience Design (UX)
+1467,Research Experiences
+1468,Experience Design
+1469,Design Of Experiments
+1470,Secretarial Experience
+1471,Adobe Experience Manager
+1472,Persona (User Experience)
+1474,Visual Basic For Applications
+1475,Visual Basic .NET (Programming Language)
+1476,VBScript (Visual Basic Scripting Edition)
+1477,Visual Basic Extension
+1478,Racket (Programming Language)
+1479,Type Systems
+1480,Common Type Systems
+1481,Ruby (Programming Language)
+1482,Software Features
+1483,Facebook Markup Language (Software Features)
+1484,Windows Calendar (Software Features)
+1485,C Dynamic Memory Allocation
+1487,Mobile Application Testing
+1488,Mobile App
+1489,Mobile Application Software
+1490,Ionic 2 (Mobile App Framework)
+1491,Ionic 3 (Mobile App Framework)
+1493,Ionic 4 (Mobile App Framework)
+1495,Gradient Boosting
+1496,Temperature Gradient Gel Electrophoresis
+1497,Conjugate Gradient Method
+1498,Geothermal Gradient
+1499,Combination Products
+1500,Combination Locks
+1501,Combination Inspection
+1503,Combined Sewer
+1504,Combined Information Data Network Exchange
+1505,Combined Enterprise Regional Information Exchange System (CENTRIXS)
+1507,Combinational Logic
+1508,Commercial Combination Inspection
+1509,Cascading Style Sheets (CSS)
+1510,CSS Frameworks
+1511,CSS Codes
+1512,CSS Animations
+1513,Object Oriented CSS
+1514,Csslint
+1515,CSS Flex Box Layout
+1516,Formal Grammar
+1517,Speech Recognition Grammar Specification
+1518,Generative Grammar
+1519,Regular Tree Grammar
+1520,Link Grammar Parsers
+1521,Behavioral Health
+1522,Behavioral Science
+1523,Board Certified Behavior Analyst
+1524,Behavior-Driven Development
+1525,Positive Behavior Support
+1526,Applied Behavior Analysis
+1527,Behavioral Disorders
+1528,Cognitive Behavioral Therapy
+1529,Organizational Behavior
+1530,Functional Behavior Assessment
+1531,Constraint Logic Programming
+1532,Eating Habits
+1533,Wildlife Habitat
+1534,Habitat Assessment
+1535,Habitat Conservation
+1536,Habitat Improvement
+1537,Habitat Conservation Plan
+1538,Marine Habitats
+1539,SAP ERP
+1540,Coinbase
+1541,Cointegration
+1542,Surround Sound
+1544,Human Factors
+1546,Factor Analysis
+1547,Human Factors Engineering
+1548,Human Factors And Ergonomics
+1549,Factory And Site Acceptance Testing
+1550,Smart Factory
+1551,Software Factory
+1552,Factory Reset
+1553,Risk Factor
+1555,Shell Script
+1556,Terminal Emulators
+1557,LiveConnect (Web API)
+1558,Java Database Connectivity
+1559,Functional Testing
+1560,Pulmonary Function Testing
+1561,Lean Functional Testing
+1562,IBM Rational Functional Tester
+1563,Liver Function Tests
+1564,Pixel Perfect
+1565,Per-Pixel Lighting
+1566,Pixelmator
+1567,Pixelsense
+1568,Pixel Arts
+1569,Filmmaking
+1570,Films
+1571,Documentary Films
+1572,Feature Films
+1573,Film Industry
+1574,Dubbing (Filmmaking)
+1575,Thin Film Coating
+1576,Film Studies
+1577,Film Editing
+1578,Blood Films
+1579,OpenCV
+1580,IPython
+1581,.NET Framework
+1583,Spring Framework
+1585,Bootstrap (Front-End Framework)
+1587,Entity Framework
+1588,Django (Web Framework)
+1589,ASP.NET MVC Framework
+1591,Inventory Management
+1592,Inventory Control
+1593,Stocks (Inventory)
+1595,Inventory Management Software
+1596,Inventory Control Systems
+1597,Inventory Turnover
+1598,Cost Of Goods Sold (Inventory)
+1599,Perpetual Inventory
+1600,Inventory Analysis
+1606,Code Reuse
+1607,Computer Animation
+1608,Storyboarding
+1609,FORscene
+1610,Exercise Science
+1612,Exercise Physiology
+1613,Field Training Exercise
+1614,Exercise Prescription
+1615,Aerobic Exercises
+1616,Isometric Exercise
+1617,Exercise Therapy
+1618,Primary Group Exercise Instruction
+1619,Toning Exercise
+1620,Reinforcement Learning
+1621,Recurrent Neural Network (RNN)
+1622,Backpropagation
+1624,Cipher
+1625,Substitution Cipher
+1626,Ciphertext
+1627,Modular Multiplication-Based Block Cipher (MMB)
+1628,Counter Mode Cipher Block Chaining Message Authentication Code Protocol (CCMP)
+1629,Mental Health
+1631,Occupational Safety and Health Administration (OSHA)
+1632,Occupational Safety And Health
+1633,Environment Health And Safety
+1634,Health Administration
+1635,Community Health
+1636,Health Facility
+1637,Public Health
+1638,Health Education
+1639,Natural Language Processing
+1640,Natural Language Understanding
+1641,Natural Language Generation
+1642,Natural Language Toolkits
+1643,Natural Language Programming
+1644,Natural Language User Interface
+1645,Natural Language Processing Systems
+1646,Go (Programming Language)
+1648,Unit Testing
+1649,CUnit (Unit Testing Framework)
+1650,Directory Structure
+1652,Serial Advanced Technology Attachment (SATA)
+1653,Serial Communications
+1654,Serial Dilutions
+1655,Serial Peripheral Interface Bus
+1656,Serials Solutions
+1657,Serial Attached SCSI
+1658,Synchronous Serial Interface
+1659,Asynchronous Serial Communication
+1662,PHP (Scripting Language)
+1663,PHP Development
+1664,Phpunit
+1665,Yii PHP Framework
+1666,Php 7
+1667,PHPMyAdmin
+1668,Phpbb
+1669,Phalcon (PHP Framework)
+1670,PhpStorm
+1671,Phpbb3
+1672,Github
+1673,SIMD
+1674,Simdis
+1675,OpenMP
+1676,Java Message Service (JMS)
+1677,Emergency Action Message
+1678,Instant Messaging
+1679,Error Messages
+1680,Message-Oriented Middleware
+1681,Server Message Block
+1682,Message Passing Interface
+1683,Internet Control Message Protocol (ICMP)
+1684,Enterprise Messaging Systems
+1685,Secure Messaging
+1687,Message Passing
+1688,DR-DOS
+1689,Big Data
+1690,MapR (Big Data)
+1691,ILogic (Reusable Asset Manager)
+1692,Animations
+1693,Animal Welfare
+1694,Animal Husbandry
+1695,Small Animal Care
+1696,Animal Science
+1697,Animal Handling
+1698,Animal Nutrition
+1700,Laboratory Animals
+1701,Large Animal Care
+1702,Expense Reports
+1703,Operating Expense
+1704,Expense Management
+1705,Expense Account
+1706,Final Expense Insurance
+1707,Expense Forecasting
+1708,Concur Expense
+1709,Interest Expense
+1710,Reducing Expenses
+1711,Expense Ratios
+1712,Estimators
+1713,Cost Estimation
+1714,Project Estimation
+1715,Construction Estimating
+1716,Xactimate (Claims Estimating Software)
+1717,Cost Estimation Models
+1718,Accubid (Estimating Software)
+1719,On-Screen Takeoff (Estimating Software)
+1720,Electrical Estimating
+1721,Estimation Theories
+1722,Statistical Inference
+1723,Infertility
+1724,Causal Inference
+1725,Bayesian Inference
+1726,Inference Engine
+1727,PHYLogeny Inference Package (PHYLIP)
+1728,Adaptive Neuro Fuzzy Inference Systems
+1729,Inversion Of Control
+1732,Web Services Description Language
+1733,Java Web Services
+1734,Java API For RESTful Web Services
+1735,Web Service Protocols
+1736,Web Services Interoperability
+1737,Web Services Concepts
+1738,Service Choreography (Web Service Specifications)
+1739,Java Web Services Development Pack
+1740,Doctest
+1741,Random Testing
+1744,Simple Random Sample
+1745,Randomization (Randomness)
+1746,Randomized Controlled Trial
+1747,Dynamic Random-Access Memory
+1748,Random Vibration
+1749,Random Effects Models
+1750,Magnetoresistive Random-Access Memory
+1762,Internet Security Association And Key Management Protocols
+1763,Kaspersky Internet Security
+1764,Trend Micro Internet Security
+1767,Environmental Graphic Design
+1768,3D Graphic Design
+1769,Xara Photo And Graphic Designer
+1770,LaTeX
+1771,Latex Fixation Tests
+1772,JOVIAL
+1773,Psychology
+1774,Developmental Psychology
+1775,Clinical Psychology
+1777,Educational Psychology
+1778,Psychological Testing
+1779,Industrial And Organizational Psychology
+1780,Adolescent Psychology
+1781,Health Psychology
+1782,Cognitive Psychology
+1793,Sexual Harassment Awareness
+1794,Sexual Assault Nurse Examiner
+1795,Certified Sex Addiction Therapist
+1796,Sexually Transmitted Disease (STD) Controls
+1801,Quantum Computing
+1802,Lookup Table
+1803,Tree Structure
+1806,Approximation Theory
+1807,Probably Approximately Correct Learning
+1808,Successive Approximation ADC
+1809,Distorted Wave Born Approximation (DWBA)
+1810,Business Interaction Networks
+1813,PostgreSQL
+1814,Stored Procedure
+1815,Java Stored Procedure (SQL)
+1819,Amazon Relational Database Services
+1820,Distributed Relational Database Architecture (DRDA)
+1822,Device Drivers
+1823,Career Development
+1824,Career Management
+1825,Career Counseling
+1826,College And Career Ready Assessment
+1827,Photography
+1828,Digital Photography
+1829,Aerial Photography
+1830,Stock Photography
+1831,Portrait Photography
+1832,Wedding Photography
+1833,Ophthalmic Photography
+1834,Fashion Photography
+1835,Photography Portfolio
+1836,Underwater Photography
+1837,Medical Imaging
+1838,Medical Image Analysis
+1839,Medical Imaging Physics
+1841,NumPy
+1843,Event Viewer
+1844,PDF Viewer
+1845,Log Viewer
+1846,ArcGIS Viewer For Flex
+1847,Integrated Data Viewer (IDV)
+1848,Image Viewer
+1849,FastStone Image Viewer
+1850,SAS Web OLAP Viewer
+1851,Watchdog Timer
+1852,General-Purpose Computing On Graphics Processing Units
+1853,Graphics Processing Unit (GPU)
+1854,Thread Safety
+1855,Commercial Banking
+1856,Retail Banking
+1857,Investment Banking
+1858,Bank Reconciliations
+1859,Bank Secrecy Act
+1860,Bankruptcies
+1861,Banking Services
+1862,Blood Banking
+1863,Bank Statements
+1864,Bank Regulations
+1865,Marketing Communications
+1866,Internal Communications
+1868,Technical Communication
+1869,Organizational Communications
+1870,Communicable Diseases
+1871,Business Communication
+1872,Communications Systems
+1873,Communication Planning
+1874,Customer Communications Management
+1875,Race Condition
+1876,Thread Pool Pattern
+1878,Feature Selection
+1879,Software Quality (SQA/SQC)
+1880,Software Quality Management (Software Quality)
+1881,Multiple Inheritance
+1882,Cost Management
+1883,Cost Reduction
+1884,Cost Accounting
+1887,Operating Cost
+1888,Job Costing
+1889,Travel Cost Analysis
+1890,Cost Structures
+1891,Deltek Costpoint
+1892,Discounts And Allowances
+1893,Discounted Cash Flow
+1894,Discount Stores
+1895,Dividend Discount Models
+1896,Electrical Engineering
+1897,Electrical Engineering Technology
+1898,Civil Engineering
+1899,Civil Engineering Software
+1900,Welding
+1901,Metal Inert Gas (MIG) Welding
+1902,Gas Tungsten Arc Welding
+1903,Arc Welding
+1904,Flux-Cored Arc Welding
+1905,Welding Symbols
+1906,Oxy-Fuel Welding And Cutting
+1907,Gas Metal Arc Welding
+1908,Shielded Metal Arc Welding
+1909,Spot Welding
+1910,SciPy
+1911,Sedation
+1912,Procedural Sedation And Analgesia
+1913,Sediment Controls
+1914,Sediment
+1915,Sed (Programming Language)
+1916,Sediment Transport
+1917,Sedimentology
+1918,Sedimentation
+1919,Erythrocyte Sedimentation Rate
+1920,Sediment Basin
+1923,Bank Runs
+1924,Rundeck
+1925,Runbook
+1926,Runtime Systems
+1927,Java Runtime Environment
+1928,Common Language Runtime
+1929,Run Chart
+1930,Test Runner
+1931,Surface Runoff
+1932,Hot Runner
+1934,AUTomotive Open System Architecture (AUTOSAR)
+1935,Nvidia CUDA
+1936,OpenCL
+1940,Dialog Systems
+1941,Breakpoint
+1942,Software Bug Management
+1943,Software Bug
+1944,New Product Development
+1945,Newsletters
+1946,New Business Development
+1947,New Hire Orientations
+1948,New Relic (SaaS)
+1949,New Ventures
+1950,News Reporting
+1951,Broadcast News
+1952,Employee Newsletters
+1953,Electronic News Production Systems
+1954,Process Specification
+1955,Alternating Bit Protocol
+1956,State Space
+1957,Molecular Dynamics
+1958,Visual Molecular Dynamics
+1959,LAMMPS Molecular Dynamics Simulator
+1960,Car-Parrinello Molecular Dynamics (Physics Software)
+1961,Cloudera Manager
+1962,Cloudera Impala
+1963,Biology
+1964,Molecular Biology
+1965,Cell Biology
+1966,Computational Biology
+1967,Cloning (Biology)
+1968,Wildlife Biology
+1969,Human Biology
+1970,Systems Biology
+1971,Structural Biology
+1972,Synthetic Biology
+1973,Sales Enablement
+1974,Supplier Enablement
+1975,Information Technology Enabled Service (ITES)
+1976,Cleaning Products
+1977,Carpet Cleaning
+1978,Data Cleansing
+1979,Cleanrooms
+1980,Commercial Cleaning
+1981,Dry Cleaning
+1982,Clean Water Act
+1983,House Cleaning
+1984,Exterior Cleaning
+1985,Cleaning Validation
+1986,Web Scraping
+1987,Personally Identifiable Information
+1988,Void Ratios
+1989,Java Development Kit
+1990,JavaCC
+1991,Javacv
+1993,Pnuts
+1994,Java Compilers
+1995,Architectural Patterns
+1996,Functional Requirement
+1997,Functional Requirements For Bibliographic Records
+1998,Accounting
+1999,Accounts Payable
+2000,Accounts Receivable
+2001,Deposit Accounts
+2002,Account Management
+2004,Accounting Softwares
+2005,QuickBooks (Accounting Software)
+2006,Ledgers (Accounting)
+2007,Financial Accounting
+2008,Codebase
+2010,Visual Effects
+2011,Training and Development Needs Assessment
+2012,Global System For Mobile Communications
+2013,System For Electronic Document Analysis And Retrieval
+2014,File System Fragmentation
+2016,User Interface Management System For X Window (UIMX)
+2018,Hole Punching
+2019,Bottom Hole Assembly
+2020,Black Holes
+2021,Hole Saw
+2022,Lightening Holes
+2024,Unicode
+2025,Apple Type Services For Unicode Imaging
+2026,Utf-8
+2028,Financial Services
+2029,Financial Statements
+2031,Financial Management
+2033,Financial Planning
+2034,Corporate Finance
+2035,Financial Data
+2036,Stocks (Finance)
+2038,Extreme Programming
+2040,User Story
+2041,Integration Testing
+2042,System Integration Testing
+2043,Integrity Testing
+2044,Integrated Test Facility
+2045,Integrated Test And Operations System (ITOS)
+2046,Code Refactoring
+2047,Risa (Structural Engineering Software)
+2048,Ghidra (Reverse Engineering Software)
+2050,Binary Ninja (Reverse Engineering Software)
+2051,Radare2 (Reverse Engineering Software)
+2052,Fundamental Theorem Of Software Engineering (Software Engineering)
+2053,Digital Signature
+2054,Digital Signature Services
+2055,Elliptic Curve Digital Signature Algorithm
+2056,Java Bytecode
+2057,Bytebuffer
+2058,Bytecode
+2059,Byteflight
+2060,Byte Code Engineering Libraries
+2061,Systems Integration
+2063,Data Integrity
+2064,Integrated Care
+2066,Data Integration
+2068,Integrated Marketing Communications
+2069,Enterprise Application Integration
+2071,Single Sign-On (SSO)
+2072,Signal Processing
+2073,Digital Signal Processing
+2074,Signals Intelligence
+2075,Signal Generators
+2076,Signaling (Crane Rigging)
+2078,Electronic Signatures
+2079,Digital Signage
+2080,Signal Integrity
+2081,Game Physics
+2082,Value Averaging
+2083,Moving Average
+2084,Weighted Average Cost Of Capital (WACC)
+2085,Moving Average Convergence Divergence
+2086,Average Cost Method
+2087,Average Accounting Return
+2088,Time-Weighted Average Price
+2089,Volume-Weighted Average Price
+2090,Spinal Cord Injury
+2091,Spinal Fusion
+2092,Quantum Spin Hall Effects
+2093,Spinal Manipulation
+2094,Metal Spinning
+2095,Spin Column-Based Nucleic Acid Purification
+2096,Melt Spinning
+2097,Spine.js
+2098,Spinal Taps (Lumbar Puncture)
+2099,Open End Spinning
+2103,Graphical User Interface Builder
+2104,Tkinter
+2105,Graphical Modeling Framework
+2107,Angular Ui
+2108,Angular Material
+2109,Angular CLI
+2110,Equal Channel Angular Extrusion
+2112,Web Development Tools
+2113,JavaServer Web Development Kit (JSWDK)
+2115,ECMAScript For XML
+2116,Robotics
+2117,Robotic Process Automation
+2118,Robotic Surgery
+2119,Industrial Robotics
+2121,Robot Framework
+2122,Robotic Automation Software
+2123,Robot End Effector
+2124,Robotic Programming
+2125,Pega Robotics Software
+2126,Key Frame
+2127,Geometric Modeling
+2128,Dynamic Simulation
+2131,Transparency (Human-Computer Interaction)
+2132,Bookkeeping
+2134,Reference Books
+2135,Booking (Trades)
+2136,Booking (Resource Planning Software)
+2137,Bookbinding
+2138,Double-Entry Bookkeeping Systems
+2139,Book Printing
+2140,Social Bookmarking
+2141,Bookkeeping Fundamentals
+2142,Adobe AIR
+2154,Desire2Learn
+2155,Desired State Configuration
+2156,Music Instruction
+2157,Music Industry
+2158,Music Therapy
+2159,Choral Music
+2160,Programming (Music)
+2161,Music Theory
+2162,Instrumental Music
+2163,Musical Notation
+2164,Music Performance
+2165,Musical Theater
+2166,Art History
+2167,Social History Records
+2168,United States History
+2169,World History
+2170,Architectural History
+2171,Operational Historian
+2172,Academic History
+2173,Legislative History
+2174,Revision History
+2175,European History
+2176,Language Arts
+2177,Artificial Intelligence
+2178,Culinary Arts
+2179,Liberal Arts
+2180,Artifactory
+2181,Artificial Cardiac Pacemakers
+2183,Art Direction
+2185,Artwork
+2187,Operational Excellence
+2191,Extract Transform Load (ETL)
+2192,Automated External Defibrillator
+2195,External Auditor
+2198,Web Design Concepts
+2199,Web Design Programs
+2200,Tableless Web Design
+2201,Web Content Accessibility Guidelines
+2202,Assistive Technology
+2203,Voice Assistant Technology
+2204,Web Accessibility
+2205,Web Accessibility Testing
+2206,Web Access Management
+2207,Web Accessibility Initiative
+2209,EclipseLink
+2210,Eclipse Modeling Framework
+2211,Eclipse CDT Project Development Tooling
+2212,Eclipse Process Framework
+2213,Eclipse PPM Software
+2214,Eclipse Java Development Tools
+2215,Oracle Enterprise Pack For Eclipse
+2217,PL/I (Procedural Programming Language)
+2218,Procedural Programming
+2219,RainCode PL/1 (Procedural Programming Language)
+2220,Intel Parallel Studio
+2221,Extended Basic Block
+2222,Component Diagram
+2224,Google Spreadsheets
+2225,Spreadsheetgear
+2226,SpreadsheetML
+2227,Test Data
+2228,Test Data Management
+2229,Test Data Generation
+2230,Test Datasets
+2231,CA Test Data Manager
+2232,Standard Test Data Format
+2233,Test Design
+2234,Simulated Annealing
+2235,Excel Solver
+2236,Engineering Equation Solver
+2237,Linear Programming
+2238,GNU Linear Programming Kit
+2239,Simplex Algorithm
+2241,Altia - User Interface Design Tools And GUI Software
+2242,JavaFX
+2243,JavaFX Script
+2244,Thought Leadership
+2245,Economic Calculation Problem (History Of Economic Thought)
+2246,Thought Field Therapy
+2247,Matplotlib
+2248,Economics
+2249,Economic Development
+2250,Econometrics
+2251,Business Economics
+2252,Economic Growth
+2253,Health Economics
+2254,Economic Analysis
+2255,Engagement Economics
+2256,Engineering Economics
+2257,Economy
+2258,Game Theory
+2259,Manual Testing
+2260,Reference Implementation
+2261,Failure Mode And Effects Analysis
+2262,Failure Causes
+2263,Failure Analysis
+2264,Process Failure Mode And Effects Analysis (PFMEA)
+2265,Design Failure Mode And Effects Analysis
+2266,Mean Time Between Failures
+2267,Mechanical Failure
+2268,Failure Mechanisms
+2269,Failure Reporting Analysis And Corrective Action Systems
+2270,Failure Mode Effects And Criticality Analysis (FMECA)
+2271,Parallel Processing
+2272,Extended Parallel Process Model
+2273,Short-Time Fourier Transform
+2274,Electrical Sockets
+2275,Network Sockets
+2276,Socket Programming
+2277,AC Power Plugs And Sockets
+2278,Socket.io
+2279,Java Secure Socket Extension
+2280,CPU Socket
+2281,Berkeley Sockets
+2282,Socketserver
+2283,Raw Socket
+2285,Linear Regression
+2286,Linear Video Editing
+2287,Generalized Linear Model
+2291,Linear Model
+2292,Non-Linear Editing Systems
+2293,General Linear Models
+2294,BackTrack Linux
+2295,Backtracking
+2297,XML Schema
+2298,Java XML
+2299,Sitemaps (XML)
+2300,Java Architecture For XML Binding
+2301,XMLhttprequest
+2303,XMLSpy
+2304,XML-RPC
+2305,XML Editor
+2310,Factorial Experimentation
+2312,Factory Method Pattern
+2314,Factorials
+2315,Automated Document Factory
+2316,Virtual Machines
+2317,Kernel-Based Virtual Machine
+2318,Java Virtual Machine (JVM)
+2319,Oracle Virtual Machine
+2320,System Center Virtual Machine Management
+2322,Virtual Machine Manager
+2323,Microsoft Java Virtual Machines
+2324,Virtual Machine Interface
+2325,Parallel Virtual Machine
+2327,Geometry
+2328,Computational Geometry
+2329,Coordinate Geometry
+2330,Euclidean Geometry
+2331,Analytic Geometry
+2332,Descriptive Geometry
+2333,Differential Geometry
+2334,Track Geometry
+2335,Conic Sections (Analytic Geometry)
+2336,Fractal Geometry
+2337,SPSS (Statistical Software)
+2338,SPSS Modeler
+2339,Demonstration Skills
+2340,Product Demonstration
+2341,Demography
+2342,Demolition
+2343,Demographic Analysis
+2344,Demographic Transition
+2345,Reliability Demonstration Testing
+2346,Scientific Demonstration
+2347,Democracy Building
+2348,Optical DPSK Demodulator
+2349,Interoperability
+2352,Content Management Interoperability Services
+2353,Secure Communications Interoperability Protocols
+2354,Schools Interoperability Framework
+2355,Interoperation
+2356,Cisco IP Interoperability And Collaboration System (IPICS)
+2357,Key Management Interoperability Protocols
+2358,Smart Grid Interoperability Panel
+2359,C Mathematical Functions (C Standard Library)
+2360,UClibc (C Standard Library)
+2361,C Standard Libraries
+2362,C/C++ Standard Libraries
+2363,Inline Function
+2364,JQuery
+2365,JQuery UI
+2366,JQuery Mobile
+2367,Unique Key
+2368,Talent Sourcing
+2369,Open Source Technology
+2370,Strategic Sourcing
+2371,Open-Source Software
+2372,Global Sourcing
+2373,Source Code Control Systems
+2374,All-Source Intelligence
+2375,Source Document
+2376,Open Source Intelligence
+2377,Microsoft Visual SourceSafe
+2378,Applicant Tracking Systems
+2379,Issue Tracking Systems
+2380,Defect Tracking
+2381,Bug Tracking Systems
+2382,Asset Tracking
+2383,Satellite Tracking
+2384,Track and Trace
+2385,Event Tracking
+2386,Time Tracking Software
+2387,Conversion Tracking
+2389,Source Codes
+2390,Service Control Management
+2391,Apache Hive
+2392,Death Certificates
+2393,Sudden Infant Death Syndrome
+2394,Wrongful Death Claim
+2395,Sudden Cardiac Death
+2396,Pandas (Python Package)
+2397,Panda3D
+2398,PandaBoard
+2400,Java API For XML Processing
+2401,Java API For XML-Based RPC
+2402,Mbeans (Java APIs)
+2403,Java API For XML Registries
+2404,Java API For XML Messaging
+2405,Java APIs
+2406,Java APIs For Bluetooth
+2407,Java APIs For Integrated Networks
+2408,Java API For XML Web Services
+2410,Java Applet
+2411,Java 3D
+2412,Active Record Pattern
+2413,Ruby On Rails
+2414,RubyGems
+2415,SQL Injection
+2416,Public Choice
+2417,Intertemporal Portfolio Choice
+2418,Employee Free Choice Act
+2419,Mechanical Engineering
+2420,Mechanical Engineering Technology
+2421,Electro Mechanical Engineering
+2422,Ballasts
+2423,Ballet
+2424,Intra-Aortic Balloon Pump
+2425,Ballroom Dancing
+2426,Balloon Sinuplasty
+2427,Aegis Ballistic Missile Defense Systems
+2428,Electrical Ballast
+2429,Ballast Tanks (Watercraft Components)
+2430,Balloon Modelling
+2431,BALLview (Biochemical Algorithms Library)
+2432,Computer Multitasking
+2433,VPython
+2434,SketchUp (3D Modeling Software)
+2435,Digital Marketing
+2437,Blogs
+2438,Blogger (Service)
+2439,Blog Platforms
+2440,WordPress Multi-Blogging
+2441,Bloglines
+2442,BlogEngine.NET
+2443,Personal Protective Equipment
+2444,Personal Care
+2445,Personal Injury
+2446,Personal Health Records
+2448,Personnel Selection
+2449,Personalization
+2450,Personal Branding
+2451,Personal Digital Assistant
+2452,Personal Communications Services
+2453,Quantum Information Sciences
+2455,Particle Physics Experiments
+2456,Software Versioning
+2458,Spring Boot
+2459,Spring Security
+2460,Spring.net
+2461,Pneumatic Valve Springs
+2462,Spring4d
+2463,SpringSource
+2464,Springboard
+2465,Springfox
+2466,Balance Spring
+2467,Microservices
+2470,Booting (BIOS)
+2471,Boot Loaders
+2472,Bootstrapping
+2473,Das U-Boot
+2474,Master Boot Records
+2475,Bootstrap Protocol
+2476,Network Booting
+2477,Boot2docker
+2479,Radio Button
+2482,IBM Business Process Manager (BPM)
+2483,Java Business Process Management
+2484,OpenUP
+2485,IBM Rational Unified Process
+2486,Unified Process
+2487,Agile Unified Process
+2488,Enterprise Unified Process
+2489,Essential Unified Process
+2500,Remote Computing
+2501,MongoDB
+2502,Data Item Descriptions
+2503,Microprocessor
+2504,IBM Microprocessors
+2505,ARM Architecture Microprocessors
+2506,AVR32 Microprocessor
+2507,Intel Core (Intel X86 Microprocessors)
+2508,Curve Fitting
+2510,Data-Flow Analysis
+2511,Formal Language
+2512,Java Formal Languages And Automata Package (JFLAP)
+2513,Petri Net
+2514,Use Case Diagram
+2515,Quicksort
+2516,Repurchase Agreements
+2517,Reverse Repurchase Agreements
+2518,Unmanned Aerial Systems (UAS)
+2519,Universal Mobile Telecommunications System (UMTS) Channels
+2520,Rowing (Sport)
+2521,Rowset
+2522,Lawsuits
+2523,Federal Laws
+2524,Labor Law
+2525,Law Enforcement
+2526,State Laws
+2527,Tax Laws
+2528,Environmental Laws
+2529,Civil Law
+2530,Administrative Law
+2531,Family Law
+2532,Modular Programming In C
+2533,Memory Address
+2534,Smart Pointers
+2535,Child Development
+2536,Childbirth
+2537,Early Childhood Education
+2538,Child Welfare
+2539,Child Support
+2540,Child Protection
+2541,Child Protective Services
+2542,Child And Family Services
+2543,Maternal Child Health
+2544,Child Nutrition
+2545,529 College Savings Planning
+2546,Savepoint
+2547,Locked-In Retirement Savings Plan (LRSP)
+2548,Transpose
+2551,External Relations
+2552,External Affairs
+2553,External Security Manager
+2554,External Tools
+2555,External Dependencies
+2556,External Testing
+2557,External Links
+2558,External Storage
+2559,Apache JMeter
+2560,Database Testing
+2561,NESTA
+2562,Nested Queries
+2563,Nested Loops
+2564,Nested Polymerase Chain Reactions
+2565,Nested Function
+2566,Loop Nest Optimization
+2567,Nested Interactive Array Language (NIAL)
+2568,Regular Expressions
+2569,PCRE - Perl Compatible Regular Expressions
+2570,Perl Regular Expressions
+2571,Adobe Illustrator
+2572,Illustration
+2573,Infographics (Illustration)
+2574,Technical Illustration
+2575,Digital Illustration
+2576,Medical Illustration
+2577,Fashion Illustration
+2578,Botanical Illustration
+2579,Illustra
+2580,Storytelling
+2581,Visual Storytelling
+2582,Digital Storytelling
+2583,Data Storytelling
+2585,Bash (Scripting Language)
+2586,Gherkin (Scripting Language)
+2587,Java Scripting Languages
+2588,Lua (Scripting Language)
+2589,AppleScript (Scripting Language)
+2590,Adapter Scripting Language
+2591,Linden Scripting Language
+2592,Profile Scripting Language
+2593,JAWS Scripting Language
+2594,Philosophy Of Education
+2595,Philosophy Of Business
+2596,Political Philosophy
+2597,Philosophy of Religion
+2598,History of Philosophy
+2599,Fortran (Programming Language)
+2600,High Performance Fortran (Concurrent Programming Language)
+2601,Fortran90
+2602,Fortran95
+2603,Intel Fortran Compilers
+2604,WATerloo FORTRAN IV (WATFIV)
+2605,FLUKA Particle Transport Code (Fortran Software)
+2606,User Feedback
+2607,Java Platform Enterprise Edition (J2EE)
+2608,Copy Editing
+2609,Video Editing
+2610,Java Enterprise Edition
+2612,Editorial Calendar
+2613,Oracle Business Intelligence Enterprise Edition
+2614,Image Editing
+2615,Photo Editing
+2616,Video Editing Software
+2617,TypeScript
+2618,Operations Management
+2619,System Center Operations Management
+2620,Marketing Operations Management
+2621,Manufacturing Operations Management
+2622,Microsoft Operations Manager
+2623,HP Operations Manager
+2624,Automated Clearing House
+2625,House Call
+2626,Supportive Housing
+2627,Low-Income Housing Tax Credit
+2628,Corporate Housing
+2630,Subsidized Housing
+2631,Fair Employment And Housing Act (FEHA)
+2632,Federal Housing Administration
+2633,Household Products
+2634,System Testing
+2635,Continuity Tests
+2637,Parallax Scrolling
+2638,Scroll Saw
+2639,Vertical Scroll
+2640,Scrollview
+2641,Scrollable
+2642,Scrollmagic
+2643,E-Commerce
+2647,Business Continuity Planning
+2648,Continuous Quality Improvement (CQI)
+2649,Business Continuity
+2650,Continuous Monitoring
+2651,Continuing Care
+2652,Continuing Medical Education
+2653,Continuous-Flow Manufacturing
+2655,AWS Elastic MapReduce (EMR)
+2656,Apache Hadoop
+2657,Apache Spark
+2658,Apache Kafka
+2659,Apache Maven
+2661,Apache Tomcat
+2662,Apache Cassandra
+2663,Apache Subversion
+2664,Apache HBase
+2665,Apache Ant
+2668,Web Colors
+2670,Monthly Income Preferred Stock
+2671,User Preferences
+2672,Preferred Stock
+2673,System Preferences
+2674,Platform For Privacy Preferences Project (P3P)
+2675,Technique For Order Of Preference By Similarity To Ideal Solution (TOPSIS)
+2676,Disk Cloning
+2678,Molecular Cloning
+2679,Clonezilla
+2680,Cloning Vector
+2681,Clone Management
+2682,TA Cloning
+2683,TOPO Cloning
+2684,CloneCD
+2685,Clone Tool
+2686,Stereophonic Sound System
+2687,Sound Systems
+2688,Sound Recording And Reproduction
+2689,Sound Effects
+2690,Sound Level Meter
+2691,Sound Editing
+2692,Sound Reinforcement Systems
+2693,Natural Sounds
+2694,Live Sound Mixing
+2695,Soundcloud
+2696,Bitbucket
+2697,Agile Methodology
+2698,Agriculture
+2699,Service-Level Agreement
+2701,Irrigation (Landscaping And Agriculture)
+2702,Agronomy
+2703,Agile Projects
+2705,Scaled Agile Framework
+2707,Traceability
+2708,Requirements Traceability
+2709,Traceability Matrix
+2711,Subtyping
+2712,Anatomy
+2713,Comparative Anatomy
+2714,Microscopic Anatomy
+2715,Java Collections Framework
+2716,Flask (Web Framework)
+2718,Assembly Language
+2719,IBM Basic Assembly Language And Successors
+2720,X86 Assembly Languages
+2721,High-Order Assembly Language/Shuttle (HAL/S)
+2722,Medical Error Reporting
+2723,Error Detection And Correction
+2725,Typographical Error
+2726,Error Analysis (Numerical Analysis)
+2727,Bit Error Rate
+2728,Observational Error
+2729,Bit Error Rate Tester (BERT)
+2730,Error Logging Modules And Handlers (ELMAH)
+2731,Windows Error Reporting
+2732,Ptrace
+2733,Malware Analysis
+2734,Objdump
+2735,Mobile Security
+2737,Malware Detection
+2738,Malwarebytes' Anti-Malware
+2739,Handle Systems
+2740,Automated Message Handling Systems
+2741,Aeronautical Message Handling Systems
+2742,Message Handling Systems
+2743,End Systems
+2744,Computer Data Storage
+2754,VSE (Operating System)
+2758,Statistical Classification
+2759,Safety Training
+2761,Technical Training
+2762,Management Training
+2763,Officer Training
+2764,Compliance Training
+2765,On-The-Job Training
+2766,Customer Service Training
+2767,Virtual Training
+2768,Athletic Training
+2771,X Window System
+2772,Windowing Systems
+2773,Windows System Recovery
+2774,XLOAD (X Window System)
+2775,GPE Palmtop Environment (X Window System)
+2777,AppleTalk
+2778,Signed Applet
+2779,AppleTalk Remote Access
+2780,Phone Interviews
+2782,Patient Interviews
+2783,Motivational Interviewing
+2784,Behavioral Interviewing
+2785,Structured Interview
+2786,Job Interviews
+2787,Intake Interview
+2788,Computer-Assisted Web Interviewing
+2789,Computer-Assisted Telephone Interviewing
+2790,Audio Computer-Assisted Self-Administered Interview
+2792,Organizational Leadership
+2793,Strategic Leadership
+2794,Leadership Studies
+2795,Clinical Leadership
+2796,Servant Leadership
+2797,Leadership Styles
+2798,Global Leadership
+2799,Motivational Leadership
+2800,Entrepreneurial Leadership
+2804,Open-Source Programming Languages
+2805,Open-Source Licensing
+2806,Open Source Servers
+2807,Open Source Host-Based Intrusion Detection Systems
+2808,Open Source Security Testing Methodology
+2809,Open Source Information Systems
+2810,MapGuide Open Source
+2811,Medical Ethics
+2812,Ethics And Compliance
+2813,Ethical Hacking
+2814,Ethical Leadership
+2815,Ethical Codes
+2816,Organizational Ethics
+2817,Accounting Ethics
+2818,Nursing Ethics
+2819,Engineering Ethics
+2820,Environmental Ethics
+2821,System Monitoring
+2822,System Monitor
+2823,AWK (Programming Language)
+2824,Logical Volume Manager
+2825,Distributed Development
+2826,Data Comparison
+2828,Subversion
+2829,Java Concurrency
+2830,Distributed Computing
+2831,Distributed Computing Environment
+2832,Concurrent Computing
+2833,Actor Model
+2835,Subroutine
+2836,Data Files
+2837,Optical Character Recognition (OCR)
+2838,Parsing
+2840,Text Parsing
+2841,Parseint
+2842,Parser Generators
+2843,Parse.com
+2844,Parsec
+2846,Jsoup Java HTML Parser
+2847,CUP Parser Generator For Java
+2848,Database Models
+2849,Hierarchical Database Model
+2851,Requirements Elicitation
+2853,Requirements Engineering
+2857,Customer Requirements Analysis
+2858,Metaclass
+2859,Metamodeling
+2860,Business Process Definition Metamodel
+2861,Business Priorities
+2862,Priority Queue
+2863,Risk Priority Number
+2864,Houston Automatic Spooling Priority
+2865,Medical Priority Dispatch Systems
+2866,Knowledge Base
+2867,Knowledge-Based Systems
+2868,Knowledge-Based Configuration
+2869,Knowledge-Based Engineering
+2875,CCTA Risk Analysis And Management Method (CRAMM)
+2876,Data Flow Diagram
+2877,Process Flow Diagrams
+2878,Product Flow Diagram
+2880,Architecture Flow Diagram
+2885,Meteorology
+2886,Meteor.js
+2887,Synoptic Scale Meteorology
+2888,Boundary Layer Meteorology
+2889,Mesoscale Meteorology
+2890,Tropical Meteorology
+2891,Marine Meteorology
+2892,Aviation Meteorology
+2893,Creo Elements/Pro (Computer-Aided Design Software)
+2894,Symbol Table
+2898,UML Tool
+2899,BOUML - A Free UML Tool Box
+2900,Top-Down And Bottom-Up Design
+2903,Code Injection
+2904,Buffer Overflow
+2905,Stack Buffer Overflow
+2906,Food Safety
+2907,Safety Standards
+2909,Patient Safety
+2913,Workplace Safety
+2915,Safety Culture
+2917,Vissim (Mathematical Modeling)
+2918,Ordinary Least Squares (Regression Analysis)
+2919,Kalman Filter
+2920,Extended Kalman Filter
+2921,Point Clouds
+2922,Observational Techniques
+2923,Animal Observation And Monitoring
+2924,Autism Diagnostic Observation Schedule
+2925,Logical Observation Identifiers Names And Codes (LOINC)
+2926,Surface Weather Observation
+2928,Directly Observed Therapy
+2929,Participant Observation
+2930,Observer Patterns
+2931,Naturalistic Observation
+2933,Object Detection
+2934,Visual Perception
+2935,Perceptron
+2936,Perceptual Mapping
+2937,Test Of Visual-Perceptual Skills (TVPS)
+2938,Taguchi Loss Function
+2939,Motion Planning
+2940,Finite State Machine
+2941,Template Method Patterns
+2945,Code Smell
+2948,Architecture Tradeoff Analysis Methods
+2949,Layered Systems
+2952,Six Sigma Methodology
+2953,Research Methodologies
+2955,Software Development Methodologies
+2956,Just In Time Methodology
+2957,Project Management Body Of Knowledge (PMBOK) Methodology
+2958,Survey Methodologies
+2960,Response Surface Methodology
+2961,Code Coverage
+2962,Java Code Coverage Tools
+2967,Operational Risk Management
+2968,Governance Risk Management And Compliance
+2969,IT Risk Management
+2970,Credit Risk Management
+2971,Risk Management Planning
+2972,Risk Management Tools
+2973,Regression Testing
+2974,Black-Box Testing
+2975,White-Box Testing
+2976,Test Suite
+2979,Static Program Analysis
+2980,Robustness Testing
+2981,Website Architecture
+2983,Security Testing
+2985,Web Testing
+2986,Apple Xcode
+2987,Xcodebuild
+2988,SuperCollider
+2989,Toxicology
+2990,Toxic Tort
+2991,Forensic Toxicology
+2992,Environmental Toxicology
+2993,Aquatic Toxicology
+2994,Toxicological Chemistry
+2995,Toxic Shock Syndrome (TSS)
+2996,Toxicity Characteristic Leaching Procedure
+2998,Basic And Clinical Pharmacology And Toxicology
+3000,Lexical Analysis
+3001,Metadata
+3002,Metadata Standards
+3003,Metadata Repository
+3004,Metadata Modeling
+3005,XML Metadata Interchange
+3006,SAS Metadata Servers
+3007,Metadata Editors
+3008,Learning Object Metadata
+3009,Metadata Authority Description Schema (MADS)
+3010,Medical Privacy
+3011,Information Privacy
+3012,Consumer Privacy
+3013,Family Educational Rights And Privacy Act
+3014,Data Privacy Laws
+3015,Pretty Good Privacy (PGP)
+3016,Privacy Impact Assessments
+3017,Privacy Law
+3018,Right to Financial Privacy Act
+3019,Financial Privacy
+3020,Interior Design
+3021,Interior Design Psychology
+3022,V-Ray
+3024,Agile Product Development
+3025,Lean Product Development
+3026,Food Product Development
+3027,Color Space
+3028,Virtual Camera Systems
+3029,High-Level Shader Language
+3030,Augmented Reality
+3031,Visual Design
+3032,Proportion (Visual Design)
+3033,Cyclomatic Complexity
+3034,Client Server Models
+3035,Coroutine
+3036,Microsoft Expression Web
+3037,WordPress
+3047,Perl (Programming Language)
+3049,Ajax (Programming Language)
+3053,Look And Feel
+3057,Apple Keynote
+3080,Corona (Software Development Kit)
+3081,Android Software Development
+3082,Software Development Engineer in Test
+3083,Command-Query Responsibility Segregation (Software Development)
+3084,Microstrategy Software Development Kit
+3085,Tuple Space
+3087,Customer Relationship Management
+3091,Product Management
+3094,Case Management
+3106,Application Security
