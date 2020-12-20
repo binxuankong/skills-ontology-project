@@ -1,0 +1,807 @@
+,skill_id,skill
+0,41,Applied Science
+1,51,Arts
+2,87,Business
+3,163,Computer Science
+4,201,Data Science
+5,205,Decision Theory
+6,261,Engineering
+7,372,Humanities
+8,397,Information Technology
+9,422,Language Learning
+10,433,Life Science
+11,443,Logic
+12,466,Mathematics
+13,513,Natural Science
+14,595,Physical Science
+15,700,Social Science
+16,728,Statistics
+17,754,Systems Theory
+18,762,Theoretical Computer Science
+19,3,Accountancy
+20,9,Aerospace Engineering
+21,13,Agricultural Engineering
+22,16,Agronomy
+23,22,Algorithm
+24,27,Animal Health
+25,32,Anthropology
+26,36,Applied Engineering
+27,37,Applied Linguistics
+28,38,Applied Mathematics
+29,39,Applied Physics
+30,47,Architecture
+31,50,Artificial Intelligence
+33,56,Astronomy
+34,65,Basic Science
+35,70,Biochemistry
+36,72,Bioengineering
+37,76,Biological Engineering
+38,77,Biology
+39,83,Botany
+41,88,Business Essentials
+42,89,Business Strategy
+43,104,Ceramic Engineering
+44,106,Chemical Engineering
+45,107,Chemistry
+46,110,Civil Engineering
+47,119,Cloud Computing
+48,125,Cognitive Science
+49,132,Communication
+50,134,Communication and Security
+51,141,Compiler
+52,145,Complexity
+53,158,Computer Architecture
+54,160,Computer Engineering
+55,161,Computer Graphics
+56,167,Computing Technology
+57,169,Concurrent System
+58,191,Cultural Studies
+59,198,Data Analysis
+60,199,Data Management
+61,202,Data Structure
+62,203,Database
+63,208,Demography
+64,211,Descriptive Decision Theory
+65,217,Development Studies
+66,228,Discrete Mathematics
+67,230,Distributed System
+68,235,Earth Science
+69,237,Ecology
+70,244,Economics
+71,247,Education
+72,250,Electrical Engineering
+73,252,Electromechanical Engineering
+74,256,Electronics
+75,260,Energy Technology
+77,262,Engineering Physics
+78,264,Engineering Technology
+79,266,Entrepreneurship
+80,272,Environmental Science
+81,273,Environmental Studies
+82,303,Finance
+83,308,Folkloristics
+84,313,Forensic Science
+85,315,Formal Logic
+86,325,Gender and Sexuality Studies
+87,329,Geography
+88,332,Geology
+89,338,Gerontology
+90,352,Health Informatics
+91,354,Health Science
+92,355,Healthcare Management
+93,365,History
+94,369,Human Resource Management
+95,387,Industrial Engineering
+96,389,Industrial Relations
+97,393,Informal Logic
+98,394,Information Engineering
+99,395,Information Science
+100,409,International Studies
+101,420,Language Engineering
+102,424,Law
+103,426,Leadership
+104,428,Legal Management
+105,431,Library Science
+106,436,Linguistics
+107,448,Machine Learning
+108,451,Management
+109,455,Marine Engineering
+110,456,Marketing
+111,458,Materials Engineering
+112,462,Mathematical Foundations
+113,463,Mathematical Logic
+114,469,Mechanical Engineering
+115,474,Media Studies
+116,482,Meteorology
+117,483,Microbiology
+118,486,Microtechnology
+119,488,Military Engineering
+120,493,Military Science
+121,497,Mining Engineering
+122,516,Networking
+123,523,Normative Decision Theory
+124,524,Nuclear Engineering
+125,534,Nutrition
+126,540,Oceanography
+127,543,Operations
+128,553,Organizational Studies
+129,562,Parallel System
+130,571,Patient Care
+131,581,Philosophy
+132,597,Physics
+133,599,Planning
+134,605,Political Science
+135,608,Polymer Engineering
+136,616,Probability
+137,621,Programming Language
+138,635,Psychology
+139,639,Public Administration
+140,642,Public Health
+141,644,Pure Mathematics
+142,664,Religious Studies
+143,681,Science and Technology Studies
+144,682,Scienfitic Computing
+145,687,Security
+146,688,Security Engineering
+147,701,Social Work
+148,705,Sociology
+149,707,Software Development
+150,708,Software Engineering
+151,714,Space Science
+152,715,Spatial Science
+154,738,Support
+155,741,Sustainability
+156,742,Sustainability Studies
+157,744,Sustainable Development
+158,752,Systems Engineering
+159,763,Theory of Computation
+160,804,Zoology
+161,0,.NET
+162,4,Accounting
+163,5,Accoustical Engineering
+164,6,Ada
+165,8,Aeronautical Engineering
+166,10,Aesthetics
+168,14,Agricultural Science
+169,15,Agriculture
+170,18,Algebra
+171,23,Algorithm Design
+172,24,Amorphous Metals
+173,28,Animal Husbandry
+174,29,Animation
+175,31,Anthropolocial Linguistics
+176,33,Anthropology of Religion
+177,34,Anthrozoology
+178,1,APL
+179,35,Applied Anthropology
+181,40,Applied Psychology
+182,42,Aquaculture
+183,44,Archaeology
+184,45,Architectonics
+185,46,Architectural Engineering
+186,53,Assembly Language
+187,54,Astronautical Engineering
+188,55,Astronautics
+190,57,Atomic Physics
+191,58,Automata Theory
+192,59,Automated Reasoning
+193,61,Automotive Engineering
+194,62,B
+195,64,Bag
+196,67,Behaviour Analysis
+197,69,Behavioural Economics
+198,71,Bioeconomics
+199,74,Bioinformatics
+200,75,Biolinguistics
+201,78,Biomaterials Engineering
+202,79,Biomedical Engineering
+203,80,Bionics
+204,81,Biopsychology
+205,82,Bison
+206,84,Broadcast Engineering
+207,86,Building Science
+209,90,C
+210,91,C#
+211,92,C++
+212,100,Calendar
+213,102,Cartography
+214,103,Casting
+216,109,Civics
+217,112,Classical Mechanics
+218,116,Clinical Linguistics
+219,117,Clinical Psychology
+220,118,Clojure
+221,96,COBOL
+222,121,Coding Theory
+223,123,Cognitive Linguistics
+224,124,Cognitive Psychology
+225,126,ColdFusion
+226,127,Combat Engineering
+227,130,Combinatorics
+228,131,Common Lisp
+229,133,Communication Studies
+230,137,Comparative Economics
+231,138,Comparative Linguistics
+232,139,Comparative Politics
+233,140,Competitive Strategy
+234,142,Compiler Optimization
+235,143,Compiler Theory
+236,146,Composite Materials
+237,147,Computability Theory
+238,148,Computational Biology
+239,149,Computational Chemistry
+240,150,Computational Complexity Theory
+241,152,Computational Linguistics
+242,153,Computational Neuroscience
+243,155,Computational Physics
+244,156,Computational Science
+245,159,Computer Audition
+248,162,Computer Programming
+250,164,Computer Security
+251,165,Computer Vision
+252,166,Computer-Aided Engineering
+253,168,Concurrency
+254,170,Condensed Matter Physics
+255,172,Conservation Medicine
+256,173,Construction Engineering
+257,176,Contact Manager
+258,177,Control Engineering
+259,179,Corrosion Engineering
+260,180,Cosmology
+261,183,Criminology
+262,185,Cryptography
+263,186,Crystal Engineering
+264,187,Culinary Arts
+265,189,Cultural Anthropology
+266,190,Cultural Psychology
+267,194,Customer Service Systems
+268,196,D
+269,200,Data Mining
+270,206,Deep Learning
+271,207,Delphi
+273,209,Dentistry
+274,214,Development Economics
+275,216,Development Linguistics
+276,218,Developmental Psychology
+277,220,Dialectology
+278,224,Digital Marketing
+279,226,Discourse Analysis
+281,229,Distributed Computing
+282,232,Domain Name System
+283,233,Dylan
+284,234,E-mail
+285,236,Ecological Economics
+286,239,Economic Geography
+287,240,Economic History
+288,241,Economic Methodology
+289,242,Economic Sociology
+290,245,Editing
+291,248,Educational Psychology
+292,249,Eiffel
+293,251,Electromagnetism
+294,253,Electromechanics
+295,254,Electronic Engineering
+296,255,Electronic Materials
+297,259,Energy Economics
+298,263,Engineering Psychology
+299,265,Entrepreneurial Economics
+300,268,Environmental Economics
+301,269,Environmental Engineering
+302,270,Environmental Geography
+303,271,Environmental Planning
+304,274,Environmental Technology
+305,276,Epistemology
+306,277,Ergonomics
+307,278,Erlang
+308,279,Ethics
+309,280,Ethnobiology
+310,281,Ethnobotany
+311,282,Ethnography
+312,283,Ethnology
+313,284,Ethnopoetics
+314,285,Etymology
+315,286,Evolutionary Anthropology
+316,287,Evolutionary Economics
+317,288,Evolutionary Linguistics
+318,289,Evolutionary Psychology
+319,291,Experimental Archaeology
+320,293,Experimental Psychology
+321,296,F#
+322,298,Facilities Engineering
+324,304,Financial Economics
+325,305,Fisheries Science
+326,309,Food Science
+327,310,Forensic Linguistics
+328,311,Forensic Materials Engineering
+329,312,Forensic Psychology
+330,314,Forestry
+331,316,Formal Methods
+332,317,Formal Semantic
+333,318,Fortran
+334,323,Game Theory
+335,328,Genetic Engineering
+336,330,Geographyc Information System
+337,331,Geolinguistics
+338,334,Geometry
+339,336,Geopolitics
+340,337,Geotechnical Engineering
+341,341,Go
+342,343,Graph
+343,344,Graph Theory
+344,346,Groovy
+345,349,Hash Table
+346,350,Haskell
+347,353,Health Psychology
+348,359,Heterodox Economics
+349,360,Hierachical Database
+350,361,High-Energy Partical Physics
+351,362,Historical Archaeology
+352,364,Historical Linguistics
+353,366,Horticulture
+354,368,Human Geography
+355,370,Human-Computer Interaction
+356,371,Humanistic Psychology
+357,373,Hydro Engineering
+358,383,Ideology
+359,384,Image Processing
+360,386,Induction
+361,391,Industrial and Organizational Psychology
+362,388,Industrial Organization
+363,396,Information Systems
+365,398,Information Visualization
+366,399,Instant Messenger
+367,400,Institutional Economics
+368,401,Instrumentaion Engineering
+369,406,International Economics
+370,410,Interpretational AI
+371,411,Interpreter
+372,413,Java
+373,414,JavaScript
+374,415,Knowledge Engineering
+375,416,Labour Economics
+376,418,Language
+378,423,Lasso
+379,425,Law and Economics
+380,430,Lexis
+381,434,Linguistic Anthropology
+382,435,Linguistic Typology
+383,437,Linker
+384,439,List
+385,440,Literature
+386,441,Loader
+388,444,Logistic Engineering
+390,449,Macroeconomics
+391,452,Managerial Economics
+392,453,Manufacturing Engineering
+396,459,Materials Science
+397,460,Mathematical Analysis
+399,464,Mathematical Physics
+400,465,Mathematical Programming
+401,467,Mathematics Foundation
+402,472,Mechatronics
+403,475,Medical Anthropology
+404,476,Medicine
+405,478,Metabolic Engineering
+406,479,Metal Forming
+407,480,Metallurgical Engineering
+408,484,Microeconomics
+409,487,Military Education
+411,490,Military History
+412,491,Military Organization
+413,494,Military Strategy and Tactics
+414,495,Military Technology Engineering
+415,496,Military Training
+416,445,ML
+417,498,Model Theory
+418,499,Molecular Engineering
+419,500,Molecular Physics
+420,501,Monetary Economics
+421,502,Morphology
+422,504,Music Therapy
+423,446,MYSQL
+424,506,Nano Materials
+425,507,Nanotechnology
+426,510,Natural Language Processing
+427,514,Naval Architecture
+428,515,Neoclassical Economics
+430,517,Neural Engineering
+431,518,Neuroeconomics
+432,519,Neurolinguistics
+433,521,Neuropsychology
+434,522,NoSQL
+435,505,NP Completeness
+436,525,Nuclear Physics
+437,526,Nuclear Technology
+438,527,Number Representation
+439,528,Number Theory
+440,529,Numerical Analysis
+441,533,Nursing
+443,535,Object Database
+444,538,Ocaml
+445,542,Operating Systems
+447,544,Operations Research
+448,547,Optical Engineering
+449,549,Optics
+450,550,Optometry
+451,552,Organizational Behaviour
+452,554,Orthography
+453,555,Outline of Management
+454,560,Paralegal Studies
+455,561,Parallel Computing
+456,563,Parser
+457,565,Parsing
+458,567,Pascal
+459,573,Performance Engineering
+460,574,Performing Arts
+461,575,Perl
+462,576,Permaculture
+463,577,Personality Psychology
+464,578,Pharmacology
+465,580,Philology
+466,582,Philosophy of Education
+467,583,Philosophy of Language
+468,584,Philosophy of Mathematics
+469,585,Philosophy of Mind
+470,586,Philosophy of Science
+471,587,Phislophy of Information
+472,588,Phonetics
+473,589,Phonology
+474,590,Photogrammetry
+475,591,Photonics
+476,556,PHP
+477,592,Phraseology
+478,593,Physical Anthropology
+479,594,Physical Geography
+480,596,Physical Therapy
+481,557,PL
+482,600,Plastics Engineering
+483,601,Platform
+484,602,Political Economy
+485,604,Political Psychology
+486,606,Polotical Philosophy
+487,612,Post-Processing
+488,613,Power Systems Engineering
+489,614,Pragmatics
+491,620,Process and Methodology
+492,618,Process Engineering
+493,622,Programming Language Pragmatic
+494,623,Programming Language Theory
+495,624,Programming Paradigm
+496,625,Programming Tool
+497,626,Prolog
+498,627,Proof Theory
+499,629,Protocol
+500,630,Psephology
+501,632,Psycholinguistics
+502,633,Psychological Anthropology
+503,636,Psychology of Religion
+504,637,Psychometrics
+505,638,Psychophysics
+507,640,Public Economics
+508,641,Public Finance
+509,645,Python
+510,646,Quality Engineering
+511,647,Quantum Computing Theory
+512,648,Quantum Mechanics
+513,651,Radiation Engineering
+514,652,Radiation Protection Engineering
+515,657,Real Estate Economics
+516,658,Regional Geography
+517,659,Regional Planning
+518,660,Relational Database
+519,661,Relativistic Mechanics
+520,662,Release Engineering
+521,663,Reliability Engineering
+522,665,Remote Sensing
+523,666,Reverse Engineering
+524,669,Robotics
+525,670,Router
+526,671,Ruby
+527,673,Rural Sociology
+528,674,Rust
+529,677,Safety Engineering
+530,678,Scala
+531,679,Scheme
+532,684,Scripting Language
+533,686,Searching
+535,690,Semantics
+536,691,Sensation and Perception Psychology
+537,693,Set
+538,694,Set Theory
+539,695,Signal Processing
+540,697,Smaltalk
+541,699,Social Philosophy
+542,703,Socioeconomics
+543,704,Sociolinguistics
+544,706,Soft Computing
+546,709,Software Testing
+547,711,Sorting
+548,713,Space Exploration
+549,717,Special Effects
+550,721,Speech and Language Pathology
+551,720,Speech Science
+552,723,Sports Engineering
+553,676,SQL
+554,725,Statistical AI
+555,726,Statistical Mechanis
+557,731,Structural Engineering
+558,733,Structured Storage
+559,734,Stylistics
+560,739,Support Engineering
+561,740,Surface Engineering
+562,743,Sustainable Agriculture
+563,745,Swift
+564,746,Syllogistic Logic
+565,748,Symbolic AI
+566,749,Symbolic Computation
+567,750,Symbolic Logic
+568,751,Syntax
+569,755,T-SQL
+570,756,Tcl
+571,758,Telecommunications Engineering
+572,759,Teletraffic Engineering
+573,764,Thermal Engineering
+574,765,Thermodynamics
+575,767,Tissue Engineering
+576,768,Topology
+577,773,Transport Economics
+578,774,Transportation Engineering
+579,775,Tree
+580,776,Type Theory
+581,777,Urban Engineering
+582,779,Urban Planning
+583,780,Urban Sociology
+584,782,Usability Engineering
+585,785,Vacuum Engineering
+586,786,Verilog
+587,787,Verterinary Medicine
+588,783,VHDL
+589,788,Virtual Intelligence
+590,789,Virtual Reality
+591,790,Visual Arts
+592,791,Visual Basic
+593,794,Vitreous Materials
+594,784,VOIP
+595,795,Voting Systems
+596,796,Welding
+597,797,Welfare Economics
+598,800,Writing Systems
+599,801,XML
+600,802,Yacc
+601,803,Zooarchaeology
+602,213,Design
+603,2,Abstract Algebra
+604,11,Agile
+605,17,Algaculture
+606,19,Algebraic Geometry
+607,20,Algebraic Number Theory
+608,21,Algebraic Topology
+609,25,Analytic Number Theory
+610,26,Anatomy
+611,43,Arboriculture
+612,48,Arithmetic
+613,49,Arithmetic Geometry
+614,52,Aspect-Oriented Programming
+615,66,Behavioral Geography
+616,68,Behaviour-Based Robotics
+617,73,Biogeography
+618,63,BREW
+619,85,Build Tool
+620,101,Cardiology
+621,105,Chatterbot
+622,108,Children Geography
+623,111,Classical Mechanic
+624,113,Classis Mac OS
+625,115,Climatology
+627,120,Coastal Geography
+628,122,Cognitive
+629,128,Combinatorial Geometry
+630,129,Combinatorial Number Theory
+631,135,Community Psychology
+632,136,Commutative Ring
+633,151,Computational Economics
+634,154,Computational Number Theory
+635,157,Computer Algebra
+636,171,Configuration Management
+637,174,Constructive Mathematics
+638,175,Consumer Behaviour
+639,178,Convex Geometry
+640,181,Counseling Psychology
+641,182,Cray Supercomputer
+642,184,Critical Geography
+644,188,Cultural  Geography
+645,192,Cuniculture
+646,195,Cybernetics
+647,197,DEC Minicomputer
+648,210,Dermatology
+649,212,Descriptive Statistics
+650,215,Development Geography
+651,219,Developmental Robotics
+652,221,Dialectometry
+653,222,Differential Geometry
+654,223,Differential Topology
+655,225,Diophantine Geometry
+656,227,Discrete Geometry
+657,238,Econometrics
+659,246,Editor
+661,257,Elementary Number Theory
+662,258,Endocrinology
+663,267,Enumerative Combinatorics
+665,275,Epigenetic Robotics
+666,290,Evolutionary Robotics
+667,292,Experimental Economics
+668,294,External Combinatorics
+669,297,Facial Recognition
+670,299,Feminist Economics
+671,300,Feminist Geography
+672,301,Field Theory
+673,306,Floriculture
+674,307,Fluid Mechanics
+676,320,Functional Decomposition
+677,321,Fungiculture
+678,324,Gastroenterology
+679,326,General Algebraic System
+680,327,General Topology
+681,333,Geometric Number Theory
+682,335,Geomorphology
+684,340,Glaciology
+685,345,Green Economics
+686,347,Gynecology
+687,348,Handwriting Recognition
+688,351,Health Geography
+689,356,Heavyweight
+690,357,Helath Psychology
+691,358,Heliciculture
+692,363,Historical Geography
+693,374,Hydroculture
+694,375,Hydrology
+695,377,IBM Mainframe
+697,385,Immunology
+698,390,Industrial and Organization Psychology
+699,392,Inferential Statistics
+700,404,Intelligent Word Recognition
+701,405,Internal Medicine
+702,407,International Politics
+703,412,Islamic Economics
+704,417,Landscape Ecology
+705,419,Language Acquisition
+706,421,Language Identification
+707,429,Legal Psychology
+708,438,Linux
+709,442,Local Government Studies
+710,447,Machien Translation
+711,805,macOS
+712,454,Mariculture
+713,457,Marxist Geography
+715,470,Mechanics of Deformable Solids
+716,471,Mechanics of Structures
+717,473,Media Psychology
+718,481,Metamodel
+720,485,Microsoft .NET
+721,489,Military Geography
+722,492,Military Psychology
+724,509,Natural Langauge Understanding
+725,511,Natural Language User Interface
+726,520,Neurology
+729,536,Object Recognition
+730,537,Object-Oriented Programming
+731,539,Occupational Health Psychology
+733,541,Olericulture
+734,545,Ophthalmology
+735,548,Optical Mark Recognition
+736,551,Order Theory
+737,558,Palaeogeography
+738,559,Palm PDA
+739,564,Parser Creation Tool
+740,566,Particle Mechanics
+741,568,Pastoral Psychology
+742,569,Pathology
+743,570,Pathophysiology
+744,572,Pediatrics
+745,579,Pharmacy
+746,598,Physiology
+747,603,Political Geography
+749,609,Polynomial
+750,611,Population Geography
+751,615,Predicate Logic
+752,617,Probability Theory
+753,619,Process Model
+755,628,Propositional Logic
+756,631,Psychiatry
+757,634,Psychological Testing
+760,643,Public Policy
+761,649,Question Answering
+762,653,Radiology
+763,668,Ring Theory
+764,672,Rule-Based Programming
+765,680,School Psychology
+766,689,Semantic Translation
+767,692,Sericulture
+769,696,Silviculture
+770,698,Social Geography
+771,702,Socialist Economics
+772,710,Soil Geography
+773,712,Source Code Managemet
+774,716,Speaker Recognition
+775,718,Speech Processing
+776,719,Speech Recognition
+777,722,Sport Psychology
+778,724,Static Code Analysis Tool
+779,727,Statistical Semantic
+780,730,Strategic Geography
+781,732,Structured Programming
+782,737,Sun Microsystems Solaris
+783,747,Symbian OS
+785,753,Systems Psychology
+786,761,Text Recognition
+787,766,Time Geography
+788,769,Tourism Geography
+789,770,Toxicology
+790,771,Traffic Psychology
+791,772,Transcendental Number Theory
+792,778,Urban Geography
+793,781,Urology
+794,798,Windows
+795,12,Agile Software Development
+796,295,Extreme Programming
+797,427,Lean Software Development
+798,655,Rapid Application Development
+799,656,Rational Unified Process
+800,685,Scrum
+801,99,Calculus
+802,144,Complex Analysis
+803,367,Human Anatomy
+804,7,Addition
+805,204,Decimal
+806,231,Division
+807,319,Fraction
+808,402,Integer
+809,503,Multiplication
+810,512,Natural Number
+811,735,Subtraction
+812,30,Ant
+813,98,Cabal
+814,93,CADES
+815,302,Final Builder
+816,342,Gradle
+817,450,Make
+818,468,Maven
+819,508,Nant
+820,654,Rake
+821,757,Team Foundation Server
+822,792,Visual Build Pro
+823,793,Visual Studio Team Services
+824,97,CVS
+825,339,Git
+826,322,GNU Arch
+827,432,LibreSource Synchronizer
+828,477,Mercurial
+829,650,RCS
+830,736,Subversion
+831,607,Polyhedra
+832,610,Polytope
+833,193,Curvature
+834,667,Riemannian Geometry
+835,243,Economic Statistics
+836,461,Mathematical Economics
+837,403,Integrated Development Environment
+838,760,Text Editor
+839,799,Word Processor
+840,114,Cleanroom
+841,379,ISO 9000
+842,380,ISO 9001
+843,381,ISO/IEC 12207
+844,376,Hydroponics
+845,408,International Relations Theory
+846,382,ISO/IEC 24744
+847,675,SPEM
+848,530,Numerical Differentiation
+849,531,Numerical Integration
+850,532,Numerical Method
+851,683,Scientific Computing
+852,60,Automatic Number Plate Recognition
+854,546,Optical Character Recognition
+857,729,Stochastic Processes
+858,94,CMM
+859,95,CMMI/SCAMPI
+860,378,ISO 15504
