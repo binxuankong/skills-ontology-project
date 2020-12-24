@@ -1,0 +1,7303 @@
+skill_id,skill
+0,Journalism
+1,Content Marketing
+2,Storytelling
+3,Advertising
+4,Marketing
+5,Brand
+6,Gamification
+7,Audience
+8,Newspaper
+9,Branded Content
+10,Graphic Design
+11,Computer Graphics
+12,I-Deas
+13,Graphic Arts
+14,History
+15,Analysis
+16,Art History
+17,Art
+18,Design Analysis
+19,Typography
+20,White Spaces (Radio)
+21,User Experience
+22,Photography
+23,Web Design
+24,Video Production
+25,Principle
+26,Video Editing
+27,Software
+28,Web
+29,Color Theory
+30,Vector Graphics
+31,Logo
+32,Color Psychology
+33,Image File Formats
+34,Ordered Pair
+35,Adobe Illustrator
+36,Brochure Design
+37,Adobe Photoshop
+38,Experience
+39,Digital Media
+40,Astronomy
+41,Species
+42,Solar Systems
+43,Thought
+44,Verse Protocol
+45,Geology
+46,Film
+47,Dialogue
+48,Sustainable Energy
+49,Scaling
+50,Natural Selection
+51,Derivative
+52,Interview
+53,Religion
+54,Culture
+55,Physics
+56,Critical Thinking
+57,Chemistry
+58,Biology
+59,Evolutionary Biology
+60,Anthropology
+61,Qualitative Economics
+62,Cultural Impact
+63,Conquesting
+64,Popularity
+65,Canned Tea
+66,Bible
+67,Israel
+68,Archeology
+69,Entry Point
+70,Widget (Gui)
+71,Emptiness
+72,Chinese Language
+73,Materials
+74,Writing
+75,Literary Theory
+76,Daughter
+77,Cognitive Dissonance
+78,Reason
+79,Stylometry
+80,Confirmation Bias
+81,Doubt
+82,Belief
+83,Holocaust
+84,War Crime
+85,Delegitimisation
+86,National Trauma
+87,Nazi Germany
+88,Nazi Concentration Camps
+89,Nazism
+90,Antisemitism
+91,Psychological Trauma
+92,Naturopathy
+93,Chinese Medicine
+94,Traditional Medicine
+95,Ethnobotany
+96,Ayurveda
+97,Herbalism
+98,Plant
+99,Healing
+100,Herbal
+101,Medicine
+102,Dissemination
+103,Scientific Method
+104,Historical Source
+105,Interpretation
+106,Modeling
+107,Case Study
+108,Saving
+109,Man
+110,Space Station
+111,Space Stations
+112,Portable Document Format
+113,Disaster
+114,Aerospace Engineering
+115,Probability Density Function
+116,Reading (Process)
+117,Interior Design
+118,Academic Writing
+119,English Language
+120,Language
+121,Essay Writing
+122,Grammar
+123,Scientific Writing
+124,Ageing
+125,Middle East
+126,Middle Age
+127,Glassing
+128,Architecture
+129,Linguistics
+130,Pragmatics
+131,Education
+132,Gustave Le Bon
+133,Unos (Operating System)
+134,Arts And Humanities
+135,Dominant Narrative
+136,Composite Artifact Colors
+137,Dams
+138,Urban Area
+139,Inner City
+140,Dam
+141,Urban Areas
+142,Human Learning
+143,Evolution
+144,Methodology
+145,Cultural Capital
+146,Desert
+147,Monk
+148,Father
+149,Spirituality
+150,Faith
+151,Missionary
+152,Anti-Western Sentiment
+153,Diplomatics
+154,Trading Blows
+155,Spring
+156,Leonardo Da Vinci
+157,International Relations
+158,Intellectual
+159,U.S. Securities And Exchange Commission
+160,Fiction Writing
+161,Creative Writing
+162,Greek Mythology
+163,Poetry Writing
+164,Mythology
+165,Influencing
+166,A Priori
+167,Philosophy
+168,Ethics
+169,Failure
+170,There Are Known Knowns
+171,Acceptance
+172,Elections
+173,Bias
+174,Emotions
+175,System U
+176,Observation
+177,Gratitude
+178,Joie De Vivre
+179,Referent Power
+180,Panopticon
+181,Participatory Politics
+182,Symbolic Interactionism
+183,Participatory Democracy
+184,Me Generation
+185,Generativity
+186,Broadcast
+187,Harmony
+188,Brand-New
+189,Music
+190,Opus (Audio Format)
+191,Drama
+192,Awe
+193,Rubygems
+194,Piano
+195,Fortification
+196,Evaluation
+197,Dwelling
+198,Phonetics
+199,Centrality
+200,Denial
+201,Russian
+202,Criticism
+203,Agriculture
+204,War
+205,Prison
+206,Military
+207,Childhood
+208,Prisons
+209,Philology
+210,Right-To-Left
+211,Linguistic History
+212,History Of Linguistics
+213,Historiography
+214,Decision Rule
+215,Foreign Policy
+216,Yottabyte
+217,Autoregressive Conditional Heteroskedasticity
+218,Primary Source
+219,Stumbling On Happiness
+220,Social Psychology
+221,Psychology
+222,Altered State Of Consciousness
+223,The Astonishing Hypothesis
+224,Computational Theory Of Mind
+225,Parasolid
+226,Page Layout
+227,Inquiry
+228,Booking
+229,Page Design
+230,Decipherment
+231,Trading
+232,Golden Age
+233,Phonology
+234,Reputation
+235,Fundraising
+236,Causality
+237,Justice
+238,Lecture
+239,Retirement
+240,Resource
+241,Smoothing
+242,Anger
+243,Ascendency
+244,Hold
+245,Adobe Air
+246,Maximization (Psychology)
+247,Therapy
+248,Chord
+249,Patriarchy
+250,Market (Economics)
+251,Empowerment
+252,Popular Culture
+253,Film Studies
+254,Photojournalism
+255,Media Studies
+256,Orality
+257,Bureaucracy
+258,Fear
+259,Attractiveness
+260,Shamanism
+261,Land Law
+262,Common Law
+263,History Of Ideas
+264,Law
+265,Secure Copy
+266,Editorial Cartoon
+267,Dehumanization
+268,Health
+269,Augmented Assignment
+270,Rescue
+271,Deep History
+272,Popular Music
+273,History Of The Book
+274,Harem
+275,Hygiene
+276,Flourishing
+277,Print Media
+278,Social Media
+279,Logic
+280,Media Industry
+281,Media Psychology
+282,Commercialization
+283,Economy
+284,Creativity
+285,Intermediary
+286,R&D Management
+287,Architectural History
+288,Cleanliness
+289,Preferred Reporting Items For Systematic Reviews And Meta-Analyses
+290,Social Behavior
+291,Human Behavior
+292,Heresy
+293,Against Interpretation
+294,Female
+295,Art Therapy
+296,Scholar
+297,Translation Studies
+298,Denominación De Origen
+299,Labor
+300,Demography
+301,Plantation
+302,Constitution
+303,Quoting Out Of Context
+304,Skepticism
+305,Supremacism
+306,Homophobia
+307,Islamophobia
+308,Xenophobia
+309,Hatred
+310,Area Studies
+311,Opinion
+312,Public Opinion
+313,Gaze
+314,Listening
+315,Indirect Self-Reference
+316,Speech
+317,Physics Experiments
+318,Field Recording
+319,Sound
+320,Acoustics
+321,Mathematical Model
+322,Sound Design
+323,Machine Learning
+324,Energy
+325,Crisis
+326,Process
+327,Teaching
+328,Average
+329,Emotion
+330,Cooperation
+331,State-Space Representation
+332,Architectural Design
+333,Masonry
+334,Bathing
+335,Wall
+336,Digital 3D
+337,Childhood Studies
+338,Ethnolinguistics
+339,Environmental Studies
+340,Media Scholars
+341,Youth Studies
+342,Economic Studies
+343,Offline Learning
+344,Interactive Learning
+345,Online Learning Community
+346,Cross-Cultural Communication
+347,Communication
+348,Interpersonal Communication
+349,Intercultural Communication
+350,Adaptation
+351,Game Design
+352,Determination
+353,Screenwriting
+354,Ancient Greece
+355,Collective Identity
+356,Economics
+357,Short Story Writing
+358,Comedy
+359,Gena
+360,Noreen
+361,Atila
+362,Cartooning
+363,Sustainability
+364,Pride
+365,Threat
+366,Ethnoarchaeology
+367,Digital Preservation
+368,Museology
+369,Doctrine
+370,Immortality
+371,Witchcraft
+372,Astrology
+373,Conscience
+374,Violence
+375,Nous
+376,Ascii Art
+377,C Dynamic Memory Allocation
+378,Signified And Signifier
+379,Security
+380,Wait (System Call)
+381,Anticipation
+382,Discrimination
+383,Feminist History
+384,The Feminists
+385,Rape
+386,Social Justice
+387,Curiosity
+388,Vista
+389,La Operación
+390,Collaboration
+391,Historical Method
+392,Abnormal Psychology
+393,Algebra
+394,Stemming
+395,Drugs
+396,Power (International Relations)
+397,Ages Of Man
+398,Global
+399,India
+400,Policy Analysis
+401,General Knowledge
+402,Organizing (Management)
+403,Eunuch
+404,Palace
+405,Palaces
+406,Luxury Goods
+407,Forgiveness
+408,Civilization And Its Discontents
+409,Language Games
+410,Playfulness
+411,Re-Define
+412,Gabriel García Márquez
+413,Cabeza
+414,Empathy
+415,Awareness
+416,Dignity
+417,Charisma
+418,Spendthrift
+419,Intuition
+420,Counseling
+421,Hypnosis
+422,Hypnotic Induction
+423,Chiropractic
+424,Psychotherapy
+425,Conceptual Framework
+426,-Ism
+427,Political Science
+428,Public Administration
+429,Strategy
+430,Historical Reenactment
+431,Child
+432,Multiculturalism
+433,Intercultural Competence
+434,Bilingual
+435,Pedagogy
+436,Forgetting
+437,A/Rose
+438,Anguish
+439,Prince2
+440,Patent Medicine
+441,Metropolis
+442,Latex
+443,Landscape Architecture
+444,English Grammar
+445,Planning
+446,Sources
+447,Formal Language
+448,Note Taking
+449,Pixel Art
+450,Video Game Development
+451,3D Computer Graphics
+452,3D Modeling
+453,Zbrush
+454,Pixel
+455,Rockbox
+456,Mod (Video Gaming)
+457,Low Poly
+458,Game Engine
+459,Game Mechanics
+460,Redos
+461,Subdivision Surface
+462,Polygon Mesh
+463,Baking
+464,High-Resolution Scheme
+465,Box Modeling
+466,Uv Mapping
+467,Framing
+468,Asset
+469,3D Graphics Software
+470,Computer-Aided Design
+471,Sketchup
+472,Credibility
+473,News Writing
+474,News
+475,News Reporting
+476,Network News Transfer Protocol
+477,Environmental Journalism
+478,Digital Journalism
+479,Compiler
+480,Securities Research
+481,Multimedia
+482,Self-Interest
+483,Mass Communication
+484,Usn Journal
+485,Quality Control
+486,Editing
+487,Pov-Ray
+488,Copywriting
+489,Concreteness
+490,Shopped
+491,First Draft Of A Report On The Edvac
+492,Debriefing
+493,Training
+494,Jazz
+495,Gauss Markov Theorem
+496,G-Code
+497,Chart
+498,Audio Recording
+499,List Of Dns Record Types
+500,Euler'S Totient Function
+501,Sleep Mode
+502,Instrumentation (Computer Programming)
+503,Project
+504,Relative Change And Difference
+505,H.E.A.R.
+506,Personal Advertisement
+507,Scalable Vector Graphics
+508,Microsoft Visual Studio
+509,Cabling
+510,Signal Processing
+511,Uan
+512,Cmos
+513,Electronic Music
+514,Audio Production
+515,Audio Editing
+516,Ableton
+517,Guitar
+518,Electronics
+519,Microphone
+520,Gnu Octave
+521,Scrolling
+522,Performance
+523,Balance (Game Design)
+524,Game Testing
+525,Documents
+526,Video Game Design
+527,Game Design Document
+528,Software Design Description
+529,Gameplay
+530,Interactivity
+531,Interactive Storytelling
+532,Computer Animation
+533,Level Design
+534,Possible World
+535,Virtual Reality
+536,Volume Mesh
+537,Traditional Animation
+538,Adobe Animate
+539,Funkos
+540,Upload
+541,Continuations
+542,Game Integrated Development Environment
+543,Design Thinking
+544,Design Pattern
+545,Poster Design
+546,Adobe Indesign
+547,Layout Design
+548,Poster
+549,Iteration
+550,Book Design
+551,Brand Identity
+552,Logos
+553,Illustration
+554,Human Voice
+555,Grasp
+556,.Bit
+557,Exercise
+558,At-Will Employment
+559,Mind Body Problem
+560,Legato
+561,Gigging
+562,Affordance
+563,Egg
+564,Dialog Box
+565,Comfort
+566,Sound Bite
+567,Art Direction
+568,Photo Essays
+569,Abuse Of Power
+570,Internet
+571,Visual Arts
+572,Design And Product
+573,Entertainment Law
+574,Provisioning
+575,Leadership And Management
+576,Leadership
+577,Year 2000 Problem
+578,Business Partner
+579,Likelihood Function
+580,Partnership
+581,Fan-In
+582,Funds
+583,Career
+584,Lingoes
+585,Jazz Improvisation
+586,Demos
+587,Mid-Range
+588,Signature
+589,Audio Engineering
+590,Perception
+591,Digital Audio Workstation
+592,Workstations
+593,Landscape Design
+594,Interior Architecture
+595,Com File
+596,Edward De Bono
+597,Process (Computing)
+598,Cinematography
+599,Payments
+600,Public Domain
+601,Label
+602,Publicity
+603,Line Wrap And Word Wrap
+604,Visual Effects
+605,Semigroup Action
+606,Document Review
+607,Unix Shells
+608,Emerging Technologies
+609,Thriving
+610,Marketing Strategy
+611,Event Management
+612,Strategic Planning
+613,360-Degree Video
+614,Metadata
+615,Multi-Camera
+616,Cinema 4D
+617,Demolition
+618,Lived Body
+619,Social Experiment
+620,Death
+621,Engineering Design
+622,Puzzle
+623,Process Design
+624,Digital Design
+625,Design Leadership
+626,Welfare State
+627,Public Service
+628,Rethinking
+629,Contemporary History
+630,Defeatism
+631,Level Of Analysis
+632,History Of Rock
+633,Media Culture
+634,Interdisciplinary Teaching
+635,Disc Jockey
+636,Suicide Intervention
+637,Video Game Developers
+638,Game Theory
+639,Posture
+640,Icm Registry
+641,Houses
+642,Group Dynamics
+643,Teaching Method
+644,Integer (Computer Science)
+645,Stroke
+646,Auctions
+647,History Of Psychology
+648,Disgust
+649,Interact
+650,Thumbnail
+651,Visual Hierarchy
+652,Visual Language
+653,Visual Design
+654,Top-Down And Bottom-Up Design
+655,Civil Society
+656,Virtual Tour
+657,Positive Youth Development
+658,Facial
+659,Subtyping
+660,Agility
+661,Climate Change
+662,Cloud Computing
+663,Future Generation
+664,Sorting
+665,Psychological Effects
+666,Deafness
+667,Streaming Media
+668,Self-Assessment
+669,Experiential Learning
+670,Integral
+671,Profit At Risk
+672,Intratext
+673,Brainstorming
+674,Social Media Accounts
+675,Personal Branding
+676,Social Media Platforms
+677,Federal Grants In The United States
+678,Performance Studies
+679,Speeded Up Robust Features
+680,Teen Idol
+681,Operating Systems
+682,Persona (User Experience)
+683,Experiment
+684,Experimental Music
+685,Oil
+686,Homework
+687,C-Ross
+688,Philosophy Of Language
+689,Breakup Song
+690,Licking
+691,Lived Experience
+692,Copy Editing
+693,Intellectual Property
+694,Great Man Theory
+695,Surround Sound
+696,Spins
+697,Japanese Language
+698,Corporate Spin-Off
+699,Mainstreaming
+700,Disco
+701,Microsoft Excel
+702,Image Viewers
+703,Jpeg
+704,Adobe Acrobat
+705,Iso Image
+706,Adobe Premiere
+707,Adobe Audition
+708,Target Audience
+709,User Fee
+710,Linguistic Demography
+711,Address Bar
+712,Sign
+713,Braille
+714,Black Lives Matter
+715,Educational Entertainment
+716,Music Psychology
+717,Active Listening
+718,Music Therapy
+719,Meditation
+720,Korean Language
+721,Temazcal
+722,Noria
+723,Historical Linguistics
+724,Molecular Gastronomy
+725,Luigi Galvani
+726,Sociology
+727,Ecology
+728,Recursively Enumerable Set
+729,Categorization
+730,Baton
+731,Internet Slang
+732,Amplitude
+733,Reflexes
+734,Digital Cameras
+735,Confidence
+736,Digital Photography
+737,Digital Single-Lens Reflex Camera
+738,Camera Operation
+739,Operations Management
+740,Viewer
+741,Exif
+742,Digital Image
+743,Short Time
+744,Real Estate Broker
+745,Pure Data
+746,Supercollider
+747,Arduino
+748,S-Box
+749,Chest Voice
+750,Head Voice
+751,Java Annotation
+752,User Interface
+753,Interfaces
+754,User Interface Design
+755,Experience Design
+756,Map
+757,Site Map
+758,User Experience Design
+759,Website Wireframe
+760,Paper Prototyping
+761,User Research
+762,Information Architecture
+763,Responsive Web Design
+764,Wordpress
+765,Thought Experiment
+766,5 Whys
+767,Reward Theory Of Attraction
+768,Online Research Methods
+769,Experiment (Probability Theory)
+770,Consciousness
+771,Mathematical Optimization
+772,Hypothesis
+773,Error
+774,Positive Education
+775,Type I And Type Ii Errors
+776,Evolutionary Psychology
+777,Embodied Cognition
+778,Neuroscience
+779,Psychologies
+780,Cognitive Science
+781,Philosophy Of Mind
+782,Cognition
+783,Emotional Intelligence
+784,Altruism
+785,Neuron (Software)
+786,Observational Astronomy
+787,Prospecting
+788,Virtue
+789,Coaching
+790,Semiotics
+791,Digital Marketing
+792,Humana
+793,Modus Vivendi
+794,Big Data
+795,B*
+796,Transfer Matrix
+797,Product Rule
+798,Delivery Performance
+799,Mean Value Theorem
+800,Chain Rule
+801,M/M/C Queue
+802,Decision Making
+803,Lynching
+804,Resource Curse
+805,Emotional Well-Being
+806,Rationality
+807,Crisis Management
+808,Disaster Response Experiene
+809,Defense Readiness Reporting System (Drrs)
+810,Humanitarian
+811,Operational Risk Management
+812,Lambda Calculus
+813,Disasters
+814,Emergency Management
+815,Coercion
+816,Philosophical Analysis
+817,Creationism
+818,Degrowth
+819,International Taxation
+820,.Properties
+821,Taxes
+822,Plausibility Structure
+823,Being In Itself
+824,Crime
+825,Guided Democracy
+826,Philosophical Methodology
+827,Clairvoyance
+828,Personality Development
+829,Morale
+830,Consent
+831,Telepresence Robots
+832,Robot Learning
+833,Domestic Robots
+834,Service Robots
+835,Autonomous Robot
+836,Roboticists
+837,Medical Robots
+838,Medical Robot
+839,Cyborgs
+840,Human Robot Interaction
+841,Human Nature
+842,Sincerity
+843,Deliberation
+844,Biblical Interpretation (Journal)
+845,Prejudices
+846,Prejudice
+847,Antidotes
+848,Aporia
+849,Subjectivism
+850,Irony
+851,The Good Life
+852,Paradox
+853,Cooking
+854,Climate Change Skepticism And Denial
+855,Rhetoric
+856,Presentation
+857,Persuasion
+858,Developmental Psychology
+859,Heuristic
+860,Social Norms Approach
+861,Open-Mindedness
+862,Irreducible Complexity
+863,Socratic Method
+864,Apologetics
+865,Empiricism
+866,Internet Of Things
+867,Power Politics
+868,Technological Fix
+869,Gender Lens Investing
+870,Sexuality
+871,Sex
+872,Gendered Sexuality
+873,News Propaganda
+874,John Rawls
+875,Happiness
+876,Eudaimonia
+877,The Interpretation Of Cultures
+878,Linguistic Philosophy
+879,Ethnography
+880,Mediology
+881,Lindley'S Paradox
+882,Berkson'S Paradox
+883,Evolutionary Creation
+884,Dichotomy
+885,Hermeneutics
+886,Boy
+887,Moral Psychology
+888,Clinical Psychology
+889,Subjective Expected Utility
+890,Psychoanalytic Theory
+891,Unconscious
+892,Psychoanalysis
+893,Unconscious Mind
+894,Dream Interpretation
+895,Adaptive Unconscious
+896,Lgbt
+897,White Pride
+898,Stonewalling
+899,Gay Pride
+900,Genetics
+901,Online Learning
+902,Infographics
+903,Foregrounding
+904,Privacy
+905,Biobanks
+906,Introduction To Genetics
+907,Biobank
+908,Guided Meditation
+909,Mind Control
+910,Mindfulness (Psychology)
+911,Mindfulness
+912,Self-Reflection
+913,Life Coaching
+914,Intellect
+915,Oppression
+916,Human Spirit
+917,Everyday Life
+918,Educational Psychology
+919,Finance
+920,Management Accounting
+921,Accounting
+922,Numbers (Spreadsheet)
+923,Financial Accounting
+924,Bookkeeping
+925,Financial Analysis
+926,Balance Sheet
+927,Principal Agent Problem
+928,Analytics
+929,Business Intelligence
+930,Data Analysis
+931,Demand Forecasting
+932,Tableau Software
+933,Predictive Modelling
+934,Measurement
+935,Proof-Of-Work System
+936,Inventory
+937,Inventory Management
+938,Merchandising
+939,Quanto
+940,Mergers & Acquisitions
+941,Target Market
+942,Business Communication
+943,Negotiation
+944,Budget
+945,Linkedin
+946,Trade Name
+947,Standing Ovation
+948,Smart Contract
+949,Financial Crisis
+950,Research And Development
+951,Public-Key Cryptography
+952,Cryptography
+953,Bitcoin Network
+954,Ethereum
+955,Blockchain
+956,Peer-To-Peer
+957,Bitcoin
+958,Cryptocurrency
+959,C-Fos
+960,Value Proposition
+961,Business Modeling
+962,Enabling
+963,Solution Stack
+964,Chief Executive Officer
+965,Estimation
+966,Schedule
+967,Strategic Reserve
+968,Time Management
+969,Task Management
+970,Prioritization
+971,Virtual Team
+972,Peering
+973,Conflict Resolution
+974,Communications Management
+975,Nonverbal Communication
+976,Business Writing
+977,Email Writing
+978,Email
+979,Contract Negotiation
+980,Win-Win Game
+981,Project Management Certification
+982,Project Management
+983,Change Management
+984,Group Decision-Making
+985,Decision Analysis
+986,Problem Solving Methods
+987,Problem Solving
+988,Peer Review
+989,Swot Analysis
+990,Conflict Management
+991,Human Resources
+992,Office Administration
+993,Positive Psychology
+994,Office Management
+995,Psychological First Aid
+996,Innovation Leadership
+997,Innovation
+998,Innovation Management
+999,Consumer Behaviour
+1000,Product Management
+1001,Software Engineering
+1002,Elevator Pitch
+1003,Public Speaking
+1004,Speech Writing
+1005,Visual Communication
+1006,Color Image
+1007,Business Presentations
+1008,Self-Confidence
+1009,Flow Network
+1010,Income
+1011,Cash Flow Statement
+1012,Cash Flow
+1013,Income Statement
+1014,Financial Statement
+1015,Prediction Markets
+1016,Ibm Maximo Asset Management
+1017,Strategic Negotiations
+1018,Business Transformation
+1019,Dialogos
+1020,Feature-Oriented Domain Analysis
+1021,Spreadsheet
+1022,Pie Chart
+1023,Data Management
+1024,Keyboard Shortcut
+1025,Databases
+1026,Concatenation
+1027,Pivot Chart
+1028,Pivot Table
+1029,Consolization
+1030,Index
+1031,Lookup Table
+1032,Solver
+1033,Microsoft Excel Vba
+1034,Data Model
+1035,Data Validation
+1036,Microsoft Excel Macro
+1037,Macro (Computer Science)
+1038,"Extract, Transform, Load"
+1039,Financial Modeling
+1040,Ratio Analysis
+1041,Revenue
+1042,Accounting Analysis
+1043,Revenue Recognition
+1044,Financial Ratio
+1045,Financial Instrument
+1046,Bad Debt
+1047,Fair Value
+1048,Account Analysis
+1049,Capital Budgeting
+1050,Debt
+1051,Comprehensive Income
+1052,Accounts Payable
+1053,Deferred Tax
+1054,Accrual
+1055,International Financial Reporting Standards
+1056,Dividends
+1057,Stock
+1058,Preferred Stock
+1059,Retained Earnings
+1060,Treasury Stock
+1061,Common Stock
+1062,Adjusting Entries
+1063,Accounts Receivable
+1064,Journaling File System
+1065,Fixed Asset
+1066,Risk Management
+1067,Financial Compliance
+1068,Risk
+1069,Financial Institution
+1070,Internal Control
+1071,Corporate Governance
+1072,Management Process
+1073,Fintech
+1074,Current Asset
+1075,Fundamental Analysis
+1076,Employment
+1077,Cost
+1078,Sales
+1079,Pricing
+1080,Benefits
+1081,Strategic Management
+1082,Cost Accounting
+1083,Budget Analysis
+1084,Internality
+1085,Performance Measurement
+1086,Salary
+1087,Business Operations
+1088,Ifrs 5
+1089,Technical Support
+1090,Organizational Analysis
+1091,Financial Markets
+1092,Marketing Mix
+1093,Marketing Plan
+1094,Forecasting
+1095,Futures Studies
+1096,Real Estate
+1097,Foreign Exchange Market
+1098,Motivation
+1099,Simulation
+1100,Future Self
+1101,Playful
+1102,Social Network
+1103,Futures Wheel
+1104,Behavior
+1105,Exploratory Data Analysis
+1106,Financial Data Analysis
+1107,Environmental Data Analysis
+1108,Cultural Psychology
+1109,Phenomenon
+1110,Stakeholder Theory
+1111,Egoism
+1112,Corporate Social Responsibility
+1113,Shareholders
+1114,Technical Analysis
+1115,Dumping (Pricing Policy)
+1116,Time To Market
+1117,Subsidy
+1118,Headquarters
+1119,Employee Selection
+1120,Resource Management
+1121,Onboarding
+1122,Recruitment
+1123,Recruiting
+1124,Image Resolution
+1125,Performance Management
+1126,Performance Appraisal
+1127,Organizational Culture
+1128,Compensation And Benefits
+1129,Compensation
+1130,Compensation Strategies
+1131,Satisficing
+1132,Deadlock
+1133,Social Skills
+1134,Face (Sociological Concept)
+1135,Professional Networks
+1136,Delegation
+1137,Economic Analysis
+1138,Economic Models
+1139,Equation Solving
+1140,Function Of A Real Variable
+1141,Continuous Function
+1142,Matrix Multiplication
+1143,Matrices
+1144,Porter'S Five Forces Analysis
+1145,Pest Analysis
+1146,Product Lifecycle
+1147,Competitiveness
+1148,Market Segmentation
+1149,Organizational Structure
+1150,Business Plan
+1151,Break-Even (Economics)
+1152,Break-Even
+1153,Report Writing
+1154,Core Competency
+1155,Tracking
+1156,Electronic Submission
+1157,Influencer Marketing
+1158,Meat
+1159,Technology Strategy
+1160,Customer Satisfaction
+1161,Business Model Canvas
+1162,Systems Design
+1163,Statistical Analysis
+1164,Confidence Interval
+1165,General Statistics
+1166,Sample Size Determination
+1167,Percentile
+1168,Frequency Distribution
+1169,Hypothesis Testing
+1170,Inference
+1171,Regression
+1172,Statistical Inference
+1173,Regression Analysis
+1174,Statistical Hypothesis Testing
+1175,Supply Chain
+1176,Demand
+1177,Business Analysis
+1178,Intellectual Property Law
+1179,Trademarks
+1180,Arbitration
+1181,Sexual Harassment
+1182,Labour Law
+1183,Google Chart Api
+1184,Google Services
+1185,Business Solutions
+1186,Google Maps
+1187,Google Tag Manager
+1188,Google Adwords
+1189,Collective Action
+1190,Environmental Law
+1191,Business Law
+1192,Case Report
+1193,Itô'S Lemma
+1194,Doxing
+1195,Customer Experience
+1196,Content Creation
+1197,Spreadsheet Software
+1198,Trial Balance
+1199,Debits And Credits
+1200,Mean Integrated Squared Error
+1201,Formulation
+1202,Correlation And Dependence
+1203,Test Statistic
+1204,Pearson Product-Moment Correlation Coefficient
+1205,Supply And Demand
+1206,Indifference Curve
+1207,Budget Constraint
+1208,School Choice
+1209,Consumer Choice
+1210,Agricultural Marketing
+1211,Price Elasticity Of Demand
+1212,Perfect Competition
+1213,Market Structures
+1214,Profit Maximization
+1215,Competition (Economics)
+1216,Total Revenue
+1217,Sink
+1218,Utility
+1219,"Maintenance, Repair, And Operations"
+1220,Customer Service
+1221,Preview
+1222,Customer Support
+1223,Fasting
+1224,Reverse Lookup
+1225,Vertical Slice
+1226,Feed Uri Scheme
+1227,Business Analytics
+1228,Data Visualization
+1229,Strategic Thinking
+1230,You Can Negotiate Anything
+1231,Allocentrism
+1232,Decomposition
+1233,Work Breakdown Structure
+1234,Project Mine
+1235,Neuro-Linguistic Programming
+1236,Coaching Psychology
+1237,Psychology Of Self
+1238,Service Innovation
+1239,Defense
+1240,Media Market
+1241,Social Media Marketing
+1242,Personalization
+1243,Stunning
+1244,Business Process Management
+1245,Business Process
+1246,Process Management
+1247,Legal Research
+1248,Competition Law
+1249,Legal Databases
+1250,Tax Law
+1251,Energy Markets
+1252,Corporate Law
+1253,Resume Screening
+1254,Inbound Marketing
+1255,B2B Marketing
+1256,Customer Success
+1257,Outbound Sales
+1258,Inside Sales
+1259,Takeover
+1260,Laddering
+1261,Hotel
+1262,Legal Writing
+1263,Procurement
+1264,Consolidated Financial Statement
+1265,Basis Of Accounting
+1266,Consolidation (Business)
+1267,Value Stream Mapping
+1268,Lean Thinking
+1269,Mapping
+1270,Kaizen
+1271,Lean Methods
+1272,Lean Manufacturing
+1273,Streams
+1274,Manufacturing Process Management
+1275,Social Constructionism
+1276,Social Entrepreneurship
+1277,Entrepreneurship
+1278,Social Business Model
+1279,Arbitrage
+1280,Marketing Communications
+1281,Hard Drives
+1282,Final Cut Pro
+1283,Motion Graphic Design
+1284,Head-Mounted Displays
+1285,Business Architecture
+1286,Software Architecture
+1287,Business Architect
+1288,Business Logic
+1289,Enterprise Architecture
+1290,Archimate
+1291,The Open Group Architecture Framework
+1292,Enterprise Architect
+1293,Project Planning
+1294,Project Plan
+1295,Risk Analysis
+1296,Investment
+1297,Computer Program
+1298,Representative Office
+1299,Authorised Capital
+1300,Federal Reserve System
+1301,R Programming
+1302,Financial Audit
+1303,Audit Risk
+1304,Information Technology Audit
+1305,Financial Risk Modeling
+1306,Financial Auditing
+1307,Management Assertions
+1308,Audit
+1309,Deliverable
+1310,Microsoft Project
+1311,Bar Chart
+1312,Bubble Chart
+1313,Learning How To Learn
+1314,Authority
+1315,Verstehen
+1316,Nun
+1317,Quotation
+1318,Rstudio
+1319,Applied Statistics
+1320,Monetization
+1321,Intangible Asset
+1322,Asset Management
+1323,Infonomics
+1324,Dr-Dos
+1325,Contract Of Sale
+1326,Corporate Bond
+1327,Contract A
+1328,Contract Management
+1329,Supply Chain Management
+1330,Chaining
+1331,Warehouse Management
+1332,Supply Chain Network
+1333,Annual Report
+1334,Limited Liability
+1335,Behavioral Economics
+1336,Home Screen
+1337,Online Advertising
+1338,Email Marketing
+1339,Scrum (Software Development)
+1340,Business
+1341,Income Tax
+1342,Market Development
+1343,Bankruptcy
+1344,Initial Public Offering
+1345,Public Offering
+1346,Software Peer Review
+1347,Clinical Peer Review
+1348,Peer 1
+1349,Basic Descriptive Statistics
+1350,Training And Development
+1351,Customer Service Training
+1352,Peer Support
+1353,Training Programs
+1354,Total Economic Value
+1355,Ecological Restoration
+1356,Natural Capital
+1357,Ecosystems
+1358,Wicked Problem
+1359,Ecosystem
+1360,Sustainable Business
+1361,Ecosystem Services
+1362,Health Hazard
+1363,Hazard Function
+1364,Safety Hazard
+1365,Environmental Hazard
+1366,Hazard
+1367,Moral Hazard
+1368,Hazard Analysis
+1369,Morale Hazard
+1370,Sustainable Consumption
+1371,Systems Thinking
+1372,Carbon Footprint
+1373,Price Discrimination
+1374,Economic Rent
+1375,Cost Of Goods Sold
+1376,Studentized Residual
+1377,Price Dispersion
+1378,Risk Assessment
+1379,Strategic Analysis
+1380,Sampling Statistics
+1381,Auditor'S Report
+1382,Risk Based Internal Audit
+1383,Decision Tree
+1384,Sales Strategy
+1385,Web Development
+1386,Blog Posts
+1387,E-Commerce
+1388,Content Management System
+1389,Website Management
+1390,Breach (Security Exploit)
+1391,Debtor
+1392,Expense
+1393,Must
+1394,Workforce Management
+1395,Running
+1396,Three-Point Estimation
+1397,Business Strategy
+1398,Psychological Tools
+1399,File Shortcut
+1400,Data Reporting
+1401,Quickbooks
+1402,Write-Off
+1403,Project Charter
+1404,Sales Presentation
+1405,Inbound Sales
+1406,Social Selling
+1407,Proposition
+1408,Sales Process Engineering
+1409,Sales Development
+1410,Management Consulting
+1411,Salesforce
+1412,Exhibitions
+1413,Selling Techniques
+1414,Marketing Collateral
+1415,Motivational Interviewing
+1416,Course Development
+1417,Technical Recruiting
+1418,Media Training
+1419,Lead Qualification
+1420,Training Procedures
+1421,Building Relationships
+1422,Process Improvement
+1423,Team Management
+1424,Lean Six Sigma
+1425,Six Sigma
+1426,Trigonometric Integral
+1427,Normal Distribution
+1428,Binomial Distribution
+1429,Computer Programming
+1430,Cash Conversion Cycle
+1431,Supply Chain Analytics
+1432,Benchmarking
+1433,Value Chain
+1434,Demand Planning
+1435,Seasonality
+1436,Inventory Turnover
+1437,Inventory Control
+1438,Inventory Management Software
+1439,Reorder Point
+1440,Industrial Engineering
+1441,Supply Chain Planning
+1442,Supply Chain Strategy
+1443,Push Pull Strategy
+1444,Transportation Logistics
+1445,Logistics Planning
+1446,Sales Goals
+1447,Sales Meetings
+1448,New Business Development
+1449,Sales Management
+1450,Lead Generation
+1451,Tax Returns
+1452,Federal Tax Returns
+1453,Tax Preparation
+1454,Individual Tax Returns
+1455,Residence
+1456,Adjusted Basis
+1457,Amortization
+1458,Depletion (Accounting)
+1459,Cafeteria Plan
+1460,Depreciation
+1461,Income Taxation
+1462,Flow-Through Entity
+1463,Tax Advisor
+1464,Revenue Services
+1465,Enrolled Agent
+1466,Payroll
+1467,Local Tax Returns
+1468,Microsoft Visio
+1469,Sap Netweaver
+1470,Praise
+1471,Wholesale Banking
+1472,Early Adopter
+1473,Private Investment In Public Equity
+1474,Consumption (Economics)
+1475,Sg&A
+1476,Security Token
+1477,Double-Entry Bookkeeping System
+1478,Financial Services
+1479,Identity Management Systems
+1480,Biometrics
+1481,Decision Matrix
+1482,Market Research
+1483,Insead
+1484,Industry Analysis
+1485,Competitor Analysis
+1486,Capability Analysis
+1487,Diversification (Marketing Strategy)
+1488,Stakeholder Analysis
+1489,Scenario Planning
+1490,Growth Strategies
+1491,Real Options Valuation
+1492,Real Options
+1493,Strategy Implementation
+1494,Talent Management
+1495,International Business Strategy
+1496,Open Innovation
+1497,Enterprise System
+1498,Digital Strategy
+1499,Business Technology Management
+1500,Technology Management
+1501,Agile Management
+1502,Communication Planning
+1503,Operating Model
+1504,Switching Barriers
+1505,Facilitation
+1506,Organization Design
+1507,Organizational Chart
+1508,Organizational Development
+1509,Construction Management
+1510,Linearity
+1511,Schedule (Project Management)
+1512,Path (Variable)
+1513,Linear Scheduling Method
+1514,Earned Value Management
+1515,Cost Control
+1516,Cash Flow Management
+1517,Cost Estimate
+1518,Present Value
+1519,Spatial Data Analysis
+1520,Qualitative Data Analysis
+1521,Data Documentation
+1522,Geophysical Data
+1523,Data Analysis Software
+1524,Statistical Process Control
+1525,Data Warehouse Development
+1526,Data Warehousing
+1527,Data Warehouse Processing
+1528,Digital Native
+1529,Business Ecosystem
+1530,Innovation Game
+1531,Digital Footprint
+1532,Financial Services Companies
+1533,Strategic Partnerships
+1534,Banking
+1535,Hypercompetition
+1536,Insurance
+1537,Financial Regulation
+1538,Conspicuous Consumption
+1539,Foreign Branding
+1540,New Media
+1541,Self-Esteem
+1542,Relationship Marketing
+1543,Coping With
+1544,Strategic Alliances
+1545,Franchising
+1546,Business Failures
+1547,Marketing Research
+1548,Gift
+1549,Stewardship
+1550,Receiving
+1551,Advertising Mail
+1552,Tax Deduction
+1553,Operating Budget
+1554,Capital Structure
+1555,Money Flow Index
+1556,Product Design
+1557,Emerging Markets
+1558,Foreign Direct Investment
+1559,First-Mover Advantage
+1560,Global Value Chain
+1561,Market Analysis
+1562,Business Case
+1563,Decision Support System
+1564,Predictive Analytics
+1565,Patient Experience
+1566,Hotel Management
+1567,Distribution (Business)
+1568,Revenue Management
+1569,Hospitality Management
+1570,Chi-Squared Distribution
+1571,Pricing Strategies
+1572,Yield Management
+1573,Demand Management
+1574,Demand Generation
+1575,Bid Manager
+1576,Independent Director
+1577,Mind Map
+1578,Social Marketing
+1579,Interpolation
+1580,Online Shopping
+1581,Strategic Development
+1582,Security Compliance
+1583,Computer Performance
+1584,Cloud Computing Security
+1585,Product Development
+1586,Workspace
+1587,Message
+1588,Organizational Communication
+1589,Customer Value Proposition
+1590,Industrial And Organizational Psychology
+1591,Process Mapping Tools
+1592,Case Preparation
+1593,Sales Proposal
+1594,Lead Time Reduction
+1595,Sourcing Support
+1596,Worksheet
+1597,Intangibles
+1598,Cost Benefit Analysis
+1599,Outsourcing
+1600,Student'S T-Distribution
+1601,Virtual Class
+1602,Large-Group Communication
+1603,Total Cost Of Ownership
+1604,Pointing Device Gesture
+1605,Demand Modeling
+1606,Recession
+1607,Fiscal Policy
+1608,Unemployment
+1609,Monetary Policy
+1610,Inflation
+1611,Unsupervised Learning
+1612,Deep Learning
+1613,Corporate Sustainability
+1614,Circular Economy
+1615,Negotiation Theory
+1616,Mechanical Engineering
+1617,Industrial Design
+1618,Pdca
+1619,Systems Analysis
+1620,Sipoc
+1621,Grey Market
+1622,Store Brand
+1623,Business Development
+1624,Interest
+1625,Value Capture
+1626,Project Management Professional
+1627,Microeconomics
+1628,Act Up
+1629,Scanning
+1630,Executive Officer
+1631,Business Research
+1632,Procurement Principles
+1633,Global Procurement
+1634,Procurement Contracts
+1635,Procurement System
+1636,Team Building
+1637,Transporting
+1638,Investing Online
+1639,Private Equity
+1640,Loyalty Program
+1641,Data-Informed Decision-Making
+1642,Leverage (Finance)
+1643,Green Marketing
+1644,Consumer Electronics
+1645,Time Horizon
+1646,Treatment And Control Groups
+1647,Reduced Cost
+1648,Correlation Does Not Imply Causation
+1649,Go To Market
+1650,Fiscal Year
+1651,Visual Basic
+1652,Biomedical Engineering
+1653,Open Collaboration
+1654,Open Space Technology
+1655,Diffusion Of Innovations
+1656,Open-Source Robotics
+1657,Communication In Small Groups
+1658,Capital Employed
+1659,Return On Capital
+1660,Strategic Sourcing
+1661,Investment Decisions
+1662,Product Strategy
+1663,Employee Engagement
+1664,People Management
+1665,Adoption
+1666,Critical Success Factor
+1667,Accenture
+1668,Price War
+1669,Catia
+1670,Brand Management
+1671,Branding Communication
+1672,Brand Awareness
+1673,Brand Strength Analysis
+1674,Rowing
+1675,Interest Rate
+1676,Touchpoint
+1677,Prototype-Based Programming
+1678,Global Supply Chain Management
+1679,Research Methods
+1680,Usability
+1681,Digital Sales
+1682,Gross Income
+1683,International Sales
+1684,Hashtags
+1685,Pension Tax Simplification
+1686,Path Dependence
+1687,Green Strategy
+1688,Just-In-Time Manufacturing
+1689,Multicloud
+1690,Long Reach Ethernet
+1691,Leadership Style
+1692,Self-Selection Bias
+1693,Product Differentiation
+1694,Cheating
+1695,Market Power
+1696,Artificial Neural Networks
+1697,Run-Length Encoding
+1698,Dropdown Menu
+1699,Graphs
+1700,Sales Opportunities
+1701,Global Marketing
+1702,Tutor
+1703,Market Conditions
+1704,Drop Shipping
+1705,Purchasing
+1706,Home Directory
+1707,Mortgage
+1708,Mortgage Loan
+1709,Well-Formed Formula
+1710,Future Value
+1711,Strategic Communication
+1712,Conformity
+1713,Purchasing Management
+1714,Product Information Management
+1715,Verification And Validation
+1716,Authorization
+1717,Html
+1718,Dynamic Html
+1719,Divestment
+1720,Corporate Headquarters
+1721,Undertakings For Collective Investment In Transferable Securities Directive 2009
+1722,Amsterdam Ordnance Datum
+1723,Systems Development Life Cycle
+1724,Patent Law
+1725,Customer Relationship Management
+1726,Intrapreneurship
+1727,Workload
+1728,Kanban
+1729,Agile Software Development
+1730,Time Limit
+1731,Interim Management
+1732,Constraint Algorithm
+1733,Maturity (Finance)
+1734,Data Quality
+1735,Enterprise Information Management
+1736,Working Capital
+1737,Situation Analysis
+1738,Financial Management
+1739,Budget Development
+1740,Process Mapping
+1741,Recurrent Neural Network
+1742,Speech Recognition
+1743,Handwriting Recognition
+1744,Natural Language Processing
+1745,Ethics Of Artificial Intelligence
+1746,Quantitative Marketing Research
+1747,Sigchi
+1748,Operations Research
+1749,Marketing Consulting
+1750,Product Research
+1751,Technology Research
+1752,Marketing Psychology
+1753,Technical Feasibility
+1754,Legal Project Management
+1755,Property Evaluation
+1756,Intellectual Capital Management
+1757,Scientific Management
+1758,Master Of Science In Project Management
+1759,Intellectual Capital
+1760,User Story
+1761,Litigation Public Relations
+1762,Administration Management
+1763,Subscriber Identity Module
+1764,Visa Inc.
+1765,Confession
+1766,Wireless Network Interface Controller
+1767,Cloud Platforms
+1768,Google Cloud Platform
+1769,Low Latency
+1770,Stress
+1771,Environmental Factor
+1772,Weighting
+1773,Connected Car
+1774,How We Decide
+1775,Smart Mob
+1776,Standards Organization
+1777,Voting
+1778,Hubspot
+1779,E-Types
+1780,Competitive Intelligence
+1781,Sales Intelligence
+1782,Intelligence Analysis
+1783,Sales Calls
+1784,Sales Operations
+1785,Resource Allocation
+1786,Retail Channel
+1787,Marketing Management
+1788,Cause Marketing
+1789,Supplier Selection
+1790,Hierarchical Organization
+1791,Cost Leadership
+1792,Growth Share Matrix
+1793,Trade Finance
+1794,Supply Chain Sourcing
+1795,Supplier Evaluation
+1796,Sourcing Best Practices
+1797,Style Sheets
+1798,Html And Css
+1799,Css
+1800,Debugging
+1801,Web Application
+1802,Web Page
+1803,Object Model
+1804,Document Object Model
+1805,Object (Computer Science)
+1806,Observer Pattern
+1807,Front And Back Ends
+1808,Universal Windows Platform Apps
+1809,Mature Technology
+1810,Entrepreneurship Ecosystem
+1811,Creative Entrepreneurship
+1812,Product/Market Fit
+1813,Minimum Viable Product
+1814,Customer Analysis
+1815,Weighted Average Cost Of Capital
+1816,Return On Investment
+1817,Net Present Value
+1818,Active Management
+1819,Venture Capital
+1820,Investment Fund
+1821,Opportunity Identification
+1822,Due Diligence
+1823,Angel Investor
+1824,Convertible Bond
+1825,Venture Capital Financing
+1826,Problem Finding
+1827,Lean Startup
+1828,B2B E-Commerce
+1829,Media Campaigns
+1830,Social Media Campaigns
+1831,Personal Finance
+1832,Marketing Channel
+1833,Talent Management System
+1834,Dissent
+1835,Entrepreneurial Leadership
+1836,Financial Forecast
+1837,Go-To-Market Strategy
+1838,Concept Development
+1839,Impact Investing
+1840,Analyse Financière
+1841,Social Impact Bond
+1842,Bonds (Finance)
+1843,Forts
+1844,"Cut, Copy, And Paste"
+1845,Portfolio (Finance)
+1846,Restaurant Management
+1847,Elementary Mathematics
+1848,Brand Marketing
+1849,Brand Equity
+1850,Gross Margin
+1851,Legal Advertising
+1852,Mailchimp
+1853,Growth Hacking
+1854,Cash Flow Forecasting
+1855,Economic Development
+1856,Mentorship
+1857,Support Group
+1858,Choice
+1859,Investment Banking
+1860,Funding Options
+1861,Revenue Operations
+1862,Moscow Method
+1863,Impact Evaluation
+1864,Social Return On Investment
+1865,Asset Liability Management
+1866,Direct Selling
+1867,Food Security
+1868,Farm
+1869,Agricultural Products
+1870,Calibration
+1871,Maintenance
+1872,3D Printing
+1873,Checklist
+1874,Sales Cycle
+1875,Sales Effectiveness
+1876,Business Administration
+1877,Population
+1878,Instructional Design
+1879,Social Work
+1880,Effectuation
+1881,Trade-Off
+1882,Printmaking
+1883,Efficient Frontier
+1884,New Product Development
+1885,Behalf
+1886,Scope (Project Management)
+1887,Entertainment Management
+1888,Travel Management
+1889,Project Scope Definition
+1890,Development Communication
+1891,Marketing Content Development
+1892,Leadership Development
+1893,Ux Wireframes
+1894,Quantum Computing
+1895,Bargaining
+1896,Retail Management
+1897,Rapport
+1898,Solidworks
+1899,Green Energy
+1900,Green Building
+1901,Renewable Energy
+1902,Entrepreneurial Finance
+1903,Internal Entrepreneur
+1904,Media Planning
+1905,Lesson Plan
+1906,Corporate Social Entrepreneurship
+1907,Printer (Computing)
+1908,Manufacturing Processes
+1909,Advent
+1910,Supervision
+1911,Alt-A
+1912,Client Representation
+1913,Social Project Management
+1914,Little B (Programming Language)
+1915,Creed & Company
+1916,Throughput (Business)
+1917,Product Concept
+1918,Group Processes
+1919,User Journey
+1920,Marketing Design
+1921,Chain-Ladder Method
+1922,Poser
+1923,Economic Evaluation
+1924,D (Data Language Specification)
+1925,Experience Curve Effects
+1926,3D Scanner
+1927,Chemical Engineering
+1928,Mir
+1929,Qa & Ux Manager
+1930,Microfinance
+1931,Project Team
+1932,Social Support
+1933,Social Venture Capital
+1934,Exit Strategy
+1935,Impact Assessment
+1936,Solid Waste Management
+1937,Business Design
+1938,Budgeted Cost Of Work Performed
+1939,Kiss Principle
+1940,Personality
+1941,Gantt Chart
+1942,Hype Cycle
+1943,Value Network
+1944,Customer Engagement
+1945,Learning Styles
+1946,Crowding
+1947,Enterprise Value
+1948,Capital Adequacy Ratio
+1949,Capital Asset
+1950,Capital Requirement
+1951,Discounting
+1952,Effective Interest Rate
+1953,Annuity
+1954,Financing Cost
+1955,Valuation (Finance)
+1956,Financial Literacy
+1957,Financial Statement Analysis
+1958,Statement Analysis
+1959,Performance Analysis
+1960,Capitalization Table
+1961,Credit
+1962,Peer-To-Peer Lending
+1963,Liquidation
+1964,Footprint
+1965,One-Way Function
+1966,Cryptographic Hash Function
+1967,Hashing
+1968,Symmetric-Key Algorithm
+1969,Encryption
+1970,Econometrics
+1971,Value At Risk
+1972,Financial Risk Management
+1973,Financial Risk
+1974,Internal Audit
+1975,Credit Rating Agencies
+1976,Financial Intermediary
+1977,Price Discovery
+1978,Commodity Markets
+1979,Foreign Exchange
+1980,Capital Market
+1981,Underlying (Finance)
+1982,Systematic Risk
+1983,Expected Return
+1984,Report Analysis
+1985,Key Market
+1986,Stock Market
+1987,Mathematical Finance
+1988,Market Correction
+1989,Market Anomaly
+1990,Consumer Debt
+1991,Government Debt
+1992,Financial Problems
+1993,Problem Statement
+1994,Flow (Psychology)
+1995,Investment Strategy
+1996,Efficient-Market Hypothesis
+1997,Financial Plan
+1998,Leveraged Buyout
+1999,Credit Risk
+2000,Buyout
+2001,Currency Trading
+2002,Bond Market
+2003,Market Portfolio
+2004,Capital Market Line
+2005,Cognitive Bias
+2006,Behavioral Finance
+2007,Mental Accounting
+2008,Loss Aversion
+2009,Ambiguity Aversion
+2010,Base Rate Fallacy
+2011,Value Investing
+2012,Index Fund
+2013,Asset Allocation
+2014,Hedge (Finance)
+2015,Arithmetic
+2016,Portfolio Optimization
+2017,Preference
+2018,Credit Cards
+2019,Payment Systems
+2020,Fintech In India
+2021,Business Consulting
+2022,Virtual Private Networks
+2023,Economic Capital
+2024,Pro Forma
+2025,Global Financial Crisis
+2026,Global Financial System
+2027,Shadow Banking System
+2028,Consensus (Computer Science)
+2029,Financial System
+2030,Proof-Of-Stake
+2031,Insurance Companies
+2032,Open Banking
+2033,Financial Crisis Of 2007 08
+2034,Perpetuity
+2035,Loan
+2036,Bond Valuation
+2037,Average Cost Method
+2038,Diversification (Finance)
+2039,Health Insurance
+2040,Medical Device
+2041,Medical Devices
+2042,Healthcare Management
+2043,Accountable Care Organization
+2044,Physician
+2045,Primary Care Physician
+2046,Physicians
+2047,Healthcare Delivery Systems
+2048,Patient
+2049,Specialty Care
+2050,Pharmaceutical Industry
+2051,Pharmaceutical Marketing
+2052,Clinical Trials
+2053,Medical Technology
+2054,Clinical Trial
+2055,Trial Design
+2056,Health Care
+2057,Efficacy
+2058,Voice Of The Customer
+2059,Probability
+2060,Interval Estimation
+2061,Randomness
+2062,Standard Deviation
+2063,Point Estimation
+2064,Categorical Variable
+2065,Null Hypothesis
+2066,Central Tendency
+2067,Stock Valuation
+2068,Portfolio Construction
+2069,Event Study
+2070,Investment Management
+2071,Modern Portfolio Theory
+2072,Sharpe Ratio
+2073,Tracking Error
+2074,Risksystem
+2075,Wealth Management
+2076,Equity (Finance)
+2077,Investment Style
+2078,Portfolio Theories
+2079,Rate Of Return
+2080,Investment Policy
+2081,Tactical Asset Allocation
+2082,Rebalancing Investments
+2083,Portfolio Investment
+2084,Python Programming
+2085,Covariance Matrix
+2086,Covariance
+2087,Cross-Validation (Statistics)
+2088,Loss Function
+2089,Peterson'S Algorithm
+2090,Economic Data
+2091,Text Mining
+2092,Bootstrap Aggregating
+2093,Prior Probability
+2094,Tf Idf
+2095,Sentiment Analysis
+2096,Externality
+2097,Real Income
+2098,Price Level
+2099,Economic Policy
+2100,Aggregate Income
+2101,Aggregate Expenditure
+2102,Economic Value Added
+2103,Computerized Accounting
+2104,Accounting Regulations
+2105,Generally Accepted Accounting Principles (Gaap)
+2106,Gift Accounting
+2107,Ifrs 9
+2108,Show Me!
+2109,Derivative (Finance)
+2110,Financial Engineering
+2111,Variance
+2112,Federal Funds Rate
+2113,Interest Rate Derivative
+2114,Rate Risk
+2115,Interest Rate Risk
+2116,Options Strategies
+2117,Valuation Of Options
+2118,Business Valuation
+2119,Accuracy And Precision
+2120,Miller
+2121,Private Equity Fund
+2122,Sortino Ratio
+2123,Stock Split
+2124,Risk-Free Interest Rate
+2125,Jensen'S Alpha
+2126,Seeks
+2127,Behavioral Decision
+2128,Cost Allocation
+2129,Profit Analysis
+2130,Contribution Margin
+2131,Forensics
+2132,Fraud Investigation
+2133,Forensic Accounting
+2134,Fraud Deterrence
+2135,Fraud Detection
+2136,Profit Margin
+2137,Finance Charge
+2138,Syndicated Loan
+2139,Borrowing Base
+2140,Interest Rate Swap
+2141,Commercial Credit Reporting
+2142,Total Absorption Costing
+2143,Fixed Income Securities
+2144,Current Yield
+2145,Fixed Income
+2146,Sql
+2147,Planner (Programming Language)
+2148,Marketing Intelligence
+2149,Yield Curve
+2150,Forward Rate
+2151,Coupon (Bond)
+2152,Forward Price
+2153,Money Market
+2154,Stochastic Calculus
+2155,Director-General
+2156,Standard Accounting Practice
+2157,Moving Average
+2158,Moving-Average Model
+2159,Infrastructure Investment
+2160,Socially Responsible Investing
+2161,Software Testing
+2162,Extract
+2163,Probability Of Default
+2164,Expected Loss
+2165,Market Risk
+2166,Credit Default Swap
+2167,Margin At Risk
+2168,Credit Valuation Adjustment
+2169,Single-Loss Expectancy
+2170,Equity Value
+2171,Public Float
+2172,Https
+2173,Volatility Smile
+2174,Algorithmic Trading
+2175,Invoicing
+2176,Specific Risk
+2177,Bond Credit Rating
+2178,Zero-Coupon Bond
+2179,Money Management
+2180,Hedge Funds
+2181,Par Value
+2182,Net Profit
+2183,Child Benefit
+2184,Negative Income Tax
+2185,Digital Signature
+2186,Policy Research
+2187,Safety
+2188,Baby Bonus
+2189,Personal Budget
+2190,Professional Development
+2191,Regulatory Compliance
+2192,Non-Bank Financial Institution
+2193,Voting Interest
+2194,Netting
+2195,House Plan
+2196,Analysis Of Variance
+2197,Cash Is King
+2198,Elisa
+2199,Das Kapital
+2200,Presales
+2201,Market Penetration
+2202,Market Share
+2203,Trading Strategy
+2204,Post-Earnings-Announcement Drift
+2205,Discipline
+2206,F1 Score
+2207,Algorithmics
+2208,Backtesting
+2209,Standard Score
+2210,Expected Utility Hypothesis
+2211,Market Liquidity
+2212,High-Yield Debt
+2213,Deal Transaction
+2214,Discounted Cash Flow
+2215,Earnings Per Share
+2216,External Financing
+2217,Sustainable Growth Rate
+2218,Payback Period
+2219,Request For Proposal
+2220,Activity Based Costing
+2221,Coefficient
+2222,Resilience
+2223,Stress Management
+2224,Cultural Intelligence
+2225,Family
+2226,Career Counseling
+2227,Adaptability
+2228,Self-Help
+2229,Social Cognitive Theory
+2230,Self-Awareness
+2231,Project Management Body Of Knowledge
+2232,Project Cost Management
+2233,Project Risk Management
+2234,Project Design
+2235,Business Agility
+2236,Change Management (Engineering)
+2237,Agile Leadership
+2238,Personal Information Management
+2239,Intergenerational Equity
+2240,Sustainability Accounting
+2241,Green Design
+2242,Social Accounting
+2243,Global Reporting Initiative
+2244,Emissions Trading
+2245,Carbon
+2246,Emotional Competence
+2247,Management Theory
+2248,Control (Management)
+2249,Competence (Human Resources)
+2250,Vision Statement
+2251,Oral Communication
+2252,Engineering Leadership
+2253,I-Message
+2254,Crisis Communication
+2255,Interpersonal Relationships
+2256,Concision
+2257,Engineering Management
+2258,Product Planning
+2259,Scope Statement
+2260,Value Premium
+2261,Multidisciplinary Approach
+2262,Channel Use
+2263,Sports
+2264,Sports Analytics
+2265,Topic And Comment
+2266,Paving
+2267,Data Science
+2268,Decision Management
+2269,Human Communication
+2270,Wimax
+2271,Team Leader
+2272,Organizational Behavior
+2273,Forensic Psychology
+2274,Anxiety
+2275,Formal Organization
+2276,Procurement Practices
+2277,Procurement Planning
+2278,Category Management
+2279,Supplier Management
+2280,Procurement Negotiations
+2281,Assertiveness
+2282,Decision Model
+2283,Operational Analysis
+2284,Hr Strategy
+2285,Human Resource Management System
+2286,Job Analysis
+2287,Harassment
+2288,Staffing
+2289,Expectancy Theory
+2290,Concept Testing
+2291,Volunteer Management
+2292,Opentext
+2293,Service Review
+2294,Subversive Proposal
+2295,Build Operate Transfer
+2296,Audit Committee
+2297,News Management
+2298,Program Planning
+2299,Deception
+2300,Human Error Assessment And Reduction Technique
+2301,Incentive
+2302,Risk Management Framework
+2303,Enterprise Risk Management
+2304,Consensus Decision-Making
+2305,Compassion
+2306,Career Development
+2307,Ibm Tpns
+2308,Government Budget Balance
+2309,Appreciative Inquiry
+2310,Interpersonal Conflict
+2311,Proactivity
+2312,Smart Criteria
+2313,Employee Motivation
+2314,Leadership Dynamics
+2315,Divorce
+2316,Definition Of The Situation
+2317,Community Engagement
+2318,Triple Bottom Line
+2319,Community Development
+2320,Needs Assessment
+2321,Job Design
+2322,Diversity (Business)
+2323,Meaning-Making
+2324,Organizational Conflict
+2325,Presentation Design
+2326,Community Management
+2327,Applicant Tracking System
+2328,Paycheck
+2329,Rankings
+2330,Smart City
+2331,Program Management
+2332,Communications Technology
+2333,Network Model
+2334,Job Performance
+2335,Sap Hr (Human Resource Management)
+2336,Diversity Training
+2337,Process Modeling
+2338,Lucidchart
+2339,Critical Path Method
+2340,Precedence Diagram Method
+2341,Shareholder Value
+2342,Vitality Curve
+2343,Sponsorships
+2344,Video Design
+2345,Customer Loyalty Programs
+2346,Digitizing
+2347,Software Project Management
+2348,Decision Theory
+2349,Energy Systems
+2350,Urban Planning
+2351,Traffic Management
+2352,City Management
+2353,Window Blind
+2354,Lean Project Management
+2355,Translation
+2356,Committee
+2357,Corporate Action
+2358,Corporate Directors
+2359,Microsoft Access
+2360,Ripple Effect
+2361,Survey Design
+2362,Wholesaling
+2363,Rippling
+2364,Fare
+2365,Use Case
+2366,Employee Relations
+2367,Group Work
+2368,Group Development
+2369,A T.I.M.E.
+2370,Workshops
+2371,Information Design
+2372,Self-Motivation
+2373,Social Capital
+2374,Goal Setting
+2375,Stationary Process
+2376,Autoregressive Model
+2377,Time Series
+2378,Affinity Analysis
+2379,Data Clustering Algorithms
+2380,Nearest Neighbor Search
+2381,K-Means Clustering
+2382,Statistical Classification
+2383,Recommender Systems
+2384,Form Building
+2385,Respondent
+2386,Unix
+2387,Cultural Bias
+2388,Ethanol
+2389,Cultural Divide
+2390,Cultural Learning
+2391,Low Culture
+2392,Symbiosis
+2393,Hospitality Management Studies
+2394,Media Development
+2395,Executive Sponsor
+2396,Development Director
+2397,Smart Grid
+2398,Fingerprints
+2399,Software Development Process
+2400,Disintermediation
+2401,Chief Innovation Officer
+2402,Risk Pool
+2403,Supply Chain Costs
+2404,Supply Chain Risk Management
+2405,Matching
+2406,Combine
+2407,Switches
+2408,Consumer Neuroscience
+2409,Term (Time)
+2410,Interrupts
+2411,A/B Testing
+2412,Conjoint Analysis
+2413,Network Analysis
+2414,Birds Eye
+2415,Cure
+2416,My Own Country
+2417,Social Network Analysis
+2418,Closed-Form Expression
+2419,Old Media
+2420,Pareto Chart
+2421,Box Plot
+2422,Histogram
+2423,Model-Based Systems Engineering
+2424,Mbase
+2425,Powtoon
+2426,Educational Materials
+2427,Human Sexuality
+2428,Prejudice And Discrimination
+2429,Gender Inequality
+2430,Intrapersonal Communication
+2431,Stock Market Simulator
+2432,Exit (System Call)
+2433,Univariate
+2434,Curse Of Dimensionality
+2435,Dependent And Independent Variables
+2436,Dimensionality Reduction
+2437,Univariate Analysis
+2438,Strategic Leadership
+2439,Management Consultants
+2440,Internal Communications
+2441,Customer Relationship Management Software
+2442,Norma
+2443,Nursing Informatics
+2444,Informatics
+2445,Nursing
+2446,Social Influence
+2447,Case Competition
+2448,Change Control
+2449,Budget Estimation
+2450,B2B Sales
+2451,Product Marketing
+2452,Outside Sales
+2453,Expense Management
+2454,Sales Quota
+2455,Territory Management
+2456,Sales Territory
+2457,Market Manipulation
+2458,Training Materials
+2459,Green Belt
+2460,Six Sigma Green Belt
+2461,Process Control
+2462,Experimental Design
+2463,Complex Adaptive System
+2464,Organizational Psychology
+2465,Blindspots Analysis
+2466,Counseling Psychology
+2467,Continuous Delivery
+2468,Devops
+2469,Kubernetes
+2470,Wilmagate
+2471,Continuous Integration
+2472,Critical Graph
+2473,Organizational Theory
+2474,Management Development
+2475,Project Portfolio Management
+2476,Organizational Performance
+2477,Line Management
+2478,Customer Analytics
+2479,Interruption Marketing
+2480,Positioning (Marketing)
+2481,Business Marketing
+2482,Content Strategy
+2483,Blogging
+2484,Video Blog
+2485,Lifestyle Trends And Media
+2486,Advertising Campaigns
+2487,Search Engine Optimization
+2488,Digital Advertising
+2489,Contextual Advertising
+2490,Search Algorithm
+2491,Pay Per Click
+2492,Coffee (Cinema 4D)
+2493,Native Advertising
+2494,Product Placement
+2495,Promotion (Marketing)
+2496,Mobile Marketing
+2497,Brick And Mortar
+2498,Augmented Reality
+2499,Coloured Book Protocols
+2500,Trade Marketing
+2501,Content Development
+2502,Public Relations
+2503,Brand Pricing
+2504,Value Of Information
+2505,Probability Distribution
+2506,Choice Modelling
+2507,Marketing Mix Modeling
+2508,Factor Analysis
+2509,Perceptual Mapping
+2510,Social Media Measurement
+2511,Media Monitoring
+2512,Data Mining
+2513,Social Media Analytics
+2514,Logistic Regression
+2515,Regression Validation
+2516,Brand Architecture
+2517,Brand Engagement
+2518,Dynamic Pricing
+2519,Market Dynamics
+2520,Retailing
+2521,Marketing Myopia
+2522,Strategic Alignment
+2523,Dominant Design
+2524,International Finance
+2525,Business To Many
+2526,Variable Pricing
+2527,Viral Marketing
+2528,Pricing Analysis
+2529,Category Targets
+2530,Primary Research
+2531,Secondary Research
+2532,Observational Techniques
+2533,Quantitative Research
+2534,Interpreting Notes
+2535,Focus Group
+2536,Qualitative Research
+2537,Copy Testing
+2538,Word-Of-Mouth Marketing
+2539,Social Networking
+2540,Digital Branding
+2541,Advertising Terminology
+2542,Sostac
+2543,Social Network Advertising
+2544,Psychological Pricing
+2545,Channel Management
+2546,Integrated Marketing Communications
+2547,Advertising Management
+2548,Buyer Decision Process
+2549,Buying Decision Process
+2550,Promotional Mix
+2551,E-Nable
+2552,Multi-Level Marketing
+2553,Frequency Capping
+2554,Budget Management
+2555,Webcams
+2556,Algorithms
+2557,Marketing Materials
+2558,Promotional Merchandise
+2559,Google Analytics
+2560,Product Sales
+2561,Bose Einstein Statistics
+2562,Conversion Tracking
+2563,Group Key
+2564,Noise
+2565,Principal Component Analysis
+2566,No Frills
+2567,Feature Selection
+2568,Types Of Branding
+2569,Sponsor (Commercial)
+2570,Java Code Coverage Tools
+2571,Commodities
+2572,Service Management
+2573,Brand Loyalty
+2574,Historical Cost
+2575,Market Sector
+2576,Cobra Administration
+2577,Mixed Reality
+2578,Sport Communication
+2579,Press Release
+2580,Checklists
+2581,Style Guide
+2582,Customer Lifetime Value
+2583,Stata
+2584,Social Media Influencers
+2585,Display Devices
+2586,Display Campaigns
+2587,Prevention
+2588,Line Chart
+2589,Visual Basic .Net
+2590,Web Analytics
+2591,Workaround
+2592,Google Adsense
+2593,Keyword Research
+2594,Project Networks
+2595,Eye Tracking
+2596,Neuromarketing
+2597,Heart Rate Variability
+2598,Heart Rate
+2599,Arousal
+2600,Marketing Copy
+2601,Design Expert
+2602,Digital Distribution
+2603,Feasibility Study
+2604,Product Lining
+2605,Brand Design
+2606,Email Marketing Campaign
+2607,Email Campaigns
+2608,Return On Marketing Investment
+2609,Boosting (Machine Learning)
+2610,Scheduling (Production Processes)
+2611,Production Schedules
+2612,Media & Citizenship
+2613,Uniform Resource Locator
+2614,Mobile Web
+2615,Website Builder
+2616,Price Optimization
+2617,Willingness To Pay
+2618,Value-Based Pricing
+2619,Gleaning
+2620,Semantics
+2621,Seo Audit
+2622,Content Audit
+2623,Social Media Tools
+2624,Engagement Marketing
+2625,Marketing Automation
+2626,Mass Media
+2627,Cold Calling
+2628,Mass Marketing
+2629,Shopping
+2630,Go (Programming Language)
+2631,Rfm (Customer Value)
+2632,Sap Erp
+2633,Digital Master
+2634,Digital Media Player
+2635,Digital Environment
+2636,Digital Recording
+2637,Digital Watermarking
+2638,Digital Imaging
+2639,Image Retrieval
+2640,Computer Vision
+2641,Image Processing
+2642,Convolution
+2643,Object Detection
+2644,Image Segmentation
+2645,Convolutional Neural Network
+2646,Gaussian Process
+2647,Bayesian Optimization
+2648,Tracking System
+2649,Bayesian
+2650,System Requirements
+2651,Application Layer
+2652,Digital Currency
+2653,Hash Function
+2654,Password
+2655,String (Computer Science)
+2656,Multiple Histories
+2657,C Process Control
+2658,Data Sharing
+2659,Authentication
+2660,Data Structures
+2661,Gossip Protocol
+2662,Failure Detector
+2663,Distributed Computing
+2664,Reliable Multicast
+2665,Mapreduce
+2666,Multicast
+2667,Distributed Algorithm
+2668,Gossip
+2669,File System
+2670,Sed
+2671,Apache Zookeeper
+2672,Distributed File Systems
+2673,Mutual Exclusion
+2674,Sensor Network
+2675,Combinatorial Search
+2676,Laravel
+2677,Bioinformatics
+2678,C++
+2679,Algorithmic Paradigm
+2680,Combinatorial Algorithms
+2681,Stress Testing
+2682,Greedy Algorithm
+2683,Divide And Conquer Algorithms
+2684,Algorithm Design
+2685,Dynamic Programming
+2686,Random Binary Tree
+2687,Binary Tree
+2688,Red Black Tree
+2689,Parse Tree
+2690,Search Tree
+2691,Binary Search Algorithm
+2692,Splay Tree
+2693,Binary Search Tree
+2694,Priority Queue
+2695,Hash Table
+2696,Link/Cut Tree
+2697,Tree Traversal
+2698,2 3 Tree
+2699,Steiner Tree Problem
+2700,Dijkstra'S Algorithm
+2701,Graph Algorithms
+2702,Graph Theory
+2703,Graph Traversal
+2704,Breadth-First Search
+2705,Bellman Ford Algorithm
+2706,Sorting Algorithm
+2707,Hyperparameter
+2708,Metaheuristics
+2709,Automated Business Process
+2710,Partial Sorting
+2711,Pattern Matching
+2712,Algorithms On Strings
+2713,Suffix Array
+2714,Burrows Wheeler Transform
+2715,Knuth Morris Pratt Algorithm
+2716,Arrays
+2717,Suffix Tree
+2718,Np-Completeness
+2719,Maximum Flow Problem
+2720,Linear Programming
+2721,Dna Sequencing
+2722,Genomics
+2723,Dna
+2724,K-Mer
+2725,Gene
+2726,Assembly (Programming)
+2727,Approximation Error
+2728,Visual Basic For Applications (Vba)
+2729,Combo Box
+2730,Functional Programming
+2731,Apache Spark
+2732,Apache
+2733,Scala Programming
+2734,Unified Parallel C
+2735,Genetic Algorithms
+2736,Booting
+2737,Ipython
+2738,Temporal Logic
+2739,Cognitive Linguistics
+2740,Proof Theory
+2741,Discrete Mathematics
+2742,Mathematics
+2743,Mathematical Induction
+2744,Mathematical Logic
+2745,Permutations
+2746,Probability Theory
+2747,Combination
+2748,Random Variable
+2749,Combinatorics
+2750,Equiprobability
+2751,Graph Coloring
+2752,Stable Marriage Problem
+2753,Planar Graphs
+2754,Ramsey'S Theorem
+2755,Eulerian Path
+2756,Cryptographic Algorithms
+2757,Modular Exponentiation
+2758,Number Theory
+2759,Integer Factorization
+2760,Primality Tests
+2761,Branch And Bound
+2762,Approximation Algorithm
+2763,Approximation
+2764,Travelling Salesman Problem
+2765,Syntax
+2766,Data Type
+2767,C Programming
+2768,C Syntax
+2769,Reinforcement Learning
+2770,Classical Mechanics
+2771,Factorial
+2772,Automaton
+2773,Kotlin (Programming Language)
+2774,Computational Problem
+2775,Problem Description Writing
+2776,Machine Vision
+2777,Binocular Vision
+2778,Edge Detection
+2779,Matrix Representation
+2780,Mental Images
+2781,Evolutionary Processes
+2782,Evolutionary Algorithms
+2783,Bioinformatics Analysis
+2784,Load Balancing
+2785,Polynomial
+2786,Hindley Milner Type System
+2787,Polynomial-Time Approximation Scheme
+2788,Lambda Cube
+2789,Binary Decision Diagram
+2790,Boolean Algebra
+2791,3D Lookup Table
+2792,Logic Gate
+2793,Sigma-Algebra
+2794,Python Syntax And Semantics
+2795,Type Variable
+2796,While Loop
+2797,Algorithmic Art
+2798,Computational Thinking
+2799,Human Trafficking
+2800,Epidemiology
+2801,Nested Function
+2802,Recursion
+2803,Computer Data Storage
+2804,Multiple Recursion
+2805,Maximal Independent Set
+2806,Least Squares
+2807,Iterative Methods
+2808,Linear Equation
+2809,Ordinary Least Squares
+2810,Linear Algebra
+2811,Numerical Analysis
+2812,Numerical Linear Algebra
+2813,System Of Linear Equations
+2814,Numerical Differentiation
+2815,Geometry
+2816,Range Searching
+2817,Sweep Line Algorithm
+2818,Range Tree
+2819,Convex Hull
+2820,Orthogonality
+2821,Fractional Cascading
+2822,Radix Sort
+2823,Java (Software Platform)
+2824,Data Compression
+2825,Java Programming
+2826,Angularjs
+2827,Event-Driven Programming
+2828,Automated Reasoning
+2829,Linear Inequality
+2830,Model Checkers
+2831,Binary Arithmetic
+2832,Subderivative
+2833,Turán Number
+2834,Differentiation Rules
+2835,Linearly Disjoint
+2836,Power Iteration
+2837,Levi-Civita Symbol
+2838,K-Ary Tree
+2839,Gram Schmidt Process
+2840,Computer Architecture
+2841,Machine Code
+2842,Memory
+2843,Assembly Languages
+2844,Hardware Design
+2845,Hardware Description Language
+2846,Matlab
+2847,Digital Image Processing
+2848,Photogrammetry
+2849,Applications Of Computer Vision
+2850,Computervision
+2851,Static Timing Analysis
+2852,Simulated Annealing
+2853,Routing
+2854,Standard Cell
+2855,Dual Graph
+2856,Maximum Cut
+2857,Linear Programming Relaxation
+2858,Facility Location Problem
+2859,String Searching Algorithm
+2860,Insertion Sort
+2861,Theoretical Computer Science
+2862,Combinational Logic
+2863,Floating Point
+2864,Integer Overflow
+2865,Edit Distance
+2866,Segment Tree
+2867,Tailored Access Operations
+2868,Quantum Cryptography
+2869,Modulo Operation
+2870,Mask (Computing)
+2871,Line Segment Intersection
+2872,Geometric Algorithms
+2873,Space Time Tradeoff
+2874,Line Segment
+2875,Nielsen Ratings
+2876,Computer Engineering
+2877,Openup
+2878,Recurrence Relations
+2879,Combinatorial Class
+2880,Analytic Combinatorics
+2881,Trie
+2882,Bubble Sort
+2883,Source Code Editor
+2884,Programming Tool
+2885,User (Computing)
+2886,Bag-Of-Words Model
+2887,Randomized Rounding
+2888,Bin Packing Problem
+2889,Integer Programming
+2890,Knapsack Problem
+2891,Histogram Of Oriented Gradients
+2892,Opencv
+2893,Support Vector Machine
+2894,Set Theory
+2895,Pycharm
+2896,Linked List
+2897,Database Index
+2898,Web Server
+2899,Scalability
+2900,Load Balancing (Computing)
+2901,Health Check
+2902,Domain Name System
+2903,Hypertext Transfer Protocol
+2904,Source Code
+2905,Intrusion Tolerance
+2906,Network Service
+2907,Subnetwork
+2908,Malware
+2909,Php
+2910,Rate Limiting
+2911,Denial-Of-Service Attacks
+2912,Sphere Of Influence
+2913,Attack Model
+2914,Tor (Anonymity Network)
+2915,System Security
+2916,Access Control
+2917,Authorization Certificate
+2918,Web Browsers
+2919,Application Programming Interfaces
+2920,Extensibility
+2921,Information-Theoretic Security
+2922,Security Through Obscurity
+2923,Event (Probability Theory)
+2924,Information Leakage
+2925,Information Theory
+2926,Entropy (Information Theory)
+2927,Cryptanalysis
+2928,Block Cipher
+2929,Cipher
+2930,Stream Cipher
+2931,Feistel Cipher
+2932,Meet-In-The-Middle Attack
+2933,Block Cipher Mode Of Operation
+2934,Discrete Logarithm
+2935,Man-In-The-Middle Attack
+2936,Key Management
+2937,Key Exchange
+2938,Public Key Infrastructure
+2939,One-Key Mac
+2940,Data Integrity
+2941,Coins
+2942,Autonomous Agent
+2943,Added Value
+2944,Cloud Storage
+2945,Software As A Service
+2946,Cloud Applications
+2947,Apache Hadoop
+2948,Cloud Infrastructure
+2949,Virtual Machine
+2950,Web Service
+2951,Storage Systems
+2952,Hortonworks
+2953,Distributed Database
+2954,Storm (Event Processor)
+2955,Network Infrastructure
+2956,Data Centers
+2957,Computer Networking
+2958,Tcp Congestion Control
+2959,Border Gateway Protocol
+2960,Stream Processing
+2961,Data Extraction
+2962,Grid Computing
+2963,Edge Computing
+2964,Socket
+2965,Error Detection And Correction
+2966,Internet Protocol Suite
+2967,Osi Model
+2968,Internet Protocol
+2969,Telecommunications Network
+2970,Random Access
+2971,Collision Detection
+2972,Wireless
+2973,Ethernet
+2974,High-Level Data Link Control
+2975,Data Transmission
+2976,Automatic Repeat Request
+2977,Network Layer
+2978,Data Link Layer
+2979,Link Layer
+2980,Ip Forwarding
+2981,Network Topology
+2982,Routing Protocol
+2983,Packet Switching
+2984,Open Shortest Path First
+2985,Random Early Detection
+2986,Mobile Ip
+2987,Dynamic Host Configuration Protocol
+2988,Security Design
+2989,Human Computer Interaction
+2990,Usability Testing
+2991,Buffer Overflow
+2992,Sql Injection
+2993,Internet Security
+2994,Security Software
+2995,Penetration Test
+2996,Fuzz Testing
+2997,Message Authentication
+2998,Side-Channel Attack
+2999,Vulnerability (Computing)
+3000,Trusted Platform Module
+3001,Web Hosting Service
+3002,Github
+3003,Curve Fitting
+3004,Smartphones
+3005,Wireless Lan
+3006,Mobile Security
+3007,Openfabrics Alliance
+3008,Cyber-Security Regulation
+3009,Home
+3010,Security Management
+3011,Information Security
+3012,Insider Threat
+3013,Ransomware
+3014,Contingency Plan
+3015,Computer Security Incident Management
+3016,Transport Layer Protocols
+3017,Cryptographic Protocol
+3018,Wireless Security
+3019,Data Breaches
+3020,Openssl
+3021,Pgp
+3022,Quantum Key Distribution
+3023,Virtual Network Computing
+3024,Metasploit Project
+3025,Select (Sql)
+3026,State (Computer Science)
+3027,Stateful Firewall
+3028,Network Address Translation
+3029,Network Security
+3030,Firewall (Computing)
+3031,Porting
+3032,Nsa Suite A Cryptography
+3033,Kernel (Linear Algebra)
+3034,2.5D
+3035,Javascript Syntax
+3036,Multi-Factor Authentication
+3037,Single Sign-On
+3038,Software Security
+3039,Password Policy
+3040,Integration Testing
+3041,Table Of Keyboard Shortcuts
+3042,User Control
+3043,Administrative Support
+3044,Voip Phone
+3045,Codecs
+3046,Voice Over Ip
+3047,Forwarding Plane
+3048,Android (Operating System)
+3049,Collision (Computer Science)
+3050,Key Size
+3051,Cryptosystem
+3052,Trial Division
+3053,Multiplicative Inverse
+3054,Computer Science
+3055,Javascript
+3056,Client Server Model
+3057,Calculus
+3058,Threat (Computer)
+3059,Cyber Security Standards
+3060,Cyberattacks
+3061,S/Key
+3062,Key (Cryptography)
+3063,System On A Chip
+3064,File Transfer Protocol
+3065,Enterprise Private Network
+3066,Critical Infrastructure Protection
+3067,Infrastructure Security
+3068,Payment Card Industry Data Security Standard
+3069,Push Technology
+3070,Oauth
+3071,Ios Development
+3072,Network Architecture
+3073,Internet Architecture
+3074,Scantegrity
+3075,Drop Test
+3076,Divide And Choose
+3077,Strong Secrecy
+3078,Banner Blindness
+3079,Central Processing Unit
+3080,Computer Assembly
+3081,Microarchitecture
+3082,Wi-Fi
+3083,Pagerank
+3084,Information Cascade
+3085,Power Control
+3086,Six Degrees Of Separation
+3087,Network Congestion
+3088,Shortest Path Problem
+3089,Cellular Network
+3090,Embedded Linux
+3091,Computer Multitasking
+3092,Device Drivers
+3093,Real-Time Operating Systems
+3094,Troubleshooting
+3095,Sandbox (Computer Security)
+3096,Solidity
+3097,Web Crawler
+3098,Owasp
+3099,Web Application Security
+3100,Owasp Zap
+3101,Cybercrime
+3102,Cyberterrorism
+3103,Cyberwarfare
+3104,International Law
+3105,Incident Management
+3106,Microsoft Sql Server
+3107,Google App Engine
+3108,Microsoft Windows
+3109,Sql Server
+3110,Windows Services
+3111,Apache Cassandra
+3112,Microsoft Azure
+3113,Backup
+3114,Microsoft Exchange
+3115,Exploit (Computer Security)
+3116,Rational Doors
+3117,Race Condition
+3118,Download
+3119,Linux Console
+3120,Superuser
+3121,Command-Line Interface
+3122,Flat Rate
+3123,Code Division Multiple Access
+3124,Bigquery
+3125,Burp Suite
+3126,Ip Address
+3127,Communications Protocol
+3128,Wireshark
+3129,Ipv4
+3130,Data Migration
+3131,Password Synchronization
+3132,Systems Modeling Language
+3133,Modeling And Analysis Of Real Time And Embedded Systems
+3134,Microprocessor
+3135,Business Continuity
+3136,Local Exchange Trading System
+3137,Low Orbit Ion Cannon
+3138,Gnutella Clients
+3139,Transaction Verification
+3140,Token Ring
+3141,Co-Ment
+3142,Bourne Shell
+3143,Rscs
+3144,Home Network
+3145,Wireless Networking
+3146,Cisco
+3147,Network Management
+3148,Inter-Domain
+3149,Software-Defined Networking
+3150,Formal Methods
+3151,Defensive Programming
+3152,Trust Boundary
+3153,Plaintext
+3154,Threat Model
+3155,Code Injection
+3156,Cross-Site Scripting
+3157,Shell Script
+3158,Printf Format String
+3159,Pseudorandomness
+3160,Environment Variable
+3161,Spring Framework
+3162,Authentication Methods
+3163,Codebase
+3164,Text Editors
+3165,Agile Testing
+3166,Software Product Management
+3167,Word (Computer Architecture)
+3168,Tree (Data Structure)
+3169,Liveperson
+3170,Computer Mice
+3171,Data Integration
+3172,Data Cube
+3173,Talend
+3174,Maturity Models
+3175,Unity (User Interface)
+3176,C Sharp (Programming Language)
+3177,Specification (Technical Standard)
+3178,Representational State Transfer
+3179,Cloud Api
+3180,Openapi Specification
+3181,Machine Learning Algorithms
+3182,Autonomous Spaceport Drone Ship
+3183,Smart Highway
+3184,In-Band Signaling
+3185,Systems Engineering
+3186,Input Device
+3187,Video Game Development Software
+3188,Engineering Software
+3189,Video Game Graphics
+3190,Interaction Technique
+3191,Autodesk
+3192,Autodesk 3Ds Max
+3193,En 3
+3194,3D Artist
+3195,Heuristic Evaluation
+3196,Interaction Design
+3197,Rapid Prototyping
+3198,Direct Manipulation Interface
+3199,Jog Dial
+3200,Look And Feel
+3201,Multiple Comparisons
+3202,Mixed Model
+3203,Storyboarding
+3204,Computational Model
+3205,Xilinx Vivado
+3206,Graphics Software
+3207,Inkscape
+3208,Image Quality
+3209,Online Machine Learning
+3210,Adobe Creative Suite
+3211,Pgf/Tikz
+3212,Dict
+3213,Microcontroller
+3214,Do While Loop
+3215,Json
+3216,Gradient
+3217,Lambda Lifting
+3218,Adobe Illustrator Artwork
+3219,Coreldraw
+3220,Macromedia
+3221,Photoscan
+3222,Instance Variable
+3223,Method (Computer Programming)
+3224,Crt0
+3225,Object-Oriented Programming
+3226,High Fidelity
+3227,Character (Computing)
+3228,Login
+3229,Axosoft
+3230,Steel Connection Design
+3231,Print Shop
+3232,Face-To-Face Interaction
+3233,Pcb Layout And Design
+3234,Printer Repair
+3235,Reusability
+3236,Rendering (Computer Graphics)
+3237,Hand
+3238,Point Cloud
+3239,Geodetic Datum
+3240,Satellite
+3241,Depth Map
+3242,Unmanned Aerial Vehicle
+3243,Ternary Conditional Operator
+3244,Aerial Photography
+3245,Nominal Interest Rate
+3246,Amortizing Loan
+3247,Oculus Vr
+3248,Digital Project
+3249,Usability Goals
+3250,Test Plan
+3251,Mobile Interaction
+3252,Run Time (Program Lifecycle Phase)
+3253,Program Counter
+3254,Out-Of-Order Execution
+3255,Program Lifecycle Phase
+3256,Verilog
+3257,Undefined Variable
+3258,Building Information Modeling
+3259,Pollution
+3260,Landing Page
+3261,Design Sprint
+3262,Systolic Array
+3263,Voice User Interface
+3264,User Persona
+3265,System V
+3266,Finite-State Machine
+3267,Bisimulation
+3268,Ω-Automaton
+3269,Alternating Bit Protocol
+3270,Transition System
+3271,3D Cinema
+3272,3D Television
+3273,Lamp (Software Bundle)
+3274,Scatter Plot
+3275,Image Editing
+3276,Serial Port
+3277,Labview
+3278,Spectral Density Estimation
+3279,Telemedicine
+3280,Simulink
+3281,Chief Product Officer
+3282,Product Portfolio Management
+3283,Agile Manifesto
+3284,Unified Process
+3285,Lean Software Development
+3286,Requirements Analysis
+3287,Requirements Management
+3288,Requirements Elicitation
+3289,Software Requirements
+3290,Burn Down Chart
+3291,Software Metrics
+3292,Desire
+3293,V-Ray
+3294,Virtual Camera System
+3295,Version Control
+3296,Character Encoding
+3297,Particle System
+3298,Sprite (Computer Graphics)
+3299,Snappy (Package Manager)
+3300,Bluetooth
+3301,Samsung Gear Vr
+3302,Holography
+3303,Design Effect
+3304,Test Design
+3305,Accidental Sampling
+3306,Coverage Error
+3307,Nonprobability Sampling
+3308,Principles Of User Interface Design
+3309,Contextual Inquiry
+3310,Collation
+3311,Interaction Design Pattern
+3312,Cognitive Walkthrough
+3313,Usability Lab
+3314,Immersion (Virtual Reality)
+3315,Haptic Technology
+3316,Virtual Reality Headset
+3317,Graphics Hardware
+3318,Three-Dimensional Graph
+3319,Unreal Engine
+3320,Graphical User Interface
+3321,Redirected Walking
+3322,Hyperinteger
+3323,3D Interaction
+3324,Lip
+3325,Blushing
+3326,Skeletal Animation
+3327,Facial Expression
+3328,Computer Facial Animation
+3329,Lucas Lehmer Primality Test
+3330,Virtual Reality Games
+3331,Android Studio
+3332,2D Computer Graphics
+3333,Gimbal Lock
+3334,Android Development
+3335,Perspective Projection
+3336,Mobile Development
+3337,Opengl
+3338,Primitive Data Type
+3339,Mir:Ror
+3340,Phong Shading
+3341,Java Collections Framework
+3342,Interface (Java)
+3343,Java Syntax
+3344,Template Method Pattern
+3345,Concurrent Computing
+3346,Service Life
+3347,Model View Presenter
+3348,Unit Testing
+3349,Stack (Abstract Data Type)
+3350,Gson
+3351,Iphone Dev Team
+3352,Ios Jailbreaking
+3353,Bada
+3354,Posix
+3355,Ftp Server Software
+3356,Javac
+3357,Hibernate Orm
+3358,Server Consolidation
+3359,Sql Compliance
+3360,Webkit
+3361,Gnu Toolchain
+3362,Model View Controller (Mvc)
+3363,Eclipse
+3364,Dynamic Array
+3365,Application Development
+3366,Software Versioning
+3367,Tendra Compiler
+3368,Material Design
+3369,Software Design
+3370,Software Development Kits
+3371,Sqlite
+3372,Pythonanywhere
+3373,Django (Web Framework)
+3374,Cross-Site Request Forgery
+3375,Flask
+3376,Jquery
+3377,Bootstrap (Front-End Framework)
+3378,Sass (Stylesheet Language)
+3379,Less (Stylesheet Language)
+3380,Typescript
+3381,Front-End Web Development
+3382,Reactive Programming
+3383,Angular
+3384,Mobile App
+3385,Ionic (Mobile App Framework)
+3386,Mongodb
+3387,Node.Js
+3388,Server-Side
+3389,Redux
+3390,Test Automation
+3391,Javascript Library
+3392,React (Web Framework)
+3393,Webpack
+3394,Swift Programming
+3395,Xcode
+3396,Objective-C
+3397,Interface Builder
+3398,Gesture Recognition
+3399,Application Design
+3400,Navigation Controls
+3401,Object-Based Language
+3402,Full Cycle
+3403,Apple Video
+3404,Clang
+3405,Flat Design
+3406,Human Interface Guidelines
+3407,Core Data
+3408,Skeuomorph
+3409,Record (Computer Science)
+3410,Os X
+3411,Enumerated Type
+3412,Apple Keynote
+3413,Kludge
+3414,Side-Scrolling Video Game
+3415,Jmol
+3416,Graphical User Interface Builder
+3417,Oracle Sql Developer
+3418,Iphone (Ios) Software Development Kit (Sdk)
+3419,User Interface Builders
+3420,Rtems
+3421,Cantata++
+3422,Process Flow Development
+3423,Html5
+3424,Hooking
+3425,Text Corpus
+3426,Persistence (Computer Science)
+3427,Radio Button
+3428,Telephone Number
+3429,Text Box
+3430,Persistence
+3431,Dart (Programming Language)
+3432,Menu Bar
+3433,Css Flex Box Layout
+3434,Null Coalescing Operator
+3435,Compounding
+3436,Drop-Down List
+3437,Notification Area
+3438,Graphical User Interface Elements
+3439,Shell (Computing)
+3440,Ajax (Programming)
+3441,Ruby (Programming Language)
+3442,Ruby On Rails
+3443,Anatomy
+3444,Javascript Framework
+3445,Mysql
+3446,Dynamic Web Page
+3447,Back-End Database
+3448,Animation Software
+3449,Middleware
+3450,Full-Stack Web Development
+3451,Active Record Pattern
+3452,Variable (Computer Science)
+3453,Exception Handling
+3454,Scripting Language
+3455,Adobe Dreamweaver
+3456,Pageable Memory
+3457,Servlets
+3458,Dependency Injection
+3459,Socket P
+3460,Relational Database
+3461,Bear
+3462,Date Picker
+3463,Reference (Computer Science)
+3464,Checkbox
+3465,Xml
+3466,Order Of Operations
+3467,Addresssanitizer
+3468,Component-Based Software Engineering
+3469,Constant (Computer Programming)
+3470,Responsiveness
+3471,Capgemini
+3472,Context Awareness
+3473,Virtual Artifact
+3474,Cloning
+3475,Research Now
+3476,Scene Graph
+3477,Vrml
+3478,Nest
+3479,Web Accessibility
+3480,Fluid Mechanics
+3481,Manual Testing
+3482,Ansi C
+3483,Deployment Environment
+3484,System F
+3485,Microservices
+3486,Template Processor
+3487,App Inventor For Android
+3488,Multisignature
+3489,Callable Bond
+3490,Return Statement
+3491,Interoperability
+3492,Programming Style
+3493,Rspec
+3494,Business Object
+3495,Asp.Net Core
+3496,Asp.Net
+3497,Static Web Page
+3498,Ibm Websphere
+3499,Javascript Templating
+3500,Event (Computing)
+3501,Meteor
+3502,Process Analysis
+3503,Robotics
+3504,Php Syntax And Semantics
+3505,Database Design
+3506,Database Model
+3507,Phpmyadmin
+3508,Database Normalization
+3509,Database Application
+3510,"Create, Read, Update And Delete"
+3511,Http Cookie
+3512,Style Sheet (Web Development)
+3513,Css Box Model
+3514,Xhtml
+3515,Debuggers
+3516,Jscript
+3517,Javascript Engines
+3518,Remote Desktop Protocols
+3519,Quickwin
+3520,Microsoft Operating Systems
+3521,Windows Nt
+3522,Java Desktop System
+3523,Ibm Servers
+3524,Weblogic
+3525,Embedded Sql
+3526,Firstpage
+3527,Html Editors
+3528,Memory Management
+3529,Pointer (Computer Programming)
+3530,Heap (Data Structure)
+3531,Avl Tree
+3532,Spanning Tree
+3533,Virtual Private Server
+3534,Data Security
+3535,Business Requirements
+3536,Private Network
+3537,Embedded System Design
+3538,Python Libraries
+3539,Raspberry Pi
+3540,Basic Programming Language
+3541,Test-Driven Development
+3542,Object-Relational Mapping
+3543,Sqlalchemy
+3544,Object-Relational Database
+3545,Control Plane
+3546,Operating-System-Level Virtualization
+3547,Identity Management
+3548,Role-Based Access Control
+3549,Bigtable
+3550,Rounding
+3551,Topology
+3552,Executable
+3553,Data Structure Alignment
+3554,Port (Computer Networking)
+3555,Yaml
+3556,Credential
+3557,Throughput
+3558,Divergence (Computer Science)
+3559,Cloud Foundry
+3560,Hp Openview
+3561,Ibm Cloud
+3562,Sybase
+3563,Citrix
+3564,Access Modifiers
+3565,Client (Computing)
+3566,Design By Contract
+3567,Escrow
+3568,Game Programming
+3569,Foreach Loop
+3570,Console Applications
+3571,Class Hierarchy
+3572,Menu Button
+3573,Object Pool Pattern
+3574,Minimax
+3575,Depth-First Search
+3576,Μ-Recursive Function
+3577,Preprocessor
+3578,Structured Programming
+3579,Inheritance (Object-Oriented Programming)
+3580,Iterator
+3581,Standard Template Library
+3582,Operator (Mathematics)
+3583,Algorithm Development
+3584,For Loop
+3585,Abstraction
+3586,Parallel Computing
+3587,Parallel Algorithm
+3588,Database Management Systems
+3589,Entity Relationship Model
+3590,Tensorflow
+3591,Keras
+3592,Json Web Token
+3593,Keystore
+3594,Out Of The Box (Feature)
+3595,Soap (Protocol)
+3596,Google Storage
+3597,Federated Identity
+3598,Publish Subscribe Pattern
+3599,Stack Trace
+3600,Dataflow
+3601,Cloud Management
+3602,Adobe Marketing Cloud
+3603,Mlab
+3604,Google Cloud Dataproc
+3605,Wireless Sensor Network
+3606,Contiki
+3607,Protocol Stack
+3608,Embedded Operating System
+3609,Scheduling (Computing)
+3610,Context Switch
+3611,Freertos
+3612,Periodic Function
+3613,Precedence Graph
+3614,Symmetric Multiprocessing
+3615,Higher-Order Function
+3616,Functional Design
+3617,Lazy Evaluation
+3618,Monad (Functional Programming)
+3619,Task Parallelism
+3620,Data Parallelism
+3621,Interactive Computing
+3622,Programming Principles
+3623,Interactive Programming
+3624,Coding Conventions
+3625,Pseudocode
+3626,Algorithmic Efficiency
+3627,Closest Pair Of Points Problem
+3628,Sequence Alignment
+3629,Game Development Tool
+3630,Integrated Development Environments
+3631,Flash Games
+3632,Open-Source Video Game
+3633,Real-Time Rendering
+3634,Scenario Testing
+3635,Automation Anywhere
+3636,Testing Anywhere
+3637,Actor (Uml)
+3638,Apache Qpid
+3639,Protein Data Bank (File Format)
+3640,Application Directory
+3641,Teleprocessing Monitor
+3642,Java Management Extensions
+3643,Test Case
+3644,Function Pointer
+3645,Function Point
+3646,Codeskulptor
+3647,Presentation Layer
+3648,Conditional Operator
+3649,Immutable Object
+3650,Substring
+3651,Worldmap
+3652,Visual Analytics
+3653,Multi-Touch
+3654,Physics Engine
+3655,Semigraphics
+3656,Rasterisation
+3657,Set (Abstract Data Type)
+3658,Abstract Type
+3659,Servqual
+3660,Rewriting
+3661,Autocad
+3662,Restful Objects
+3663,Hidden Surface Determination
+3664,Object Value
+3665,Distance Transform
+3666,Object Composition
+3667,Color Gradient
+3668,Color Balance
+3669,Modal Μ-Calculus
+3670,Fixed-Point Combinator
+3671,List & Label
+3672,Boolean Data Type
+3673,Control Flow
+3674,A3 Problem Solving
+3675,Generator Matrix
+3676,Markov Chain
+3677,Computation Tree Logic
+3678,Java Enterprise Platform
+3679,Eclipse (Software)
+3680,Head-Up Display
+3681,Pygame
+3682,Programming Paradigm
+3683,Separation Of Concerns
+3684,Microsoft Visual C++
+3685,Flagship Compiler
+3686,Directx
+3687,Ms-Dos Api
+3688,Model Optimization
+3689,Routing Optimization
+3690,Discrete Optimization
+3691,Reserved Word
+3692,Cobol
+3693,Mainframe
+3694,Drag And Drop
+3695,Selenium
+3696,Jira (Software)
+3697,Learning Cycle
+3698,Lifelong Learning
+3699,Anchoring
+3700,Adult Learner
+3701,Parent
+3702,Mimics
+3703,Loop Counter
+3704,Racket (Programming Language)
+3705,Closure (Computer Programming)
+3706,Type System
+3707,Lisp In Small Pieces
+3708,Small (Programming Language)
+3709,Software Features
+3710,Memory Leak
+3711,Garbage Collection (Computer Science)
+3712,Scratch (Programming Language)
+3713,Toolbar
+3714,Logic Programming
+3715,Habit
+3716,Bad Habit
+3717,Virtual World
+3718,Constraint Programming
+3719,Essence
+3720,Syntactic Monoid
+3721,Factorization
+3722,Terminal Emulators
+3723,Web Api
+3724,Java Database Connectivity
+3725,Functional Testing
+3726,Parenting
+3727,Is-A
+3728,Code Reuse
+3729,Forscene
+3730,Backpropagation
+3731,Gradient Descent
+3732,Long Short-Term Memory
+3733,Form-Based Authentication
+3734,Perl Software
+3735,Natural Language
+3736,Sorted Array
+3737,Go! (Programming Language)
+3738,Directory Structure
+3739,Api Testing
+3740,Serialization
+3741,Automatic Vectorization
+3742,Simd
+3743,Openmp
+3744,Message Passing
+3745,Anim
+3746,Hamburger Button
+3747,Ml (Programming Language)
+3748,Type Inference
+3749,Inversion Of Control
+3750,Instart Logic
+3751,Plain Old Java Object
+3752,Class (Computer Programming)
+3753,Doctest
+3754,Solid (Object-Oriented Design)
+3755,Bash (Unix Shell)
+3756,Shell Commands
+3757,Command History
+3758,Jovial
+3759,Sexing
+3760,Stereotypes
+3761,Transformed Social Interaction
+3762,Constructed Language
+3763,Quantum Programming
+3764,Qubit
+3765,Tree Structure
+3766,Interaction Nets
+3767,Sql Server Management Studio
+3768,Transact-Sql
+3769,Postgresql
+3770,Stored Procedure
+3771,Docker (Software)
+3772,Medical Imaging
+3773,Numpy
+3774,Timer
+3775,Assessment For Learning
+3776,Graphics Processing Units
+3777,Thread Safety
+3778,Thread Pool
+3779,Intrinsic Function
+3780,Software Quality
+3781,Multiple Inheritance
+3782,Student Debt
+3783,Source Lines Of Code
+3784,Electrical Engineering
+3785,Light Electrical Work
+3786,Civil Engineering
+3787,Welding
+3788,Scipy
+3789,Icarus Project
+3790,Project Team Builder
+3791,Autosar
+3792,Cuda
+3793,Opencl
+3794,Basic Access Authentication
+3795,Dialog System
+3796,Breakpoint
+3797,Software Bug
+3798,Frama-C
+3799,System Under Test
+3800,Load (Computing)
+3801,Mcrl2
+3802,Symbolic Method
+3803,Partial Order Reduction
+3804,Lighting Control System
+3805,Process Specification
+3806,Device Monitoring
+3807,State Space
+3808,Molecular Dynamics
+3809,Selenium (Software)
+3810,Cloudera
+3811,Jenkins (Software)
+3812,Cleaning
+3813,Web Scraping
+3814,Personally Identifiable Information
+3815,Void
+3816,Java Development Kit
+3817,Pnuts
+3818,Java Compiler
+3819,Architectural Pattern
+3820,Non-Functional Requirement
+3821,Functional Requirement
+3822,Distributed Version Control
+3823,Unit Testing Frameworks
+3824,Moonlight
+3825,Imperative Programming
+3826,Method Of Analytic Tableaux
+3827,Hole
+3828,Creative Coding
+3829,Open Learning
+3830,Unicode
+3831,Utf-8
+3832,Extreme Programming
+3833,Code Refactoring
+3834,Data Rate Units
+3835,Byte
+3836,Monitor (Synchronization)
+3837,Game Physics
+3838,Developmental Science
+3839,Computer Languages
+3840,Tkinter
+3841,Graphical Model
+3842,Ecmascript
+3843,Texture Synthesis
+3844,Sketch-Based Modeling
+3845,Key Frame
+3846,Geometric Modeling
+3847,Dynamical Simulation
+3848,.Exe
+3849,Text-Based Game
+3850,Monster
+3851,Role Playing Games (Rpg)
+3852,Web Content Accessibility Guidelines
+3853,Assistive Technology
+3854,Web Development Software
+3855,Array Data Structure
+3856,Class Variable
+3857,Procedural Programming
+3858,Opengl Architecture Review Board
+3859,Intel Parallel Studio
+3860,Basic Block
+3861,Block Code
+3862,Modifier Key
+3863,Plug-In Principle
+3864,Component Diagram
+3865,Magic Sysrq Key
+3866,Test Data
+3867,Data-Driven Testing
+3868,Cutting-Plane Method
+3869,Simplex Algorithm
+3870,Local Consistency
+3871,Javafx
+3872,Matplotlib
+3873,Python Software Foundation
+3874,Reference Implementation
+3875,Helper Class
+3876,Screenshot
+3877,Test Effort
+3878,Parallel Process
+3879,Discard Protocol
+3880,Candidate Solution
+3881,Backtracking
+3882,Boilerplate Code
+3883,Computer Keyboards
+3884,Complex Text Layout
+3885,Program Logic
+3886,Kripke Semantics
+3887,Symmetry-Breaking Constraints
+3888,Spss
+3889,Visualization (Computer Graphics)
+3890,Standard Library
+3891,Inline Function
+3892,Jakobson'S Functions Of Language
+3893,Unique Key
+3894,Hive
+3895,Heat Map
+3896,Pandas
+3897,Java Apis
+3898,Java Persistence Api
+3899,Java Applet
+3900,Java 3D
+3901,Loading Screen
+3902,Software Quality Assurance
+3903,Ball
+3904,Design Modification
+3905,Drawing Preparation
+3906,Vpython
+3907,Quantum Information Science
+3908,Quantum Algorithms
+3909,Recursive Function
+3910,Rational Rose
+3911,Persist
+3912,Remote Computer
+3913,List (Abstract Data Type)
+3914,Data Item
+3915,Forward Declaration
+3916,Guard (Computer Science)
+3917,First-Class Citizen
+3918,Calling Convention
+3919,C Data Types
+3920,Inequality (Mathematics)
+3921,Prefix Order
+3922,Data-Flow Analysis
+3923,Petri Net
+3924,Merge Sort
+3925,Selection Sort
+3926,Quicksort
+3927,Repurchase Agreement
+3928,Git (Software)
+3929,Fork (System Call)
+3930,Scheduling Algorithms
+3931,Reflective Learning
+3932,Join (Sql)
+3933,Law Of Demeter
+3934,Modular Programming
+3935,Null Function
+3936,Memory Address
+3937,Smart Pointer
+3938,Transpose
+3939,Progress Bar
+3940,Apache Jmeter
+3941,Database Testing
+3942,Request Response
+3943,Regular Expression
+3944,Inkwell (Macintosh)
+3945,User (System)
+3946,Fortran
+3947,Common Subexpression Elimination
+3948,Nurse Scheduling Problem
+3949,Assignment Problem
+3950,Significant Figures
+3951,System Testing
+3952,Continuous Testing
+3953,Software Testing Tools
+3954,Turtle Graphics
+3955,Web Colors
+3956,Depth Perception
+3957,Adjacency List
+3958,Video Game Clone
+3959,Bitbucket
+3960,Shippable
+3961,Traceability
+3962,Grpc
+3963,Operating System Kernels
+3964,Behavior Tree
+3965,Compiler Construction
+3966,Return Type
+3967,Compile Time
+3968,Commit (Version Control)
+3969,Ptrace
+3970,Malware Analysis
+3971,Objdump
+3972,Opaque Predicate
+3973,Wide Character
+3974,Spectrum Reallocation
+3975,Iterative Deepening A*
+3976,Obfuscation (Software)
+3977,Operating System Technology
+3978,Handle System
+3979,End System
+3980,Distributed Operating System
+3981,Name Resolution (Computer Systems)
+3982,Centralized Computing
+3983,Computer Terminals
+3984,Operational Context
+3985,Operational System
+3986,Associative Entity
+3987,Oracle Database
+3988,Relational Database Management System
+3989,Mysql Workbench
+3990,Disk Space
+3991,Command (Computing)
+3992,Windowing Systems
+3993,Applet
+3994,Polymorphism (Computer Science)
+3995,Pitfall!
+3996,Phone-In
+3997,Open Source
+3998,Systems Monitoring
+3999,Awk
+4000,Logical Volume Management
+4001,Linux File Systems
+4002,Distributed Development
+4003,Data Comparison
+4004,Diff Utility
+4005,Subversion
+4006,Java Concurrency
+4007,Optimistic Concurrency Control
+4008,Concurrency (Computer Science)
+4009,Actor Model
+4010,Apache Kafka
+4011,Spmd
+4012,Programming Model
+4013,Subroutine
+4014,Function Type
+4015,Dining Philosophers Problem
+4016,Concurrent Algorithms
+4017,Data File
+4018,List Comprehension
+4019,Optical Character Recognition
+4020,Tesseract (Software)
+4021,Parsing
+4022,Software Requirements Specification
+4023,Requirements Engineering
+4024,Metaclass
+4025,Metamodeling
+4026,Knowledge Bases
+4027,Abuse Case
+4028,Jackson Structured Programming
+4029,Use Case Diagram
+4030,Soft Goal
+4031,Misuse Case
+4032,Failure Cause
+4033,Requirement Prioritization
+4034,Data Flow Diagram
+4035,Flow Diagrams
+4036,Trace Diagram
+4037,File System Permissions
+4038,Parameter (Computer Programming)
+4039,Pro*C
+4040,Symbol Table
+4041,General-Purpose Macro Processor
+4042,Low-Level Design
+4043,Uml Tools
+4044,Feed Forward (Control)
+4045,Autonomous Cars
+4046,Maximum Likelihood Estimation
+4047,Kalman Filter
+4048,Jacobian Matrix And Determinant
+4049,Extended Kalman Filter
+4050,Image Plane
+4051,Motion Planning
+4052,Factory Method Pattern
+4053,Software Design Pattern
+4054,Code Smell
+4055,Unified Modeling Language
+4056,Architecture Tradeoff Analysis Method
+4057,Layered System
+4058,Service-Oriented Architecture
+4059,Code Coverage
+4060,Static Analysis
+4061,Mock Object
+4062,Regression Testing
+4063,Black-Box Testing
+4064,White-Box Testing
+4065,Oracle (Software Testing)
+4066,Test Suite
+4067,Mutation Testing
+4068,Behavior-Driven Development
+4069,Static Program Analysis
+4070,Robustness Testing
+4071,Website Architecture
+4072,Scalability Testing
+4073,Security Testing
+4074,Web Testing
+4075,Algorithmic Composition
+4076,Toxicity
+4077,Callback (Computer Programming)
+4078,Mobile Operating Systems
+4079,Automatic Parallelization
+4080,Lexical Analysis
+4081,Color Space
+4082,Cube Mapping
+4083,Shader
+4084,Cyclomatic Complexity
+4085,Thread (Computing)
+4086,Memory Management Algorithms
+4087,Asynchronous I/O
+4088,Coroutine
+4089,Microsoft Expression Web
+4090,Semidefinite Programming
+4091,Overfitting
+4092,Opms
+4093,Informating
+4094,Linear Regression
+4095,Cluster Analysis
+4096,Data Visualization Software
+4097,Feature Extraction
+4098,Kaggle
+4099,Hyperparameter Optimization
+4100,Feature Engineering
+4101,Choropleth Map
+4102,Data Manipulation
+4103,Plot (Graphics)
+4104,Scikit-Learn
+4105,Applied Machine Learning
+4106,Natural Language Toolkit
+4107,Topic Model
+4108,Network Theory
+4109,Big Data Products
+4110,Big Data Analytics
+4111,Graph Database
+4112,Neo4J
+4113,Knime
+4114,Information Engineering
+4115,Conceptualization (Information Science)
+4116,Apache Hbase
+4117,Apache Hive
+4118,Raw Image Format
+4119,Poisson Distribution
+4120,Log Log Plot
+4121,Interaction (Statistics)
+4122,Multicollinearity
+4123,Housing
+4124,Secondary Data
+4125,Missing Data
+4126,Superimposition
+4127,Visualization Library
+4128,Flowchart
+4129,Grouped Data
+4130,Computer Simulation
+4131,Computational Social Science
+4132,Discipline (Academia)
+4133,Empirical Evidence
+4134,P-Value
+4135,Data Literacy
+4136,Visualization Software
+4137,Parallel Coordinates
+4138,Language Model
+4139,Document Retrieval
+4140,Information Retrieval
+4141,Vector Spaces
+4142,Mixture Model
+4143,Syntagma (Linguistics)
+4144,Spades (Software)
+4145,Pattern Recognition
+4146,Sequential Pattern Mining
+4147,Similarity Measure
+4148,Hierarchical Clustering
+4149,Spectral Clustering
+4150,Dbscan
+4151,Ggplot2
+4152,Markup Language
+4153,Knitr
+4154,Plotly
+4155,Nosql
+4156,Relational Algebra
+4157,Publication Bias
+4158,Ensemble Learning
+4159,Encodings
+4160,Information Visualization
+4161,Vest
+4162,Test Set
+4163,Ibm Db2
+4164,Database Connection
+4165,Aggregate Data
+4166,Feature Scaling
+4167,Validation Set
+4168,Random Forest
+4169,Bootstrapping (Statistics)
+4170,Algorithm Selection
+4171,Vector Graphics Editors
+4172,Cognitive Load
+4173,Cluttering
+4174,Control Chart
+4175,Cog (Advertisement)
+4176,Microstrategy
+4177,Relational Model
+4178,Query Optimization
+4179,In-Memory Database
+4180,Key-Value Databases
+4181,Data-Intensive Computing
+4182,Acid
+4183,Applied Data Mining
+4184,Multi-Task Learning
+4185,Moment Of Truth (Marketing)
+4186,Algorithmic Bias
+4187,Transparency (Human Computer Interaction)
+4188,Adversary Model
+4189,Predictive Text
+4190,Text Mode
+4191,Risk Metric
+4192,Molecular Biology
+4193,Computational Biology
+4194,Computational Genomics
+4195,Medical Genetics
+4196,Biostatistics
+4197,Genetic Engineering
+4198,Biopython
+4199,Smith Waterman Algorithm
+4200,Dnas
+4201,Biomart
+4202,Bioconductor
+4203,Arcgis
+4204,Qgis
+4205,Remote Sensing
+4206,Geospatial Analysis
+4207,Geographic Information System
+4208,Cross Industry Standard Process For Data Mining (Crisp-Dm)
+4209,Interactive Visual Analysis
+4210,Color Vision
+4211,Area Chart
+4212,Data Retrieval
+4213,K-D Tree
+4214,Latent Dirichlet Allocation
+4215,Multidimensional Scaling
+4216,Packaging
+4217,Cakephp
+4218,Order By
+4219,Database Engines
+4220,Data Acquisition
+4221,Neuroimaging
+4222,Fmri
+4223,Path Coefficient
+4224,Structural Equation Models
+4225,Radiology
+4226,Wrapper Function
+4227,Image Registration
+4228,Clinical Neuroscience
+4229,Fly
+4230,Apache Pig
+4231,K-Nearest Neighbors Algorithm
+4232,Simple Linear Regression
+4233,Line Fitting
+4234,C File Input/Output
+4235,Point And Click
+4236,Outlier
+4237,Cancer
+4238,Doing Gender
+4239,Ordinal Data
+4240,Parametric Statistics
+4241,Student'S T-Test
+4242,Clinical Research
+4243,Wolfram Mathematica
+4244,Clinical Biostatistics
+4245,Statistical Tests
+4246,Structural Modeling
+4247,Siemens Nx
+4248,Spss Modeler
+4249,Panel Data
+4250,Geo Uri Scheme
+4251,Await
+4252,Interactive Data Visualization
+4253,Dendrogram
+4254,Euclidean Distance
+4255,Informed Consent
+4256,Venture Round
+4257,Bayesian Statistics
+4258,Statistical Models
+4259,Ensembles Of Classifiers
+4260,Complex Network
+4261,Random Graphs
+4262,Identified Patient
+4263,Positive And Negative Predictive Values
+4264,Hypertension
+4265,Record Review
+4266,Marketing Research Process
+4267,Image Analysis
+4268,Precision Medicine
+4269,Categorical Data
+4270,Aggregate Function
+4271,Applied Mathematics
+4272,Sparql
+4273,Semantic Web
+4274,Data Lake
+4275,Statistical Significance
+4276,Post Hoc Analysis
+4277,Bias Variance Tradeoff
+4278,Imputation (Statistics)
+4279,Clinical Study Design
+4280,Prognostics
+4281,External Validity
+4282,Structural Analysis
+4283,Time Series Forecasting
+4284,Hostname
+4285,Presentation (Software)
+4286,Semrush
+4287,Library Classification
+4288,Document Management Systems
+4289,Research Data Archiving
+4290,Confidentiality
+4291,Trend Analysis
+4292,Segmentation Analysis
+4293,Segmenting And Positioning
+4294,Pytorch
+4295,Scale (Map)
+4296,Quantile
+4297,Statistical Thinking
+4298,Apache Systemml
+4299,Vmware Esxi
+4300,Geovisualization
+4301,Geostatistics
+4302,Alternative Hypothesis
+4303,Survival Analysis
+4304,Proportional Hazards Model
+4305,Spatial Analysis
+4306,Probability Mass Function
+4307,Array Data Type
+4308,More Than Two
+4309,Sales Analytics
+4310,Ingres (Database)
+4311,Goms
+4312,Hierarchical Database Model
+4313,Data Cluster
+4314,Rule-Based System
+4315,Big Data Optimization
+4316,Community Building
+4317,Meta-Analysis
+4318,Single-Index Model
+4319,Global Shipping Network
+4320,Youth
+4321,Elasticity Of Substitution
+4322,Heart Diseases
+4323,Clinical Data Management
+4324,Acceptability
+4325,Electronic Health Records
+4326,Telehealth
+4327,Information Exchange
+4328,Evidence-Based Practice
+4329,Health Informatics
+4330,Healthcare Quality
+4331,Electronic Health Record
+4332,Reproduction
+4333,Pypy
+4334,Cartography
+4335,Global Positioning System
+4336,Data Journalism
+4337,Opengl Es
+4338,Corpora
+4339,Twin (Windowing System)
+4340,Injuries
+4341,D3.Js
+4342,Mongodb Inc.
+4343,Statistical Methods
+4344,Two-Way Analysis Of Variance
+4345,Odds Ratio
+4346,Influential Observation
+4347,Transaction Log
+4348,Julia (Programming Language)
+4349,Pandemics
+4350,Word Embedding
+4351,Models Of Computation
+4352,Exponential Smoothing
+4353,Document-Term Matrix
+4354,Statistical Dispersion
+4355,Statistical Visualization
+4356,Statistical Data
+4357,Part-Of-Speech Tagging
+4358,Epidemics
+4359,Pathology
+4360,Medical Writing
+4361,Ontology (Information Science)
+4362,Medical Statistics
+4363,Minitab
+4364,Data Aggregation
+4365,Truncation
+4366,Pandemic
+4367,Free Presentation
+4368,Social Network Analysis Software
+4369,Kurtosis
+4370,Spatial Databases
+4371,Canonical Basis
+4372,Conceptual Clustering
+4373,Regression Toward The Mean
+4374,Program Evaluation
+4375,Darknet Markets
+4376,Line Graph
+4377,Process Mining
+4378,Water Wells
+4379,Clinical Data Analysis
+4380,Biologist
+4381,Protein Structure
+4382,Protein
+4383,Application Checkpointing
+4384,Summary Statistics
+4385,Supervised Learning
+4386,Generalizability Theory
+4387,Having (Sql)
+4388,Sas (Software)
+4389,Retain
+4390,Restructuring
+4391,Regression Modeling
+4392,Bayes' Rule
+4393,Model Selection
+4394,Display Rules
+4395,Sensitivity Analysis
+4396,Geos (16-Bit Operating System)
+4397,Probability & Statistics
+4398,Bayes Factor
+4399,Bayesian Inference
+4400,Bayesian Linear Regression
+4401,International Communication
+4402,Surveying
+4403,Data Generating Process
+4404,Survey Data Collection
+4405,Survey Methodology
+4406,Sampling Frame
+4407,Degrees Of Freedom
+4408,Sampling Design
+4409,Nonparametric Statistics
+4410,Time Series Analysis
+4411,Vowpal Wabbit
+4412,Mathematical Statistics
+4413,Document Classification
+4414,N-Gram
+4415,Wavelet Transform
+4416,Wavelets
+4417,Digital Signal Processing
+4418,Autoencoder
+4419,Markov Chain Monte Carlo
+4420,Variational Bayesian Methods
+4421,Markov Decision Process
+4422,Temporal Difference Learning
+4423,Reinforcement
+4424,Word2Vec
+4425,Named-Entity Recognition
+4426,Data Dependency
+4427,Systems Architecture
+4428,Linear Model
+4429,Medical Diagnosis
+4430,Forest
+4431,Average Treatment Effect
+4432,Artificial Intelligence In Healthcare
+4433,Artificial General Intelligence
+4434,Application Domain
+4435,Weak Ai
+4436,Determinism
+4437,Legal Solutions
+4438,Data Governance
+4439,Lasso (Statistics)
+4440,Softmax Function
+4441,Face Recognition
+4442,Multiclass Classification
+4443,Generation
+4444,Natural Language Generation
+4445,Series A Round
+4446,Time Series Models
+4447,Generative Model
+4448,Knowledge Representation
+4449,Bioperl
+4450,Timeboxing
+4451,Paraview
+4452,Knowledge Level
+4453,Classification Algorithms
+4454,Linear Classifier
+4455,System Image
+4456,Sparse
+4457,Sparse Matrices
+4458,Ingestion
+4459,Program Optimization
+4460,Monitor Mode
+4461,Estimation Theory
+4462,Scatterplot Smoothing
+4463,Early Stopping
+4464,Dimacs
+4465,Autoregressive Integrated Moving Average
+4466,Graphlab
+4467,Lasso (Programming Language)
+4468,Ridge Regression
+4469,Stochastic
+4470,Probabilistic Models
+4471,Optimal Control
+4472,T-Distributed Stochastic Neighbor Embedding
+4473,Bellman Equation
+4474,Stochastic Approximation
+4475,Iteratively Reweighted Least Squares
+4476,Fuzzy Logic
+4477,Pregnancy
+4478,Estimator
+4479,Apache Beam
+4480,Beam Robotics
+4481,Mathematical Theory & Analysis
+4482,Data Segment
+4483,Skewness
+4484,Production Planning
+4485,Transformation Matrix
+4486,Vector Projection
+4487,Eigenvalues And Eigenvectors
+4488,Projection Matrix
+4489,Naive Bayes Classifier
+4490,Bayes Classifier
+4491,Autocomplete
+4492,Attention
+4493,Machine Translation
+4494,Decision Tree Model
+4495,Perceptron
+4496,Feedforward Neural Network
+4497,Multilayer Perceptron
+4498,Layer 8
+4499,Statistical Graphics
+4500,Lemmatisation
+4501,Consumer Complaint
+4502,Anonymous Pipe
+4503,Gradient Boosting
+4504,Feature (Computer Vision)
+4505,Activation Function
+4506,Confusion Matrix
+4507,Makefile
+4508,Infection
+4509,Web Desktops
+4510,Computational Neuroscience
+4511,Biological Neuron Model
+4512,Neural Coding
+4513,Brute-Force Search
+4514,Coefficient Of Determination
+4515,X-Ray
+4516,Engineering Projects
+4517,Validator
+4518,Dog
+4519,World File
+4520,Grayscale
+4521,Semantic Similarity
+4522,Rectifier (Neural Networks)
+4523,Autoregressive Moving-Average Model
+4524,Statistical Machine Translation
+4525,Beam Search
+4526,Neural Machine Translation
+4527,Vision Objects
+4528,Amazon Web Services
+4529,One-Shot Learning
+4530,Automatic Differentiation
+4531,Statsmodels
+4532,Differential Equations
+4533,Completeness (Statistics)
+4534,Minimum Bounding Box
+4535,Alpha Beta Pruning
+4536,Kernel Method
+4537,Decision Stump
+4538,Vc Dimension
+4539,Genetic Programming
+4540,Information Extraction
+4541,Anomaly Detection
+4542,Opaque Pointer
+4543,Virtual Prototyping
+4544,Software Prototyping
+4545,Evosuite
+4546,Testbed
+4547,Imagenets
+4548,Ansys
+4549,Model Building
+4550,Mean Shift
+4551,Network Performance
+4552,Stochastic Neural Network
+4553,Convex Optimization
+4554,Exponential Distribution
+4555,Stochastic Gradient Descent
+4556,Robust Optimization
+4557,Learning Rule
+4558,Convergence Of Random Variables
+4559,Concept Drift
+4560,Quantum Machine Learning
+4561,Rprop
+4562,Elbow
+4563,Hoeffding'S Inequality
+4564,Ibm Pl/S
+4565,Flipping
+4566,Lossy Compression
+4567,Noise Reduction
+4568,Image Noise
+4569,Rapidminer
+4570,Language Classification
+4571,Lock Key
+4572,Ocaml
+4573,Learning Classifier System
+4574,Enactivism
+4575,Canonical Form
+4576,Binary Number
+4577,Oversampling
+4578,Sampling Techniques
+4579,Widget Toolkits
+4580,Image Compression
+4581,Mean Reciprocal Rank
+4582,Partial Evaluation
+4583,Q-Learning
+4584,Monte Carlo Method
+4585,Gradient Theorem
+4586,Function Approximation
+4587,Bayesian Network
+4588,Distribution Strategies
+4589,Dependent Type
+4590,Gpgpu
+4591,Adaptive Grammar
+4592,Explicit Substitution
+4593,Odds
+4594,Exact Test
+4595,Relative Risk
+4596,Delta Method
+4597,Design Matrix
+4598,Square (Algebra)
+4599,Rank (Linear Algebra)
+4600,T Distribution
+4601,Quadratic Form
+4602,Independent And Identically Distributed Random Variables
+4603,Multivariate Normal Distribution
+4604,Confounding
+4605,Common Cause And Special Cause (Statistics)
+4606,Cross-Sectional Analysis
+4607,Experimental Finance
+4608,Generalized Linear Model
+4609,Factorial Experiment
+4610,Fractional Factorial Design
+4611,Probability Plot
+4612,Normal Probability Plot
+4613,Prediction Interval
+4614,Random Effects Model
+4615,Count Data
+4616,Friedman Test
+4617,Effect Size
+4618,Bayes' Theorem
+4619,Conjugate Prior
+4620,Marginal Structural Model
+4621,Regression Discontinuity Design
+4622,Causal Inference
+4623,Instrumental Variable
+4624,Principal Stratification
+4625,Fixed Effects Model
+4626,Applied Probability
+4627,Food Science
+4628,Logarithmic Distribution
+4629,Exponential Family Probability Distributions
+4630,Stable Probability Distributions
+4631,Conditional Probability Distribution
+4632,Univariate Distribution
+4633,Statistical Power
+4634,Autocorrelation
+4635,Repeated Measures Design
+4636,Longitudinal Study
+4637,Statistical Unit
+4638,Unit Of Observation
+4639,Conditional Probability
+4640,Process Optimization
+4641,Propensity Score Matching
+4642,Multilevel Model
+4643,Rexcel
+4644,F-Distribution
+4645,Forward Measure
+4646,Multi-User
+4647,Terabyte
+4648,Software Framework
+4649,Job Scheduling
+4650,It Service Management
+4651,Service Discovery
+4652,Multiplexed Transport Layer Security
+4653,Intelligent Network
+4654,Root Certificate
+4655,Certificate Authority
+4656,Network Monitoring
+4657,Managed Services
+4658,Build Automation
+4659,Reliability Engineering
+4660,Site Reliability Engineering
+4661,Cloud Engineering
+4662,Host (Network)
+4663,Virtual Disk
+4664,Policy Monitoring
+4665,Cloud Databases
+4666,Boot Disk
+4667,Tag (Metadata)
+4668,Deployment Plan
+4669,Appscale
+4670,Message Queuing Service
+4671,Microbotics
+4672,Service (Systems Architecture)
+4673,Child Exploitation Tracking System
+4674,Sap Implementation
+4675,Open Platform For Nfv
+4676,Autoscaling
+4677,Human Capital Management System (Hcms)
+4678,Amazon Dynamodb
+4679,Amazon Elastic Compute Cloud
+4680,Amazon Cloudfront
+4681,Serverless Computing
+4682,Legal Compliance
+4683,Natural Language Understanding
+4684,User Agent
+4685,C Mathematical Functions
+4686,Channel (Communications)
+4687,Contact Center Software
+4688,Data Fusion
+4689,Hyper-V Integration Services Installation
+4690,Service Layer
+4691,Spectral Efficiency
+4692,Mimo
+4693,Smart Device
+4694,Mobile Cloud Computing
+4695,Video Conferencing
+4696,Video Codecs
+4697,Audio Codecs
+4698,Security Controls
+4699,S/Sl Programming Language
+4700,Data At Rest
+4701,System Software
+4702,Code Review
+4703,Version Control Systems
+4704,Debug Code
+4705,Puppet (Software)
+4706,Infrastructure As Code
+4707,Configuration Management
+4708,Digital Forensics
+4709,Resource Access Control Facility
+4710,Enterprise Software
+4711,Mainframe Systems
+4712,Bare Machine
+4713,Server Log
+4714,Application Framework
+4715,Load Testing
+4716,Rapid Application Development
+4717,Security Assertion Markup Language
+4718,Aws Elastic Beanstalk
+4719,Access Key
+4720,Orphan
+4721,Window Function
+4722,Complex Event Processing
+4723,Powershell
+4724,Validated Learning
+4725,Competency Based Training
+4726,Credentialing
+4727,Storage Virtualization
+4728,Computer-Mediated Communication
+4729,Toolchain
+4730,Use Error
+4731,Safety Engineering
+4732,Collaborative Software
+4733,Cloud Clients
+4734,Personal Cloud
+4735,Event-Driven Architecture
+4736,Public Key Certificate
+4737,Separation Of Duties
+4738,Principle Of Least Privilege
+4739,Personal Area Network
+4740,Mqtt
+4741,Openshift
+4742,Information Sensitivity
+4743,Information Technology Architecture
+4744,Backup And Restore
+4745,Node-Red
+4746,Bluetooth Low Energy
+4747,Plant Biology
+4748,Digital Cross Connect System
+4749,Sable
+4750,Test Evaluation
+4751,Spinnaker
+4752,Colocation Centre
+4753,Network Administrator
+4754,Named Data Networking
+4755,Network Engineering
+4756,Network Planning And Design
+4757,Network Documentation
+4758,Payload (Computing)
+4759,Network Function Virtualization
+4760,Federated Architecture
+4761,Architecture Framework
+4762,Multitier Architecture
+4763,Cloud-Based Integration
+4764,Architecture Neutral Distribution Format
+4765,Orchestration (Computing)
+4766,Elasticity (Cloud Computing)
+4767,Cloud Computing Architecture
+4768,Cloud Collaboration
+4769,Native Cloud Application
+4770,Network Information System
+4771,Network As A Service
+4772,Decentralized Object Location And Routing
+4773,Distributed Networking
+4774,Network Management Application
+4775,Network Processor
+4776,Sd-Wan
+4777,Bandwidth Management
+4778,System Migration
+4779,Union (Sql)
+4780,Shard (Database Architecture)
+4781,Ptc Creo Elements/View
+4782,Pear
+4783,Hyperloglog
+4784,Database Theory
+4785,System Call
+4786,System Programming
+4787,Ispf
+4788,It Operations Analytics
+4789,Phase Diagram
+4790,Decision Table
+4791,Twin
+4792,New Product Information
+4793,Regulations And Compliance
+4794,Logical Topology
+4795,Obsolescence
+4796,Dataflow Architecture
+4797,Data Architecture
+4798,User Requirements Document
+4799,Table (Database)
+4800,General Data Protection Regulation
+4801,Homomorphic Encryption
+4802,Information Privacy
+4803,Secure Multi-Party Computation
+4804,Data Anonymization
+4805,Lent
+4806,Management By Exception
+4807,Nested Sql
+4808,Modal Logic
+4809,Data Protection
+4810,Row (Database)
+4811,File Server
+4812,Fault Tolerance
+4813,Server Farm
+4814,Database Servers
+4815,Scaled Agile Framework
+4816,Network Interface
+4817,Network Load Balancing
+4818,List Of Device Bit Rates
+4819,Ipv6 Address
+4820,Virtual Network Interface
+4821,Networking Hardware
+4822,Virtualization Software
+4823,Hardware Interface Design
+4824,Data Plane Development Kit
+4825,Intel 8259
+4826,Packet Processing
+4827,I/O Virtualization
+4828,Virtual Function
+4829,Cms Exec
+4830,Smart Home
+4831,Management Plane
+4832,Hypervisor
+4833,Network Protocols
+4834,Unicast
+4835,Biba Model
+4836,Mandatory Access Control
+4837,Role Hierarchy
+4838,Internetworking
+4839,One-Time Password
+4840,Security Awareness
+4841,Security Operations
+4842,Data Scrubbing
+4843,Code Signing
+4844,Security Information And Event Management
+4845,Risk Register
+4846,Key Escrow
+4847,Differential Cryptanalysis
+4848,Ciphertext
+4849,Virtual Circuit
+4850,Virtual Lan
+4851,Fibre Channel Over Ethernet
+4852,Sublayer
+4853,Directory Traversal Attack
+4854,Server Administrator
+4855,Network Address
+4856,Window Installation
+4857,Linux On Embedded Systems
+4858,Linux Security Modules
+4859,Passwd
+4860,Syslog
+4861,Attack Surface
+4862,Intrusion Detection Systems
+4863,Offsystem
+4864,Combinatorial Map
+4865,Pro/Desktop
+4866,Operating System Security
+4867,Database Security
+4868,Packet Analyzer
+4869,Kill (Command)
+4870,Computer Forensics
+4871,Information Technology
+4872,Qr Code
+4873,Security Account Manager
+4874,Thin Clients
+4875,Fog Computing
+4876,Zero-Knowledge Proof
+4877,Fee
+4878,Password Managers
+4879,Physical Security
+4880,Information Technology Security Audit
+4881,Isaca
+4882,Nist Cybersecurity Framework
+4883,Keystroke Logging
+4884,Digital Identity
+4885,Password Management
+4886,Telnet
+4887,Shared Secret
+4888,Enterprise Information System
+4889,High Availability
+4890,Health And Social Care
+4891,Social Engineering (Security)
+4892,Fabric Computing
+4893,Security Modes
+4894,Default Gateway
+4895,Networking Standards
+4896,Computer Appliance
+4897,Network Appliances
+4898,Network Access Control
+4899,Malware Research
+4900,Bittorrent Protocol Encryption
+4901,Extensible Authentication Protocol
+4902,Vulnerability Scanner
+4903,Pc Hardware
+4904,Software Installation
+4905,Binary Code
+4906,Lightweight
+4907,Directory Services
+4908,Directory Access Protocol
+4909,Lightweight Directory Access Protocol
+4910,Infrastructure As A Service
+4911,Server Systems
+4912,Ibm Parallel Sysplex
+4913,Microsoft Rpc
+4914,C/Al
+4915,Project Management Information System
+4916,Enterprise Resource Planning
+4917,Erp Software
+4918,Resource Planning
+4919,Quantum Gates
+4920,Quantum Information
+4921,Document Design
+4922,Merge Window
+4923,C Standard Library
+4924,Differential Forms
+4925,Patch (Computing)
+4926,Linux Drivers
+4927,User Identifier
+4928,Chgrp
+4929,Registered User
+4930,Chown
+4931,Windows Shell
+4932,Private Server
+4933,Business Transaction Management
+4934,Rsync
+4935,Trivial File Transfer Protocol
+4936,Perfect Tenses
+4937,Punctuation
+4938,Learning Management System
+4939,Corporate Executives
+4940,Ceo Succession
+4941,Chief Operating Officer
+4942,Corporate Jargon
+4943,Corpus Linguistics
+4944,Logical Relations
+4945,Scientific Communication
+4946,Proposal Writing
+4947,Laboratory Research
+4948,Technical Communication
+4949,Persuasive Technology
+4950,Canned Response
+4951,Softening
+4952,Eating
+4953,Mother
+4954,Dream
+4955,Mental Health
+4956,Paralanguage
+4957,Persuasive Writing
+4958,College
+4959,Elaboration
+4960,Language Learning
+4961,Adjective
+4962,Apposition
+4963,Tput
+4964,Collocation
+4965,Orthography
+4966,Proofreading
+4967,Certainty
+4968,Public Lecture
+4969,Smalltalk
+4970,Comprehension Approach
+4971,Autodesk Revit Architecture
+4972,Translation Memory
+4973,Computer-Assisted Translation
+4974,Lexico
+4975,Language Industry
+4976,Deaf Culture
+4977,Language Acquisition
+4978,Deaf Education
+4979,Audism
+4980,Audiology
+4981,American Sign Language
+4982,Sign Language
+4983,Secondary Source
+4984,Shrdlu
+4985,Blend Modes
+4986,Interpretive Discussion
+4987,Social Presence Theory
+4988,Sociolinguistics
+4989,Transliteration
+4990,Online Interview
+4991,Wharton Fintech
+4992,A Guide To The Business Analysis Body Of Knowledge
+4993,Main Lesson
+4994,Object Lesson
+4995,Phone Sales
+4996,Applied Linguistics
+4997,Law And Management
+4998,Computational Linguistics
+4999,Medical Social Work
+5000,Loaded Language
+5001,Context (Language Use)
+5002,Foreign Language Anxiety
+5003,Representation (Arts)
+5004,Language Deprivation
+5005,Superiority Complex
+5006,Effective Method
+5007,Assistant Teacher
+5008,Formal Grammar
+5009,Clicker Training
+5010,Hanyu Shuiping Kaoshi
+5011,Pre-Assessment
+5012,Humming
+5013,Zoo
+5014,Mouth
+5015,Environmental Resource Management
+5016,Management Training
+5017,Topgrading
+5018,Forward-Looking Statement
+5019,Going Concern
+5020,Getting Things Done
+5021,Keep Calm And Carry On
+5022,Marketing Buzz
+5023,Advertising Techniques
+5024,Top-Of-Mind Awareness
+5025,Creative Brief
+5026,Marketing Calendar
+5027,Executive Development
+5028,Corporate Title
+5029,Xml Interface For Network Services
+5030,Aunt
+5031,Test Strategy
+5032,One Health
+5033,Learning Disability
+5034,Flow-Matic
+5035,Null Route
+5036,Neurolinguistics
+5037,C*
+5038,Coma
+5039,Expression Problem
+5040,Escape Character
+5041,Cjk Characters
+5042,Blood
+5043,Gold
+5044,Chinese Basic
+5045,Metaphor And Metonymy
+5046,Lexicon
+5047,Corpus Linguists
+5048,Metalinguistics
+5049,Copybook (Education)
+5050,Linguists
+5051,Foot
+5052,Rocinha
+5053,Ancestral Home
+5054,Tora
+5055,Southern Hospitality
+5056,Sweat Lodge
+5057,Crying
+5058,Tai Chi
+5059,Grammatik
+5060,E-Channel
+5061,Fp-C
+5062,Multimodal Learning
+5063,Bigram
+5064,Li-Fi
+5065,Oral Interpretation
+5066,Podcast
+5067,Language Arts
+5068,Language Log
+5069,International Computer Archive Of Modern And Medieval English
+5070,Thematic Interpretation
+5071,Animal
+5072,Animal Welfare Science
+5073,Animal Health
+5074,Animal Behavior
+5075,Animal Rights
+5076,Poultry
+5077,Chicken
+5078,Chicken Behavior
+5079,Veterinary
+5080,Feather
+5081,Disease Management
+5082,Disease
+5083,Horse Care
+5084,Nutrition
+5085,Dog Behavior
+5086,Animal Anatomy
+5087,History Of Veterinary Medicine
+5088,Veterinary Medicine
+5089,Histology
+5090,Behavior Problems Diagnosis And Treatment
+5091,Cat Behavior
+5092,Livestock
+5093,Food Safety
+5094,Horse Behavior
+5095,Vital Signs
+5096,Injury
+5097,Bed
+5098,Animal Nutrition
+5099,Disease Control
+5100,Glands
+5101,Gland
+5102,Musculoskeletal System
+5103,Integumentary System
+5104,Dermis
+5105,Upper Limb
+5106,Surgery
+5107,Physical Therapy
+5108,Arteries
+5109,Valve
+5110,Urinary System
+5111,Larynx
+5112,Veins
+5113,Lymph Node
+5114,Lymph
+5115,Somatics
+5116,Cortex
+5117,Neurology
+5118,Central Nervous System
+5119,Artery
+5120,Growth Hormone
+5121,Pharynx
+5122,Scrotum
+5123,Digestive System
+5124,Mammary Gland
+5125,Ovary
+5126,Hormone
+5127,Molecular Genetics
+5128,Philosophy Of Biology
+5129,Cell Biology
+5130,Biodiversity
+5131,B Cell
+5132,Antibody
+5133,Immune System
+5134,Immunology
+5135,Inflammations
+5136,Biochemistry
+5137,Immunotherapy
+5138,Internal Medicine
+5139,Thymus
+5140,Assay
+5141,Autoimmunity
+5142,Neuropsychology
+5143,Neurobiology
+5144,Sleep (System Call)
+5145,Sleep
+5146,Sleep Deprivation
+5147,Sleep Apnea
+5148,Cognitive Behavioral Therapy
+5149,Sleep Medicine
+5150,Biochemical Engineering
+5151,Industrial Fermentation
+5152,Biofuel
+5153,Synthetic Biology
+5154,Fermentation
+5155,Biopharmaceuticals
+5156,Biopharmaceutical
+5157,Biotechnology
+5158,Enzyme
+5159,Ontology Learning
+5160,Extract Class
+5161,Physiology
+5162,Methods In Molecular Biology
+5163,Learning To Learn
+5164,Multiliteracy
+5165,Endurance
+5166,Fitness And Nutrition
+5167,Physical Exercise
+5168,Infectious Diseases
+5169,Vaccines
+5170,Vaccine
+5171,Prodrugs
+5172,Stable Model Semantics
+5173,Ftos
+5174,Subgraph Isomorphism Problem
+5175,Microbiology
+5176,Pathophysiology
+5177,Endocrinology
+5178,Reproductive Health
+5179,Polycystic Ovary Syndrome
+5180,Infertility
+5181,Menstrual Cycle
+5182,Menstruation
+5183,Endometriosis
+5184,In Vitro To In Vivo Extrapolation
+5185,Animal Testing
+5186,Cell Culture
+5187,Alternatives To Animal Testing
+5188,Biomarker
+5189,Omics
+5190,V-Statistic
+5191,Perturbation Function
+5192,Karush Kuhn Tucker Conditions
+5193,Neyman Construction
+5194,Alveolar Gas Equation
+5195,Cramér Rao Bound
+5196,Newsvendor Model
+5197,Hellinger Distance
+5198,Inverse-Wishart Distribution
+5199,Human Genetics
+5200,Cyanobacteria
+5201,Marine Biology
+5202,Photosynthesis
+5203,Biomass
+5204,Metabolism
+5205,Chronobiology
+5206,Circadian Rhythm
+5207,Bacteria
+5208,Intermittent Fasting
+5209,Ketogenic Diet
+5210,Public Health
+5211,Epidemic
+5212,Disease Surveillance
+5213,Vaccination
+5214,Oropharyngeal Cancer
+5215,Risk Factor
+5216,Continuing Medical Education
+5217,Medical Education
+5218,Hpv Vaccine
+5219,Paleontology
+5220,Fish
+5221,Tetrapod
+5222,Fossil
+5223,Phylogenetics
+5224,Extinction Events
+5225,Population Genetics
+5226,Genome
+5227,Hardy Weinberg Principle
+5228,Cardiovascular Disease
+5229,Methane
+5230,Transgenic Plants
+5231,Plant Cell
+5232,Insecticide
+5233,Coral Reef
+5234,Mosquito
+5235,Environmental Health
+5236,Sustainable Tourism
+5237,Tumor
+5238,Adjuvant
+5239,Radiation Therapy
+5240,Oncology
+5241,Body Plans
+5242,Body Plan
+5243,Chaparral
+5244,Comparative Genomics
+5245,Stem Cell
+5246,Genetically Modified Organisms
+5247,Dna Profiling
+5248,Health Law
+5249,Scientific Observation
+5250,Hypothesis Theory
+5251,Empirical Research
+5252,Forensic Science
+5253,Conservation Biology
+5254,Science Communication
+5255,Cambrian Explosion
+5256,Phylogenetic Tree
+5257,Fauna
+5258,Astrobiology
+5259,Extinction Event
+5260,Common Species
+5261,Pharmacoepidemiology
+5262,Clinical Epidemiology
+5263,Reproductive Technology
+5264,Dna Methylation
+5265,Assisted Reproductive Technology
+5266,Cancer Epigenetics
+5267,Butterfly
+5268,Pesticide
+5269,Entomophagy
+5270,Entomology
+5271,Scan
+5272,Digestion
+5273,Duodenum
+5274,Pelvic Floor
+5275,Enteric Nervous System
+5276,Abdomen
+5277,Spleen
+5278,Bile
+5279,Biomaterials
+5280,Dental Cement
+5281,Orthodontics
+5282,Dental Materials
+5283,Digital Dentistry
+5284,Dentistry
+5285,Restorative Dentistry
+5286,Dental Material
+5287,Stereophotogrammetry
+5288,Dentist
+5289,Endodontics
+5290,Dental Prosthesis
+5291,Dental Implant
+5292,Dna Replication
+5293,Electrophoresis
+5294,Gel
+5295,Observational Study
+5296,Translational Research
+5297,Phases Of Clinical Research
+5298,Health Services Research
+5299,Cancer Treatments
+5300,Cancer Biology
+5301,Cancer Genetics
+5302,Cancer Staging
+5303,Cancer Research
+5304,Food Allergy
+5305,Microbiota
+5306,Metagenomics
+5307,Autism
+5308,Allergy
+5309,Probiotics
+5310,Probiotic
+5311,Flavor
+5312,Foams
+5313,Steak
+5314,Tongue
+5315,Dosing
+5316,Ionizing Radiation
+5317,Energetics
+5318,Nuclear Medicine
+5319,Cognitive Skill
+5320,Infant
+5321,Dominance Hierarchy
+5322,Hunting
+5323,Male
+5324,Carbohydrates
+5325,Glucose
+5326,Bioenergetics
+5327,Glycolysis
+5328,Muscle Contraction
+5329,Plant Physiology
+5330,Botany
+5331,Chemical Safety
+5332,Health Effect
+5333,Nanoparticles
+5334,Urethra
+5335,Dissection
+5336,Physical Examination
+5337,Anatomical Terminology
+5338,Sexual Selection
+5339,Gene Regulation
+5340,Protein Chemistry
+5341,Protein Biochemistry
+5342,Biomolecular Complex
+5343,Protein Purification
+5344,Vitamin
+5345,Chemistry Experiments
+5346,Lymphatic System
+5347,Body Fluids
+5348,Sample Preparation
+5349,Flow Cytometry
+5350,Breast Milk
+5351,Biogenesis
+5352,Lipid
+5353,Proteomics
+5354,Stem Cell Biology
+5355,Stem Cells
+5356,Stem Cell Research
+5357,Bioethics
+5358,Biological Evolution
+5359,Action Potential
+5360,Indirection
+5361,Self-Reference
+5362,Evolution Of Dinosaurs
+5363,Paleobiology
+5364,Syndromes
+5365,Syndrome
+5366,Auditory System
+5367,Cable Theory
+5368,Paintshop Pro
+5369,Mental Illness
+5370,Psychiatry
+5371,Drug Resistance
+5372,Antibiotic Resistance
+5373,Antibiotic
+5374,Antibiotics
+5375,Antimicrobial
+5376,Antimicrobial Resistance
+5377,Antimicrobials
+5378,Zoology
+5379,Environmental Education
+5380,Ecofeminism
+5381,Environmental Biology
+5382,Biosphere
+5383,Interspecific Competition
+5384,Weight Loss
+5385,Physical Activity
+5386,Bodyweight Exercise
+5387,Endurance Training
+5388,Homeostasis
+5389,Organ System
+5390,Human Biology
+5391,Biological Anthropology
+5392,Cachexia
+5393,Neurological Disorders
+5394,Udder
+5395,Hypothalamus
+5396,Lactation
+5397,Mastitis
+5398,Chemotherapy
+5399,Breast Cancer
+5400,Breast
+5401,Psychiatric History
+5402,Obsessive Compulsive Disorder
+5403,Biopsychosocial Model
+5404,Mental State
+5405,Mental Health Professional
+5406,Wildlife Conservation
+5407,Gene Set Enrichment Analysis
+5408,Observational Error
+5409,Evidence-Based Toxicology
+5410,Systematics
+5411,Pseudoscope
+5412,Visual Space
+5413,Do-178B
+5414,Evolution Of Birds
+5415,Bird Anatomy
+5416,Apex Predators
+5417,Drug And Alcohol Abuse Treatment
+5418,Alcohol Abuse Treatment
+5419,Direct-To-Consumer Advertising
+5420,Alcohol Abuse
+5421,Addiction
+5422,Addiction Treatment
+5423,Crime Scene
+5424,Brain Death
+5425,Medical Ethics
+5426,Grief
+5427,Preconditioner
+5428,Parasites
+5429,Parasitic Diseases
+5430,Schistosomiasis
+5431,Parasitology
+5432,Ascariasis
+5433,Vegetation
+5434,House
+5435,Pharmacology
+5436,Ion Channel
+5437,Alzheimer'S Disease
+5438,Mood Disorder
+5439,Parkinson'S Disease
+5440,Crispr
+5441,Gene Therapy
+5442,Crispr Gene Editing
+5443,Flagellate
+5444,Excretion
+5445,Eukaryotic Cells
+5446,Glycocalyx
+5447,Ancient Dna
+5448,Paleopathology
+5449,Toothing
+5450,Dieting
+5451,Weaning
+5452,Systems Biology
+5453,Bios
+5454,Motif Searches
+5455,Longest Path Problem
+5456,Human Genome
+5457,Molecular Evolution
+5458,Batch File
+5459,Ebola
+5460,Introduction To Evolution
+5461,Gene Expression
+5462,Expectation Maximization Algorithm
+5463,Perfect Phylogeny
+5464,Markov Model
+5465,Reference Genome
+5466,Sequence Alignment Algorithms
+5467,Genome Projects
+5468,"$1,000 Genome"
+5469,Genome Annotation
+5470,Whole Genome Sequencing
+5471,Molecular Diagnostics
+5472,Biorepositories
+5473,Semi-Log Plot
+5474,Public Health Informatics
+5475,Her Foundation
+5476,Clinical Decision Support System
+5477,Adobe Golive
+5478,Decision Aids
+5479,Digital Health
+5480,Health Data
+5481,Pharmacy
+5482,Pharmacy Technician
+5483,Health Administration
+5484,Electronic Human Resources
+5485,Data Dictionary
+5486,Medical Terminology
+5487,Patient Care
+5488,Comorbidity
+5489,Health System
+5490,Patient Portal
+5491,Help Desk
+5492,Bacterial Genome
+5493,Sequence Assembly
+5494,Biomedical Sciences
+5495,Bioinformatics Algorithms
+5496,Data Reduction
+5497,Sampl
+5498,Earth Microbiome Project
+5499,Clear Labs
+5500,Informative Site
+5501,Chembl
+5502,Biocomplexity
+5503,Biological Specimen
+5504,Foldit
+5505,Transplant Experiment
+5506,Fee-For-Service
+5507,Health Information Technology
+5508,Translational Medicine
+5509,Clinical And Translational Science
+5510,De Novo Sequence Assemblers
+5511,Personal Genome Project
+5512,Complementary Dna (Cdna)
+5513,Dna Amplification
+5514,Agamous
+5515,Blast
+5516,Rna-Seq
+5517,Rna Sequencing
+5518,Health Human Resources
+5519,Patient Satisfaction
+5520,Shared Decision-Making
+5521,Nursing Education
+5522,Multiple Sequence Alignment
+5523,Biogrid
+5524,Gene Expression Analysis
+5525,Brca2
+5526,Biological Processes
+5527,Biological Process
+5528,Research Design
+5529,Research Ethics
+5530,Thematic Analysis
+5531,Qualitative Analysis
+5532,Pharmacokinetics
+5533,Stochastic Modelling (Insurance)
+5534,Stochastic Models
+5535,Axiology
+5536,Molecular Biology Techniques
+5537,Mass Cytometry
+5538,Clinical Pharmacology
+5539,Drug Safety
+5540,Drug Discovery
+5541,Drug Design
+5542,Clinical Drug Development
+5543,Drug Development
+5544,Medical Records
+5545,Ambulatory
+5546,Pharmacist
+5547,Pharmacists
+5548,P-Rep
+5549,Urgent Care Center
+5550,Expanded Access
+5551,Case Mix
+5552,Risk Factors
+5553,Infancy
+5554,Differential Diagnosis
+5555,Newborn Screening
+5556,Hyperbolic Discounting
+5557,Special Education
+5558,Intellectual Disability
+5559,Buprenorphine/Naloxone
+5560,Methadone
+5561,Pain Management
+5562,Naloxone
+5563,Drug Test
+5564,Substance Use Disorder
+5565,Medication
+5566,Tragedy Of The Commons
+5567,Determinants Of Health
+5568,Canning
+5569,Mhealth
+5570,Digital Medicine
+5571,Health Economics
+5572,Midwifery
+5573,Pediatric Nursing
+5574,Nurse Practitioner
+5575,Human Error
+5576,Lead Time
+5577,Medical Error
+5578,Employee Retention
+5579,Nursing Home Care
+5580,Medical Record
+5581,Medicaid
+5582,Healthy Building
+5583,Medical Billing
+5584,Pareto Principle
+5585,Buprenorphine
+5586,Evidence-Based Medicine
+5587,Forest Plot
+5588,Health Care Reform
+5589,National Health Service
+5590,Medical Devices Directive
+5591,Secure By Design
+5592,Patient Safety
+5593,Hazard Analysis And Critical Control Points
+5594,Records Management
+5595,Ehealth
+5596,E-Health
+5597,Hospital Administrators
+5598,Safety Culture
+5599,Human Subject Research
+5600,Diets
+5601,Healthy Diet
+5602,Food Engineering
+5603,Obesity
+5604,Gastric Bypass Surgery
+5605,Nutrition Education
+5606,Diet (Nutrition)
+5607,Codex Alimentarius
+5608,Quine (Computing)
+5609,Gestational Diabetes
+5610,Nutrients
+5611,Brainbow
+5612,Plant Nutrition
+5613,Compost
+5614,Composting
+5615,Nutritionist
+5616,Dietetics
+5617,Lifestyle Disease
+5618,Pediatrics
+5619,Diet And Obesity
+5620,Clinical Medicine
+5621,Diabetes
+5622,Nutritional Diseases
+5623,Clinical Nutrition
+5624,Ms Y
+5625,Regimen
+5626,Health Education
+5627,Physical Education
+5628,Children'S Health
+5629,Emergency Medical Services
+5630,Emergency
+5631,Emergency Medicine
+5632,Respiratory Diseases
+5633,Asthma
+5634,Drown Attack
+5635,Cardiac Arrest
+5636,Symptoms
+5637,Hypothermia
+5638,Triage
+5639,Soft Tissue Injury
+5640,Child Abuse
+5641,Scope Of Practice
+5642,First Aid
+5643,Health For All
+5644,Community Health
+5645,Remote Patient Monitoring
+5646,Barcode Reader
+5647,Basement
+5648,Nursing Homes
+5649,Protected Health Information
+5650,Functional Medicine
+5651,Reiki
+5652,Aromatherapy
+5653,Adaptogen
+5654,Dietary Supplement
+5655,Carminative
+5656,Dietary Supplements
+5657,Women'S Health
+5658,Nursing Management
+5659,Massage
+5660,Nursing Care Plan
+5661,Nurse Education
+5662,Brain Damage
+5663,Hearing
+5664,Hearing Loss
+5665,Gestational Age
+5666,Postpartum Period
+5667,Physician Assistant
+5668,Gynecology
+5669,Prevalence
+5670,Medical Sociology
+5671,Speech Language Pathology
+5672,Communication Disorder
+5673,Clinical Physiology
+5674,Rams
+5675,Random-Access Memory
+5676,Echocardiography
+5677,Cardiology
+5678,Heart Failure Diagnosis / Treatment
+5679,Myocardial Infarction
+5680,Heart Failure
+5681,Bacterial Growth
+5682,Biofilm
+5683,Infection Control
+5684,Bacteriology
+5685,Medical Microbiology
+5686,Clinical Experience
+5687,Chronic Pain Management
+5688,Osteopathy
+5689,Arthritis
+5690,Pain
+5691,Chronic Pain
+5692,Dental Assistant
+5693,Pediatric Dentistry
+5694,Dental Hygienist
+5695,Inner Ear
+5696,Etiology
+5697,Language Development
+5698,Cholesteatoma
+5699,Homeopathy
+5700,Trauma Surgery
+5701,Universal Healthcare
+5702,Health Policy
+5703,Lesion
+5704,Social Distancing
+5705,Medical History
+5706,Asymptomatic
+5707,Mechanical Ventilation
+5708,Super-Spreader
+5709,Geriatrics
+5710,Family Caregivers
+5711,Dementia
+5712,Psychosocial
+5713,Occupational Therapy
+5714,Caring For People With Dementia
+5715,Quality Of Life
+5716,Late Talker
+5717,Active Recall
+5718,Dichotic Listening
+5719,Proxemics
+5720,Medical Practice
+5721,Hormone Replacement Therapy
+5722,Trapping
+5723,Psychiatric Diagnosis
+5724,Prosthesis
+5725,Burn-In
+5726,Accidents
+5727,Traumatology
+5728,Cannabinoids
+5729,Cancer Pain
+5730,Medical Cannabis
+5731,Neuropathic Pain
+5732,Cannabinoid
+5733,Post-Exposure Prophylaxis
+5734,Sexual Health
+5735,Gonorrhea
+5736,Hiv
+5737,Vitamins
+5738,Acupuncture
+5739,Traumatic Stress
+5740,Posttraumatic Stress Disorder
+5741,Medical Records Analysis
+5742,Cell Therapy
+5743,Kidney Disease
+5744,Kidney Transplantation
+5745,Nephrology
+5746,Personal Care
+5747,Home Care
+5748,Patients' Rights
+5749,Otorhinolaryngology
+5750,Hair Care
+5751,Microtia
+5752,Hiv/Aids
+5753,History Of Hiv/Aids
+5754,Diagnostic Evaluation
+5755,Autism Spectrum
+5756,Spectrum Disorders
+5757,Spectrum Disorder
+5758,Autism Spectrum Disorder
+5759,Point Of Care
+5760,Agnosia
+5761,Dripping
+5762,Anesthesiology
+5763,Smoking
+5764,Benign Prostatic Hyperplasia
+5765,Prostate Cancer Screening
+5766,Erectile Dysfunction
+5767,Prostate
+5768,Dsm-5
+5769,Ophthalmology
+5770,Cataract
+5771,Cataract Surgery
+5772,Dolor Assessment
+5773,Medical Management
+5774,Acute Rhinosinusitis
+5775,Chronic Rhinosinusitis
+5776,Dialysis
+5777,Outbreak
+5778,Ebola Virus Disease
+5779,Pharmacogenetics
+5780,Personalized Medicine
+5781,Electronic Medical Records
+5782,Medica
+5783,Medical Simulation
+5784,Advance Care Planning
+5785,Suffering
+5786,Mechanism Of Action
+5787,Appetite
+5788,Spiritual Distress
+5789,Allergen
+5790,Concussion
+5791,Attention Deficit Hyperactivity Disorder
+5792,Operationalization
+5793,Stereotype Threat
+5794,Behavioral Neuroscience
+5795,Neoteny
+5796,Adns
+5797,Bernoulli Distribution
+5798,Mathematical Psychology
+5799,Child Psychology
+5800,Behavior Management
+5801,Auditory Cortex
+5802,Aphasias
+5803,Dyslexia
+5804,Police
+5805,Police Psychology
+5806,Arm
+5807,Happiness At Work
+5808,Moral Universe
+5809,Behavioural Genetics
+5810,Relaxation Technique
+5811,Speech Perception
+5812,Psycholinguistics
+5813,Kindness
+5814,Crisis Intervention
+5815,Reflective Listening
+5816,Self-Care
+5817,Self-Determination Theory
+5818,Sexual Orientation
+5819,Self-Actualization
+5820,Sex Education
+5821,Diagnosis Of Schizophrenia
+5822,Schizophrenia
+5823,Buddhism And Psychology
+5824,Memory Processes
+5825,Adolescence
+5826,Adult
+5827,Hersh Shefrin
+5828,Psychology Lists
+5829,Ronald Stuart Burt
+5830,Afaf Meleis
+5831,School Psychology
+5832,Empirical Psychology
+5833,Protective Factor
+5834,Crossmodal
+5835,Auditory Perception
+5836,Child Development
+5837,Hr Tech
+5838,Psychological Issues
+5839,Alternative Data
+5840,Survey Research
+5841,Self-Administration
+5842,Context Effect
+5843,Contrast Effect
+5844,Random Number Table
+5845,Cluster Sampling
+5846,Bias Of An Estimator
+5847,Systematic Sampling
+5848,Simple Random Sample
+5849,Kaplan Meier Estimator
+5850,Sample Mean And Covariance
+5851,Sampling Distribution
+5852,Hazard Ratio
+5853,Thermoregulation
+5854,Waterborne Diseases
+5855,Health Equity
+5856,Climate Change Scenario
+5857,Cholera
+5858,Insect-Borne Diseases
+5859,Capacity Building
+5860,Attributable Risk
+5861,Risk-Neutral Measure
+5862,Cohort Studies
+5863,Randomized Controlled Trial
+5864,Cross-Sectional Data
+5865,Case-Control Study
+5866,Ecological Study
+5867,Nested Case-Control Study
+5868,Case Series
+5869,Selection Bias
+5870,Health Research
+5871,Disease Burden
+5872,Health Indicator
+5873,Public Health Surveillance
+5874,Non-Communicable Disease
+5875,Natural History
+5876,Continuing Education
+5877,Force Fields
+5878,Ecosystem Model
+5879,Community Change
+5880,Biomedicine
+5881,Determinants
+5882,Health Belief Model
+5883,Health Psychology
+5884,Vaccine Development
+5885,Emerging Infectious Disease
+5886,Alzheimer Disease International
+5887,Mange
+5888,Family Planning
+5889,Health Impact Assessment
+5890,Mathematical Modelling Of Infectious Disease
+5891,Risk Of Infection
+5892,Cannabis Research
+5893,Epidemiology Of Obesity
+5894,Anxiety Disorder
+5895,Bipolar Disorder
+5896,Anxiety Disorders
+5897,Endocannabinoid System
+5898,Alternative Medicine
+5899,Aging Processes
+5900,Co-Regulation
+5901,Infant Crying
+5902,Quarantine
+5903,Contact Tracing
+5904,Substance Abuse
+5905,Adolescent Health
+5906,Neglected Tropical Diseases
+5907,Tropical Diseases
+5908,Sexual Violence
+5909,Domestic Violence
+5910,Violence Against Women
+5911,Sex Trafficking
+5912,Harm Reduction
+5913,Childbirth
+5914,Multiple Births
+5915,Multiple Birth
+5916,Self-Advocacy
+5917,Maternal Health
+5918,Old Age
+5919,Medicalization
+5920,Suicide
+5921,Gun Violence
+5922,Cancer Prevention
+5923,Radon
+5924,Air Pollution Control
+5925,Pollution Control
+5926,Indoor Air Quality
+5927,Pulse
+5928,Multiple Sclerosis
+5929,Dermatology
+5930,Common Cold
+5931,Disease Outbreaks
+5932,Hamper
+5933,Mortality Rate
+5934,Obstetrics
+5935,Prenatal Care
+5936,Geriatric Rehabilitation
+5937,Health Crisis
+5938,Health Communication
+5939,Sebaceous Gland
+5940,Acne
+5941,Skin Care
+5942,Cutaneous Larva Migrans
+5943,Food Policy
+5944,Seafood
+5945,Food Desert
+5946,Animal Product
+5947,Athletic Training
+5948,Infant Feeding
+5949,Public Health Emergency Of International Concern
+5950,Risk Benefit Ratio
+5951,Recombinant Dna
+5952,Miui
+5953,Case Fatality Rate
+5954,Preparedness
+5955,Body Fluid
+5956,Social Epidemiology
+5957,Abstinence
+5958,Drug Policy
+5959,Chikungunya
+5960,Zika Virus
+5961,Long-Term Care Insurance
+5962,Healthy Choice
+5963,Food Deserts
+5964,Food Packaging
+5965,Food Processing
+5966,Thoracic Surgery
+5967,Major Depressive Disorder
+5968,Stock And Flow
+5969,System Dynamics
+5970,Vensim
+5971,Agent-Based Model
+5972,Water Quality
+5973,Syndemic
+5974,Nutrition Psychology
+5975,Antigen
+5976,Abortion
+5977,Insecticides
+5978,Feathering
+5979,Feathers
+5980,Enthusiasm
+5981,Social Determinants Of Health
+5982,Diet Food
+5983,Public Participation
+5984,Quasi-Experiment
+5985,Logic Model
+5986,Insulin
+5987,Exposure Assessment
+5988,Frustration
+5989,Disease Cluster
+5990,Biosafety
+5991,Biocontainment
+5992,Educational Practices
+5993,Influenza
+5994,Prayer
+5995,Infant Mortality
+5996,Opioid Overdose
+5997,Piecewise-Deterministic Markov Process
+5998,Bullying
+5999,School Social Worker
+6000,Log-Rank Test
+6001,Regulatory Affairs
+6002,Guided Imagery
+6003,Cosmetics
+6004,Image Formation
+6005,Microscope
+6006,Structural Biology
+6007,Electron Microscope
+6008,Cryo
+6009,Single Particle Analysis
+6010,Medical Research
+6011,Genetic Counseling
+6012,Pharmacogenomics
+6013,Neurological Injury
+6014,Clinical Trial Design
+6015,Randomization
+6016,Nyquist Shannon Sampling Theorem
+6017,Field Of View
+6018,Biological Computing
+6019,Transcription Factor
+6020,Redcap
+6021,Plasmid
+6022,Biomedical Technology
+6023,Cyclotron
+6024,Assessment And Plan
+6025,Paraben
+6026,Epigenetics
+6027,Biomarkers
+6028,Cancer Biomarker
+6029,Apoptosis
+6030,Mass Spectrometry
+6031,Mathematical Series
+6032,Hexadecimal
+6033,Octal
+6034,Improper Integral
+6035,Differentiable Function
+6036,Linear Approximation
+6037,Gaussian Elimination
+6038,Linear Independence
+6039,Invertible Matrix
+6040,Probabilistic Independence
+6041,Multivariable Calculus
+6042,Logic Form
+6043,Algebraic Expression
+6044,Elementary Algebra
+6045,Quadratic Equation
+6046,Partial Differential Equations
+6047,Ordinary Differential Equation
+6048,Laplace Transform Applied To Differential Equations
+6049,Partial Derivative
+6050,Statistical Charts And Diagrams
+6051,Borel Cantelli Lemma
+6052,Software Equation
+6053,Geogebra
+6054,Multivariate Time Series Analysis
+6055,Lempel Ziv Oberhumer
+6056,Constrained Optimization
+6057,Implicit Function
+6058,Level Set
+6059,Differential Calculus
+6060,Π-Calculus
+6061,Integral Calculus
+6062,Multivariate Statistics
+6063,Tensor Calculus
+6064,Radial Basis Function Kernel
+6065,Geometric Calculus
+6066,Computational Mathematics
+6067,Power Series
+6068,Alegra
+6069,Patty
+6070,Mathematical Economics
+6071,Chernoff Bound
+6072,Combinatorial Game Theory
+6073,Complex Analysis
+6074,Propositional Calculus
+6075,Vector Calculus
+6076,Steve Mann
+6077,Sss*
+6078,Form 3
+6079,Switched Multi-Megabit Data Service
+6080,Bayesian Probability
+6081,Sube Card
+6082,Image Restoration
+6083,Matrix Theory
+6084,Forward Error Correction
+6085,Coding Theory
+6086,Mutual Information
+6087,Memorylessness
+6088,Linear Least Squares
+6089,Linear Map
+6090,Singular Value Decomposition
+6091,Durbin Wu Hausman Test
+6092,Taylor'S Theorem
+6093,Moore Penrose Pseudoinverse
+6094,Bradbury Thompson
+6095,Surface Integral
+6096,Commutative Property
+6097,Topography
+6098,Gpss
+6099,K-Svd
+6100,Broyden Fletcher Goldfarb Shanno Algorithm
+6101,K-Distribution
+6102,Pascal'S Rule
+6103,K-Medoids
+6104,Lévy Processes
+6105,Brownian Motion
+6106,Stochastic Processes
+6107,Enumerative Combinatorics
+6108,Representation Theory
+6109,Function Of Several Real Variables
+6110,Algebraic Operation
+6111,Self-Discovery
+6112,Impression Management
+6113,Digital Artifact
+6114,Personal Effectiveness
+6115,Career Counselors
+6116,Collective Thinking
+6117,360-Degree Feedback
+6118,Creative Visualization
+6119,Voice Analysis
+6120,Goal Orientation
+6121,Slogan
+6122,Temptation
+6123,Pre-Mortem
+6124,Base Rate
+6125,Abductive Reasoning
+6126,Tacit Knowledge
+6127,Down Syndrome
+6128,Procrastination
+6129,Job Attitude
+6130,Weight Loss Coaching
+6131,Relapse Prevention
+6132,Pomodoro Technique
+6133,Learned Optimism
+6134,Optimism
+6135,Train Your Brain
+6136,Test Preparation
+6137,Homelessness
+6138,Gender Dysphoria
+6139,Torque
+6140,Acis
+6141,Arrastra
+6142,Management Education
+6143,Water Treatment Facilities
+6144,L-Moment
+6145,Information Source
+6146,Iri (Company)
+6147,Health Literacy
+6148,Validity (Statistics)
+6149,Antivirus Software
+6150,Calmness
+6151,The Time Machine
+6152,Cω
+6153,Preparation Time
+6154,Ideogram
+6155,Psychometrics
+6156,Testing Reliability
+6157,Personality Tests
+6158,Development Of Personality
+6159,Personality Test
+6160,Personal Development
+6161,Travel Medicine
+6162,Types Of Insurance
+6163,Culture Shock
+6164,Grape
+6165,Wine Tasting
+6166,Sensory Analysis
+6167,Food Chemistry
+6168,Dance Therapy
+6169,Boreout
+6170,Curriculum Design
+6171,Relationship Counseling
+6172,Loopback
+6173,Order Matching System
+6174,S.C.A.M.P.E.R
+6175,Creativity Techniques
+6176,Triz
+6177,Celebrate Recovery
+6178,Help-Seeking
+6179,Online Community
+6180,Disinformation
+6181,Introjection
+6182,Pseudoword
+6183,Sociomateriality
+6184,Murray'S System Of Needs
+6185,Destabilisation
+6186,Learning Theory (Education)
+6187,Knowledge Building
+6188,Connectivism
+6189,Love Of Learning
+6190,Principles Of Learning
+6191,Conceptual Change
+6192,Student Engagement
+6193,Behaviorism
+6194,Failure Rate
+6195,Dbase
+6196,Hola
+6197,General Protection Fault
+6198,Early Childhood
+6199,Puberty
+6200,Meaningful Life
+6201,Self-Affirmation
+6202,Meta Learning
+6203,Analysis Paralysis
+6204,Personal Identity
+6205,Savoring
+6206,Confusion
+6207,Screencast
+6208,Medicinal Chemistry
+6209,Relative Strength
+6210,Ultraviolet-Visible Spectroscopy
+6211,Metallurgy
+6212,Materials Development
+6213,Nanotechnology
+6214,Computational Chemistry
+6215,Quantum Number
+6216,Energy Level
+6217,Q-Analogs
+6218,Non-Local Means
+6219,Environmental Chemistry
+6220,Nanoparticle
+6221,Nanosensor
+6222,Reagent
+6223,Product-Form Solution
+6224,Stoichiometry
+6225,Sodium
+6226,Solar Energy
+6227,Solar Technology
+6228,Embodied Energy
+6229,Road Construction
+6230,Fracture Mechanics
+6231,Roofing
+6232,Transportation Engineering
+6233,Hydraulics
+6234,Chemical Biology
+6235,Biology Experiments
+6236,Docking (Molecular)
+6237,Statistical Mechanics
+6238,Quantum Mechanics
+6239,Hydrogen
+6240,Food Preservation
+6241,Food Chemists
+6242,Multiscale Modeling
+6243,Manufacturing Engineer
+6244,High-Throughput Screening
+6245,Biological Activity
+6246,Height Gauge Interpretation
+6247,Electronic Skin
+6248,Optics Algorithm
+6249,F.Lux
+6250,Karnaugh Map
+6251,Computer Monitor
+6252,Oled
+6253,Liquid Crystal Displays
+6254,Electronic Visual Display
+6255,Quantization (Signal Processing)
+6256,Control Unit
+6257,Battery Management System
+6258,Electric Vehicles
+6259,Nonlinear Programming
+6260,Balanced Set
+6261,Eeprom
+6262,Ifconfig
+6263,Fourier Analysis
+6264,Discrete Fourier Transform
+6265,Frequency Domain
+6266,Decorrelation
+6267,Linear Prediction
+6268,Modems
+6269,Theory Of Relativity
+6270,Scalar Field
+6271,Colloid
+6272,Equipotential
+6273,Windows Metafile
+6274,Full Configuration Interaction
+6275,Electronic Circuits
+6276,Embedded C
+6277,Spec Sharp
+6278,Circuit Design
+6279,Pressure Sensor
+6280,Mechatronics
+6281,Actuators
+6282,Electromechanical Systems
+6283,Motion Detector
+6284,Touchscreens
+6285,Alarms
+6286,Manometers
+6287,Linearization
+6288,Electric Power Transmission
+6289,Electrical Power Generation
+6290,Energy Efficiency
+6291,Natural Gas
+6292,About Safety
+6293,Electrical Safety
+6294,Safety Equipment
+6295,Hazards
+6296,Fire Safety
+6297,Energy Consumption
+6298,Energy Industry
+6299,Energy Supply
+6300,Schematic Design
+6301,Test Bench
+6302,Library (Computing)
+6303,Logic Analyzers
+6304,Billing
+6305,Recitation
+6306,Multi-Core Processor
+6307,Coprocessor
+6308,Electronic Design
+6309,Power Electronics
+6310,Smart Transducer
+6311,Scilab
+6312,Engineering Activities
+6313,Process (Engineering)
+6314,Flash File System
+6315,Fagan Inspection
+6316,Hamming Code
+6317,Electronic Circuit Simulation
+6318,Radio Frequency (Rf) Design
+6319,Electrical Control
+6320,Engineering Controls
+6321,System C
+6322,Multimeters
+6323,Oxygen
+6324,Iron
+6325,Bit Manipulation
+6326,Interrupt Vector Table
+6327,Load Calculations
+6328,Manual Welding
+6329,Peak Coal
+6330,Photovoltaic Energy
+6331,Wind Energy
+6332,Silicon
+6333,Thinning
+6334,Z-Buffering
+6335,Radio Frequency (Rf) Engineering
+6336,Analog Design
+6337,Digital Multimeters
+6338,Oscilloscope
+6339,Power Supplies
+6340,Current Probes
+6341,Voltage Probes
+6342,Circuit Switching
+6343,Radio Resource Management
+6344,Daily Build
+6345,Drywall
+6346,Instruction Set
+6347,Instruction Set Architectures
+6348,Multiprocessing
+6349,Superscalar Processor
+6350,Branch Predictor
+6351,Soft Robotics
+6352,Robotics Software
+6353,Analog Circuit Design
+6354,Digital Circuit Design
+6355,Educational Programs
+6356,Link Budget
+6357,Tomography
+6358,Transistor Transistor Logic
+6359,Shading
+6360,Energy Engineering
+6361,Video Compression
+6362,Hopper Machine
+6363,Spice
+6364,Lithography
+6365,Characterization Of Nanoparticles
+6366,Modeling And Simulation
+6367,Conjugate Transpose
+6368,Fiber Optics
+6369,Collimator
+6370,Telecentric Lens
+6371,Focal (Hp-41)
+6372,Order Of Approximation
+6373,Curvature
+6374,Power Electronics Design
+6375,Copper
+6376,Molecular Orbital
+6377,Climate Risk
+6378,Greenhouse Gas
+6379,Emissions Reduction
+6380,Carbon Price
+6381,Interconnection
+6382,Gis Software
+6383,Arcmap
+6384,Land Use
+6385,Local Elevation
+6386,Feature Geometry
+6387,Imagery Analysis
+6388,Map Projections
+6389,Multispectral Image
+6390,Google Earth Engine
+6391,Water Engineering
+6392,Pasteurization
+6393,Drinking Water
+6394,Removal Units
+6395,Water Conservation
+6396,Environmental Impact Assessment
+6397,Water Treatment
+6398,Water Resource Development
+6399,Environmental Protection
+6400,Environmental Management System
+6401,Computational Fluid Dynamics
+6402,Cycling
+6403,Grid Cell
+6404,Discretization
+6405,Happy Path
+6406,Demographic Statistics
+6407,Sustainable Transport
+6408,Environmental Economics
+6409,Uncertainty Analysis
+6410,Action Research
+6411,Low-Carbon Economy
+6412,Latrine
+6413,Permis
+6414,Fs Design Studio
+6415,"Transform, Clipping, And Lighting"
+6416,Soil Testing
+6417,Soil Science
+6418,Soil Conservation
+6419,Postgis
+6420,Gis Applications
+6421,Spatialite
+6422,Food Technology
+6423,Natural Resource Economics
+6424,Material Flow Analysis
+6425,Green Technology
+6426,Green Manufacturing
+6427,Resource Economics
+6428,Geothermal Energy
+6429,Microgrid
+6430,Air Emissions
+6431,Nuclear Energy
+6432,Energy Conservation
+6433,Hybrid Vehicle Manufacturing
+6434,Environmental Geology
+6435,Breakup
+6436,Animal Migration
+6437,Aliment
+6438,Geospatial Information System
+6439,Electricity Pricing
+6440,Gas Chromatography
+6441,Well Logging
+6442,Site Investigations
+6443,Wet Chemistry
+6444,Flame Cutting Equipment
+6445,Water Planning
+6446,Natural Resources
+6447,Gambler'S Fallacy
+6448,Prior-Appropriation Water Rights
+6449,Risk Management Plan
+6450,Environmental Policy
+6451,Turbine (Us Government Project)
+6452,Energy Products
+6453,Exergy
+6454,Energy Assessment
+6455,Sudo
+6456,Protocol For Web Description Resources
+6457,Green Economy
+6458,Sustainable Design
+6459,City Planning
+6460,Energy Solutions
+6461,Solar Cell Manufacturing
+6462,Meet Market
+6463,Sanitation
+6464,Shared Services
+6465,Energy Policy
+6466,Global City
+6467,Mining Engineering
+6468,Emotional Intelligence 2.0
+6469,Environmental Justice
+6470,Furniture
+6471,Stormwater
+6472,Reservoirs
+6473,Reservoir
+6474,Food Choice
+6475,Deliberative Democracy
+6476,Disinvestment
+6477,Energy Audits
+6478,Geologic Record
+6479,Environmental Conservation
+6480,Economics Of Sustainability
+6481,Adaptive Capacity
+6482,Water Scarcity
+6483,Aquatic Ecosystem
+6484,Cerner
+6485,Fire Suppression
+6486,Professional Engineer
+6487,Fire Protection Engineering
+6488,Fire Protection
+6489,Meat Industry
+6490,Palatability
+6491,Ground Beef
+6492,Foodborne Illnesses
+6493,Seismographs
+6494,Directional Drilling
+6495,Bursting
+6496,Wastewater Engineering
+6497,Salinity
+6498,Materials Management
+6499,Watering Can
+6500,Desalination
+6501,Energy Analysis
+6502,Energy Accounting
+6503,Natural Hazard
+6504,Hydropower
+6505,Observatory
+6506,Control Rod
+6507,Waste Treatment Technology
+6508,Enhanced Oil Recovery
+6509,Price Of Oil
+6510,Petroleum Geology
+6511,Water Supply
+6512,Groundwater Remediation
+6513,Soil Sampling
+6514,Carbon Cycle
+6515,Medical Waste
+6516,Photovoltaic (Pv) Systems
+6517,Solar Electric Installation
+6518,Solar Photovoltaic Installation
+6519,Commercial Solar Projects
+6520,Electrical Design
+6521,Electrical Construction
+6522,Hvac Engineering
+6523,Building Code Review
+6524,Industrial Electrical Construction
+6525,Cnc Machine
+6526,Mode Setting
+6527,Bench Lathes
+6528,Mechanical Design
+6529,Design For Reuse
+6530,Topology Optimization
+6531,Shape Optimization
+6532,Carbon Offset
+6533,Generative Design
+6534,Navisworks
+6535,Autocad Architecture
+6536,Software Visualization
+6537,Collada
+6538,Industrial Robotics
+6539,Structured Light
+6540,Manufacturing Execution System
+6541,Pl/C
+6542,Model-Based Definition
+6543,Sustainable Engineering
+6544,Human Factors And Ergonomics
+6545,Nastran
+6546,Industrial Engineering Industry Expertise
+6547,Spacecraft Communication
+6548,Unmanned Aerial System
+6549,Electronic Signals Intelligence
+6550,Interplanetary Internet
+6551,Imagery Intelligence
+6552,Unmanned Vehicles
+6553,Navigation Equipment
+6554,Industrial Automation Systems
+6555,Traffic Simulation
+6556,Flight Training
+6557,Newton'S Laws Of Motion
+6558,Project Finance Model
+6559,Project Governance
+6560,Internal Rate Of Return
+6561,Inverse Kinematics
+6562,Forward Kinematics
+6563,Numerical Integration
+6564,Time-Scale Calculus
+6565,Inverse Element
+6566,Matrix Difference Equation
+6567,Motion Controller
+6568,Normal (Geometry)
+6569,Convex Set
+6570,Linear Span
+6571,Convex Cone
+6572,Robot Control
+6573,Mechanical Tests
+6574,Stage Theories
+6575,3D Rig
+6576,Robotic Systems
+6577,Factor Of Safety
+6578,Vector Algebra
+6579,Wind Farm Design
+6580,Wind Power
+6581,Wind Energy Engineering
+6582,Architectural Rendering
+6583,Material Selection
+6584,Dimension (Vector Space)
+6585,Basis Function
+6586,Rebar
+6587,3D Warehouse
+6588,Lagrange Polynomial
+6589,Multiple Integral
+6590,Traffic Engineering
+6591,Protection Mechanism
+6592,Zinc
+6593,Corrosion Control Systems
+6594,Hamiltonian (Quantum Mechanics)
+6595,Biophysics
+6596,Autodesk Inventor
+6597,Boundary Element Method
+6598,Types Of Mesh
+6599,Spectral Element Method
+6600,Lattice Models
+6601,Railroad Engineering
+6602,Carpentry
+6603,Spot Welding
+6604,Accident
+6605,Xojo
+6606,Electrical Work
+6607,Pik Loan
+6608,Failure Analysis
+6609,Medical Robotics
+6610,Robotics Projects
+6611,Educational Robotics
+6612,Air Quality Control
+6613,Water Quality Modeling
+6614,Emissions Standards
+6615,Hemodynamics
+6616,Estimation Methods
+6617,Perturbation Theory
+6618,Virtual Observatories
+6619,Nuclear Fuel
+6620,P Versus Np Problem
+6621,Spent Nuclear Fuel
+6622,Facility Design
+6623,Life On Titan
+6624,Life On Mars
+6625,Large Hadron Collider
+6626,3D Reconstruction
+6627,Fluid Animation
+6628,Warchalking
+6629,Two'S Complement
+6630,Computational Astronomy
+6631,Kendall Rank Correlation Coefficient
+6632,Extremophile
+6633,Biosignature
+6634,Quantum Entanglement
+6635,Quantum Teleportation
+6636,Discern
+6637,Limbic System
+6638,Calcium
+6639,Quantum Technology
+6640,Random Number Generation
+6641,Origin Of Life
+6642,Fermi Paradox
+6643,Ap Calculus
+6644,Quake Army Knife
+6645,Calorimeters
+6646,Heavy Traffic Approximation
+6647,Product Integral
+6648,Route Planning Software
+6649,Numerical Weather Prediction
+6650,Drake Equation
+6651,Extraterrestrial Life
+6652,System 4
+6653,Nanorobotics
+6654,Tumor Markers
+6655,Quantum Network
+6656,Finite Volume Method
+6657,Intime
+6658,Appimage (Packaging Method)
+6659,Gyro
+6660,Dynamical System
+6661,Scientific Analysis
+6662,Netlogo
+6663,Medical Laboratory
+6664,Precautionary Principle
+6665,Comprehensive Unit-Based Safety Program (Cusp) Toolkit
+6666,Medical Physics
+6667,Social Science Methodology
+6668,Finite Differences
+6669,Collective Intelligence
+6670,Bitwise Operation
+6671,Freezing
+6672,Energy Budget
+6673,Agricultural Biotechnology
+6674,Mathematical Methods In Science
+6675,Business Systems Analysis
+6676,Permanent Interest Bearing Shares
+6677,World Currency
+6678,Balance Of Payments
+6679,Population Dynamics
+6680,Aggregate Demand
+6681,Internal Devaluation
+6682,Governo
+6683,Financial Econometrics
+6684,Master Of Financial Economics
+6685,Price Signal
+6686,Energy Intensity
+6687,Climate Policy
+6688,Pebibyte
+6689,Local Purchasing
+6690,Accounting Software
+6691,Cognitive Psychology
+6692,Neuroeconomics
+6693,Cognitive Neuroscience
+6694,Measure B
+6695,Optimal Tax
+6696,Usenix
+6697,Jeremy Rifkin
+6698,Karl Duncker
+6699,Eliyahu M. Goldratt
+6700,Karol Adamiecki
+6701,Banking In Australia
+6702,Gross Domestic Product
+6703,Nash Equilibrium
+6704,Pesticides
+6705,Water Pollution
+6706,Econometric Models
+6707,Real Estate Investing
+6708,Green Growth
+6709,Food Quality
+6710,Proxy (Statistics)
+6711,Generalized Least Squares
+6712,Political Communication
+6713,Redevelopment
+6714,Experimental Economics
+6715,Sex In Advertising
+6716,History Of Advertising
+6717,Advertising Strategy
+6718,Fair Trade
+6719,Earth Economics
+6720,Pensions
+6721,Marginal Propensity To Consume
+6722,Rational Choice Theory
+6723,Active Perception
+6724,Energy Economics
+6725,Shadow Banning
+6726,Interbank Lending Market
+6727,Land Reform
+6728,Mutualization
+6729,Web Content
+6730,Disposition
+6731,Warrants
+6732,Pair Programming
+6733,Conditional Loop
+6734,Admissible Numbering
+6735,Scrambler
+6736,Program Development
+6737,Standard Language
+6738,Social Skills Instruction
+6739,Individualized Education Program
+6740,Group Instruction
+6741,Curriculum Development
+6742,Supplemental Instruction
+6743,Memory Segmentation
+6744,Code Segment
+6745,Boolean Expression
+6746,Interactive Media
+6747,Gloss (Annotation)
+6748,Homosexuality
+6749,Educational Assessment
+6750,Child Care
+6751,School Counseling
+6752,Cognitive Style
+6753,Intelligence Tests
+6754,Knowing How To Know
+6755,Differentiated Instruction
+6756,Panel Discussion
+6757,Active Minds
+6758,Body Awareness
+6759,It Gets Better Project
+6760,Our Whole Lives
+6761,Controversial Discussions
+6762,Social Sciences
+6763,Teacher Training
+6764,Student Learning Outcomes
+6765,Youth Engagement
+6766,Youth Voice
+6767,Youth Empowerment
+6768,Critical Friend
+6769,Affair
+6770,Hopefully
+6771,Homesickness
+6772,Earcon
+6773,Sonification
+6774,Auditory Displays
+6775,Online Writing
+6776,Journalism Schools
+6777,Educational Therapy
+6778,Disability Studies
+6779,Affect (Education)
+6780,Confidant
+6781,Benefits Research
+6782,Descriptive Research
+6783,Gamification Of Learning
+6784,Sarcasm
+6785,Belongingness
+6786,Blame
+6787,Prezi
+6788,Vrio
+6789,Web 2.0
+6790,Direct Instruction
+6791,Learning Lab
+6792,Family Literacy
+6793,Common Sense
+6794,Youth Work
+6795,Prevention Activities
+6796,Participatory Evaluation
+6797,Lesbian
+6798,Cognitive Development
+6799,Reflective Practice
+6800,Probar
+6801,Constructivist Teaching Methods
+6802,Concept Learning
+6803,Knowledge Of Human Nature
+6804,Tbox
+6805,Organizational Memory
+6806,Quantitative Psychology
+6807,Smile
+6808,Applause
+6809,Inter-Rater Reliability
+6810,Lejos
+6811,Classroom Games
+6812,Otrs
+6813,Knowledge Of Results
+6814,Human Development
+6815,Entrepreneurship Education
+6816,Boarding School
+6817,Smart Common Input Method
+6818,Teacher Quality Assessment
+6819,Bloom'S Taxonomy
+6820,Adult Education
+6821,Trailer (Promotion)
+6822,International Consortium Of Investigative Journalists
+6823,History Of Social Work
+6824,Master Of Social Work
+6825,Biology Education
+6826,Text Services Framework
+6827,Learning Disabilities
+6828,Student Fee
+6829,Ditch
+6830,Metis
+6831,Complex Training
+6832,Shutdown (Computing)
+6833,Verbosity
+6834,Do The Work
+6835,Despair
+6836,Participatory Action Research
+6837,Problem Behavior
+6838,Social Technology
+6839,Compliance Auditing
+6840,Quality Audit
+6841,Animal Science
+6842,Ambivalence
+6843,Wardriving
+6844,Captivity
+6845,Preventive Action
+6846,Malnutrition
+6847,Quantitative Easing
+6848,Tax Revenue
+6849,Terrorism
+6850,Criminal Justice
+6851,Airport Security
+6852,No Silver Bullet
+6853,Computer And Network Surveillance
+6854,Criminology
+6855,Social Computing
+6856,Social Proof
+6857,Criminal Justice Reform
+6858,Media Technology
+6859,Financial Centre
+6860,Slum
+6861,History Of Communication
+6862,Communication Sciences
+6863,Call And Response
+6864,Circle Time
+6865,Youth Participation
+6866,Closed Community
+6867,Earthing System
+6868,Counter-Terrorism
+6869,Deradicalization
+6870,Violent Extremism
+6871,Relativizer
+6872,World Bank
+6873,Least Developed Countries
+6874,Visibly
+6875,Cartographers
+6876,Immigration Law
+6877,Watershed Management
+6878,Water Law
+6879,Water Resource Management
+6880,Living Lab
+6881,Pattern Language
+6882,Sports Law
+6883,Collective Trauma
+6884,Graphics Pipeline
+6885,Local Government
+6886,Decision-Making Software
+6887,Intimate Partner Violence
+6888,Intimate Part
+6889,Hunger
+6890,Worm'S-Eye View
+6891,Crowd Psychology
+6892,Agricultural Extension
+6893,Knowledge-Based Systems
+6894,Kyoto Protocol
+6895,Flora
+6896,Conflict Resolution Strategy
+6897,Power Over Ethernet
+6898,Sdes
+6899,Election Campaigning
+6900,Candidate Generation
+6901,Issue Advocacy Ads
+6902,L&D Strategy
+6903,Know Nothing
+6904,Decentralization
+6905,Policy Implementation
+6906,Intimate Relationships
+6907,Difference In Differences
+6908,American Law
+6909,Restoration Projects
+6910,New Forum
+6911,Richard Shweder
+6912,Aubrey De Grey
+6913,Public Record Research
+6914,Peter Piot
+6915,Water Pricing
+6916,Consumer Sovereignty
+6917,Corruption
+6918,Public Policy Development
+6919,Psyche
+6920,Leap Of Faith
+6921,Civil Disobedience
+6922,Internationalization And Localization
+6923,Curb Trading
+6924,Psychological Manipulation
+6925,Instinct
+6926,Ecosystem Health
+6927,Large Marine Ecosystem
+6928,Marine Ecosystem
+6929,Power Structure
+6930,Public Expenditure
+6931,Reserve Requirement
+6932,Climate Resilience
+6933,Hard Power
+6934,Comité Colbert
+6935,Globalize
+6936,Mental Disorder
+6937,Madness
+6938,Water Security
+6939,Public Diplomacy
+6940,Civic Engagement
+6941,Level Playing Field
+6942,Youth Advocate
+6943,Youth Leaders
+6944,Youth Worker
+6945,Actus Reus
+6946,Ades
+6947,Repurposing
+6948,The Economics Of Ecosystems And Biodiversity
+6949,Biodiversity Loss
+6950,Ecotourism
+6951,Synchrony And Diachrony
+6952,Branches Of Psychology
+6953,Social Neuroscience
+6954,Alienation
+6955,Democracy In America
+6956,Counterfactual Conditional
+6957,Selective Exposure Theory
+6958,Wish Fulfillment
+6959,Martin Heidegger
+6960,Economic Materialism
+6961,Michel Foucault
+6962,Karl Jaspers
+6963,Structuralism
+6964,Dialectic
+6965,Policy Development
+6966,Contingency Fund
+6967,In Situ
+6968,Pledge Fund
+6969,Qualitative Comparative Analysis
+6970,Discourse Analysis
+6971,Paradata
+6972,Social Insurance
+6973,Tax Credits
+6974,Prosecution
+6975,Legal Liability
+6976,Contract Writing
+6977,Child Welfare
+6978,Child Protection
+6979,Children'S Rights
+6980,Morals Clause
+6981,Insurance Policy
+6982,Investor-State Dispute Settlement
+6983,International Financial Management
+6984,Home Equity
+6985,Equity Issuance
+6986,Equity Co-Investment
+6987,Private Equity Secondary Market
+6988,Private Equity Firms
+6989,Occupational Safety And Health Administration
+6990,Medical Law
+6991,Public Health Law
+6992,Legal Terminology
+6993,Legal Analysis
+6994,Tax Incidence
+6995,Tax Rate
+6996,Transfer Tax
+6997,Relative Price
+6998,Mandible
+6999,Personhood
+7000,Maxilla
+7001,Forensic Anthropology
+7002,Tax Haven
+7003,Tax Administration
+7004,Turbo Tax
+7005,Tax Reform
+7006,Tax Planning
+7007,Property Tax
+7008,Income Tax Accounting
+7009,Tax Analysis
+7010,Criminal Investigation
+7011,Undue Influence
+7012,Base Erosion And Profit Shifting
+7013,Transfer Pricing
+7014,Islamic Banking And Finance
+7015,Family Law
+7016,National Labor Relations Act (Nlra)
+7017,Convention On Cybercrime
+7018,Telecommunications
+7019,Data Portability
+7020,Livermore Loops
+7021,Affinity Capture
+7022,Cauchy Distribution
+7023,Statistics
+7024,Graded (Mathematics)
+7025,Managerial Economics
+7026,Math
+7027,Dynkin System
+7028,Analytical Skills
+7029,Abstract Data Type
+7030,Programming Language
+7031,Atom (Standard)
+7032,Conductivity Meters
+7033,Theory Of Computation
+7034,Data Structure
+7035,Balance Equation
+7036,Basis (Linear Algebra)
+7037,A.Out
+7038,Psychological Problems
+7039,Gmail
+7040,Websites
+7041,Archival Collection Management
+7042,Learning
+7043,Hardware Random Number Generator
+7044,Socratic Questioning
+7045,Courage
+7046,Want
+7047,Seminars
+7048,Bank Rate
+7049,Management
+7050,Abortion Debate
+7051,Accidental Death
+7052,Axial Coding
+7053,Decision-Making
+7054,Labor Relations
+7055,Accord And Satisfaction
+7056,Novation
+7057,Fair Labor Standards Act (Flsa) Compliance
+7058,Brain
+7059,Context-Free Grammar
+7060,Meeting
+7061,Emailing
+7062,Professional
+7063,Reply
+7064,Careers Advisor
+7065,Financial Economics
+7066,Cision
+7067,Need
+7068,Business Loan
+7069,Graphics
+7070,Customer
+7071,Marketing Sales
+7072,Css Code
+7073,[Null]
+7074,Data Uri Scheme
+7075,Administrative Share
+7076,Applied Digital Data Systems
+7077,Google
+7078,Memoization
+7079,Blockchains
+7080,Artificial Neural Network
+7081,Artificial Intelligence
+7082,Female Entrepreneur
+7083,Plan
+7084,Windfall Gain
+7085,Market Impact
+7086,Crowdfunding
+7087,Investor
+7088,Price Limit
+7089,Small Business
+7090,Network-Security
+7091,Scrum-Software-Development
+7092,Data-Centers
+7093,Computer-Security
+7094,Cloud-Computing
+7095,Data-Segment
+7096,Cloud-Computing-Security
+7097,Next-Generation-Firewall
+7098,Java-Annotation
+7099,Threat-Model
+7100,S-Sl-Programming-Language
+7101,Internet-Security
+7102,Cyber-Security-Regulation
+7103,Network-Layer
+7104,Administrative-Share
+7105,Shark
+7106,Recovery-Procedure
+7107,Dotproperties
+7108,Platform-As-A-Service
+7109,File-System
+7110,Linux-File-Systems
+7111,Google Compute Engine
+7112,Virtual Private Cloud
+7113,Graphical Environment Manager
+7114,Database
+7115,Linux
+7116,Operating System
+7117,Linux Software
+7118,Computer Network
+7119,Disaster Recovery Plan
+7120,Finger Protocol
+7121,System Administration
+7122,Disaster Recovery
+7123,Cybersecurity
+7124,Open Network Computing Remote Procedure Call
+7125,Hierarchical File System
+7126,Miis (Programming Language)
+7127,Architectural State
+7128,Integrated Encryption Scheme
+7129,Internet Map Server
+7130,Sas Language
+7131,Omega Language
+7132,Data Entry
+7133,At&T Hobbit
+7134,Gloh
+7135,Ocml
+7136,Ip Flow Information Export
+7137,Filter Graph
+7138,Sawtooth Software
+7139,Automatic Image Annotation
+7140,Source Document
+7141,Geometric Data Structures
+7142,Embedded Analytics
+7143,Modelright
+7144,Web Intelligence
+7145,Spotfire
+7146,Estimation (Project Management)
+7147,Idv
+7148,Dental Equipment
+7149,Avfoundation
+7150,Floor Model
+7151,Mobile Application Development
+7152,Vacuum Cleaner
+7153,Screen Magnifiers
+7154,Software Development
+7155,Android Software Development
+7156,Physx
+7157,Graphics Libraries
+7158,Quartz (Graphics Layer)
+7159,Inter-Process Communication
+7160,Junit
+7161,Business Statistics
+7162,Interaction
+7163,Data Cleansing
+7164,Dashboard (Business)
+7165,Data Virtualization
+7166,Query Language
+7167,Teradata
+7168,Cloud Load Balancing
+7169,Chatterbots
+7170,Amazon Redshift
+7171,Grow
+7172,Marketing Analytics
+7173,Product (Business)
+7174,Product
+7175,Cults Of Personality
+7176,Playtest
+7177,.3Ds
+7178,Holddown
+7179,Data Partitioning
+7180,Internet Exchange Points
+7181,Ios App Development
+7182,Swift (Programming Language)
+7183,Voice Phishing
+7184,Itunes
+7185,Coupon
+7186,Cash Disbursement
+7187,Amazon Music
+7188,Cover Flow
+7189,Requests (Software)
+7190,Calendar (Apple)
+7191,Context-Sensitive Language
+7192,Tuple
+7193,Best Practice
+7194,Media Queries
+7195,Uncertainty Avoidance
+7196,Models Of Communication
+7197,Communication Theory
+7198,Explosion
+7199,Generative-Design
+7200,Manufacturing-Process-Management
+7201,Mechanical-Engineering
+7202,3D-Printing
+7203,Generative-Model
+7204,Computer-Aided-Design
+7205,Process-Management
+7206,Manufacturing-Processes
+7207,Schematic-Design
+7208,Circuit-Design
+7209,Or-Gate
+7210,Noise-Reduction
+7211,Computer-Programming
+7212,Integration-Testing
+7213,Internet-Of-Things
+7214,Software-Engineering
+7215,Electronic-Circuits
+7216,Pressure-Sensor
+7217,Spec-Sharp
+7218,Electromechanical-Systems
+7219,Electrical-Engineering
+7220,Relative-Change-And-Difference
+7221,Microsoft-Excel
+7222,Process-Control
+7223,A.I. Artificial Intelligence
+7224,Watson (Computer)
+7225,Artificial Intelligence Applications
+7226,Materials Analysis
+7227,City Network
+7228,Effect Of Taxes And Subsidies On Price
+7229,Dark Data
+7230,Owned
+7231,Corporate Finance
+7232,Principled Negotiation
+7233,Platform As A Service
+7234,Java Virtual Machine
+7235,4Dos
+7236,Disruptive Innovation
+7237,Reverse Engineering
+7238,Certified Information Systems Security Professional
+7239,Iso/Iec 27001:2013
+7240,Locky
+7241,Port Mirroring
+7242,Splunk
+7243,Nmap
+7244,Information Hiding
+7245,Computer Fraud And Abuse Act
+7246,Wearable Computers
+7247,Entity
+7248,Hemorrhoid
+7249,Rectovaginal Examination
+7250,Cross-Matching
+7251,Laparoscopy
+7252,Clinical Death
+7253,Exercise (Options)
+7254,Splints
+7255,Pelvic Binder
+7256,Venturi Mask
+7257,Medical Emergency
+7258,Simple Face Mask
+7259,Defibrillation
+7260,Resuscitation
+7261,Heat Cramps
+7262,Autoinjector
+7263,Nosebleed
+7264,Stretcher
+7265,The Hot Zone
+7266,Hyperemesis Gravidarum
+7267,Breech Birth
+7268,Signs Of Death
+7269,Eli Lilly And Company
+7270,Bedpan
+7271,Cvs Health
+7272,Universal Precautions
+7273,Co-Pay Card
+7274,Cancer Screening
+7275,Nanny
+7276,Pharmaceutical Medicine
+7277,National Committee For Quality Assurance
+7278,Medical Surge
+7279,Archives Administration
+7280,Genetic Information Nondiscrimination Act
+7281,Nurses Station
+7282,Veterinary Pharmacy
+7283,Birthing Center
+7284,Upper Limb Anatomy
+7285,Iliac Vein
+7286,Cardiac Nerve
+7287,Tentorium
+7288,Gynaecology
+7289,Radiography
+7290,Bed-Making
+7291,Managing Up And Managing Down
+7292,Project Stakeholder
+7293,Program Evaluation And Review Technique
+7294,Css Frameworks
+7295,Programming Language Concepts
+7296,Idle (Python)
+7297,Kentaro Toyama
+7298,Interactive Design
+7299,Application Security
+7300,Iterative And Incremental Development
+7301,Waterfall Model
