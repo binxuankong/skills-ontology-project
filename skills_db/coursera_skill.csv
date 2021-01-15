@@ -801,7 +801,6 @@ skill_id,skill
 3195,Heuristic Evaluation
 2954,Storm (Event Processor)
 2672,Distributed File Systems
-1972,Financial Risk Management
 948,Smart Contract
 949,Financial Crisis
 1014,Financial Statement
@@ -1000,6 +999,7 @@ skill_id,skill
 2617,Willingness To Pay
 2618,Value-Based Pricing
 2033,Financial Crisis Of 2007 08
+1972,Financial Risk Management
 931,Demand Forecasting
 1854,Cash Flow Forecasting
 500,Euler'S Totient Function
@@ -1567,6 +1567,7 @@ skill_id,skill
 2894,Set Theory
 638,Game Theory
 2889,Integer Programming
+2647,Bayesian Optimization
 321,Mathematical Model
 328,Average
 393,Algebra
@@ -1757,7 +1758,6 @@ skill_id,skill
 3108,Microsoft Windows
 3160,Environment Variable
 312,Public Opinion
-2647,Bayesian Optimization
 43,Thought
 158,Intellectual
 166,A Priori
@@ -2259,10 +2259,9 @@ skill_id,skill
 424,Psychotherapy
 718,Music Therapy
 719,Meditation
-2409,Term (Time)
-2157,Moving Average
 217,Autoregressive Conditional Heteroskedasticity
 2376,Autoregressive Model
+2157,Moving Average
 1350,Training And Development
 1351,Customer Service Training
 1353,Training Programs
@@ -2363,6 +2362,7 @@ skill_id,skill
 1153,Report Writing
 1262,Legal Writing
 2775,Problem Description Writing
+2409,Term (Time)
 34,Ordered Pair
 76,Daughter
 109,Man
