@@ -1,0 +1,979 @@
+index,1 - Primary Education,2 - PMR / PT3,3 - SPM / O Level / SKM,4 - STPM / A Level,5 - Diploma / DVM,6 - Bachelor's,7 - Master's,8 - Doctoral (PhD),total,domains
+Sales,87,159,1049,59,646,529,13,4,2546,Business; Others
+Communication,74,147,786,48,550,458,5,8,2076,Information Technology; Computer Science; Business; Others
+English,69,138,747,45,508,407,10,8,1932,Computer Science; Others
+Management,63,144,742,39,475,360,10,6,1839,Business; Others
+Training,39,88,583,45,340,287,10,2,1394,Business
+Marketing,37,87,547,29,310,278,6,3,1297,Business; Others
+Design,36,82,478,24,312,242,2,1,1177,Information Technology; Computer Science; Business; Others
+Documentation,37,64,390,24,244,208,5,3,975,Information Technology; Business; Others; Data Science; Computer Science
+Engineering,41,76,379,22,226,187,5,2,938,Business; Others
+Reporting,31,60,318,31,206,212,1,1,860,Information Technology; Computer Science; Business; Others
+Manufacturing,27,64,337,22,228,172,6,,856,Business
+Repair,35,55,284,16,174,153,4,,721,Business
+Customer Service,24,45,288,21,189,137,4,1,709,Business
+Research,12,44,255,9,184,138,4,7,653,Information Technology; Computer Science; Business; Others
+Construction,27,48,264,16,156,136,2,3,652,Business; Others
+Analytical,22,35,246,17,156,148,1,3,628,Business
+Budget,26,33,230,11,162,155,1,3,621,Business; Others
+Testing,28,38,263,10,167,108,5,1,620,Computer Science
+Security,15,40,246,23,154,137,2,2,619,Information Technology; Computer Science
+Analysis,15,36,263,15,150,124,3,,606,Business; Others
+Accounting,23,37,258,7,131,133,2,3,594,Business; Others
+Administration,19,44,240,16,152,115,5,1,592,Business; Others
+Presentation,15,35,249,11,152,126,,1,589,Information Technology; Computer Science; Business; Others
+Processing,15,40,238,13,151,110,2,,569,Information Technology; Computer Science; Business; Others
+Audit,23,30,224,14,142,134,2,,569,Business; Others
+Finance,22,31,233,18,121,132,,2,559,Business; Others
+Social Media,20,33,226,8,113,113,2,5,520,Information Technology; Computer Science; Business; Others
+Video,17,33,178,21,104,104,1,1,459,Information Technology; Computer Science; Business; Others
+Computer Science,16,27,195,10,119,90,,1,458,Computer Science
+Writing,28,39,184,8,99,91,2,3,454,Information Technology; Computer Science; Business; Others
+Database,16,25,191,12,106,84,1,3,438,Computer Science; Data Science
+Market,13,33,180,4,110,87,2,4,433,Business; Others
+Electronics,9,27,172,10,114,98,,1,431,Others
+Graphics,20,22,167,17,99,102,1,1,429,Computer Science
+Machinery,13,40,176,12,93,90,1,2,427,Business
+Leadership,15,30,182,7,114,76,1,1,426,Business
+Platform,15,32,167,12,94,102,3,,425,Computer Science; Business; Others
+Network,11,20,147,6,94,66,1,2,347,Computer Science
+Problem Solving,15,22,130,7,97,67,,,338,Business; Others
+Banking,15,28,132,6,76,61,,,318,Business; Others
+Logistics,6,26,126,8,80,72,,,318,Business; Others
+Negotiation,12,14,104,4,82,86,2,,304,Business; Others
+Accuracy,7,17,112,7,101,56,2,,302,Business; Others
+Advertising,11,17,130,4,62,59,1,2,286,Business; Others
+Property,10,20,99,13,69,70,,,281,Business
+Business Development,9,15,112,6,75,60,1,1,279,Business; Others
+Image,12,16,110,13,78,46,,,275,Information Technology; Computer Science; Business; Others
+Metals,11,17,108,3,77,57,1,1,275,Business
+Production Process,13,10,132,7,60,50,,,272,Information Technology; Computer Science; Business; Others
+Information Technology,12,14,110,7,63,63,,1,270,Information Technology
+Distribution,8,14,109,2,69,65,,,267,Business; Others; Data Science
+Policy,8,11,100,5,60,75,,1,260,Others
+Collaboration,12,12,121,7,61,37,1,1,252,Business; Others
+Law,10,14,82,11,70,63,1,,251,Others
+Malay,10,19,85,9,61,61,3,2,250,Computer Science; Others
+Insurance,8,11,96,4,62,63,4,1,249,Business; Others
+Retail,12,14,97,5,68,53,,,249,Business
+Automation,10,20,113,7,50,42,2,2,246,Information Technology
+Graphic Design,11,10,101,13,51,58,,1,245,Information Technology; Computer Science; Business; Others
+Ad Design,4,19,104,9,61,43,3,,243,Information Technology; Computer Science; Business; Others
+Media,8,12,91,11,69,49,3,,243,Information Technology; Computer Science; Business; Others
+Microsoft Office,13,19,90,2,59,53,1,1,238,Information Technology; Computer Science; Business; Others
+Culture,11,22,103,3,41,54,,1,235,Others
+Accountancy,9,17,101,10,58,39,,,234,Business
+Quality Control,8,21,99,3,64,38,,,233,Business; Others
+AutoCAD,7,17,98,4,54,49,1,,230,Business; Others
+Scheduling,8,13,102,4,59,40,3,,229,Business; Others
+Brand Management,10,16,81,3,59,55,,,224,Business; Others
+Human Resources (HR),8,16,89,7,62,40,1,,223,Business; Others
+Hardware,6,14,94,6,40,59,2,,221,Computer Science
+Project Management,5,18,84,8,50,47,,2,214,Business; Others
+Quality Assurance,8,13,95,6,45,46,,1,214,Business; Others
+Operating System,12,15,86,7,54,38,,,212,Computer Science
+Art,10,8,90,5,47,51,,,211,Others
+Compiler,7,13,84,5,58,43,,1,211,Computer Science
+Translation,8,13,81,7,48,47,,,204,Computer Science; Others
+Transportation,8,17,83,2,53,37,1,,201,Business
+Innovation,10,14,85,2,38,50,1,,200,Business
+Facebook,3,11,93,3,47,38,4,1,200,Business; Others
+Sorting,5,14,72,3,59,45,1,1,200,Computer Science
+Assembly,9,16,72,7,50,44,1,1,200,Computer Science; Data Science
+D,5,10,84,1,52,43,2,1,198,Computer Science; Data Science
+Chemical,7,10,74,1,57,45,1,1,196,Business
+Architecture,9,8,94,3,45,32,2,1,194,Information Technology; Computer Science; Business; Others
+Configuration,4,9,86,2,49,42,1,,193,Computer Science
+Coding,6,12,75,2,56,40,,,191,Computer Science
+Unemployment,5,13,73,8,52,39,,,190,Business; Others
+Selection,3,20,69,5,55,37,1,,190,Computer Science
+Physical,5,15,73,7,46,41,1,1,189,Natural Science
+IT Operations,10,13,90,4,44,27,,1,189,Information Technology
+Closing,10,7,83,7,41,37,,1,186,Business; Others
+Digital Marketing,9,10,73,5,40,45,,,182,Business; Others
+Coaching,6,14,66,6,48,39,2,1,182,Business
+Internet,8,9,91,1,48,20,,3,180,Computer Science
+Expectations,3,6,66,3,47,50,1,1,177,Business; Others
+Time Management,6,17,75,2,52,25,,,177,Business; Others
+Technical Support,1,18,66,3,47,38,2,1,176,Information Technology
+Microsoft,6,16,76,2,30,44,1,,175,Information Technology; Computer Science; Business; Others
+Profit,8,13,60,5,48,40,1,,175,Business; Others
+Mechanical Engineering,8,15,73,2,39,37,,,174,Business; Others
+Procurement,4,14,61,5,51,37,,1,173,Business
+Programming,6,14,70,9,39,30,,1,169,Business; Others
+Creatio,7,12,66,3,38,41,,,167,Information Technology; Computer Science
+Cooking,6,8,57,1,61,32,1,1,167,Business
+JavaScript,4,7,65,5,44,38,1,1,165,Computer Science; Data Science
+Teamwork,5,14,64,4,37,39,,,163,Business; Others
+Marketing Research,8,8,70,2,43,32,,,163,Business; Others
+Financial Statement,10,4,64,5,40,38,2,,163,Business; Others
+Windows,8,12,67,3,34,35,,1,160,Computer Science; Business; Others
+Product Development,1,8,67,2,38,41,,,157,Business
+Nonverbal Communication,6,8,74,4,39,25,1,,157,Information Technology; Computer Science; Business; Others
+Healthcare,6,11,67,2,43,26,1,1,157,Natural Science
+Ada,11,15,49,,44,32,2,2,155,Computer Science; Data Science
+Analytics,1,11,72,3,37,30,1,,155,Data Science
+Investment,5,4,77,3,35,27,,,151,Business; Others
+Welding,11,13,63,3,35,24,2,,151,Business; Others
+Market Research,8,7,63,2,39,30,,,149,Information Technology; Computer Science; Business; Others
+IPython,2,9,57,4,41,36,,,149,Computer Science; Business; Data Science
+Fabrication,6,13,57,2,43,25,2,,148,Business; Others
+Electronic Engineering,2,10,57,2,32,41,1,1,146,Business; Others
+Creativity,2,12,63,2,34,30,,2,145,Information Technology; Computer Science; Business; Others
+Agile,3,11,69,3,32,24,1,1,144,Computer Science; Business; Others
+Editing,7,10,49,4,42,25,,1,138,Information Technology; Computer Science; Business; Others
+SAP,3,5,59,6,37,26,2,,138,Business
+Forecasting,5,5,51,2,45,28,1,,137,Business; Others
+Lean Software Development,7,5,59,2,32,30,1,,136,Computer Science; Business; Others
+B,8,9,55,1,37,26,,,136,Computer Science; Data Science
+Accounts Payable,5,5,54,3,29,36,,,132,Business; Others
+Consulting,2,7,61,5,37,18,1,1,132,Business
+Statistics,5,5,47,5,32,36,,,130,Others; Data Science
+Interpreter,6,6,62,1,32,21,,,128,Computer Science
+Business Plan,6,6,49,1,34,31,1,,128,Business
+Business Process,3,7,60,6,26,23,,,125,Information Technology; Computer Science; Business; Others
+Plastics,1,8,53,4,38,18,2,,124,Business
+Instagram,1,6,65,3,29,20,,,124,Business; Others
+Account Receivable,3,9,53,3,28,26,,,122,Business; Others
+Networking,2,9,54,,31,23,2,,121,Information Technology; Computer Science; Business; Others
+Risk Management,3,10,49,5,22,32,,,121,Business; Others
+RStudio,4,6,52,4,28,25,,,119,Computer Science; Business; Data Science
+Photography,6,5,53,1,24,25,3,1,118,Business; Others
+Agile Software Development,6,5,62,2,21,20,,,116,Computer Science; Business; Others
+Router,7,7,44,3,28,27,,,116,Information Technology; Computer Science; Business; Others
+Addition,4,4,60,3,27,16,1,,115,Computer Science; Others
+Business Administration,4,9,41,2,29,30,,,115,Business; Others
+Trade,4,4,51,2,25,26,1,,113,Business; Others
+MySQL,1,4,45,3,31,29,,,113,Computer Science; Business; Others; Data Science
+Decision Making,3,6,46,,33,22,1,1,112,Business; Others
+Electrical Engineering,2,13,46,1,18,31,,,111,Business; Others
+Hospitality,9,7,51,4,22,15,1,,109,Business; Others
+C,5,4,44,2,32,20,,,107,Computer Science; Data Science
+Balance Sheet,6,8,40,3,25,25,,,107,Business; Others
+Software Engineering,3,5,42,5,24,27,,,106,Computer Science; Business; Others
+User Experience (UX),5,4,46,2,21,28,,,106,Business
+Box,,3,55,3,20,22,,,103,Information Technology; Computer Science
+Quality Management,4,7,41,2,31,18,,,103,Business; Others
+Effective Communication,5,9,44,2,28,13,,,101,Business; Others
+Publishing,3,6,32,7,29,23,,,100,Business; Others
+Oracle,2,6,50,3,15,23,,,99,Computer Science; Business; Others; Data Science
+Java,4,7,53,3,16,11,2,,96,Computer Science; Data Science
+Dashboard,6,9,38,1,21,20,1,,96,Computer Science; Business; Others; Data Science
+Microsoft Excel,3,5,35,6,28,18,,,95,Information Technology; Business; Others; Data Science; Computer Science
+Saving,5,6,39,,26,18,1,,95,Business; Others
+Objective-C,4,2,38,1,28,19,2,,94,Computer Science; Data Science
+Adobe Photoshop,,5,41,5,17,26,,,94,Information Technology; Computer Science; Business; Others
+Software Development Kit (SDK),5,5,43,1,21,18,,,93,Computer Science
+Protocol,4,5,37,2,30,14,,,92,Information Technology; Computer Science; Business; Others
+Microsoft Office 365,4,3,34,1,28,22,,,92,Information Technology; Computer Science
+Linux,1,5,40,3,19,23,,,91,Computer Science; Business; Others
+Accounting Software,1,5,39,4,21,20,1,,91,Business; Others
+Office Administration,1,8,36,2,25,17,1,,90,Business; Others
+Critical Thinking,1,6,39,3,22,17,1,,89,Business
+Human Resource Management,4,8,35,2,31,7,1,,88,Business; Others
+Perceptron,6,9,39,2,15,17,,,88,Computer Science; Business; Data Science
+Methodology,5,7,29,6,21,18,1,,87,Information Technology; Computer Science; Business; Others
+Software Tool,2,6,33,3,20,22,,1,87,Information Technology; Computer Science; Business; Others
+Programming Language,1,2,28,1,28,26,,,86,Computer Science; Data Science
+PHP,2,5,30,2,28,19,,,86,Computer Science; Data Science
+Business Operations,3,8,32,1,27,13,1,,85,Information Technology; Business; Others
+Telemarketing,3,5,33,2,21,19,,,83,Business; Others
+Medium,,5,40,2,20,16,,,83,Business; Others
+Searching,4,7,30,,25,17,,,83,Computer Science
+C#,2,8,35,2,17,18,,,82,Computer Science; Data Science
+Organizational Skill,2,1,36,1,18,23,,1,82,Business; Others
+Biology,,3,34,4,24,15,,,80,Natural Science
+Business Analysis,5,3,39,3,18,12,,,80,Business; Others; Data Science
+Management Accounting,4,5,32,5,26,8,,,80,Business; Others
+Economics,,4,32,1,18,23,,,78,Business; Others
+Mathematics,2,4,34,3,15,20,,,78,Others
+Civil Engineering,1,5,43,1,11,16,,,77,Business; Others
+Customer Service System,,2,37,2,18,17,,1,77,Information Technology; Business
+Sports,7,3,24,2,21,20,,,77,Business
+Chart,,6,26,1,19,22,1,1,76,Information Technology; Business; Others; Data Science; Computer Science
+Mechatronics,2,7,37,1,12,16,1,,76,Business; Others
+Kubernetes,2,4,33,2,16,16,1,1,75,Information Technology; Computer Science
+Recruiting,1,6,29,1,27,10,1,,75,Business; Others
+Customer Experience,3,3,25,,21,23,,,75,Business
+Social Media Platform,3,4,32,1,24,10,,,74,Business; Others
+Web Application,1,3,28,3,24,15,,,74,Computer Science
+Azure,3,8,28,2,14,18,,,73,Information Technology; Computer Science
+History,4,6,30,,22,10,,,72,Others
+Machining,4,6,23,1,24,14,,,72,Business
+Firm,5,3,30,4,17,13,,,72,Business; Others
+Scrum,3,5,34,2,14,13,,,71,Computer Science; Business; Others
+Business Management,3,5,20,3,22,18,,,71,Business; Others
+Twitter,1,8,34,,17,9,1,1,71,Business; Others
+Systems Theory,2,6,25,1,15,22,,,71,Others
+Online Media,2,3,23,6,22,14,,,70,Business; Others
+Automotive,3,5,32,2,14,14,,,70,Business
+Calendar,6,4,25,2,11,21,,,69,Information Technology; Computer Science; Business; Others
+Information System,5,2,26,,22,14,,,69,Computer Science; Business; Others; Data Science
+Editor,3,5,20,,23,17,1,,69,Computer Science; Business; Others
+Software Development Life Cycle (SDLC),3,4,34,,18,10,,,69,Computer Science
+Division,2,7,31,,16,10,1,1,68,Computer Science; Others
+Scheme,3,6,24,,21,14,,,68,Computer Science; Data Science
+Azure Machine Learning,1,3,18,2,20,23,1,,68,Computer Science; Business; Data Science
+Japanese,2,9,28,1,17,10,,,67,Computer Science; Others
+Telecommunication,2,4,29,,17,15,,,67,Information Technology
+DevOps,4,2,31,2,11,15,1,,66,Information Technology; Computer Science
+Bookkeeping,1,2,28,2,22,8,1,1,65,Business; Others
+R,4,4,27,3,18,8,1,,65,Computer Science; Business; Data Science
+Android,4,4,25,1,19,10,1,,64,Computer Science
+Git,1,1,23,1,11,26,,,63,Computer Science; Business; Others
+Development Tools,,1,26,2,21,12,1,,63,Computer Science
+Data Analysis,1,4,23,2,16,17,,,63,Business; Others; Data Science
+Adobe Illustrator,2,5,30,2,9,15,,,63,Information Technology; Computer Science; Business; Others
+Public Speaking,4,,27,1,17,14,,,63,Information Technology; Computer Science; Business; Others
+Product Knowledge,2,3,27,,13,17,,,62,Business; Others
+Modeling,5,3,23,3,13,14,,,61,Computer Science; Business; Others; Data Science
+Peripheral,2,3,27,,17,12,,,61,Computer Science
+Goods and Services,1,,25,2,14,19,,,61,Business; Others
+Root Cause Analysis,2,4,28,,13,14,,,61,Business; Others; Data Science
+Docker,2,3,27,2,13,13,1,,61,Computer Science
+Change Management,2,1,32,,17,8,,,60,Business; Others
+Scripting,6,2,22,2,10,18,,,60,Information Technology
+Animation,2,5,23,2,12,15,,,59,Information Technology; Computer Science; Business; Others
+Online Marketing,1,8,18,1,20,11,,,59,Business; Others
+Process Engineering,3,5,28,2,13,7,1,,59,Business; Others
+Blogging,4,6,28,3,12,5,,,58,Business; Others
+Algorithm,2,1,19,1,16,19,,,58,Computer Science
+Sampling,2,1,32,,13,9,,,57,Others; Data Science
+Rally,1,1,34,1,15,4,,1,57,Information Technology; Computer Science; Business; Others
+Shell,1,4,26,2,9,15,,,57,Computer Science; Data Science
+JIRA,,2,27,,9,18,,1,57,Information Technology; Computer Science; Business; Others
+Project Planning,2,5,17,,19,13,,,56,Business; Others
+Chemical Engineering,2,6,22,1,13,11,,,55,Business; Others
+Money,1,1,25,2,10,15,,,54,Business; Others
+Mass Communication,4,4,19,,8,17,,1,53,Computer Science
+Copywriting,4,3,15,,11,20,,,53,Business; Others
+Software System,5,2,19,1,12,13,,,52,Computer Science
+React,3,,21,3,16,9,,,52,Computer Science; Data Science
+Angular,,,21,3,15,12,1,,52,Computer Science
+Depression,2,4,16,1,16,13,,,52,Business; Others
+Spark,3,2,19,3,15,9,1,,52,Computer Science; Data Science
+Clear Communication,2,4,22,1,10,13,,,52,Business; Others
+Computer Hardware,,1,21,1,15,13,,,51,Computer Science
+Motion Graphic Design,1,2,20,1,10,17,,,51,Information Technology; Computer Science; Business; Others
+Target Audience,1,5,22,3,9,10,1,,51,Business; Others
+Accounting Standards,1,2,23,1,16,8,,,51,Business; Others
+GitLab,,5,22,,15,9,,,51,Computer Science; Business; Others
+Outlook,1,3,19,1,13,13,,,50,Information Technology; Computer Science; Business; Others
+Branding,3,4,26,2,6,9,,,50,Business; Others
+Competition,1,2,23,,13,11,,,50,Business; Others
+Ethics,2,6,21,,15,6,,,50,Others
+LinkedIn,,5,26,,9,9,1,,50,Business; Others
+NoSQL,1,,17,3,9,20,,,50,Computer Science; Business; Others; Data Science
+Web Design,1,3,20,2,11,13,,,50,Information Technology; Computer Science; Business; Others
+Business Strategy,2,2,11,3,15,17,,,50,Business; Others
+Prototyping,1,1,19,1,16,10,1,,49,Information Technology; Computer Science; Business; Others
+Sequence,3,2,17,2,14,11,,,49,Computer Science
+Aquaculture,1,3,19,2,12,12,,,49,Others
+ISO 9001,6,2,18,,13,10,,,49,Computer Science; Business; Others
+Web Application Development,1,4,26,,9,8,,,48,Computer Science
+Content Marketing,1,5,26,,10,5,1,,48,Business; Others
+Pragmatics,2,2,18,2,10,14,,,48,Others
+Food Science,,4,20,2,16,6,,,48,Others
+Swift,1,2,19,2,17,5,1,,47,Computer Science; Data Science
+Links,1,5,15,,14,10,1,,46,Computer Science; Business; Others; Data Science
+Audio,2,2,19,3,16,4,,,46,Business; Others
+Electronic and Electrical Engineering,,,18,,14,12,1,1,46,Business; Others
+Business Model,4,1,13,2,16,10,,,46,Business
+Bagging,,2,24,,12,8,,,46,Computer Science; Business; Data Science
+Product Management,1,1,23,,8,13,,,46,Business; Others
+Mining,1,4,12,1,18,4,,5,45,Business
+Gradle,2,5,26,1,4,7,,,45,Information Technology; Business; Others; Data Science; Computer Science
+Mapping,1,2,14,1,17,10,,,45,Computer Science; Others
+Conveyancing,,3,18,1,13,9,,,44,Others
+Support Engineering,2,,23,2,11,5,1,,44,Business; Others
+Mobile Application Development,1,4,22,,9,8,,,44,Computer Science
+Product Marketing,4,4,20,1,6,7,2,,44,Business; Others
+Asset Management,1,3,20,3,12,5,,,44,Business; Others
+Adminitrative Assistance,1,2,18,1,7,14,,,43,Business; Others
+Vietnamese,3,,22,1,8,9,,,43,Computer Science; Others
+LaTeX,1,1,11,1,16,13,,,43,Computer Science
+Big Data,2,2,13,2,12,10,1,,42,Computer Science; Data Science
+Mariculture,1,4,15,,13,7,2,,42,Others
+Machine Learning,,2,17,1,10,11,,1,42,Computer Science; Business; Data Science
+iOS,2,2,17,1,11,8,1,,42,Computer Science
+Keras,1,2,13,2,14,10,,,42,Computer Science; Business; Data Science
+Utility,5,3,20,,7,7,,,42,Business; Others
+Github,2,3,13,,15,9,,,42,Computer Science; Business; Others
+Agriculture,1,4,15,,13,7,2,,42,Others
+Manufacturing Engineering,1,1,18,,10,11,,,41,Business; Others
+Reasoning,,3,19,2,10,7,,,41,Business
+Journalism,3,5,11,1,7,13,,1,41,Information Technology; Computer Science; Business; Others
+Interior Design,1,3,14,,12,11,,,41,Information Technology; Computer Science; Business; Others
+Performance Management,,6,17,,10,7,,,40,Business; Others
+Real Estate,1,3,15,2,12,7,,,40,Business
+A/B Testing,,1,13,,9,17,,,40,Computer Science; Business; Others
+Complexity,2,,20,,11,6,,1,40,Computer Science
+Technical Documentation,2,4,19,1,6,7,1,,40,Information Technology; Computer Science; Business; Others
+Transformer,1,2,18,,12,7,,,40,Computer Science; Business; Others; Data Science
+Sketch,2,1,16,1,8,12,,,40,Information Technology; Computer Science; Business; Others
+Property Maintenance,2,2,13,1,8,14,,,40,Business
+Hadoop,1,1,12,2,14,8,1,,39,Computer Science; Data Science
+Life Science,1,1,16,1,13,7,,,39,Natural Science
+Rapid Application Development,1,4,19,,7,7,,,38,Computer Science; Business; Others
+Template,,1,22,,9,6,,,38,Information Technology; Computer Science; Business; Others
+jQuery,1,1,12,2,9,13,,,38,Computer Science; Data Science
+Email Marketing,2,,15,,13,8,,,38,Information Technology; Computer Science; Business; Others
+Blockchain,,,15,1,10,11,1,,38,Information Technology; Computer Science; Others
+Risk Analysis,2,,15,,8,12,1,,38,Business; Others; Data Science
+Sustainability,2,6,8,,15,6,1,,38,Natural Science
+Music,,3,16,2,11,5,,,37,Business; Others
+Nursing,,1,14,,15,7,,,37,Others
+Nutrition,1,1,16,1,11,6,1,,37,Natural Science; Others
+Industrial Relations,,2,11,1,12,11,,,37,Others
+ML,1,,10,2,8,15,,,36,Computer Science; Data Science
+Relational Database,1,1,8,1,11,14,,,36,Computer Science; Data Science
+Debugging,,,15,2,10,8,,1,36,Computer Science; Business; Others
+Data Science,,2,10,1,14,9,,,36,Data Science
+Distributed Computing,,1,13,,8,13,1,,36,Computer Science
+Airlines,2,7,13,1,9,4,,,36,Business
+Mechanics,3,1,13,4,8,7,,,36,Natural Science; Others
+Software Design,1,4,17,,6,7,1,,36,Computer Science
+Virtualization,1,5,14,,8,8,,,36,Computer Science
+Korean,,1,17,1,8,9,,,36,Computer Science; Others
+Microsoft Word,2,,15,1,12,6,,,36,Information Technology; Computer Science; Business; Others
+PostgreSQL,1,3,11,1,13,7,,,36,Computer Science; Business; Others; Data Science
+Beaker,2,,19,1,6,7,,,35,Computer Science; Business; Others; Data Science
+Network Security,1,2,15,1,4,11,,1,35,Information Technology; Computer Science
+Growth Strategy,1,3,7,,17,7,,,35,Business
+PL,2,6,13,,6,8,,,35,Computer Science; Data Science
+News,,,11,4,7,11,1,,34,Computer Science
+Semiconductors,2,4,11,1,7,9,,,34,Others
+Adobe,1,4,10,1,16,2,,,34,Information Technology; Computer Science; Business; Others
+Induction,,4,13,1,11,5,,,34,Computer Science; Others
+Solaris,2,,21,1,6,4,,,34,Computer Science
+Chemistry,1,3,14,3,7,5,,1,34,Natural Science
+CMM,1,2,16,3,6,6,,,34,Computer Science; Business; Others
+Business Acumen,,1,18,,8,6,,,33,Business
+Adaptability,1,2,13,2,12,3,,,33,Business
+C++,1,2,12,1,6,11,,,33,Computer Science; Data Science
+Aesthetics,3,1,12,1,8,8,,,33,Information Technology; Computer Science; Business; Others
+Client Relations,,2,14,2,9,5,,,32,Information Technology; Computer Science; Business; Others
+UX Design,2,2,15,,4,9,,,32,Information Technology; Computer Science; Business; Others
+Literature,,2,11,1,10,7,,1,32,Others
+Instrumentation,1,1,9,2,9,10,,,32,Business
+Google Cloud Platform (GCP),,1,10,,8,13,,,32,Information Technology; Computer Science
+CVS,1,5,11,1,10,2,1,,31,Computer Science; Business; Others
+Medicine,2,4,14,,9,2,,,31,Others
+Management Consulting,2,2,10,4,5,8,,,31,Business; Others
+Sales Presentation,,1,14,2,8,5,1,,31,Information Technology; Computer Science; Business; Others
+Accounting and Finance,,1,13,,11,6,,,31,Business; Others
+Systems Development,1,3,8,3,11,5,,,31,Business
+Information Systems Security,,3,11,1,8,8,,,31,Information Technology; Computer Science
+Entrepreneurship,2,1,13,,11,3,,,30,Business
+PHP Development,,2,14,1,10,3,,,30,Computer Science; Data Science
+Social Media Marketing,2,2,13,,8,5,,,30,Business; Others
+Wireframes,1,,6,,11,12,,,30,Business; Data Science
+Web Server,,2,14,2,2,10,,,30,Computer Science
+Industrial Engineering,,2,17,1,6,4,,,30,Business; Others
+Data Science Tool,1,,6,2,8,13,,,30,
+Variable,3,1,9,1,7,8,,,29,Computer Science
+Shortage,1,1,5,1,13,8,,,29,Business; Others
+Predictive Modeling,1,1,7,,7,13,,,29,Business; Others; Data Science
+Business Continuity Planning,2,6,6,,5,10,,,29,Business
+Motion Pictures,1,2,12,,5,9,,,29,Information Technology; Computer Science; Business; Others
+Customer Relationship Management (CRM),1,,8,,9,11,,,29,Business; Others
+Database Management System,,1,16,3,4,4,,,28,Computer Science; Business; Others; Data Science
+Theatre,1,2,12,,5,8,,,28,Others
+Outreach,1,2,9,,9,7,,,28,Information Technology; Computer Science; Business; Others
+Biotechnology,,2,11,2,11,1,1,,28,Business; Others
+Vmware,,3,11,,5,9,,,28,Computer Science
+Mergers and Acquisitions (M&A),2,1,11,1,6,6,,,27,Business; Others
+Development Management,1,2,12,,6,5,,1,27,Business; Others
+Quality Engineering,,,10,,9,7,,,26,Business; Others
+Cloud Service,1,3,8,1,9,4,,,26,Information Technology; Computer Science
+Income Statement,,2,10,2,6,6,,,26,Business; Others
+Terraform,1,1,13,,6,4,1,,26,Computer Science; Data Science
+Regression,,1,8,,7,10,,,26,Computer Science; Business; Others; Data Science
+Cold Calling,,,12,,7,7,,,26,Business; Others
+Labour and Employment Law,2,2,10,1,7,4,,,26,Others
+Laravel,,,13,2,7,4,,,26,Computer Science; Data Science
+Special Effects,2,5,9,1,4,5,,,26,Information Technology; Computer Science; Business; Others
+Social Security,,2,10,1,5,8,,,26,Information Technology; Computer Science
+Polish,1,4,7,,8,6,,,26,Computer Science; Others
+Computer Engineering,,1,7,2,5,11,,,26,Business; Others
+Visualization,1,,11,,5,9,,,26,Computer Science; Business
+Kafka,1,1,9,,9,4,1,,25,Computer Science
+Analytical Thinking,,8,9,,5,3,,,25,Data Science
+Sports Engineering,1,,12,1,6,4,1,,25,Business; Others
+Variance Analysis,,1,10,,10,4,,,25,Business; Others; Data Science
+Therapy,1,1,11,,7,4,,1,25,Natural Science; Others
+System Administration,1,2,8,2,6,6,,,25,Information Technology; Business; Others
+Project Supervision,1,,15,,4,5,,,25,Business
+Array,,3,6,,8,7,,,24,Computer Science
+Public Relations and Communications,,3,9,,6,6,,,24,Business; Others
+Google Analytics,1,,15,,5,3,,,24,Data Science
+Full Stack Software Engineering,,3,10,1,6,4,,,24,Computer Science; Business; Others
+TensorFlow,1,,4,2,6,11,,,24,Computer Science; Business; Data Science
+Newsletters,1,2,9,1,6,5,,,24,Information Technology; Computer Science; Business; Others
+Cash Flow Management,1,,12,1,9,1,,,24,Business; Others
+International Business,,2,8,,9,5,,,24,Business
+Scikit-learn,1,,4,2,6,11,,,24,Computer Science; Business; Data Science
+Brainstorming,1,1,10,2,6,3,,1,24,Business; Others
+Optics,1,2,9,,7,5,,,24,Natural Science; Others
+Delegation,,1,9,,11,3,,,24,Business
+XML,1,2,9,1,7,4,,,24,Computer Science; Data Science
+PyTorch,1,,4,2,6,11,,,24,Computer Science; Business; Others; Data Science
+Data Capture,,1,12,2,1,8,,,24,Computer Science; Business; Others; Data Science
+Data Management,,,10,2,6,6,,,24,Information Technology; Computer Science; Data Science
+Power Management,,1,12,2,1,8,,,24,Business; Others
+Ansible,1,1,15,,3,4,,,24,Information Technology; Computer Science
+Property Management,,1,12,2,1,8,,,24,Business; Others
+Textiles,,2,9,2,7,4,,,24,Business
+Poster,1,2,12,,4,5,,,24,Computer Science
+Supply Chain Risk Management,,1,11,,9,3,,,24,Business; Others
+Human Resource,1,,11,,5,6,1,,24,Business
+WordPress,1,1,11,,5,5,,,23,Information Technology; Computer Science; Business; Others
+Physics,1,3,11,2,2,4,,,23,Natural Science
+Data Visualization,1,,13,,5,4,,,23,Business; Others; Data Science
+Office Management,,2,5,2,11,3,,,23,Business; Others
+Middleware,2,2,13,,5,1,,,23,Computer Science
+Financial Analysis,,2,10,1,6,4,,,23,Business; Others; Data Science
+Benchmarking,,2,13,,6,2,,,23,Business; Others
+Video Production,1,2,7,,9,3,,,22,Business
+Route Management,,3,12,,4,3,,,22,Computer Science
+Bash,,1,13,,2,6,,,22,Computer Science; Data Science
+Linker,1,2,6,,6,7,,,22,Computer Science
+Information Security,1,,8,,4,9,,,22,Information Technology; Computer Science
+Lead Generation,,1,11,2,4,4,,,22,Business; Others
+eCommerce Platforms,,1,14,,3,4,,,22,Business
+Casting,1,,12,,4,5,,,22,Business; Others
+Confluence,,1,5,,5,11,,,22,Information Technology; Computer Science
+Data Structure,1,,6,,9,6,,,22,Computer Science
+Front End,,,9,2,7,2,1,,21,Computer Science; Business; Others
+iland,,,9,,6,6,,,21,Information Technology; Computer Science
+MS SQL Server,,2,7,2,8,2,,,21,Computer Science; Business; Others; Data Science
+Electromechanics,,2,9,1,2,7,,,21,Business; Others
+Pharmacy,1,3,11,,3,3,,,21,Others
+Source Control,,,11,1,4,4,,,20,Computer Science; Business; Others
+Graph Database Management System,,,10,,5,5,,,20,Computer Science; Business; Others; Data Science
+Ecology,,,8,1,6,5,,,20,Natural Science
+Automotive Engineering,,2,7,,6,5,,,20,Business; Others
+Nice,1,,12,,4,3,,,20,Computer Science
+Radio,,4,6,1,6,3,,,20,Computer Science
+Responsive Design,1,,10,,2,7,,,20,Information Technology; Computer Science; Business; Others
+Statistical Model,,1,6,,5,8,,,20,Others; Data Science
+Italian,,3,10,,5,2,,,20,Computer Science; Others
+NP Completeness,1,1,6,1,9,1,,,19,Computer Science
+Unity,2,,8,,3,6,,,19,Information Technology; Computer Science; Business; Others
+Regression Analysis,,1,6,,4,8,,,19,Computer Science; Business; Others; Data Science
+QA Testing,,,8,,4,5,1,,18,Business; Others
+Equity,,,6,,2,10,,,18,Business; Others
+Business Ethics,1,1,7,,3,6,,,18,Business
+SketchUp,,2,6,,7,3,,,18,Computer Science
+Agricultural Science,,2,7,1,4,4,,,18,Business; Others
+Web Analytics,,,11,2,2,3,,,18,Business; Others; Data Science
+Market Research Analysis,,1,7,,5,5,,,18,Information Technology; Computer Science; Business; Others
+Unix,,,14,,3,1,,,18,Computer Science
+Zoom,,2,7,1,4,4,,,18,Information Technology; Computer Science; Business; Others
+Team Building,,3,8,,6,1,,,18,Business
+Maya,,2,6,2,4,4,,,18,Information Technology; Computer Science; Business; Others
+Content Management,,,2,3,3,10,,,18,Business; Others
+Entertainment,,1,8,,3,6,,,18,Others
+Spanish,1,1,9,,4,2,1,,18,Computer Science; Others
+Data Mining,1,2,10,1,2,2,,,18,Computer Science; Business; Others; Data Science
+Localization,1,,4,1,6,6,,,18,Computer Science; Others
+Streaming,1,,6,2,5,4,,,18,Computer Science
+Newspapers,2,1,5,,6,4,,,18,Business; Others
+Database Design,1,,7,3,3,4,,,18,Computer Science; Business; Others; Data Science
+Incident Management,1,1,9,,5,2,,,18,Business; Others
+Firewall,2,1,7,,2,6,,,18,Information Technology; Computer Science
+Manufacturing Operations,,1,4,,10,2,,,17,Business
+Apparel,,1,9,,3,4,,,17,Business
+Data Preparation,,1,7,,4,5,,,17,Data Science
+Web Framework,1,,10,,4,2,,,17,Computer Science
+Online Business,1,1,3,,8,4,,,17,Business
+Product Testing,,,6,,7,4,,,17,Business
+Graph,,2,7,,4,3,,,16,Computer Science; Others
+Authentication,,,6,,1,9,,,16,Information Technology; Computer Science
+vSphere,,3,6,,5,2,,,16,Computer Science
+Industrial Automation,1,3,7,,1,3,1,,16,Business; Others
+Messaging Application Programming Interface,,2,4,1,7,2,,,16,Computer Science
+Corporate Communication,,3,7,,4,2,,,16,Information Technology; Computer Science; Business; Others
+Common ISDN Application Programming Interface (CAPI),,2,4,1,7,2,,,16,Computer Science
+Social Information System,,2,4,1,7,2,,,16,Computer Science; Business; Others; Data Science
+Performance Application Programming Interface,,2,4,1,7,2,,,16,Computer Science
+Telephony Application Programming Interface,,2,4,1,7,2,,,16,Computer Science
+Network Architecture,,2,4,1,7,2,,,16,Computer Science
+Strategic Planning,1,,8,1,6,,,,16,Business; Others
+Application Programming Interface (API),,2,4,1,7,2,,,16,Computer Science
+Profiling,1,2,1,,8,4,,,16,Computer Science; Business; Others
+React Native,,,6,,3,7,,,16,Computer Science; Data Science
+Tax Accounting,,3,10,,2,1,,,16,Business; Others
+Password,,,4,,11,1,,,16,Information Technology; Computer Science
+Business Intelligence,,,6,1,4,5,,,16,Data Science
+Bond,,,7,,4,4,,1,16,Business; Others
+Marketing Analytics,2,,9,,3,2,,,16,Data Science
+Chatbot,,1,4,,5,6,,,16,Computer Science; Business; Others; Data Science
+Software Architecture,,2,3,,4,7,,,16,Computer Science; Business; Others
+Distributed System,2,,4,,6,3,1,,16,Computer Science
+Quantitative Research,,1,4,,4,7,,,16,Information Technology; Business; Others; Data Science; Computer Science
+Kotlin,1,1,10,,3,1,,,16,Computer Science; Data Science
+Management Information System (MIS),,1,6,,4,5,,,16,Business; Others
+Forestry,,2,4,,6,3,1,,16,Business; Others
+Legal Management,,,9,,4,3,,,16,Others
+Configuration Management,2,1,8,,4,1,,,16,Computer Science; Business; Others
+Computer Vision,1,,3,2,5,5,,,16,Computer Science; Business; Data Science
+CISSP,1,1,4,,1,9,,,16,Information Technology
+Unix Shell,1,,12,,1,1,1,,16,Computer Science; Data Science
+Big Data Analysis,,1,11,,2,1,1,,16,Computer Science; Business; Others; Data Science
+Biomaterials Engineering,,5,6,,2,2,,,15,Business; Others
+HTML and CSS,,,7,1,3,4,,,15,Information Technology; Computer Science; Business; Others
+Object-Oriented Programming (OOP),,,2,,4,9,,,15,Computer Science; Business; Others; Data Science
+Salesforce,,1,7,,4,3,,,15,Information Technology; Computer Science; Business; Others
+Communication and Security,,1,10,,2,2,,,15,Computer Science
+Commercial Law,1,,7,,4,3,,,15,Others
+Structural Engineering,,4,4,,3,4,,,15,Business; Others
+Usability Engineering,,,5,,5,5,,,15,Computer Science; Business; Others
+Materials Engineering,,5,6,,2,2,,,15,Business; Others
+Indonesian,,,6,1,2,5,,,14,Computer Science; Others
+Energy Consumption,,2,3,,6,2,1,,14,Computer Science
+Annual Report,,,5,,5,4,,,14,Business; Others
+Population,1,,7,,3,3,,,14,Others; Data Science
+Cleanroom,,1,5,,3,5,,,14,Computer Science; Business; Others
+Task Management,1,1,6,1,4,1,,,14,Business; Others
+Performance Review,,1,5,,3,5,,,14,Business; Others
+Control Chart,,1,6,,4,3,,,14,Information Technology; Business; Others; Data Science; Computer Science
+Oil and Gas,,2,4,,7,1,,,14,Business
+Web Development,1,3,3,1,1,5,,,14,Computer Science
+Legal Service,1,,7,,2,3,1,,14,Others
+OpenShift,,2,8,,2,2,,,14,Information Technology; Computer Science
+Software Development,,,6,,4,4,,,14,Computer Science
+Financial Risk Management,1,2,6,,1,4,,,14,Business; Others
+Maintanence,,,10,,1,2,,1,14,Business
+Database Application,1,1,7,,1,4,,,14,Computer Science; Data Science
+Cisco Router,1,2,3,,3,5,,,14,Computer Science
+Computing,1,,5,,5,3,,,14,Computer Science
+Social Media Management,1,,5,1,3,4,,,14,Business; Others
+Service Management,,1,5,1,4,3,,,14,Business; Others
+Software Application,,,9,1,1,3,,,14,Information Technology; Computer Science; Business; Others
+Email Marketing Campaign,,,8,2,2,2,,,14,Business; Others
+Food Production,,1,3,,7,3,,,14,Business
+Source Code Management,,3,4,,5,2,,,14,Computer Science; Business; Others
+Telecommunications Engineering,,1,9,,2,2,,,14,Business; Others
+Ruby on Rails,1,1,2,,6,4,,,14,Computer Science; Data Science
+Computing Platform,,,3,,3,8,,,14,Computer Science; Business; Others; Data Science
+Cost Accounting,,,7,,3,4,,,14,Business; Others
+Decision Tree,,,3,,3,8,,,14,Computer Science; Business; Data Science
+Machine Learning Algorithm,,,3,,3,8,,,14,Computer Science; Business; Data Science
+VOIP,2,1,5,,2,4,,,14,Information Technology; Computer Science; Business; Others
+CouchDB,,,6,1,2,5,,,14,Computer Science; Business; Others; Data Science
+Naïve Bayes,,,3,,3,8,,,14,Computer Science; Business; Data Science
+Process and Methodology,,1,7,1,2,3,,,14,Computer Science; Business; Others
+Xen Cloud Platform,,3,4,,5,2,,,14,Information Technology; Computer Science
+Tamil,1,,6,,5,2,,,14,Computer Science; Others
+Infrastructure as a Service (IaaS),1,1,6,1,4,1,,,14,Information Technology; Computer Science
+Node.js,,2,5,1,2,3,,,13,Computer Science; Data Science
+Sales Operations,2,2,3,,3,3,,,13,Business; Others
+Property Information,2,,2,2,4,3,,,13,Business
+Oil and Energy,1,1,3,,6,2,,,13,Business
+Tableau,,,7,2,2,2,,,13,Business; Others; Data Science
+Burmese,,,6,,4,3,,,13,Computer Science; Others
+Classification,,2,4,,5,1,,,12,Computer Science; Business; Data Science
+Commodity,2,1,2,,3,4,,,12,Business; Others
+Concurrency,,,10,,2,,,,12,Computer Science
+Corporate Finance,,1,3,,7,1,,,12,Business; Others
+Scripting Language,,1,7,,1,3,,,12,Computer Science; Data Science
+Q-learning,1,,1,2,5,3,,,12,Computer Science; Business; Data Science
+Robotics,,,6,,3,3,,,12,Computer Science
+Active Listening,,,6,,3,3,,,12,Information Technology; Computer Science; Business; Others
+Digital Art,,2,5,,4,1,,,12,Others
+Version Control,,,7,1,1,3,,,12,Computer Science; Business; Others
+Cloud Computing,,1,5,,4,1,1,,12,Information Technology; Computer Science
+PL/SQL,,,9,1,,1,,1,12,Computer Science; Business; Others; Data Science
+Recreation,,1,3,,4,4,,,12,Others
+Requirement Analysis,2,1,3,,3,2,1,,12,Business; Others; Data Science
+Bootstrap,,1,3,1,,7,,,12,Information Technology; Computer Science; Business; Others
+Cybersecurity,,,8,,4,,,,12,Information Technology; Computer Science
+Post-Sale Relationship Management,,,7,1,2,2,,,12,Business; Others
+Deep Learning,1,,3,2,3,3,,,12,Computer Science; Business; Data Science
+macOS,2,1,5,,1,3,,,12,Computer Science; Business; Others
+Computer Game,,2,4,1,1,4,,,12,Information Technology; Computer Science; Business; Others
+Computer Worm,,2,7,,2,1,,,12,Information Technology; Computer Science
+Software Interface,,,5,1,3,3,,,12,Computer Science
+Google Drive,,2,6,,4,,,,12,Information Technology; Computer Science
+Cryptocurrency,,,4,,2,6,,,12,Information Technology; Computer Science; Others
+Repetition,1,,2,,6,2,,1,12,Computer Science
+Electronic Control Systems,,,4,,5,3,,,12,Others
+Sales Management,,,4,,6,1,1,,12,Business; Others
+Supply and Demand,,,4,,3,5,,,12,Business; Others
+Database System,,,3,1,6,2,,,12,Computer Science; Data Science
+Bitbucket,,,3,,7,2,,,12,Information Technology; Computer Science
+Redux,,,3,,7,2,,,12,Computer Science; Data Science
+Affliate Marketing,,3,3,,5,1,,,12,Business; Others
+Information Management,,4,5,,2,1,,,12,Information Technology; Business; Others
+SAS Statistical Analysis,3,1,2,,2,4,,,12,Business; Others; Data Science
+Data Sharing,1,,6,,2,3,,,12,Information Technology; Computer Science; Data Science
+Tcl,1,,6,,5,,,,12,Computer Science; Data Science
+Marketing Management,,,3,,5,3,,,11,Business; Others
+Safari,2,,5,,2,2,,,11,Computer Science; Business; Others; Data Science
+Informatics,,,6,,3,2,,,11,Information Technology
+Carpentry,,,2,,6,3,,,11,Business
+Aviation,,2,5,,1,3,,,11,Business; Others
+Report Analysis,,,6,,2,3,,,11,Business; Others
+Television,2,,4,,4,1,,,11,Others
+Database Administration,,2,6,,2,1,,,11,Computer Science; Business; Others; Data Science
+Steganography,,1,4,,5,1,,,11,Information Technology; Computer Science; Others
+Software Testing,,,1,,2,7,,,10,Computer Science; Business; Others
+Uncertainty,,1,3,,1,5,,,10,Business; Others
+Correlation,,2,1,2,2,3,,,10,Computer Science; Business; Others; Data Science
+Experimental Psychology,,,5,,2,3,,,10,Natural Science; Others
+DevOps Automation Tool,,,4,,1,4,,1,10,Information Technology; Computer Science
+Developmental Psychology,,,5,,2,3,,,10,Natural Science; Others
+Social Network,,1,6,,2,1,,,10,Others
+Web Application Security,,2,5,,2,1,,,10,Information Technology; Computer Science
+Clinical Psychology,,,5,,2,3,,,10,Natural Science; Others
+Load Balancing,,1,7,,1,1,,,10,Computer Science
+Forensic Psychology,,,5,,2,3,,,10,Natural Science; Others
+Data Modeling,,1,7,,1,1,,,10,Business; Others; Data Science
+Scientific Method,,1,6,,2,1,,,10,Natural Science
+Behaviour Analysis,,,5,,2,3,,,10,Natural Science; Others
+Forensic Science,,1,4,,5,,,,10,Others
+Mathematical Modelling,1,,4,1,1,3,,,10,Others
+Market Analysis,,,6,,3,1,,,10,Business; Others
+Reverse Engineering,,1,3,,2,4,,,10,Information Technology; Computer Science; Business; Others
+Geometry,1,,5,,2,2,,,10,Computer Science; Business; Others; Data Science
+Agile Methodology,,1,4,,1,4,,,10,Business; Others
+SciPy,1,,1,2,3,3,,,10,Computer Science; Business; Data Science
+Flowchart,1,,2,,3,4,,,10,Computer Science
+Wireless Network,1,2,1,,1,5,,,10,Computer Science
+Model Based Reinforcement Learning,1,,1,2,3,3,,,10,Computer Science; Business; Data Science
+Ruby,,1,7,,1,1,,,10,Computer Science; Data Science
+Cryptography,,,5,,1,4,,,10,Information Technology; Computer Science; Others
+Social Science,,,2,,3,5,,,10,Others
+Data Acquisition,1,,6,,3,,,,10,Computer Science; Business; Data Science
+NumPy,1,,1,2,3,3,,,10,Computer Science; Business; Data Science
+Hive,,,4,,4,2,,,10,Computer Science; Business; Data Science
+Dreamweaver,,1,6,,1,2,,,10,Information Technology; Computer Science; Business; Others
+Probability,,,6,1,2,1,,,10,Others; Data Science
+Video Encoding,,,5,1,4,,,,10,Data Science
+Securities,,1,3,,4,2,,,10,Business; Others
+Google Workspace,,,5,,3,2,,,10,Information Technology; Computer Science
+Philosophy,1,3,3,,1,2,,,10,Others
+Perl,,,5,,,5,,,10,Computer Science; Data Science
+Financial Regulation,1,,3,,1,5,,,10,Business; Others
+Optometry,,,5,1,4,,,,10,Others
+Drupal,,,5,,2,3,,,10,Computer Science; Business; Others
+Matplotlib,1,,1,2,3,3,,,10,Computer Science; Business; Others; Data Science
+Cloud Database Management System,,,5,,4,1,,,10,Computer Science; Business; Others; Data Science
+Industrial and Organizational Psychology,,,5,,2,3,,,10,Natural Science; Others
+Health Psychology,,,5,,2,3,,,10,Natural Science; Others
+Financial Management,,,6,,3,1,,,10,Business; Others
+Data Cleansing,,,4,,4,2,,,10,Data Science
+Environmental Science,,1,4,,5,,,,10,Natural Science; Others
+Algebra,1,,1,2,3,3,,,10,Others
+Pharmacology,,1,4,,5,,,,10,Others
+Cloud Computing Architecture,1,,1,2,3,3,,,10,Information Technology; Computer Science
+Financial Engineering,1,2,4,1,,1,,,9,Business; Others
+Operations Management,1,,4,,1,3,,,9,Information Technology; Business; Others
+Outsourcing,1,,3,,3,2,,,9,Business
+Construction Law,,1,5,,,3,,,9,Others
+Business Intelligence Tool,1,1,2,1,2,2,,,9,Data Science
+Microbiology,,,4,,4,,1,,9,Natural Science
+Tax Law,,,5,,2,2,,,9,Others
+Financial Accounting,,,4,,3,2,,,9,Business; Others
+Subject Matter Expert (SME),1,,4,,2,2,,,9,Information Technology; Computer Science; Business; Others
+Wireframing,,,3,,1,4,,,8,Information Technology; Computer Science; Business; Others
+Computer-aided Design,,,4,,2,2,,,8,Information Technology; Computer Science; Business; Others
+Pascal,,,6,,1,1,,,8,Computer Science; Data Science
+Tree,,,4,,2,2,,,8,Computer Science
+Microsoft Access,,,6,,1,1,,,8,Information Technology; Computer Science; Business; Others
+Strategic Management,2,1,,,2,3,,,8,Business; Others
+Tomcat,,,6,,1,1,,,8,Computer Science
+Marketing Design,,,4,,3,1,,,8,Business; Others
+Email Production,,,3,,4,1,,,8,Information Technology; Computer Science; Business; Others
+Software as a Service (SaaS),,,5,,2,1,,,8,Information Technology; Computer Science
+Audio Production,,,3,,3,2,,,8,Business
+Educational Psychology,,,2,,1,3,2,,8,Natural Science; Others
+Data Security,,,2,,,5,,1,8,Information Technology; Computer Science
+German,,,3,,3,2,,,8,Computer Science; Others
+Clustering,,,3,,,5,,,8,Computer Science; Business; Data Science
+Hbase,,,3,,4,1,,,8,Computer Science; Business; Others; Data Science
+Scala,,,3,,4,1,,,8,Computer Science; Business; Data Science
+Needs Analysis,,,3,,3,2,,,8,Computer Science; Business; Others; Data Science
+Financial Services,,,6,,2,,,,8,Business; Others
+Infographics,,,3,,1,4,,,8,Information Technology; Computer Science; Business; Others
+Forth,,,5,,3,,,,8,Computer Science; Data Science
+Magento,,,6,,,2,,,8,Business
+Web Application Framework,,,1,,2,5,,,8,Computer Science
+Gender and Sexuality Studies,1,,3,,1,3,,,8,Others
+International Finance,1,,3,,3,1,,,8,Business; Others
+Wireless Security,1,1,1,,1,4,,,8,Information Technology; Computer Science
+Network Management,1,1,1,,1,4,,,8,Business; Others
+Financial Law,,1,1,,5,1,,,8,Others
+Business Writing,,2,2,,2,2,,,8,Business
+Storage System,1,,4,,2,1,,,8,Information Technology; Computer Science
+Digital Media,,1,2,1,2,2,,,8,Information Technology; Computer Science; Business; Others
+Bug Tracking System,,3,2,,2,1,,,8,Computer Science; Business; Data Science
+Content Management System (CMS),,1,2,1,3,1,,,8,Computer Science; Business; Others
+Payment Processing,,1,5,,1,1,,,8,Business
+Supply Chain Management,,1,2,,3,2,,,8,Business; Others
+Pivot Table,1,,3,,1,3,,,8,Information Technology; Business; Others; Data Science; Computer Science
+Requirements Gathering,1,1,1,,2,2,1,,8,Information Technology; Computer Science; Business; Others
+Legal Systems,1,,3,,1,3,,,8,Others
+Order Theory,1,2,3,,1,1,,,8,Others
+Cloud Platform,1,,6,,1,,,,8,Information Technology; Computer Science
+Product Roadmap,,3,2,,3,,,,8,Business; Others
+Programming Language Theory,2,,2,,,4,,,8,Computer Science; Data Science
+Encoding,1,,1,,2,4,,,8,Data Science
+Routing Protocol,1,1,1,,1,4,,,8,Information Technology; Computer Science; Business; Others
+Build Tool,,1,5,,1,1,,,8,Computer Science; Business; Others
+WooCommerce,,1,3,,2,2,,,8,Business
+Marketing Psychology,,1,6,,,,1,,8,Business; Others
+Loader,,1,1,1,4,1,,,8,Computer Science
+Basic Access Authentication,1,1,1,,1,4,,,8,Information Technology; Computer Science
+Marine Engineering,1,1,1,,3,2,,,8,Business; Others
+Mathematical Economics,1,2,3,1,,1,,,8,Business; Others
+Public Policy,1,,3,,1,3,,,8,Others
+Production Set,,3,2,,1,2,,,8,Business; Others
+Microsoft .NET,,,3,,2,2,,,7,Computer Science; Business; Others
+Consumer Behaviour,,2,4,,1,,,,7,Natural Science; Others; Business
+Investor Relations,,,5,,2,,,,7,Business; Others
+UI Design,,,3,,3,1,,,7,Computer Science; Business; Others
+Email Management,,,3,,3,1,,,7,Information Technology; Computer Science; Business; Others
+Business Intelligence Testing,1,1,2,1,2,,,,7,Data Science
+Corporate Law,,,4,,3,,,,7,Business; Others
+Photo Editing,,2,4,,1,,,,7,Information Technology; Computer Science; Business; Others
+Culinary Art,,,3,,3,1,,,7,Others
+Tracking System,1,1,3,1,1,,,,7,Computer Science; Business; Data Science
+Empathy,,,4,,1,1,,,6,Business; Others
+Working Capital,,,4,,1,1,,,6,Business; Others
+Paid Socia Media Advertisements,,,4,,1,1,,,6,Business; Others
+Sustainable Development,,,4,,2,,,,6,Others
+Vulnerability,,,4,,1,1,,,6,Information Technology; Computer Science
+Facilities Engineering,,,4,1,1,,,,6,Business; Others
+Radiology,,,4,,,2,,,6,Others
+Goal Tracking System,,3,1,,2,,,,6,Computer Science; Business; Data Science
+Testing Hypothesis,2,1,,,1,2,,,6,Others; Data Science
+Email Client,1,,1,,2,2,,,6,Information Technology; Computer Science; Business; Others
+Storytelling,,,3,,,3,,,6,Business; Others
+Search Engine Optimization (SEO),1,,2,,3,,,,6,Computer Science; Business; Others
+Enterprise Software,,,4,,1,1,,,6,Business
+Microsoft Azure,1,,4,,1,,,,6,Information Technology; Computer Science
+Stock Market,,,3,,1,2,,,6,Business; Others
+Urban Engineering,1,,4,,1,,,,6,Business; Others
+Operations Research,,,3,,2,1,,,6,Business; Others
+Yii,,,3,,2,1,,,6,Computer Science; Data Science
+Investment Banking,,,3,,1,2,,,6,Business; Others
+Joomla,,,3,,2,1,,,6,Computer Science; Business; Others
+Development Studies,,,2,,4,,,,6,Others
+Regression Testing,,,2,,2,2,,,6,Computer Science; Business; Others; Data Science
+Market Segmentation,,,2,,1,3,,,6,Business; Others
+Electronic Key Management System,,,2,2,1,1,,,6,Information Technology; Computer Science; Others
+Data Presentation,,,2,1,2,1,,,6,Information Technology; Computer Science; Data Science
+Game Development,,,2,,4,,,,6,Information Technology; Computer Science; Business; Others
+Gecko,,,2,,2,2,,,6,Computer Science; Business; Others; Data Science
+Storage Management,,,2,,3,1,,,6,Information Technology; Business; Others
+Business Analytics,1,,3,,2,,,,6,Business; Data Science
+Social Work,,,2,,3,1,,,6,Others
+Applied Mathematics,,,2,,2,2,,,6,Others
+e-business,,,2,,2,2,,,6,Business
+Responsive Web Design,,,2,,2,2,,,6,Information Technology; Computer Science; Business; Others
+Revision Control,1,,5,,,,,,6,Computer Science; Business; Others
+Project Chart,,,2,,2,2,,,6,Information Technology; Business; Others; Data Science; Computer Science
+Cloud Application,,,2,,2,1,1,,6,Information Technology; Computer Science
+SAS,,,2,,1,3,,,6,Information Technology; Business; Others; Data Science; Computer Science
+Patient Care,,,2,,2,2,,,6,Natural Science
+Vmware ESXi,,,2,,,3,,1,6,Information Technology; Computer Science
+Secure Coding,,,2,,,3,,1,6,Information Technology; Computer Science
+Agricultural Production,,,1,,2,3,,,6,Others
+Amazon Web Service (AWS),,,3,,1,2,,,6,Information Technology; Computer Science
+Mobile Development,1,,4,,,1,,,6,Computer Science
+Oracle Databases,1,,3,,1,1,,,6,Computer Science; Data Science
+Gamification,,,3,,2,1,,,6,Information Technology; Computer Science; Business; Others
+Relational Database Management System,,,3,,2,1,,,6,Computer Science; Business; Others; Data Science
+Multi-model Database Management System,,,3,,2,1,,,6,Computer Science; Business; Others; Data Science
+Key-value Database Management System,,,3,,2,1,,,6,Computer Science; Business; Others; Data Science
+Facial Recognition,,,3,,2,1,,,6,Computer Science; Business; Data Science
+Encryption,,,4,,1,1,,,6,Information Technology; Computer Science; Business; Others
+Objection Handling,2,1,,,3,,,,6,Business; Others
+Global Server Load Balancing,,,4,,2,,,,6,Computer Science
+Social Networking Tool,,,4,,2,,,,6,Others
+Interactive Media,,,4,,2,,,,6,Information Technology; Computer Science; Business; Others
+Search Enging and Keyword Optimization,1,,2,,3,,,,6,Business; Others
+Petty Cash Control,,2,3,,,1,,,6,Business; Others
+Knowledge Management,,1,3,,2,,,,6,Business; Others
+Verification And Validation,,2,2,,2,,,,6,Information Technology; Computer Science; Business; Others
+Professional Training,,,5,,1,,,,6,Business
+Maven,,2,3,,1,,,,6,Information Technology; Business; Others; Data Science; Computer Science
+Liquidation,,,5,,1,,,,6,Business; Others
+Storyboarding,,1,2,,,3,,,6,Information Technology; Computer Science; Business; Others
+Social Selling,,1,2,,2,1,,,6,Business; Others
+IP Address,,1,2,,2,1,,,6,Information Technology; Computer Science; Business; Others
+Meteorology,,1,1,1,1,2,,,6,Natural Science; Others
+Graph Database,1,,1,,2,2,,,6,Computer Science; Business; Others; Data Science
+Opera,,1,1,,1,3,,,6,Computer Science; Business; Others; Data Science
+Natural Language Processing System,,1,2,,2,1,,,6,Computer Science; Business; Others; Data Science
+Natural Language Processing Toolkit (NLTK),,1,2,,2,1,,,6,Computer Science; Business; Others; Data Science
+Statutory Law,,1,2,,2,1,,,6,Others
+Natural Language Processing (NLP),,1,2,,2,1,,,6,Computer Science; Business; Others; Data Science
+Horticulture,,1,2,,1,2,,,6,Others
+Syntax,1,,4,,1,,,,6,Computer Science; Others; Data Science
+Fast Ethernet,1,1,2,,1,1,,,6,Computer Science
+Talent Management,,,4,,2,,,,6,Business; Others
+Budget Planning,,2,1,,1,2,,,6,Business; Others
+Logic,,,4,,1,1,,,6,Computer Science; Others
+Electronic Materials,,,4,,2,,,,6,Business; Others
+Software Package,,,4,,2,,,,6,Information Technology; Computer Science; Business; Others
+Apache,,,1,,,5,,,6,Computer Science
+Unit Cost,2,1,,,1,2,,,6,Business; Others
+Science and Technology Studies,,,4,,1,,,1,6,Others
+Search Enging Marketing,,,4,,2,,,,6,Business; Others
+Innovation Management,,,4,,2,,,,6,Business; Others
+Systems Engineering,,,4,,1,1,,,6,Business; Others
+Property Management System,,2,3,,1,,,,6,Business; Others
+Property Management Software,,2,1,,2,1,,,6,Business; Others
+COBOL,,,4,,1,1,,,6,Computer Science; Data Science
+Key Management,,,4,,1,1,,,6,Information Technology; Computer Science; Others
+Digital Printing,,,2,,2,1,,,5,Information Technology; Computer Science; Business; Others
+Financial Modeling,,,3,,2,,,,5,Business; Others; Data Science
+Psychometrics,,1,1,,2,1,,,5,Natural Science; Others
+Contact Manager,,,2,1,2,,,,5,Information Technology; Computer Science; Business; Others
+Web Scraping,,,4,,1,,,,5,Computer Science; Business; Others; Data Science
+Text Analysis,,,1,1,2,,,,4,Computer Science; Business; Others; Data Science
+Enterprise System,,,2,,1,1,,,4,Business
+Cordova,,,2,,1,1,,,4,Computer Science
+Extract Transform Load (ETL),,,1,,2,1,,,4,Information Technology; Computer Science; Data Science
+Pediatrics,,,2,,2,,,,4,Others
+Public Health,,,2,,2,,,,4,Natural Science; Others
+Food Service Operations,,1,1,,1,1,,,4,Business
+Problem Management,,,2,,1,1,,,4,Business; Others
+Microsoft Power BI,,,1,2,,1,,,4,Business; Others; Data Science
+MATLAB,,,1,,1,2,,,4,Information Technology; Business; Others; Data Science; Computer Science
+Human Machine Interface,,,1,1,,2,,,4,Computer Science; Business; Others
+Slack,,,2,,1,1,,,4,Information Technology; Computer Science; Business; Others
+Pattern Recognition,,,2,,1,1,,,4,Computer Science; Business; Data Science
+Supervised Machine Learning,,,2,,1,1,,,4,Computer Science; Business; Data Science
+Sentiment Analysis,,,2,,1,1,,,4,Computer Science; Business; Others; Data Science
+Proof Theory,,,2,,1,1,,,4,Computer Science; Others
+Mean Shift,,1,1,,2,,,,4,Computer Science; Business; Data Science
+Oracle NoSQL Database,,,2,,1,1,,,4,Computer Science; Business; Others; Data Science
+Computer Systems Organization,,1,2,,1,,,,4,Computer Science
+Dash,,,2,,1,1,,,4,Computer Science; Business; Others; Data Science
+Red Hat,,,2,,1,1,,,4,Information Technology; Computer Science
+Quma Version Control System (QVCS),,,2,,1,1,,,4,Computer Science; Business; Others
+Corel Draw,,,2,,,2,,,4,Information Technology; Computer Science; Business; Others
+Ajax,,,2,,,2,,,4,Computer Science; Data Science
+Semantic Analysis,,1,,1,1,1,,,4,Computer Science; Business; Others; Data Science
+Persuasion,,,1,,1,2,,,4,Business; Others
+T-SQL,,,1,1,,2,,,4,Computer Science; Data Science
+Greenhopper,,,2,,1,1,,,4,Information Technology; Computer Science; Business; Others
+Wireless LAN,,,2,,1,1,,,4,Computer Science
+Signal Processing,,,2,,1,1,,,4,Computer Science
+Polytron Version Control System (PVCS),,,2,,1,1,,,4,Computer Science; Business; Others
+VersionOne,,,2,,1,1,,,4,Information Technology; Computer Science; Business; Others
+Music Therapy,,,1,,2,1,,,4,Natural Science; Others
+Sociology,,,,,2,2,,,4,Others
+Marketing Content Development,,1,1,,1,1,,,4,Business
+Graphical User Interface (GUI),1,,1,,,2,,,4,Information Technology; Computer Science; Business; Others
+Systems Management,,1,1,,,2,,,4,Business; Others
+Torch,1,,3,,,,,,4,Computer Science; Business; Others; Data Science
+Mastercam,,,3,,1,,,,4,Business
+Gantt Chart,,,1,,1,2,,,4,Information Technology; Business; Others; Data Science; Computer Science
+Polymer Engineering,,1,2,,1,,,,4,Business; Others
+STATA,,2,2,,,,,,4,Business; Others; Data Science
+Event Planning,,2,,,,2,,,4,Business; Others
+Financial Risk,,,,,,4,,,4,Business; Others
+Jin Chinese,1,,,1,,2,,,4,Computer Science; Others
+Stata,,2,2,,,,,,4,Data Science
+SQLite,,,4,,,,,,4,Computer Science; Business; Others; Data Science
+Geography,1,,2,,,1,,,4,Others
+Programming Tool,,,4,,,,,,4,Computer Science; Business; Others
+MongoDB,,,4,,,,,,4,Computer Science; Business; Others; Data Science
+Apache Ant,,,4,,,,,,4,Computer Science
+Microsoft PowerPoint,,,4,,,,,,4,Information Technology; Computer Science; Business; Others
+Web API,,,4,,,,,,4,Computer Science; Business; Others; Data Science
+Imagine,,1,1,,1,1,,,4,Computer Science
+Apache Kafka,1,,1,2,,,,,4,Computer Science
+French,,1,2,,,,1,,4,Computer Science; Others
+Biomedical Engineering,,1,1,,2,,,,4,Business; Others
+International Financial Reporting Standards (IFRS),1,,1,,2,,,,4,Business; Others
+Financial Statement Analysis,,,2,,1,1,,,4,Business; Others
+Visual Studio Code,,,2,,,2,,,4,Information Technology; Computer Science; Business; Others
+Animal Husbandry,,,1,,1,2,,,4,Others
+Conceptual Art,,,2,,1,1,,,4,Others
+Vacuum Engineering,1,,2,,1,,,,4,Business; Others
+SPSS,,,1,,1,2,,,4,Business; Others; Data Science
+PrestaShop,,,2,,,2,,,4,Business
+Social Psychology,,,,,2,2,,,4,Natural Science; Others
+Economic Growth,,,1,,2,1,,,4,Business; Others
+Materials Science,,1,2,,1,,,,4,Business; Others
+Microsoft SQL Servers,,,2,,,2,,,4,Computer Science; Business; Others; Data Science
+Decision Process,,,2,,1,1,,,4,Business
+Privacy,,1,,,3,,,,4,Information Technology
+User Interface Design,1,,1,,,2,,,4,Computer Science; Business; Others
+Ubuntu,,,3,,,1,,,4,Computer Science
+OpenStack,,,3,,,1,,,4,Information Technology; Computer Science
+Currency,,,,,3,,,,3,Business; Others
+Know Your Customer (KYC),,,,,3,,,,3,Business; Others
+Engineering Technology,,,1,1,1,,,,3,Business; Others
+Architectural Engineering,,,,,2,1,,,3,Information Technology; Computer Science; Business; Others
+Ant,,,,,2,1,,,3,Computer Science; Business; Others
+Digital Marketing System,1,,1,,1,,,,3,Computer Science; Business; Others; Data Science
+Agronomy,,2,,,,1,,,3,Others
+Business Intelligence (BI),1,,1,,1,,,,3,Business; Others
+Instrumentaion Engineering,,,2,,,1,,,3,Business; Others
+Jelastic,,,2,,,1,,,3,Information Technology; Computer Science
+Cookies,,,,,2,,,,2,Information Technology; Computer Science; Business; Others
+Cost-benefit Analysis,,,1,,1,,,,2,Business; Others
+Regional Planning,,,1,,1,,,,2,Business; Others
+Socket Programming,,,1,,,1,,,2,Computer Science
+Toxicology,,,1,,1,,,,2,Others
+Immunology,,,1,,1,,,,2,Others
+Process Control System,,,,1,,1,,,2,Computer Science; Business; Others; Data Science
+Ensemble,,,,1,1,,,,2,Computer Science; Business; Data Science
+Information Science,,2,,,,,,,2,Others
+Crisis Management,1,,,,,1,,,2,Business; Others
+Marketing Consulting,1,,,,,1,,,2,Business; Others
+Socket,,,,,2,,,,2,Computer Science
+Psychology,,,1,,1,,,,2,Natural Science; Others
+Mathematical Logic,1,1,,,,,,,2,Computer Science; Others
+Hydroponics,,,,,2,,,,2,Others
+Public Relations (PR),1,,,,,1,,,2,Business; Others
+Visual Communication,1,,,,1,,,,2,Information Technology; Computer Science; Business; Others
+Mixed Reality,,,,,2,,,,2,Computer Science
+Media Production,,,,,2,,,,2,Business; Others
+Rent,,,,,1,1,,,2,Business; Others
+Rapport Building,,,,,1,1,,,2,Business; Others
+IBM DB2,,,,,,2,,,2,Computer Science; Business; Others; Data Science
+Antivirus Software,,,,,,2,,,2,Information Technology; Computer Science
+IBM Cognos Business Intelligence,,,,,,2,,,2,Data Science
+Adobe Acrobat,,,,,,2,,,2,Information Technology; Computer Science; Business; Others
+Principle of Legality,,,,,,2,,,2,Others
+Exploit,,,1,,1,,,,2,Information Technology; Computer Science
+Records Management,,,1,,,1,,,2,Business; Others
+Design Analysis,,,1,,,1,,,2,Information Technology; Computer Science; Business; Others
+Reliability Engineering,,,2,,,,,,2,Business; Others
+CPLEX,,,1,,1,,,,2,Computer Science
+Industrial Design,,,1,,1,,,,2,Information Technology; Computer Science; Business; Others
+Mathematical Programming,,,1,,1,,,,2,Computer Science; Others
+Intellectual Property Law,,,1,,1,,,,2,Business; Others
+Chemical Processing,,,1,,1,,,,2,Natural Science
+Cognitive Psychology,,,1,,1,,,,2,Natural Science; Others
+Gurobi,,,1,,1,,,,2,Computer Science
+Intellectual Property (IP),,,1,,1,,,,2,Business; Others
+ISO 9000,,,1,,1,,,,2,Computer Science; Business; Others
+Programming Model,,,1,,,1,,,2,Computer Science
+Google OR-Tools,,,1,,1,,,,2,Computer Science
+Russian,1,,1,,,,,,2,Computer Science; Others
+Intellectual Property Rights,,,1,,1,,,,2,Information Technology; Computer Science; Business; Others
+Network Service,,,1,,,1,,,2,Computer Science
+Cassandra,,,1,,,1,,,2,Computer Science
+Complex Analysis,,,1,,1,,,,2,Computer Science; Others
+Capacity Utilization,,,2,,,,,,2,Business; Others
+Resource Management,,,2,,,,,,2,Business; Others
+Product Liability,,,2,,,,,,2,Business; Others
+Database Development,,,2,,,,,,2,Computer Science; Data Science
+Issue Tracking System,,,1,,,1,,,2,Computer Science; Business; Data Science
+Pandas,,,2,,,,,,2,Computer Science; Business; Data Science
+Rehabilitation,,,1,,,1,,,2,Others
+Derivative,,,2,,,,,,2,Computer Science; Business; Others
+Typography,,,1,,,,,,1,Information Technology; Computer Science; Business; Others
+Embedded System,,,1,,,,,,1,Computer Science
+Microsoft Business Intelligence,,,,,,1,,,1,Data Science
+Oracle SQL Developer,,,,,,1,,,1,Computer Science; Business; Others; Data Science
+Microsoft Visio,,,,,,1,,,1,Business; Data Science
