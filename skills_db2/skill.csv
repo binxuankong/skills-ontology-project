@@ -1,3146 +1,3131 @@
-skill_id,skill
-1,Applied Science
-2,Arts and Humanities
-3,Business
-4,Computer Science
-5,Data Science
-6,Information Technology (IT)
-7,Mathematics and Logic
-8,Natural Science
-9,Social Science
-10,Account Receivable
-11,Accountancy
-12,Accounting
-13,Accounting Software
-14,Accounting Standards
-15,Accounts Payable
-16,Accuracy
-17,Adaptability
-18,Administration
-19,Adminitrative Assistance
-20,Advanced Google Search
-21,Advertising
-22,Advertising Management
-23,Affliate Marketing
-24,Agile Business Analytics
-25,Agile Methodology
-26,Airlines
-27,Analytical
-28,Analytical Reasoning
-29,Annual Report
-30,Anti Money Laundering
-31,Asana
-32,Asset Management
-33,Audio Production
-34,Audit
-35,Auditor's Report
-36,Automated Marketing Software
-37,B2B Marketing
-38,Balance Sheet
-39,Banking
-40,Basecamp
-41,Benchmarking
-42,Blogging
-43,Bookkeeping
-44,Brainstorming
-45,Brand Management
-46,Branding
-47,Broadcast Media
-48,Budget
-49,Budget Planning
-50,Business Acumen
-51,Business Administration
-52,Business Analysis
-53,Business Analytics
-54,Business Consulting
-55,Business Development
-56,Business Essentials
-57,Business Ethics
-58,Business Judgment Rule
-59,Business Management
-60,Business Model
-61,Business Operations
-62,Business Plan
-63,Business Process
-64,Business Process Modelling
-65,Business Research
-66,Business Statistics
-67,Business Storytelling
-68,Business Strategy
-69,Business Technology Management
-70,Business Writing
-71,Buyer Engagement
-72,Buyer Research
-73,Buyer-Responsive Selling
-74,Buyer-Seller Agreement
-75,Calendar
-76,Capacity Management
-77,Capital Budgeting
-78,Cash Conversion Cycle
-79,Cash Flow Management
-80,Cash-flow Statement
-81,Casino
-82,Change Management
-83,Channel Marketing
-84,Chart
-85,Clear Communication
-86,Client Relations
-87,Closing
-88,Closing Technique
-89,CMS Tool
-90,Cognos Analytics
-91,Cold Calling
-92,Collaboration
-93,Commercial
-94,Commercial Banking
-95,Commercial Management
-96,Communication
-97,Communications Management
-98,Competitive Strategy
-99,Conceptual Skills
-100,Configuration Management
-101,Conflict Management
-102,Construction
-103,Consulting
-104,Consumer Behaviour
-105,Contact Manager
-106,Content Management
-107,Content Management System (CMS)
-108,Content Marketing
-109,Content Strategy
-110,Convergence of Accounting Standards
-111,Conversion Rate Optimization
-112,Coordination
-113,Copywriting
-114,Corporate Communication
-115,Corporate Finance
-116,Cost Accounting
-117,Cost Assessment
-118,Cosumer Behaviour Drive
-119,Crisis Management
-120,Critical Thinking
-121,Custom Slide
-122,Customer Experience
-123,Customer Relationship Management (CRM)
-124,Customer Service
-125,Customer Service System
-126,Decision Making
-127,Decision Process
-128,Delegation
-129,Demo Skills
-130,Development
-131,Development Management
-132,Digital Communication
-133,Digital Literacy
-134,Digital Marketing
-135,Digital Photography
-136,Distributed Management
-137,Distribution
-138,Documentation
-139,Drupal
-140,e-business
-141,Earned Value Management (EVM)
-142,eCommerce
-143,eCommerce Platforms
-144,Editing
-145,Effective Communication
-146,Electronic Business
-147,Email
-148,Email Archiving
-149,Email Client
-150,Email Filtering
-151,Email Management
-152,Email Marketing
-153,Email Marketing Campaign
-154,Email Migration
-155,Email Processing
-156,Email Production
-157,Email Writing
-158,Empathy
-159,Employee Development
-160,Employee Learning
-161,Enterprise Resource Planning (ERP)
-162,Enterprise Software
-163,Enterprise System
-164,Entrepreneurial Finance
-165,Entrepreneurship
-166,Environmental Consulting
-167,Environmental Planning
-168,Equity
-169,Equity Statement
-170,Event Planning
-171,Events Services
-172,Excel
-173,Executive
-174,Fabrication
-175,Facebook Ads
-176,Factoring
-177,Finance
-178,Financial Accounting
-179,Financial Engineering
-180,Financial Management
-181,Financial Market
-182,Financial Regulation
-183,Financial Risk
-184,Financial Risk Management
-185,Financial Risk Modelling
-186,Financial Services
-187,Financial Statement
-188,Financial Statement Analysis
-189,First-in First-out (FIFO) Accounting
-190,Food Service Operations
-191,Forecasting
-192,Forensic Accounting
-193,Formatting
-194,Formula Function
-195,Fund Accounting
-196,Gambling
-197,Generally Accepeted Accounting Principles (GAAP)
-198,Generally-Accepted Auditing Standards (GAAS)
-199,Generally-Accepted Principles
-200,Ghostwriting
-201,Goods
-202,Google Ads
-203,Google Analytics
-204,Google Docs
-205,Google Forms
-206,Google Sheets
-207,Google Slides
-208,Governmental Accounting
-209,Greenhopper
-210,Growth Strategy
-211,Heavyweight
-212,Hospitality
-213,Human Resource Management
-214,Human Resources (HR)
-215,Incident Management
-216,Income Statement
-217,Industry
-218,Innovation
-219,Innovation Leadership
-220,Innovation Management
-221,Inside Sales
-222,Insider Trading
-223,Instant Messenger
-224,Insurance
-225,Intellectual Property (IP)
-226,Intellectual Property Rights
-227,International Business
-228,International Finance
-229,International Financial Reporting Standards (IFRS)
-230,International Standards on Auditing (ISA)
-231,Investment
-232,Investment Banking
-233,Investment Management
-234,Investor Relations
-235,Joomla
-236,Keynote
-237,Know Your Customer (KYC)
-238,Knowledge Management
-239,Last-in First-out (LIFO) Accounting
-240,Lead Generation
-241,Leadership
-242,Leadership Development
-243,Liquidation
-244,Logistics
-245,Lookup Table
-246,Magento
-247,Management
-248,Management Accounting
-249,Management Accounting Principles (MAP)
-250,Management Consulting
-251,Management Information System (MIS)
-252,Managerial Finance
-253,Manufacturing
-254,Market
-255,Market Analysis
-256,Market Research
-257,Market Research Analysis
-258,Market Segmentation
-259,Marketing
-260,Marketing Channel
-261,Marketing Consulting
-262,Marketing Content Development
-263,Marketing Design
-264,Marketing Management
-265,Marketing Psychology
-266,Marketing Research
-267,Mass Email
-268,Materials Management
-269,Media Planning
-270,Media Production
-271,Medium
-272,Mergers and Acquisitions (M&A)
-273,Metamodel
-274,Methodology
-275,Microsoft
-276,Microsoft Access
-277,Microsoft Excel
-278,Microsoft Office
-279,Microsoft OneNote
-280,Microsoft Outlook
-281,Microsoft PowerPoint
-282,Microsoft Word
-283,Mining and Quarrying
-284,Mobile Marketing
-285,Music Production
-286,Needs Analysis
-287,Negotiation
-288,Networking
-289,Newsletters
-290,Newspapers
-291,Nonverbal Communication
-292,Numerical Competence
-293,Objection Handling
-294,Objection Prevention
-295,Office Administration
-296,Office Management
-297,Offshoring
-298,Online Business
-299,Online Marketing
-300,Online Media
-301,OpenCard
-302,Operations Management
-303,Organizational Behaviour
-304,Organizational Skill
-305,Organizational Studies
-306,Outline of Management
-307,Outlook
-308,Outreach
-309,Outsourcing
-310,Page Setup
-311,Paid Socia Media Advertisement
-312,Pattern Finding
-313,Pay-Per-Click (PPC) Marketing
-314,Payroll Services
-315,Performance Management
-316,Performance Review
-317,Persuasion
-318,Petty Cash Control
-319,Photography
-320,Pivot Table
-321,Planning
-322,Point of Sale (POS) Software
-323,Policy Analysis
-324,Post-Sale Relationship Management
-325,Power Management
-326,PowerPoint
-327,Presentation
-328,PrestaShop
-329,Private Equity
-330,Problem Management
-331,Problem Solving
-332,Process Model
-333,Processing
-334,Procurement
-335,Product
-336,Product Development
-337,Product Knowledge
-338,Product Liability
-339,Product Life-cycle Management (PLM)
-340,Product Lifecycle Management
-341,Product Management
-342,Product Marketing
-343,Product Roadmap
-344,Product Testing
-345,Production
-346,Production Process
-347,Productivity Software Application
-348,Professional Training
-349,Programming
-350,Project Management
-351,Project Planning
-352,Project Supervision
-353,Property
-354,Property Information
-355,Property Maintenance
-356,Property Management
-357,Property Management Software
-358,Property Management System
-359,Property Tax
-360,Public Equity
-361,Public Relations (PR)
-362,Public Relations and Communications
-363,Public Speaking
-364,Publishing
-365,QA Testing
-366,Qualification Questioning
-367,Qualitative Marketing Research
-368,Quality Assurance (QA)
-369,Quality Control
-370,Quality Management
-371,Quantitative Marketing Research
-372,Quantitative Report
-373,Quantitative Research
-374,Quickbooks
-375,Radio Production
-376,Rally
-377,Rapport Building
-378,Real Estate
-379,Real Property
-380,Reasoning
-381,Records Management
-382,Recruiting
-383,Regional Planning
-384,Report Analysis
-385,Reporting
-386,Requirement Analysis
-387,Requirements Gathering
-388,Research
-389,Research and Development (R&D)
-390,Resource Management
-391,Retail
-392,Retail Packaging
-393,Revenue Recognition
-394,Risk Analysis
-395,Risk Management
-396,Root Cause Analysis
-397,Sales
-398,Sales Leadership
-399,Sales Management
-400,Sales Operations
-401,Sales Presentation
-402,Salesforce
-403,Scheduling
-404,Search Engine and Keyword Optimization
-405,Search Engine Marketing (SEM)
-406,Search Engine Optimization (SEO)
-407,Service
-408,Service Management
-409,Shopify
-410,Slack
-411,SmartArt
-412,Sociability
-413,Social Accounting
-414,Social Media Analytics
-415,Social Media Management
-416,Social Media Marketing
-417,Social Network Advertising
-418,Social Network Analysis
-419,Social Selling
-420,Software Business Analysis
-421,Source Checking
-422,Stock Market
-423,Storytelling
-424,Strategic Management
-425,Strategic Planning
-426,Strategic Prospecting
-427,Subject Matter Expert (SME)
-428,Supply Chain Management
-429,Supply Chain Risk Management
-430,System Context Diagram
-431,Systems Management
-432,Talent Management
-433,Target Audience
-434,Task Delegation
-435,Task Management
-436,Tax
-437,Tax Accounting
-438,Team Building
-439,Teamwork
-440,Technical Writing
-441,Technology Management
-442,Telemarketing
-443,Template
-444,Template Building
-445,Territory Management
-446,Text Box
-447,Time Management
-448,Todoist
-449,Track Changes
-450,Trade
-451,Training
-452,Transportation
-453,Trello
-454,Underwriting
-455,Venture Capiral
-456,Venture Capital (VC)
-457,VersionOne
-458,Video Production
-459,VOIP
-460,Wireframes
-461,WooCommerce
-462,Word Processor
-463,WordPress
-464,Working Capital
-465,Writing
-466,Yardi
-467,Yoast
-468,Zapier
-469,Zoom
-470,.NET
-471,2D Computer Graphics
-472,3D Computer Graphics
-473,3D Modelling Software
-474,A/B Testing
-475,Abstract Data Type
-476,Abstract Syntax Notation One
-477,Abstract Syntax Tree
-478,Access Query Languages
-479,Ada
-480,Adaptive Software Development (ASD)
-481,Agile
-482,Agile Software Development
-483,Ajax
-484,ALGOL
-485,Algorithm
-486,Algorithm Design
-487,Algorithmic Trading
-488,Amazon Relational Database Service
-489,Anaconda
-490,Analysis of Algorithm
-491,Android
-492,Android Debug Bridge
-493,Angular
-494,Ansible
-495,Ant
-496,Apache
-497,Apache Ant
-498,Apache Cassandra
-499,Apache Cordova
-500,Apache Groovy
-501,Apache Hadoop
-502,Apache Hbase
-503,Apache Hive
-504,Apache Kafka
-505,Apache Maven
-506,Apache Pig
-507,Apache Spark
-508,Apache Subversion
-509,Apache Tomcat
-510,APL
-511,Application
-512,Application Programming Interface (API)
-513,Approximation Algorithm
-514,apt-build
-515,Array
-516,Aspect-Oriented Programming
-517,Assembly
-518,Assembly Language
-519,Autodesk Maya
-520,Automata Theory
-521,Automated Billing Systems
-522,AWS Elastic MapReduce
-523,B
-524,Background Debug Mode
-525,Bash
-526,BASIC
-527,Bayesian Optimization
-528,Beats
-529,Behaviour-Based Robotics
-530,Binary Search
-531,Binary Search Algorithm
-532,Binary Search Tree
-533,Binary Tree
-534,Bison
-535,Bitbucket
-536,BitKeeper
-537,Bootstrap
-538,BREW
-539,Build Automation
-540,Build Tool
-541,Business Continuity Planning
-542,C
-543,C Data Type
-544,C Sharp
-545,C Syntax
-546,C#
-547,C# Syntax
-548,C++
-549,Cabal
-550,CADES
-551,Cascading Style Sheet (CSS)
-552,Cassandra
-553,Cassandra DB
-554,Character Encoding
-555,Character Encodings in HTML
-556,CI/CD
-557,Classis Mac OS
-558,Cleanroom
-559,Cleanroom Software Engineering
-560,Clojure
-561,Cloud Database Management System
-562,Cloudera Hue
-563,CMM
-564,CMMI/SCAMPI
-565,COBOL
-566,Coding
-567,Cognitive
-568,ColdFusion
-569,Column-oriented Database Management System
-570,Command Language
-571,Command-Line Interface
-572,Command-Line Interpreter
-573,Common ISDN Application Programming Interface (CAPI)
-574,Common Lisp
-575,Compiler
-576,Compiler Optimization
-577,Compiler Theory
-578,Complexity
-579,Component-Based Software Engineering
-580,Computational Biology
-581,Computational Chemistry
-582,Computational Complexity Theory
-583,Computational Neuroscience
-584,Computational Optimization
-585,Computational Physics
-586,Computational Science
-587,Computer Accessibility
-588,Computer Algebra
-589,Computer Architecture
-590,Computer Graphics
-591,Computer Hardware
-592,Computer Programming
-593,Computer Systems Organization
-594,Computer-aided Design
-595,Computer-Aided Engineering
-596,Computer-Aided Software Engineering
-597,Computing
-598,Computing Interface
-599,Concurrency
-600,Concurrent Computing
-601,Concurrent Programming
-602,Concurrent System
-603,conda
-604,Configuration
-605,Configuration Management
-606,Contextual Query Language
-607,Continuous Delivery (CD)
-608,Continuous Integration (CI)
-609,Cordova
-610,CouchDB
-611,CPLEX
-612,Cray Supercomputer
-613,CSS Animation
-614,CSS Code
-615,CSS Framework
-616,CVS
-617,CVSNT
-618,Cybernetics
-619,D
-620,Data Capture
-621,Data Display Debugger
-622,Data Encoding
-623,Data Management
-624,Data Manipulation Language
-625,Data Mapping
-626,Data Streaming
-627,Data Structure
-628,Data Structure Alignment
-629,Data Structured Language
-630,Database
-631,Database Administration
-632,Database Application
-633,Database Design
-634,Database Development
-635,Database Management System
-636,Database System
-637,Dataframe
-638,Debian Bug Tracking System
-639,Debugger
-640,Debugging
-641,DEC Minicomputer
-642,Delphi
-643,Dependability
-644,Desktop Virtualization
-645,Development Tools
-646,Developmental Robotics
-647,DevOps
-648,DevOps Automation Tool
-649,Dictionary
-650,Disciplined Agile Delivery (DAD)
-651,Disk Array
-652,Distributed Computing
-653,Distributed Database
-654,Distributed Database Management System (DDBMS)
-655,Distributed Relational Database Architecture
-656,Distributed System
-657,Docker
-658,Doctrine Query Language (DQL)
-659,Document-oriented Database
-660,Document-oriented Database Management System
-661,Dylan
-662,Dynamic Systems Development Method (DSDM)
-663,Eclipse
-664,ECMAScript
-665,Editor
-666,Eiffel
-667,Elastic (ELK) Stack
-668,Elasticsearch
-669,Electronic Design Automation
-670,Embedded C++
-671,Embedded System
-672,Emulator High-Level Language Application Program Interface (EHLLAPI)
-673,Encoding
-674,Energy Consumption
-675,Enthought Canopy
-676,Entity Relationship Diagram (ERD)
-677,Entrop Encoding
-678,Epigenetic Robotics
-679,Erlang
-680,Event Listener
-681,Event Processor
-682,Evolutionary Robotics
-683,Experimental Software Engineering
-684,Extensible Application Markup Language
-685,Extensible HyperText Markup Language (XHTML)
-686,Extensible Markup Language (XML)
-687,Extensible Stylesheet Language (XSL)
-688,Extensible Stylesheet Language Transformations (XSLT)
-689,Extract Transform Load (ETL)
-690,Extreme Programming
-691,Extreme Programming (XP)
-692,F#
-693,Feature-Driven Development (FDD)
-694,Final Builder
-695,Flow Control Statement
-696,Flowchart
-697,Formal Method
-698,Formal Semantic
-699,Forth
-700,Fortran
-701,FourGen Computer-Aided Software Engineering (CASE) Tools
-702,Front End
-703,Full Stack Software Engineering
-704,Functional Decomposition
-705,Gate Array
-706,Geometric Algorithm
-707,GIAC Web Application Security
-708,Git
-709,Github
-710,GitLab
-711,GNU Arch
-712,GNU Bazaar
-713,GNU Cflow
-714,GNU Debugger
-715,Golang (Go)
-716,Google OR-Tools
-717,Gradle
-718,Graph Algorithm
-719,Graph Database
-720,Graph Database Management System
-721,Graphical User Interface (GUI)
-722,Graphics Processing Unit (GPU)
-723,Groovy
-724,GUI Design
-725,Gurobi
-726,Hadoop
-727,Hadoop Distributed File System (HDFS)
-728,Hadoop MapReduce
-729,Hardware
-730,Hardware Acceleration
-731,Hardware Virtualization
-732,Hash Table
-733,Haskell
-734,HBase
-735,Hibernate Query Language
-736,Hierachical Database
-737,Hive
-738,Homebrew
-739,HTML Abstraction Markup Language
-740,Hue
-741,Human Machine Interface
-742,Human-Computer Interaction
-743,Human-Computer Interaction (HCI)
-744,HyperText Markup Language (HTML)
-745,IBM Configuration Management Version Control
-746,IBM DB2
-747,IBM Mainframe
-748,IIS Debugging
-749,Image Compression
-750,Image Manipulation
-751,Image Processing
-752,Imagine
-753,Implementation
-754,Incremental Build Model
-755,InfiniteGraph
-756,InfoGrid
-757,Information Visualization
-758,Infrastructure as Code (IaS)
-759,Integrated Circuit
-760,Integrated Database Application Program Interface (IDAPI)
-761,Integrated Design and Engineering Analysis Software (I-DEAS)
-762,Integrated Development Environment (IDE)
-763,Interaction Design
-764,Internet Server Application Programming Interface
-765,Interpreter
-766,iOS
-767,IPython
-768,ISO 15504
-769,ISO 9000
-770,ISO 9001
-771,ISO/IEC 12207
-772,ISO/IEC 24744
-773,Iterative and Incremental Development (IID)
-774,Ivy
-775,Java
-776,Java Persistence Query Language
-777,Java Programming Language Compiler (Javac)
-778,Java Stored Procedure
-779,Java Syntax
-780,Java Virtual Machine (JVM)
-781,JavaScript
-782,JavaScript Library
-783,JavaScript Style Sheet
-784,Jenkins
-785,Jira
-786,jQuery
-787,Julia
-788,Jupyter
-789,Jupyter Notebook
-790,JupyterLab
-791,Kafka
-792,Kanban
-793,Kernel Debugger
-794,Kernel-Based Virtual Machine
-795,Key-value Database
-796,Key-value Database Management System
-797,Keyhole Markup Language
-798,Kibana
-799,Knowledge Engineering
-800,Kosmos Distributed File System (KFS)
-801,Kotlin
-802,Laravel
-803,Lasso
-804,LaTeX
-805,Lean Software Development
-806,LeSS
-807,LibreSource Synchronizer
-808,Linked List
-809,Linker
-810,Linux
-811,Lisp
-812,List
-813,Loader
-814,Logstash
-815,macOS
-816,Mail Sorter
-817,Make
-818,Mapping
-819,MariaDB
-820,Markup Language
-821,Mastercam
-822,Maven
-823,Maya
-824,Mercurial
-825,Messaging Application Programming Interface
-826,Meta Language (ML)
-827,Microsft SQL Server Data Engine (MSDE)
-828,Microsoft .NET
-829,Microsoft Azure SQL Database
-830,Microsoft Foundation Class Library
-831,Microsoft Hyper-V
-832,Microsoft Java Virtual Machines
-833,Microsoft Soluitions Framework (MSF)
-834,Microsoft SQL Server
-835,Microsoft SQL Servers
-836,Microsoft Visual Studio Debugger
-837,Middleware
-838,Middleware and Integration Software
-839,MISRA C
-840,Missing Data
-841,Mixed Reality
-842,ML
-843,Mobile Development
-844,Model-Driven Engineering (MDE)
-845,Model-Driven Software Engineering
-846,Modelling
-847,Modelling Language
-848,MODO
-849,Molecular Query Language
-850,MongoDB
-851,MongoDB Atlas
-852,MongoDB Community Server
-853,MongoDB Enterprise Server
-854,Motion Graphic Design
-855,MS SQL Server
-856,Multi-model Database Management System
-857,Multiprocessing
-858,Multithreading
-859,MySQL
-860,MySQL Workbench
-861,MySQL++
-862,Nant
-863,NetBeans
-864,Netscape Server Application Programming Interface
-865,Nice
-866,Node.js
-867,NoSQL
-868,NP Completeness
-869,NuGet
-870,Numerical Analysis
-871,NumPy
-872,Object Database
-873,Object Oriented CSS
-874,Object-Oriented Database
-875,Object-Oriented Database Management System
-876,Object-Oriented Design
-877,Object-Oriented Programming (OOP)
-878,Object-Relational Database
-879,Object-Relational Mapping (ORM)
-880,Objective-C
-881,Ocaml
-882,OneFS Distributed File System
-883,Onshape
-884,Open Unified Process (OpenUP)
-885,Operating System
-886,Operational Databases
-887,Optical Sorting
-888,Oracle
-889,Oracle Databases
-890,Oracle Developer Studio
-891,Oracle Netsuite
-892,Oracle NoSQL Database
-893,Oracle SQL Developer
-894,Oracle Virtual Machine
-895,Orcale VM VirtualBox
-896,Package Manager
-897,Palm PDA
-898,Pandas
-899,Parallel Computing
-900,Parallel Programming
-901,Parallel System
-902,Parallel Virtual Machine
-903,Parser
-904,Parser Creation Tool
-905,Pascal
-906,Payment Processing
-907,Performance Application Programming Interface
-908,Peripheral
-909,Perl
-910,Permutation
-911,Persistent Data Structure
-912,Personal Software Process (PSP)
-913,Phalcon
-914,PHP
-915,PHP Development
-916,PHP Framework
-917,PHP Syntax and Semantics
-918,PHPMyAdmin
-919,Pig
-920,pip
-921,PL
-922,PL/SQL
-923,Platform
-924,Polytron Version Control System (PVCS)
-925,Post-Processing
-926,PostgreSQL
-927,Powershell
-928,Printed Circuit Board
-929,Priority Queue
-930,Process and Methodology
-931,Profiler
-932,Profiling
-933,Programming Language
-934,Programming Language Pragmatic
-935,Programming Language Theory
-936,Programming Model
-937,Programming Paradigm
-938,Programming Tool
-939,Prolog
-940,Pseudocode
-941,PyCharm
-942,PyDev
-943,PyPI
-944,PyPM
-945,Python
-946,QEMU
-947,Quantum Computing Theory
-948,Query Language
-949,Quma Version Control System (QVCS)
-950,QVCS
-951,R
-952,R Shiny
-953,Rake
-954,Random Forest Algorithm
-955,Rapid Application Development
-956,Rapid-Application Building (RAB)
-957,Rapid-Application Development (RAD)
-958,Rational Unified Process (RUP)
-959,RCS
-960,React
-961,React Native
-962,Real-time Computing
-963,Redux
-964,Relational Database
-965,Relational Database Management System (RDSMS)
-966,Release Automation
-967,Release Engineering
-968,Remote Debugging
-969,Rendering
-970,Repetition
-971,Representational state transfer (REST)
-972,Responsive Design Principle
-973,Responsive Web Design
-974,RESTful API
-975,Reverse Engineering
-976,Revision Control
-977,Rhino
-978,Riak
-979,Robot
-980,RStudio
-981,Ruby
-982,Ruby on Rails
-983,RubyGems
-984,Rule-Based Programming
-985,Rust
-986,Salesforce Object Query Language (SOQL)
-987,SAP
-988,Scala
-989,Scaled Agile Framework (SAFe)
-990,Scheme
-991,Scientific Computing
-992,SciPy
-993,Script Debugger
-994,Scripting Language
-995,Scrum
-996,Scrum Methodology
-997,Search Algorithm
-998,Searching
-999,Security Assertion Markup Language (SAML)
-1000,Sed
-1001,Selection
-1002,SEMAT
-1003,Sequence
-1004,Service Provisioning Markup Language
-1005,Shell
-1006,Simula
-1007,Simultaneous Localization And Mapping (SLAM) Algorithm
-1008,SketchUp
-1009,Smaltalk
-1010,Social Computing
-1011,Software Application
-1012,Software Architecture
-1013,Software as a Service (SaaS)
-1014,Software Construction
-1015,Software Deployment
-1016,Software Design
-1017,Software Development
-1018,Software Development Kit (SDK)
-1019,Software Development Life Cycle (SDLC)
-1020,Software Documentation
-1021,Software Engineering
-1022,Software Interface
-1023,Software Maintenance
-1024,Software Management
-1025,Software Organization
-1026,Software Package
-1027,Software Process
-1028,Software Prototyping
-1029,Software Quality Assurance (SQA)
-1030,Software Requirement
-1031,Software Stack
-1032,Software System
-1033,Software Testing
-1034,Software Tool
-1035,Solaris
-1036,Solid Modelling
-1037,Sort-Merge
-1038,Sorting
-1039,Sorting Algorithm
-1040,SortSite
-1041,Source Code Management
-1042,Source Control
-1043,SourceGear Vault
-1044,Spark
-1045,Spark Streaming
-1046,Special Effects
-1047,SPEM
-1048,Spiral Model
-1049,Sprite
-1050,Spyder
-1051,SQL Server Integration Services
-1052,SQL Server Reporting Services
-1053,SQLite
-1054,Stable Marriage Problem
-1055,Standard Generalized Markup Language
-1056,Standard Markup Language
-1057,Static Code Analysis Tool
-1058,Structured Programming
-1059,Structured Query Language (SQL)
-1060,Structured Query Language Procedural Language (SQL PL)
-1061,Structured Storage
-1062,Style Sheet Language
-1063,Subversion
-1064,Sun Microsystems Solaris
-1065,Swift
-1066,Sybase
-1067,Symbian OS
-1068,Symbolic Computation
-1069,System Center Virtual Machine Management
-1070,Systems on Chip (SoCs)
-1071,T-SQL
-1072,Tabular Database
-1073,TC Shell
-1074,Tcl
-1075,Team Foundation Server
-1076,Team Software Process (TSP)
-1077,Technical Documentation
-1078,Telephony Application Programming Interface
-1079,Teletraffic Engineering
-1080,Teradata
-1081,Teradata SQL
-1082,Terraform
-1083,Testing
-1084,Text Editor
-1085,Theoretical Computer Science
-1086,Theory of Computation
-1087,Tidyverse
-1088,Tomcat
-1089,Transact-SQL
-1090,Treatment Algorithm
-1091,Tree
-1092,Tree Algorithm
-1093,Type Theory
-1094,Ubiquitous Computing
-1095,Ubuntu
-1096,UI Design
-1097,Unified Process (UP)
-1098,Unix
-1099,Unix Command
-1100,Unix Security
-1101,Unix Shell
-1102,Unix Tool
-1103,Unix Utility
-1104,Usability Engineering
-1105,User Interface (UI)
-1106,User Interface Design
-1107,V-Model
-1108,Variable
-1109,VBScript
-1110,vcpkg
-1111,Verilog
-1112,Version Control
-1113,Version Control Software
-1114,Version Control System
-1115,Very Large Scale Integratoin
-1116,VHDL
-1117,Video Encoding
-1118,Vim
-1119,Virtual Machine
-1120,Virtual Machine Interface
-1121,Virtual Machine Manager
-1122,Virtual Reality (VR)
-1123,Virtualization
-1124,Visual Basic
-1125,Visual Basic .NET
-1126,Visual Basic For Applications
-1127,Visual Build Pro
-1128,Visual C++
-1129,Visual Studio
-1130,Visual Studio Code
-1131,Visual Studio Community
-1132,Visual Studio Team Services
-1133,Visualization
-1134,Vmware
-1135,vSphere
-1136,Waterfall Model
-1137,Web Analytics
-1138,Web Application
-1139,Web Application Attack and Audit Framework
-1140,Web Application Description Language (WADL)
-1141,Web Application Development
-1142,Web Application Framework
-1143,Web Architecture
-1144,Web Design
-1145,Web Development
-1146,Web Development Framework
-1147,Web Framework
-1148,Web Navigation
-1149,Web Property
-1150,Windows
-1151,Xcode
-1152,XEN
-1153,XML Database
-1154,Yacc
-1155,Yii
-1156,3D Segmentation
-1157,Adobe Analytics
-1158,Adversarial Machine Learning
-1159,Agglomerative Clustering
-1160,Alteryx
-1161,Analysis of Covariance
-1162,Analysis of Variance (ANOVA)
-1163,Analytical Chemistry
-1164,Analytical Thinking
-1165,Anomaly Detection
-1166,Applicant Tracking System
-1167,Area Map
-1168,Artificial Intelligence (AI)
-1169,Artificial Neural Network (ANN)
-1170,ATLAS.ti
-1171,Augmented Reality (AR)
-1172,Autocorrelation (ACF)
-1173,Autoencoder
-1174,Automated Essay Scoring (AES)
-1175,Automated Machine Learning
-1176,Automated Reasoning
-1177,Automatic Identification
-1178,Automatic Number Plate Recognition
-1179,Automatic Summarization
-1180,Autonomous Vehicle
-1181,Autoregressive (AR) Model
-1182,Autoregressive Integrated Moving Average (ARIMA) Model
-1183,Autoregressive-Moving-Average (ARMA) Model
-1184,Azure Machine Learning
-1185,Bag-of-words
-1186,Bagging
-1187,Balanced Iterative Reducing and Clustering using Hierarchies (BIRCH)
-1188,Bar Chart
-1189,Bayes Network
-1190,Bayesian Estimator
-1191,Bayesian Inference
-1192,Bayesian Modelling
-1193,Bayesian Networks
-1194,Bayesian Probability
-1195,Bayesian Regression
-1196,Bayesian Statistics
-1197,Bernoulli Regression
-1198,Big Data
-1199,Big Data Analysis
-1200,Big Data Tool
-1201,BigML
-1202,Bigram
-1203,Binomial Regression
-1204,Bioinformatics
-1205,Bioinformatics Analysis
-1206,Boosting
-1207,Box Plot
-1208,Bubble Chart
-1209,Bug Tracking System
-1210,Burn Down Chart
-1211,Business Intelligence (BI)
-1212,Business Intelligence Development
-1213,Business Intelligence Development Studio
-1214,Business Intelligence Testing
-1215,Business Intelligence Tool
-1216,Caffe
-1217,Canonical-Correlation Analysis (CCA)
-1218,CatBoost
-1219,CATS Applicant Tracking System
-1220,Central Limit Theorem
-1221,Chart Abstraction
-1222,Chart.js
-1223,Chatbot
-1224,Chatterbot
-1225,Classification
-1226,Classification and Regression Tree
-1227,CloudFormation
-1228,Cluster Analysis
-1229,Cluster-computing Framework
-1230,Clustering
-1231,Clustering Using Representatives (CURE)
-1232,Collocation Extraction
-1233,Compound Term Processing
-1234,Computer Audition
-1235,Computer Vision
-1236,Computer-Assisted Reviewing
-1237,Computer-Assisted Translation (CAT)
-1238,Concept Mining
-1239,Concordancer
-1240,Conditional Random Field (CRF)
-1241,Conditional Random Fields
-1242,Confidence Intervals
-1243,Content-Based Image Retrieval
-1244,Control Chart
-1245,Convolutional Neural Network (CNN)
-1246,Convolutional Neural Network (ConvNet)
-1247,Copula
-1248,Core Architecture Data Model
-1249,Coreference Resolution
-1250,Correlation
-1251,Covariance
-1252,Cross Validation
-1253,Cross-validation
-1254,D3.js
-1255,Dash
-1256,Dashboard
-1257,Data
-1258,Data Acquisition
-1259,Data Analysis
-1260,Data Analysis And Display (DADiSP)
-1261,Data Analytics
-1262,Data Architecture
-1263,Data Cleansing
-1264,Data Engineering
-1265,Data Language
-1266,Data Manipulation
-1267,Data Mining
-1268,Data Mining Query Language (DMQL)
-1269,Data Modelling
-1270,Data Pipeline
-1271,Data Preparation
-1272,Data Presentation
-1273,Data Reporting
-1274,Data Science Tool
-1275,Data Scraping
-1276,Data Sharing
-1277,Data Storytelling
-1278,Data Visualization
-1279,Data Wrangling
-1280,DataRobot
-1281,Dataset
-1282,Datawrapper
-1283,DBSCAN
-1284,Decision Tree
-1285,Decomposition of Time Series
-1286,Dedoose
-1287,Deep Learning
-1288,DeepDream
-1289,Degree of Freedom
-1290,Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
-1291,Descriptive Statistics
-1292,Digital Image Processing
-1293,Dimensionality Reduction
-1294,Distributed Social Networking Protocols
-1295,Divisive Clustering
-1296,E Charts
-1297,Echo State Network (ESN)
-1298,Educational Data Mining
-1299,Efficient-Market Hypothesis
-1300,Ensemble
-1301,Ensemble Learning
-1302,Ensemble Method
-1303,Errors and Residuals
-1304,Erwin
-1305,Example-Based Machine Translation (EBMT)
-1306,Expectation-Maximization (EM)
-1307,Exploratory Analysis
-1308,Exploratory Data Analysis
-1309,Exponential Smoothing
-1310,F-test
-1311,Face Recognition
-1312,Facial Recognition
-1313,Factor Analysis
-1314,Feature Detection
-1315,Feature Engineering
-1316,Feature Extraction
-1317,Feature Labs
-1318,Feature Selection
-1319,Feed Forward Neural Network
-1320,Feedback Neural Network (FNN)
-1321,Financial Data Analysis
-1322,Financial Data Storytelling
-1323,Financial Modelling
-1324,Flow Process Chart
-1325,Frequentist Inference
-1326,FusionCharts
-1327,Gantt Chart
-1328,Gated Recurrent Unit (GRU)
-1329,Gaussian Process
-1330,General Linear Model
-1331,Generalized Linear Model
-1332,Generative Adversarial Network (GAN)
-1333,Genetic Programming
-1334,Geographic Information System (GIS)
-1335,ggplot2
-1336,Goal Tracking System
-1337,Google Analytics
-1338,Grammar Checker
-1339,Granger Causality
-1340,Graph Transformer Networks
-1341,Graphical Model
-1342,Ground Truth Acquisition
-1343,H2O
-1344,Handwriting Recognition
-1345,Heat Map
-1346,Hidden Markov Model (HMM)
-1347,Hidden Markov Models
-1348,Hierarchical Clustering
-1349,HighCharts
-1350,Histogram
-1351,Hyperparameter Optimization
-1352,Hypothesis Testing
-1353,IBM Cognos Business Intelligence
-1354,Image Retrieval
-1355,Image Search
-1356,Image Segmentation
-1357,Image Sensor Technology
-1358,Imitation Learning
-1359,Impact Metric
-1360,IMR
-1361,Incremental Learning
-1362,Independent Component Analysis (ICA)
-1363,Inductive Logic Programming (ILP)
-1364,Inductive Machine Learning
-1365,Inference
-1366,Inferential Statistics
-1367,Informal Retrieval
-1368,Intelligent Word Recognition
-1369,Interactive Fiction
-1370,Interpretational AI
-1371,Interval Estimation
-1372,Isotonic Regression
-1373,Issue Tracking System
-1374,Java Data Mining
-1375,Joint Consultation Command And Control Information Exchange Data Model (JC3IEDM)
-1376,k-means Clustering
-1377,k-Nearest Neighbour (kNN)
-1378,K-Nearest Neighbours Algorithm
-1379,Keras
-1380,Kernel-based Principal Component Analysis (KPCA)
-1381,Knime
-1382,Kurtosis
-1383,Language Identification
-1384,LASSO Regression
-1385,Latent Dirichlet Allocation (LDA)
-1386,Latent Semantic Analysis
-1387,Learning to Learn
-1388,Lemmatization
-1389,Line Chart
-1390,Linear Discriminant Analysis (LDA)
-1391,Linear Regression
-1392,Log-Normal Distribution
-1393,Logical Data Models
-1394,Logistic Regression
-1395,Long Short-Term Memory (LSTM)
-1396,Lua
-1397,Luceo
-1398,Lumen Data
-1399,Machine Learning
-1400,Machine Learning Algorithm
-1401,Machine Translation
-1402,MapR
-1403,MapReduce
-1404,Marketing Analytics
-1405,Matplotlib
-1406,Maximum Entropy Markov Models
-1407,Mean Shift
-1408,Measure of Central Tendency
-1409,Measure of Dispersion
-1410,Measure of Variability
-1411,Microsoft Business Intelligence
-1412,Microsoft Cognitive Toolkit (CNTK)
-1413,Microsoft Power BI
-1414,Microsoft Visio
-1415,MLBase
-1416,MLFlow
-1417,Model Based Reinforcement Learning
-1418,Model Evaluation
-1419,Model Selection
-1420,Model Validation
-1421,Motion Analysis
-1422,Movement Tracking System
-1423,Moving Average
-1424,Multi-document Summarization
-1425,Multi-task Learning
-1426,Multilayer Perceptron
-1427,Multiple Linear Regression
-1428,Multivariate Analysis of Variance
-1429,Multivariate Linear Regression
-1430,n-gram
-1431,Naïve Bayes
-1432,Named-Entity Recognition
-1433,Natural Language Generation
-1434,Natural Language Processing (NLP)
-1435,Natural Language Processing System
-1436,Natural Language Processing Toolkit (NLTK)
-1437,Natural Language Programming
-1438,Natural Language Toolkit
-1439,Natural Language Understanding
-1440,Natural Language User Interface
-1441,Negative Binomial Distribution
-1442,Network Analysis
-1443,Network Analysis Module
-1444,Neural Machine Translation (NMT)
-1445,Neural Network
-1446,Noise Reduction
-1447,Non-negative Matrix Factorization (NMF)
-1448,Nonlinear Dimensionality Reduction
-1449,Nonlinear Regression
-1450,Normal Distribution
-1451,Noticing Hypothesis
-1452,Object Detection
-1453,Object Recognition
-1454,Object-Oriented Data Model For Database Modelling
-1455,Onthology Learning
-1456,OpenCV
-1457,Optical Character Recognition
-1458,Optical Mark Recognition
-1459,Oracle Business Intelligence Enterprise Edition
-1460,Ordering Points To Identify the Clustering Structure (OPTICS)
-1461,Ordinary Least Squares
-1462,Organizational Chart
-1463,Outliers
-1464,Overfitting
-1465,Pachinko Allocation
-1466,Parallel Ensemble Method
-1467,Parametric Test
-1468,Parsec
-1469,Parseint
-1470,Parser Generators
-1471,Parsing
-1472,Part-of-speech (POS) Tagging
-1473,Partial Autocorrelation (PACF)
-1474,Pattern Recognition
-1475,Paxata
-1476,Perceptron
-1477,Pie Chart
-1478,Platt Calibration
-1479,Plotly
-1480,Point Estimation
-1481,Poisson Distribution
-1482,Poisson Regression
-1483,Polynomial Regression
-1484,Population
-1485,Predictive Analytics
-1486,Predictive Modelling
-1487,Predictive Text
-1488,Principal Component Analysis (PCA)
-1489,Probabilistic Network
-1490,Probability
-1491,Probability Distribution
-1492,Probability Theory
-1493,Probably Approximately Correct (PAC) Learning
-1494,Project Chart
-1495,Proper Generalized Decomposition (PGD)
-1496,PySpark
-1497,PyTorch
-1498,Q-learning
-1499,Qlik
-1500,Qlik Sense
-1501,QlikView
-1502,Qualitative Data Analysis
-1503,Quantitative Data Analysis
-1504,Qubole
-1505,Query Type
-1506,Question Answering
-1507,Random Forest
-1508,Random Testing
-1509,Random Variable
-1510,RapidMiner
-1511,Recurrent Neural Network (RNN)
-1512,Recurrent Sliding Windows
-1513,Regression
-1514,Regression Analysis
-1515,Regression Modelling
-1516,Regression Testing
-1517,Regression Validation
-1518,Regular Expressions
-1519,Reinforcement Learning
-1520,Relational Data Mining
-1521,Relevance Vector Machine (RVM)
-1522,Remote Sensing
-1523,Restricted Boltzmann Machine (RBM)
-1524,Ridge Regression
-1525,Robotics
-1526,Rule-based Machine Translation
-1527,Sampling
-1528,Sampling Distribution
-1529,SAP HANA
-1530,SAS
-1531,SAS Statistical Analysis
-1532,SAS Text Miner
-1533,Scatter Plot
-1534,Scikit-learn
-1535,Scoring Metric
-1536,Seaborn
-1537,Self-Organizing Feature Map (SOFM)
-1538,Self-Organizing Map (SOM)
-1539,Semantic Analysis
-1540,Semantic Parsing
-1541,Semantic Search
-1542,Semantic Similarity
-1543,Semantic Technology
-1544,Semantic Translation
-1545,Semi-supervised Learning
-1546,Semi-supervised Machine Learning
-1547,Sentence Extraction
-1548,Sentence Segmentation
-1549,Sentiment Analysis
-1550,Sequence Generation
-1551,Sequence Learning Process
-1552,Sequence Prediction
-1553,Sequence Recognition
-1554,Sequential Decision
-1555,Sequential Ensemble Method
-1556,Sequential Learning
-1557,Sequential Prediction Problem
-1558,Sequential Probability Ratios Testing
-1559,Sequential Supervised Learning
-1560,Shift Invariant Artificial Neural Network (SIANN)
-1561,Signal Processing
-1562,Significance Test
-1563,Simple Linear Regression
-1564,Sisense
-1565,Skewness
-1566,Sliding-window Methods
-1567,Social Networking Tool
-1568,Soft Computing
-1569,Space Invariant Artificial Neural Network (SIANN)
-1570,Speaker Recognition
-1571,Spectral Analysis
-1572,Spectral Clustering
-1573,Speech Processing
-1574,Speech Recognition
-1575,Speech Segmentation
-1576,Speech Synthesis
-1577,Spell Checker
-1578,SPSS
-1579,Stacked Bar Chart
-1580,STATA
-1581,State-Action-Reward-State-Action (SARSA)
-1582,Statistical AI
-1583,Statistical Analysis
-1584,Statistical Hypothesis Testing
-1585,Statistical Model
-1586,Statistical Modelling
-1587,Statistical Semantic
-1588,Statistical Theory
-1589,Statistics
-1590,Stemming
-1591,Stochastic Process
-1592,Stopwords
-1593,Structured Prediction
-1594,Student's t-test
-1595,Supervised Learning
-1596,Supervised Machine Learning
-1597,Support Vector Machine (SVM)
-1598,Survey Data Analysis
-1599,Symbolic AI
-1600,Syntax Guessing
-1601,t-distributed Stochastic Neighbour Embedding (t-SNE)
-1602,Tableau
-1603,Temporal Difference (TD) Learning
-1604,TensorFlow
-1605,Terminology Extraction
-1606,Testing Hypothesis
-1607,Text Analysis
-1608,Text Chunking
-1609,Text Mining
-1610,Text Parsing
-1611,Text Recognition
-1612,Text Segmentation
-1613,Text Simplification
-1614,Textual Entailment
-1615,Theano
-1616,Time Series
-1617,Time Series Analysis
-1618,Time Series Forecasting
-1619,Time Series Model
-1620,Toad Data Modeler
-1621,Topic Model
-1622,Topic Modelling
-1623,Torch
-1624,Tracking System
-1625,Transformer
-1626,Transfuction
-1627,Trend Estimation
-1628,Trifacta
-1629,Trigram
-1630,Truecasing
-1631,U-Net
-1632,Uniform Distribution
-1633,Univariate Analysis
-1634,Unsupervised Learning
-1635,Unsupervised Machine Learning
-1636,Variance Analysis
-1637,Vector Autoregression (VAR)
-1638,Vehicle Tracking System
-1639,Virtual Assistant
-1640,Virtual Intelligence
-1641,Virtual Reality
-1642,Voice User Interface
-1643,Web Scraping
-1644,Weka
-1645,Word Segmentation
-1646,Word-sense Disambiguation
-1647,Xenographic
-1648,Yammer
-1649,Z-test
-1650,360 Secure Browser
-1651,Abiquo Enterprise Edition
-1652,Access Control
-1653,Access Control Facility
-1654,Access Control List
-1655,Access Control System
-1656,Advanced Encryption Standard (AES)
-1657,Advanced Persistent Threat (APT)
-1658,Alibaba Cloud
-1659,Amazon Silk
-1660,Amazon Web Service (AWS)
-1661,Anonymity Network
-1662,Antivirus Software
-1663,Apache Hypertext Transfer Protocol Server
-1664,Application Layer
-1665,Application Level Multicast Infrastructure (ALMI)
-1666,Application Security
-1667,AppScale
-1668,Atlassian
-1669,Authentication
-1670,Authentication Authorization And Accounting (AAA) Server
-1671,Authentication Protocol
-1672,Authentication Server
-1673,Automatic Private IP Addressing (APIPA)
-1674,Automation
-1675,Automative Security
-1676,Avant Browser
-1677,Avast Secure Browser
-1678,Azure
-1679,Azure Kubernetes Service
-1680,Backdoor
-1681,Basic Access Authentication
-1682,Basilisk
-1683,Beaker
-1684,Berkeley Socket
-1685,Biometric Spoofing
-1686,BitLocker Drive Encryption
-1687,Blink
-1688,Blink-based Web Brower
-1689,Blisk
-1690,Block Cipher
-1691,Blockchain
-1692,Bluemix
-1693,Border Gateway Protocol (BGP)
-1694,Box
-1695,Brave
-1696,Browser Engine
-1697,Cake Browser
-1698,Centralized Storage System
-1699,Cerfified Ethical Hacker
-1700,Certified Information Systems Security Professional (CISSP)
-1701,Chef
-1702,Chromium
-1703,Cipher
-1704,Ciphertext
-1705,Cisco Certified Network Associate (CCNA)
-1706,Cisco Router
-1707,Cloud API
-1708,Cloud Application
-1709,Cloud Computing
-1710,Cloud Computing Architecture
-1711,Cloud Computing Security
-1712,Cloud Foundry
-1713,Cloud Platform
-1714,Cloud Service
-1715,Cloud Storage
-1716,Cloud Technology
-1717,CloudBolt
-1718,Cloudera
-1719,Cloudera Impala
-1720,Cloudera Manager
-1721,CloudStack
-1722,CM Browser
-1723,Coc Coc Browser
-1724,Cocaine
-1725,Coherent Remote File System (CRFS)
-1726,Common Vulnerabilities and Exposures (CVE)
-1727,Common Vulnerability Scoring System (CVSS)
-1728,Common Weakness Enumeration (CWE)
-1729,Comodo Dragon
-1730,Comodo IceDragon
-1731,CompTIA Security
-1732,Computer Access Control
-1733,Computer Crime
-1734,Computer Fraud
-1735,Computer Security
-1736,Computer Simulation
-1737,Computer Virus
-1738,Computer Worm
-1739,Computing Platform
-1740,Computing Technology
-1741,Confluence
-1742,Conkeror
-1743,Connectionless-Mode Network Service
-1744,Consumer Privacy
-1745,Cookies
-1746,Counter Mode Cipher Block Chaining Message Authentication Code Protocol (CCMP)
-1747,CPU Socket
-1748,Creatio
-1749,Critix Cloud
-1750,Cryptocurrency
-1751,Cryptographic Hash Function
-1752,Cryptographic Protocol
-1753,Cryptographic Pseudorandom Number Generator (CPRNG)
-1754,Cryptographically Secure Pseudorandom Number Generator (CSPRNG)
-1755,Cryptography
-1756,CtrlS
-1757,Cybercrime
-1758,Cybersecurity
-1759,Cybersex Trafficking
-1760,Cyberwarfare
-1761,Data Encryption Standard
-1762,Data Link Layer
-1763,Data Privacy
-1764,Data Privacy Law
-1765,Data Security
-1766,Data Transmission
-1767,Data Transmission Network
-1768,Data-centric Security
-1769,Database Encryption
-1770,Dataflow
-1771,Dataflow Architecture
-1772,Decision Support System
-1773,Denial-of-service (DoS)
-1774,Deterministic Random Bit Generator (DRBG)
-1775,Diffie-Hellman Key Exchange
-1776,Digital Library
-1777,Digital Marketing System
-1778,Digital Storage Systems Interconnect
-1779,DigitalOcean
-1780,Direct-access Attack
-1781,Discrete Logarithm
-1782,Distance Vector Multicast Routing Protocol
-1783,Distance-Vector Routing Protocol
-1784,Distributed Denial-of-service (DDoS)
-1785,Distributed File System
-1786,Distributed System Security Architecture
-1787,DNS Security Extension
-1788,DNS Server
-1789,Dolphin Browser
-1790,Domain Name System (DNS)
-1791,Dooble
-1792,Dropbox
-1793,Dynamic DNS
-1794,Dynamic Host Configuration Protocol (DHCP)
-1795,Eavesdropping
-1796,Elastic Load Balancer
-1797,Electrical Socket
-1798,Electronic Access Control
-1799,Electronic Filing System
-1800,Electronic Key Management System
-1801,Elliptic Curve Cryptography
-1802,Emacs Web Wowser (eww)
-1803,Email Spoofing
-1804,EMC Atmos
-1805,EMC Cloud Computing
-1806,Encrypted Key Exchange
-1807,Encrypting File System
-1808,Encryption
-1809,Encryption Software
-1810,Engine Yard
-1811,Enhanced Interior Gateway Routing Protocol
-1812,Enterprise Information System
-1813,Epic
-1814,Ethernet
-1815,Ethernet Local Area Network
-1816,Ethernet Over Twisted Pair
-1817,Ethernet Physical Layer
-1818,Ethernet VPN (EVPN)
-1819,Eucalyptus
-1820,Exploit
-1821,Extensible Authentication Protocol
-1822,Falkon
-1823,Fast Ethernet
-1824,Fibre Channel Over Ethernet
-1825,File Format
-1826,File System
-1827,File System Permission
-1828,File Transfer Protocol (FTP)
-1829,Filesystem-Level Encryption
-1830,Financial Privacy
-1831,Firewall
-1832,Force.com
-1833,Fujitsu
-1834,Gateway Load Balancing Protocol
-1835,GE Predix
-1836,Gecko
-1837,Gecko-based Web Browser
-1838,General Parallel File System
-1839,Geographic Information System
-1840,Gigabit Ethernet
-1841,Global Server Load Balancing
-1842,GNOME Web
-1843,GNU IceCat
-1844,GoGrid
-1845,Google App Engine
-1846,Google Chart API
-1847,Google Chrome
-1848,Google Cloud Platform (GCP)
-1849,Google Drive
-1850,Google Kubernetes Engine (GKE)
-1851,Google Services
-1852,Google Workspace
-1853,GreenButton
-1854,GreenQloud
-1855,Hadoop Common
-1856,Hadoop Ozone
-1857,Hadoop YARN
-1858,Hardware Random-Number Generator (HRNG)
-1859,Hardware Security
-1860,Helion
-1861,Heroku
-1862,High Assurance Internet Protocols Encryptor
-1863,Hortonworks Sandbox
-1864,Hot Standby Router Protocol
-1865,HP Cloud
-1866,HTTP Live Streaming
-1867,HTTP Method
-1868,Hyper-V
-1869,Hypertext Transfer Protocol (HTTP)
-1870,Hypertext Transfer Protocol Secure (HTTPS)
-1871,IBM Cloud
-1872,IBM Cloud Computing
-1873,IBM Disk Storage System
-1874,IBM Resource Access Control Facility
-1875,IBM XIV Storage System
-1876,iCab
-1877,iland
-1878,Informatics
-1879,Information and Communications Technology (ICT)
-1880,Information Management
-1881,Information Privacy
-1882,Information Retrieval
-1883,Information Security
-1884,Information Storage System
-1885,Information System
-1886,Information Systems Security
-1887,Information Systems Security Assessment Framework (ISSAF)
-1888,Information Threat
-1889,Infrastructure as a Service (IaaS)
-1890,Inktank
-1891,Integrated Service Router
-1892,Integrated Windows Authentication
-1893,Interior Gateway Routing Protocols
-1894,Internet
-1895,Internet Explorer
-1896,Internet Key Exchange
-1897,Internet Layer
-1898,Internet Message Access Protocol (IMAP)
-1899,Internet of Things (IoT)
-1900,Internet Protocl version 4 (IPv4)
-1901,Internet Protocl version 6 (IPv6)
-1902,Internet Protocol (IP)
-1903,Internet Protocol Suite
-1904,Internet Security
-1905,Internet Security Association And Key Management Protocol
-1906,Intrusion Detection System
-1907,IP Address
-1908,IP Address Blocking
-1909,IP Address Management
-1910,IP Address Spoofing
-1911,IP Addressing
-1912,IP Multicasting
-1913,IP Routing
-1914,Iplant Web Server
-1915,Isilon
-1916,IT Operations
-1917,Java Cryptography Architecture
-1918,Java Cryptography Extension
-1919,Java Secure Socket Extension
-1920,JavaScript Object Notation (JSON)
-1921,Jelastic
-1922,Journaling File System
-1923,Joyent
-1924,K-Meleon
-1925,Kerberos
-1926,Kernel-based Virtual Machine (KVM)
-1927,Key Management
-1928,Key Management Interoperability Protocol
-1929,Keylogger
-1930,Keystroke Logging
-1931,Konqueror
-1932,Kubernetes
-1933,LenelS2
-1934,libguestfs
-1935,libvirt
-1936,Lightweight Directory Access Protocol (LDAP)
-1937,Link Aggregation
-1938,Link Layer
-1939,Link Layer Discovery Protocol
-1940,Link Layer Topology Discovery
-1941,Link-State Routing Protocol
-1942,Links
-1943,Linode
-1944,Load Balancing
-1945,Logic Bomb
-1946,Lunacloud
-1947,Lunascape
-1948,Lynx
-1949,MAC Spoofing
-1950,Malware
-1951,Malware Analysis
-1952,Malware Detection
-1953,Malwarebytes' Anti-Malware
-1954,Maxthon
-1955,Media Access Control
-1956,Media Gateway Control Protocol (MGCP)
-1957,Medical Privacy
-1958,Medium Access Control
-1959,Mendix
-1960,Message Authentication Code (MAC)
-1961,Metro Ethernet
-1962,Microsoft Azure
-1963,Microsoft Edge
-1964,Microsoft Office 365
-1965,Microsoft OneDrive
-1966,Microsoft Personal Web Server
-1967,Midori
-1968,MindSphere
-1969,Mirantis
-1970,Mobile IP
-1971,Mobile Security
-1972,Mobile Security Gateway
-1973,Modular Multiplication-Based Block Cipher (MMB)
-1974,Monte Carlo Method
-1975,Mozilla Firefox
-1976,Multi-Factor Authentication
-1977,Multicast Address Allocation Server
-1978,Multicast Routing Protocol
-1979,Multicast Source Discovery Protocol
-1980,Multicasting
-1981,Multimedia Information System
-1982,Multitopology Routing Configuration
-1983,Navel Whale
-1984,NetFront Browser
-1985,Netlify
-1986,NetSurf
-1987,Network
-1988,Network Access Control
-1989,Network Architecture
-1990,Network Component
-1991,Network File System
-1992,Network Layer
-1993,Network Load Balancing
-1994,Network Load Balancing Service
-1995,Network Management
-1996,Network News Transfer Protocol (NNTP)
-1997,Network Performance Evaluation
-1998,Network Protocol
-1999,Network Routing
-2000,Network Scheduler
-2001,Network Security
-2002,Network Service
-2003,Network Socket
-2004,Network Time Protocol (NTP)
-2005,Network Topology
-2006,Network-Attached Storage System
-2007,Nimbula
-2008,Nimbus
-2009,NT File System (NTFS)
-2010,Offensive Security Certified Professional (OSCP)
-2011,On-Demand Multicast Routing Protocol (ODMRP)
-2012,Open Access Network (OAN)
-2013,Open Cloud Computing Interface
-2014,OpenIO
-2015,OpenNebula
-2016,openQRM
-2017,OpenShift
-2018,OpenStack
-2019,Opera
-2020,Operations
-2021,Optimized Link State Routing Protocol
-2022,Oracle Cloud
-2023,Oracle VirtualBox
-2024,Oracle VM
-2025,OrionVM
-2026,Otter Browser
-2027,OutSystems
-2028,Ovirt
-2029,Pale Moon
-2030,Password
-2031,Password Authentication Protocol
-2032,Password Cracking
-2033,Password Generator
-2034,Password Management
-2035,Password Policy
-2036,Password Safe
-2037,Password Synchronization
-2038,Password-Authenticated Key Agreement
-2039,Payload
-2040,Phising
-2041,Physical Security
-2042,PirateBrowser
-2043,Platform as a Service (PaaS)
-2044,Pluggable Authentication Module (PAM)
-2045,Post Office Protocol (POP)
-2046,Precision Time Protocol (PTP)
-2047,Pretty Good Privacy (PGP)
-2048,Privacy
-2049,Privacy Law
-2050,Privilege Escalation
-2051,Procedural Generation
-2052,Process Control System
-2053,Protocol
-2054,Protocol Independent Multicast
-2055,Pseudorandom Number Generator (PRNG)
-2056,Public Key Cryptography
-2057,Public Key Cryptography Standards (PKCS)
-2058,Public Key Infrastructure
-2059,Public-key Encryption
-2060,Puffin Browser
-2061,Puppet
-2062,PythonAnywhere
-2063,QQ Browser
-2064,Quantum Cryptography
-2065,qutebrowser
-2066,Rackspace
-2067,Rackspace Cloud
-2068,Random Number Generation (RNG)
-2069,Ransomware
-2070,Raw Socket
-2071,Red Hat
-2072,Remote Authentication Dial In User Service (RADIUS)
-2073,Right to Financial Privacy Act
-2074,RightScale
-2075,Rivest-Shamir-Adleman (RSA)
-2076,Role-Based Access Control (RBAC)
-2077,Rootkit
-2078,Route Management
-2079,Router
-2080,Routing Protocol
-2081,Runtime Application Self-protection
-2082,Safari
-2083,Safe Swiss Cloud
-2084,SalamWeb
-2085,Samsung Internet Browser
-2086,SAP Cloud Platform
-2087,Scalr
-2088,Screen Scraper
-2089,Scripting
-2090,SeaMonkey
-2091,Secure by Default
-2092,Secure by Design
-2093,Secure Coding
-2094,Secure Hash Algorithm
-2095,Secure Hypertext Transfer Protocol
-2096,Secure Password Authentication
-2097,Secure Remote Password Protocol
-2098,Secure Shell (SSH)
-2099,Secure Socket Layer (SSL)
-2100,Security
-2101,Security Exploit
-2102,Security Management
-2103,Security-focused Operating System
-2104,Sentry
-2105,Simple Password Exponential Key Exchange (SPEKE)
-2106,Simple Public Key Infrastructure
-2107,Sleipnir
-2108,SlimBrowser
-2109,Social Engineering
-2110,Social Information System
-2111,Social Security
-2112,Socket
-2113,Socket Programming
-2114,Socket.io
-2115,Socketserver
-2116,SoftLayer
-2117,Source-Specific Multicast
-2118,Spoofing
-2119,Sputnik
-2120,Spyware
-2121,SQL Injection
-2122,SRWare Iron
-2123,Steganography
-2124,Storage Management
-2125,Storage System
-2126,Stream Cipher
-2127,Stream Processing
-2128,Stream Restoration
-2129,Streaming
-2130,Subnet
-2131,Subnetwork
-2132,Substitution Cipher
-2133,Support
-2134,surf
-2135,Symmetric-key Encryption
-2136,System Administration
-2137,System Analysis
-2138,Tabular Data Stream
-2139,Tampering
-2140,Technical Support
-2141,Telecommunication
-2142,TenFourFox
-2143,Terminal Access Controller Access-Control System (TACACS)
-2144,Tor
-2145,Transmission Control Protocol (TCP)
-2146,Transport Layer
-2147,Transport Layer Security (TLS)
-2148,UC Browser
-2149,Uniform Resource Identifier (URI) Scheme
-2150,Unix File System
-2151,User Datagram Protocol (UDP)
-2152,Value Stream Mapping
-2153,Verification And Validation
-2154,Virtual IP Address
-2155,Virtual Network
-2156,Virtual Private Cloud OnDemand
-2157,Virtual Router Redundancy Protocol
-2158,Visual Cryptography
-2159,Vivaldi
-2160,Vmware ESXi
-2161,Vmware vCloud Air
-2162,Vulnerability
-2163,VxLAN (Virtual Extensible LAN)
-2164,w3m
-2165,Wakame-vdc
-2166,Waterfox
-2167,WaveMaker
-2168,Web API
-2169,Web Application Security
-2170,Web Browser
-2171,Web Server
-2172,Web Server Gateway Interface
-2173,Web Server Software
-2174,Web Shell
-2175,WebKit
-2176,WebKit-based Web Browser
-2177,Wireless Application Protocol (WAP)
-2178,Wireless Distribution System
-2179,Wireless Engineering
-2180,Wireless LAN
-2181,Wireless LAN Controllers
-2182,Wireless Network
-2183,Wireless Paging System
-2184,Wireless Routing Protocol
-2185,Wireless Security
-2186,Wireless Site Survey
-2187,Workday
-2188,World Wide Web (WWW)
-2189,Xen
-2190,Xen Cloud Platform
-2191,XML Encryption
-2192,XML Interface For Network Service
-2193,XtremIO
-2194,Yandex Browser
-2195,Zadara Storage
-2196,Zeus Web Server
-2197,Zoho
-2198,Abstract Algebra
-2199,Addition
-2200,Algebra
-2201,Algebraic Geometry
-2202,Algebraic Number Theory
-2203,Algebraic Topology
-2204,Analytic Geometry
-2205,Analytic Number Theory
-2206,Applied Mathematics
-2207,Approximation
-2208,Arithmetic
-2209,Arithmetic Geometry
-2210,Basic Calculus
-2211,Bayesian
-2212,Bilateral Monopoly
-2213,Branch and Bound
-2214,Calculus
-2215,Coding Theory
-2216,Combinatorial Geometry
-2217,Combinatorial Number Theory
-2218,Combinatorics
-2219,Complex Analysis
-2220,Computability Theory
-2221,Computational Geometry
-2222,Computational Number Theory
-2223,Conic Sections
-2224,Constructive Mathematics
-2225,Convex Geometry
-2226,Coordinate Geometry
-2227,Covariance Matrix
-2228,Curvature
-2229,Decimal
-2230,Decision Theory
-2231,Derivative
-2232,Descriptive Geometry
-2233,Differential Geometry
-2234,Differential Topology
-2235,Differentiation
-2236,Digital Geometry
-2237,Diophantine Geometry
-2238,Discrete Geometry
-2239,Discrete Mathematics
-2240,Division
-2241,Econometrics
-2242,Elementary Algebra
-2243,Elementary Number Theory
-2244,Enumerative Combinatorics
-2245,Euclidean Geometry
-2246,External Combinatorics
-2247,Formal Logic
-2248,Fractal Geometry
-2249,Fraction
-2250,Function
-2251,General Topology
-2252,Geometric Number Theory
-2253,Geometry
-2254,Gradient Descent
-2255,Graph
-2256,Graph Theory
-2257,Induction
-2258,Informal Logic
-2259,Input-output Model
-2260,Integer
-2261,Lambda Calculus
-2262,Linear Algebra
-2263,Linear Algebra Package (LAPACK)
-2264,Linear Programming
-2265,Logic
-2266,Mathematical Analysis
-2267,Mathematical Economics
-2268,Mathematical Finance
-2269,Mathematical Function
-2270,Mathematical Logic
-2271,Mathematical Modelling
-2272,Mathematical Optimization
-2273,Mathematical Physics
-2274,Mathematical Programming
-2275,Mathematics
-2276,Mathematics Foundations
-2277,MATLAB
-2278,Matrix Algebra
-2279,Mechanism Design
-2280,Model Theory
-2281,Money Creation
-2282,Money Demand
-2283,Money Supply
-2284,Multiplication
-2285,Multivariate Calculus
-2286,Natural Number
-2287,Network Theory
-2288,Number Representation
-2289,Number Theory
-2290,Numerical Differentiation
-2291,Numerical Integration
-2292,Numerical Linear Algebra
-2293,Numerical Method
-2294,Operations Research
-2295,Polyhedra
-2296,Polytope
-2297,Predicate Logic
-2298,Proof Theory
-2299,Propositional Logic
-2300,Pure Mathematics
-2301,Relation Algebra
-2302,Riemannian Geometry
-2303,Set
-2304,Set Theory
-2305,Subtraction
-2306,Syllogistic Logic
-2307,Symbolic Logic
-2308,Topology
-2309,Track Geometry
-2310,Transcendental Number Theory
-2311,Univariate Calculus
-2312,Active Listening
-2313,Ad Design
-2314,Adobe Acrobat
-2315,Adobe Creative Application
-2316,Adobe Illustrator
-2317,Adobe InDesign
-2318,Adobe Photoshop
-2319,Aesthetics
-2320,Animation
-2321,Anthropolocial Linguistics
-2322,Anthropology
-2323,Anthropology of Religion
-2324,Anthrozoology
-2325,Applied Anthropology
-2326,Applied Linguistics
-2327,Archaeology
-2328,Art History
-2329,Arts
-2330,Arts and Crafts
-2331,Audio
-2332,Audio Format
-2333,Behavioral Geography
-2334,Bengali
-2335,Bhojpuri
-2336,Biolinguistics
-2337,Burmese
-2338,Canon Law
-2339,Cartography
-2340,Children Geography
-2341,Clinical Linguistics
-2342,Coaching
-2343,Cognitive Linguistics
-2344,Cognitive Science
-2345,Colour Sense
-2346,Colour Theory
-2347,Commercial Photography
-2348,Communication Studies
-2349,Comparative Linguistics
-2350,Computational Linguistics
-2351,Computational Social Science
-2352,Computer Game
-2353,Conceptual Art
-2354,Cooking
-2355,Corel Draw
-2356,Creativity
-2357,Critical Geography
-2358,Culinary Art
-2359,Cultural  Geography
-2360,Cultural Anthropology
-2361,Cultural Psychology
-2362,Cultural Studies
-2363,Dance
-2364,Descriptive Decision Theory
-2365,Design
-2366,Design Analysis
-2367,Development Geography
-2368,Development Linguistics
-2369,Dialectology
-2370,Dialectometry
-2371,Digital Art
-2372,Digital Image
-2373,Digital Media
-2374,Digital Printing
-2375,Discourse Analysis
-2376,Dreamweaver
-2377,Eastern Punjabi
-2378,Egyptian Arabic
-2379,English
-2380,Entertainment
-2381,Epistemology
-2382,Ethics
-2383,Ethnobiology
-2384,Ethnobotany
-2385,Ethnography
-2386,Ethnology
-2387,Ethnopoetics
-2388,Etymology
-2389,Evolutionary Anthropology
-2390,Evolutionary Linguistics
-2391,Experimental Archaeology
-2392,Facebook
-2393,Feminist Geography
-2394,Fine Art
-2395,Folkloristics
-2396,Food
-2397,Foreign Language
-2398,Forensic Linguistics
-2399,Free Hand
-2400,French
-2401,Game Design
-2402,Game Development
-2403,Gamification
-2404,Gastronomy
-2405,Gender and Sexuality Studies
-2406,Geography
-2407,Geolinguistics
-2408,German
-2409,Gerontology
-2410,Graphic Design
-2411,Gujarati
-2412,Hakka Chinese
-2413,Hausa
-2414,Health Geography
-2415,Health Psychology
-2416,Hindi
-2417,Hindu Law
-2418,Historical Archaeology
-2419,Historical Geography
-2420,Historical Linguistics
-2421,History
-2422,History Of Linguistics
-2423,History Of Psychology
-2424,Human Geography
-2425,Humanities
-2426,Image
-2427,Indonesian
-2428,Industrial Design
-2429,Infographics
-2430,Instagram
-2431,Interactive Media
-2432,Interactive Media Design
-2433,Interior Design
-2434,Iranian Persian
-2435,Italian
-2436,Jain Law
-2437,Japanese
-2438,Javanese
-2439,Jewish Law
-2440,Jin Chinese
-2441,Journalism
-2442,Kannada
-2443,Korean
-2444,Language
-2445,Language Acquisition
-2446,Language Learning
-2447,Legal Archaeology
-2448,Legal Fiction
-2449,Lexis
-2450,Linguistic Anthropology
-2451,Linguistic History
-2452,Linguistic Typology
-2453,Linguistics
-2454,LinkedIn
-2455,Literature
-2456,Localization
-2457,Logo Creation
-2458,Maithili
-2459,Malay
-2460,Malayalam
-2461,Mandarin Chinese
-2462,Marathi
-2463,Marxist Geography
-2464,Media
-2465,Media Psychology
-2466,Media Studies
-2467,Medical Anthropology
-2468,Military Geography
-2469,Min Nan Chinese
-2470,Mobile Application Development
-2471,Mobile Game
-2472,Morphology
-2473,Motion Film
-2474,Motion Pictures
-2475,Music
-2476,Neurolinguistics
-2477,News
-2478,News Writing
-2479,Normative Decision Theory
-2480,Odia
-2481,Orthography
-2482,Performing Art
-2483,Personal Coaching
-2484,Philology
-2485,Philosophy
-2486,Philosophy of Education
-2487,Philosophy of Language
-2488,Philosophy of Mathematics
-2489,Philosophy of Mind
-2490,Philosophy of Science
-2491,Phislophy of Information
-2492,Phonetics
-2493,Phonology
-2494,Photo Editing
-2495,Phraseology
-2496,Physical Anthropology
-2497,Physical Geography
-2498,Polish
-2499,Polotical Philosophy
-2500,Population Geography
-2501,Portuguese
-2502,Poster
-2503,Poster Design
-2504,Pragmatics
-2505,Professional Sports
-2506,Prototyping
-2507,Psycholinguistics
-2508,Psychological Anthropology
-2509,Radio
-2510,Recreation
-2511,Regional Geography
-2512,Religious Studies
-2513,Responsive Design
-2514,Russian
-2515,Semantics
-2516,Sharia
-2517,Sketch
-2518,Social Geography
-2519,Social Media
-2520,Social Media Platform
-2521,Social Philosophy
-2522,Sociolinguistics
-2523,Sound Design
-2524,Spanish
-2525,Speech and Language Pathology
-2526,Speech Science
-2527,Sports
-2528,Sports Coaching
-2529,Storyboarding
-2530,Strategic Geography
-2531,Stylistics
-2532,Syntax
-2533,Tamil
-2534,Telegram
-2535,Television
-2536,Telugu
-2537,Theatre
-2538,TikTok
-2539,Time Geography
-2540,Tourism Geography
-2541,Translation
-2542,Turkish
-2543,Twitter
-2544,Typography
-2545,Unity
-2546,Urban Geography
-2547,Urdu
-2548,User Experience (UX)
-2549,User Experience Design
-2550,User Experience Research Methodology
-2551,User Modelling
-2552,UX Design
-2553,UX Research
-2554,UX Research Methodology
-2555,Vector Graphics
-2556,Video
-2557,Video Game Development
-2558,Video Game Graphics
-2559,Vietnamese
-2560,Visual Art
-2561,Visual Communication
-2562,Western Punjabi
-2563,Wireframing
-2564,World History
-2565,Writing Systems
-2566,Wu Chinese
-2567,Xiang Chinese
-2568,Yoruba
-2569,Youtube
-2570,Yue Chinese
-2571,Zooarchaeology
-2572,Accoustical Engineering
-2573,Aeronautical Engineering
-2574,Aerospace
-2575,Aerospace Engineering
-2576,Agricultural Engineering
-2577,Agricultural Production
-2578,Agricultural Science
-2579,Agriculture
-2580,Agronomy
-2581,Aircraft Management
-2582,Airforce
-2583,Amorphous Metals
-2584,Animal Husbandry
-2585,Apparel
-2586,Applied Engineering
-2587,Applied Physics
-2588,Aquaculture
-2589,Arboriculture
-2590,Architectonics
-2591,Architectural Engineering
-2592,Architecture
-2593,Astronautical Engineering
-2594,Astronautics
-2595,AutoCAD
-2596,Automotive
-2597,Automotive Engineering
-2598,Aviation
-2599,Aviation and Aerospace
-2600,Bioengineering
-2601,Biological Engineering
-2602,Biomaterials Engineering
-2603,Biomedical Engineering
-2604,Bionics
-2605,Biotechnology
-2606,Broadcast Engineering
-2607,Building Science
-2608,Carpentry
-2609,Casting
-2610,Ceramic Engineering
-2611,Chemical
-2612,Chemical Engineering
-2613,Civil Engineering
-2614,Combat Engineering
-2615,Composite Materials
-2616,Computer Engineering
-2617,Computer-Aided Manufacturing (CAM)
-2618,Construction Engineering
-2619,Control Engineering
-2620,Corrosion Engineering
-2621,Crystal Engineering
-2622,Drilling Engineering
-2623,Electrical and Electronic Manufacturing
-2624,Electrical Engineering
-2625,Electromechanical Engineering
-2626,Electromechanics
-2627,Electronic and Electrical Engineering
-2628,Electronic Control Systems
-2629,Electronic Engineering
-2630,Electronic Materials
-2631,Electronics
-2632,Energy Technology
-2633,Engineering
-2634,Engineering Physics
-2635,Engineering Psychology
-2636,Engineering Technology
-2637,Environmental Data Analysis
-2638,Environmental Engineering
-2639,Ergonomics
-2640,ETAP
-2641,Facilities Engineering
-2642,Floriculture
-2643,Food Production
-2644,Food Science
-2645,Forensic Materials Engineering
-2646,Forensic Science
-2647,Forestry
-2648,Genetic Engineering
-2649,Geotechnical Engineering
-2650,Health Science
-2651,Horticulture
-2652,Hydro Engineering
-2653,Hydroculture
-2654,Hydroponics
-2655,Industrial Automation
-2656,Industrial Engineering
-2657,Information Engineering
-2658,Instrumentaion Engineering
-2659,Instrumentation
-2660,Landscape Architecture
-2661,Language Engineering
-2662,Logistic Engineering
-2663,Machinery
-2664,Machining
-2665,Maintanence
-2666,Manufacturing Engineering
-2667,Manufacturing Operations
-2668,Marine Engineering
-2669,Materials Engineering
-2670,Materials Science
-2671,Mechanical Engineering
-2672,Mechatronics
-2673,Metabolic Engineering
-2674,Metal Forming
-2675,Metallurgical Engineering
-2676,Metals
-2677,Microtechnology
-2678,Military Education
-2679,Military Engineering
-2680,Military History
-2681,Military Organization
-2682,Military Science
-2683,Military Strategy and Tactics
-2684,Military Technology Engineering
-2685,Military Training
-2686,Mining
-2687,Mining Engineering
-2688,Molecular Engineering
-2689,Multisim
-2690,Nano Materials
-2691,Nanotechnology
-2692,Naval Architecture
-2693,Neural Engineering
-2694,Nuclear Engineering
-2695,Nuclear Technology
-2696,Nursing Informatics
-2697,Oil and Energy
-2698,Oil and Gas
-2699,Optical Engineering
-2700,Optics
-2701,Performance Engineering
-2702,Permaculture
-2703,Photogrammetry
-2704,Plastics
-2705,Plastics Engineering
-2706,Polymer Engineering
-2707,Power Systems Engineering
-2708,Process Engineering
-2709,Processor
-2710,Pspice
-2711,Quality Engineering
-2712,Radiation Engineering
-2713,Radiation Protection Engineering
-2714,Reliability Engineering
-2715,Repair
-2716,Safety Engineering
-2717,Science and Technology Studies
-2718,Scientific Method
-2719,Security Engineering
-2720,Semiconductors
-2721,Silviculture
-2722,Simulink
-2723,Space Exploration
-2724,Spatial Science
-2725,Sports Engineering
-2726,Structural Engineering
-2727,Support Engineering
-2728,Surface Engineering
-2729,Sustainability Studies
-2730,Sustainable Development
-2731,Systems Engineering
-2732,Systems Science
-2733,Systems Theory
-2734,Telecommunications Engineering
-2735,Textiles
-2736,Thermal Engineering
-2737,Tissue Engineering
-2738,Transportation Engineering
-2739,Urban Engineering
-2740,Urban Planning
-2741,Vacuum Engineering
-2742,Vitreous Materials
-2743,Water Engineering
-2744,Welding
-2745,Adaptive Expectations
-2746,Alternative Medicine
-2747,Anatomy
-2748,Anesthesiology
-2749,Animal Health
-2750,Astronomy
-2751,Atomic Physics
-2752,Basic Science
-2753,Biochemistry
-2754,Biogeography
-2755,Biology
-2756,Botany
-2757,Cardiology
-2758,Chemical Processing
-2759,Chemistry
-2760,Classical Mechanics
-2761,Climatology
-2762,Coastal Geography
-2763,Condensed Matter Physics
-2764,Conservation Medicine
-2765,Cosmology
-2766,Dentistry
-2767,Dermatology
-2768,Earth Science
-2769,Ecology
-2770,Electromagnetism
-2771,Endocrinology
-2772,Environmental Geography
-2773,Environmental Science
-2774,Environmental Technology
-2775,Evolutionary Biology
-2776,Family Medicine
-2777,Fisheries Science
-2778,Fluid Mechanics
-2779,Gastroenterology
-2780,General Surgery
-2781,Genetic Algorithm
-2782,Genomics
-2783,Geology
-2784,Geomorphology
-2785,Glaciology
-2786,Gynecology
-2787,Health Informatics
-2788,Healthcare
-2789,Healthcare Management
-2790,High-Energy Partical Physics
-2791,Human Anatomy
-2792,Hydrology
-2793,Immunology
-2794,Internal Medicine
-2795,Landscape Ecology
-2796,Life Science
-2797,Mechanics
-2798,Mechanics of Deformable Solids
-2799,Mechanics of Structures
-2800,Medicine
-2801,Meteorology
-2802,Microbiology
-2803,Molecular Physics
-2804,Neurology
-2805,Nuclear Physics
-2806,Nursing
-2807,Nutrition
-2808,Oceanography
-2809,Oncology
-2810,Ophthalmology
-2811,Optometry
-2812,Organic Chemistry
-2813,Palaeogeography
-2814,Particle Mechanics
-2815,Pathology
-2816,Pathophysiology
-2817,Patient Care
-2818,Pediatrics
-2819,Pharmaceutical Manufacturing
-2820,Pharmaceutics
-2821,Pharmacology
-2822,Pharmacy
-2823,Photonics
-2824,Physical
-2825,Physical Medicine
-2826,Physical Science
-2827,Physical Therapy
-2828,Physics
-2829,Physiology
-2830,Psychiatry
-2831,Psychology
-2832,Public Health
-2833,Quantum Mechanics
-2834,Radiology
-2835,Rational Expectations
-2836,Rehabilitation
-2837,Relativistic Mechanics
-2838,Soil Geography
-2839,Space Science
-2840,Statistical Mechanis
-2841,Sustainability
-2842,Thermodynamics
-2843,Toxicology
-2844,Urology
-2845,Veterinary
-2846,Veterinary Medicine
-2847,Zoology
-2848,Pharmacokinetics (PK)
-2849,Pharmacodynamics (PD)
-2850,PK/PD (PKPD) Modelling
-2851,Modelling & Simulation (M&S)
-2852,"Absorption, Distribution, Metabolism, and Excretion (ADME)"
-2853,Maximum Absorbable Dose (MAD)
-2854,Investigational New Drug (IND)
-2855,Administrative Law
-2856,Aggregate Demand
-2857,Aggregation Problem
-2858,Agricultural Economics
-2859,Agricultural Law
-2860,Amnesty Law
-2861,Applied Economics
-2862,Applied Psychology
-2863,Average Cost
-2864,Aviation Law
-2865,Balance of Payments
-2866,Banking Law
-2867,Behaviour Analysis
-2868,Behavioural Economics
-2869,Bioeconomics
-2870,Biopsychology
-2871,Bond
-2872,Budget Set
-2873,Business Cycle
-2874,Business Economics
-2875,Capacity Utilization
-2876,Capital Flight
-2877,Central Bank
-2878,Chinese Law
-2879,Civics
-2880,Civil Law
-2881,Clinical Psychology
-2882,Cognitive Psychology
-2883,Commercial Law
-2884,Commodity
-2885,Common Law
-2886,Comparative Economics
-2887,Comparative Law
-2888,Comparative Politics
-2889,Competition
-2890,Competition Law
-2891,Computational Economics
-2892,Construction Law
-2893,Consumer Choice
-2894,Consumer Confidence
-2895,Consumer Protection
-2896,Contract Law
-2897,Contract Theory
-2898,Convexity
-2899,Conveyancing
-2900,Corporate Law
-2901,Corporate Liability
-2902,Cost-benefit Analysis
-2903,Criminal Law
-2904,Criminology
-2905,Critical Legal Studies
-2906,Cultural Psychology
-2907,Culture
-2908,Currency
-2909,Cyberlaw
-2910,Deadweight Loss
-2911,Deflation
-2912,Demand Shock
-2913,Demography
-2914,Depression
-2915,Development Economics
-2916,Development Studies
-2917,Developmental Psychology
-2918,Disinflation
-2919,Dynamic Stochastic General Equilibrium (DSGE)
-2920,Ecological Economics
-2921,Economic Analysis
-2922,Economic Cost
-2923,Economic Development
-2924,Economic Equilibrium
-2925,Economic Geography
-2926,Economic Growth
-2927,Economic History
-2928,Economic Indications
-2929,Economic Methodology
-2930,Economic Model
-2931,Economic Planning
-2932,Economic Policy
-2933,Economic Sociology
-2934,Economic Statistics
-2935,Economic Surplus
-2936,Economic Systems
-2937,Economic Value
-2938,Economics
-2939,Economies of Scale
-2940,Economies of Scope
-2941,Education
-2942,Education Economics
-2943,Educational Psychology
-2944,Effective Demand
-2945,Elasticity
-2946,Election Law
-2947,Emotional Intelligence (EQ)
-2948,Energy Economics
-2949,Energy Law
-2950,Entertainment Law
-2951,Entrepreneurial Economics
-2952,Environmental Economics
-2953,Environmental Law
-2954,Evolutionary Economics
-2955,Evolutionary Psychology
-2956,Expectations
-2957,Expected Utility
-2958,Experimental Economics
-2959,Experimental Psychology
-2960,Externality
-2961,Family Law
-2962,Feminist Economics
-2963,Financial Economics
-2964,Financial Law
-2965,Firm
-2966,Fiscal Policy
-2967,Forensic Psychology
-2968,Game Theory
-2969,General Equilibrium Theory
-2970,General Theory of Keynes
-2971,Geopolitics
-2972,Goods and Services
-2973,Great Depression
-2974,Green Economics
-2975,Health Economics
-2976,Health Law
-2977,Health Psychology
-2978,Heterodox Economics
-2979,Humanistic Psychology
-2980,Hyperinflation
-2981,Ideology
-2982,Immigration Law
-2983,Indifference Curve
-2984,Industrial and Organizational Psychology
-2985,Industrial Organization
-2986,Industrial Relations
-2987,Inflation
-2988,Information Science
-2989,Insolvency Law
-2990,Institutional Economics
-2991,Intellectual Property Law
-2992,Interest
-2993,Interest Rate
-2994,International Criminal Law
-2995,International Economics
-2996,International Human Rights
-2997,International Law
-2998,International Legal Theory
-2999,International Politics
-3000,International Relations Theory
-3001,International Slavery Law
-3002,International Studies
-3003,International Trade
-3004,International Trade Law
-3005,Intertemporal Choice
-3006,IS-LM Model
-3007,Islamic Economics
-3008,Knowledge Economics
-3009,Labour and Employment Law
-3010,Labour Economics
-3011,Law
-3012,Law and Economics
-3013,Law Practice
-3014,Legal Formalism
-3015,Legal Management
-3016,Legal Service
-3017,Legal Systems
-3018,Legal Theory
-3019,Library Science
-3020,Local Government Studies
-3021,Macroeconmic Model
-3022,Macroeconomics
-3023,Managerial Economics
-3024,Marginal Cost
-3025,Marginal Utility
-3026,Maritime Law
-3027,Market Economy
-3028,Market Failure
-3029,Market Structure
-3030,Media Law
-3031,Media Psychology
-3032,Microeconomics
-3033,Microfoundations
-3034,Military Law
-3035,Mixed Economy
-3036,Monetary Economics
-3037,Monetary Policy
-3038,Money
-3039,Monopolistic Competition
-3040,Monopoly
-3041,Monopsony
-3042,Music Therapy
-3043,National Account Systems (NAS)
-3044,National Accounts
-3045,Natural Resource Economics
-3046,Neoclassical Economics
-3047,Neuroeconomics
-3048,Neuropsychology
-3049,Non-Accelerating Inflation Rate of Unemployment (NAIRU)
-3050,Non-convexity
-3051,Non-Disclosure Agreement (NDA)
-3052,Oligopoly
-3053,Oligopsony
-3054,Open Economy
-3055,Opportunity Cost
-3056,Paralegal Studies
-3057,Pareto Efficiency
-3058,Perfect Competition
-3059,Personality Psychology
-3060,Planned Economy
-3061,Political Economy
-3062,Political Geography
-3063,Political Psychology
-3064,Political Science
-3065,Politics
-3066,Preference
-3067,Price
-3068,Price Level
-3069,Pricing Policy
-3070,Principle of Legality
-3071,Production Set
-3072,Profit
-3073,Property Law
-3074,Psephology
-3075,Psychology of Religion
-3076,Psychometrics
-3077,Psychophysics
-3078,Public Administration
-3079,Public Choice
-3080,Public Economics
-3081,Public Finance
-3082,Public Good
-3083,Public International Law
-3084,Public Law
-3085,Public Policy
-3086,Purchasing Power Parity (PPP)
-3087,Rate of Profit
-3088,Rationing
-3089,Real Estate Economics
-3090,Recession
-3091,Regional Economics
-3092,Religious Law
-3093,Rent
-3094,Returns to Scale
-3095,Risk Aversion
-3096,Roman Law
-3097,Rule of Law
-3098,Rural Sociology
-3099,Saving
-3100,Scarcity
-3101,Securities
-3102,Sensation and Perception Psychology
-3103,Service Economics
-3104,Shortage
-3105,Shrinkflation
-3106,Social Choice
-3107,Social Cost
-3108,Social Psychology
-3109,Social Work
-3110,Socialist Economics
-3111,Socialist Law
-3112,Socioeconomics
-3113,Sociological Concept
-3114,Space Law
-3115,Sports Law
-3116,Stagflation
-3117,Statutory Law
-3118,Sunk Cost
-3119,Supply and Demand
-3120,Supply Shock
-3121,Sustainable Agriculture
-3122,Tax Law
-3123,Therapy
-3124,Transaction Cost
-3125,Transport Economics
-3126,Transport Law
-3127,Transportation Economics
-3128,Trust Law
-3129,Uncertainty
-3130,Unemployment
-3131,Unenforced Law
-3132,Unit Cost
-3133,Urban Economics
-3134,Urban Sociology
-3135,Utility
-3136,Voting Systems
-3137,Wage
-3138,Welfare Economics
-3139,Xeert
-3140,Yassa
-3141,Social Network
-3142,Credit Risk
-3143,Credit Risk Modelling
-3144,Risk Analysis
-3145,Credit Risk Analysis
+Id,Skill,DomainId
+0,Account Receivable,2
+1,Accountancy,2
+2,Accounting,2
+3,Accounting Software,2
+4,Accounting Standards,2
+5,Accounts Payable,2
+6,Accuracy,2
+7,Adaptability,2
+8,Administration,2
+9,Adminitrative Assistance,2
+10,Advanced Google Search,2
+11,Advertising,2
+12,Advertising Management,2
+13,Affliate Marketing,2
+14,Agile Business Analytics,2
+15,Agile Methodology,2
+16,Airlines,2
+17,Analytical,2
+18,Analytical Reasoning,2
+19,Annual Report,2
+20,Anti Money Laundering,2
+21,Asana,2
+22,Asset Management,2
+23,Audio Production,2
+24,Audit,2
+25,Auditor's Report,2
+26,Automated Marketing Software,2
+27,B2B Marketing,2
+28,Balance Sheet,2
+29,Banking,2
+30,Basecamp,2
+31,Benchmarking,2
+32,Blogging,2
+33,Bookkeeping,2
+34,Brainstorming,2
+35,Brand Management,2
+36,Branding,2
+37,Broadcast Media,2
+38,Budget,2
+39,Budget Planning,2
+40,Business Acumen,2
+41,Business Administration,2
+42,Business Analysis,2
+43,Business Analytics,2
+44,Business Consulting,2
+45,Business Development,2
+46,Business Essentials,2
+47,Business Ethics,2
+48,Business Judgment Rule,2
+49,Business Management,2
+50,Business Model,2
+51,Business Operations,2
+52,Business Plan,2
+53,Business Process,2
+54,Business Process Modelling,2
+55,Business Research,2
+56,Business Statistics,2
+57,Business Storytelling,2
+58,Business Strategy,2
+59,Business Technology Management,2
+60,Business Writing,2
+61,Buyer Engagement,2
+62,Buyer Research,2
+63,Buyer-Responsive Selling,2
+64,Buyer-Seller Agreement,2
+65,Calendar,2
+66,Capacity Management,2
+67,Capital Budgeting,2
+68,Cash Conversion Cycle,2
+69,Cash Flow Management,2
+70,Cash-flow Statement,2
+71,Casino,2
+72,Change Management,2
+73,Channel Marketing,2
+74,Chart,2
+75,Clear Communication,2
+76,Client Relations,2
+77,Closing,2
+78,Closing Technique,2
+79,CMS Tool,2
+80,Cognos Analytics,2
+81,Cold Calling,2
+82,Collaboration,2
+83,Commercial,2
+84,Commercial Banking,2
+85,Commercial Management,2
+86,Communication,2
+87,Communications Management,2
+88,Competitive Strategy,2
+89,Conceptual Skills,2
+90,Conflict Management,2
+91,Construction,2
+92,Consulting,2
+93,Consumer Behaviour,2
+94,Contact Manager,2
+95,Content Management,2
+96,Content Management System (CMS),2
+97,Content Marketing,2
+98,Content Strategy,2
+99,Convergence of Accounting Standards,2
+100,Conversion Rate Optimization,2
+101,Coordination,2
+102,Copywriting,2
+103,Corporate Communication,2
+104,Corporate Finance,2
+105,Cost Accounting,2
+106,Cost Assessment,2
+107,Cosumer Behaviour Drive,2
+108,Crisis Management,2
+109,Critical Thinking,2
+110,Custom Slide,2
+111,Customer Experience,2
+112,Customer Relationship Management (CRM),2
+113,Customer Service,2
+114,Customer Service System,2
+115,Decision Making,2
+116,Decision Process,2
+117,Delegation,2
+118,Demo Skills,2
+119,Development,2
+120,Development Management,2
+121,Digital Communication,2
+122,Digital Literacy,2
+123,Digital Marketing,2
+124,Digital Photography,2
+125,Distributed Management,2
+126,Distribution,2
+127,Documentation,2
+128,Drupal,2
+129,e-business,2
+130,Earned Value Management (EVM),2
+131,eCommerce,2
+132,eCommerce Platforms,2
+133,Editing,2
+134,Effective Communication,2
+135,Electronic Business,2
+136,Email,2
+137,Email Archiving,2
+138,Email Client,2
+139,Email Filtering,2
+140,Email Management,2
+141,Email Marketing,2
+142,Email Marketing Campaign,2
+143,Email Migration,2
+144,Email Processing,2
+145,Email Production,2
+146,Email Writing,2
+147,Empathy,2
+148,Employee Development,2
+149,Employee Learning,2
+150,Enterprise Resource Planning (ERP),2
+151,Enterprise Software,2
+152,Enterprise System,2
+153,Entrepreneurial Finance,2
+154,Entrepreneurship,2
+155,Environmental Consulting,2
+156,Environmental Planning,2
+157,Equity,2
+158,Equity Statement,2
+159,Event Planning,2
+160,Events Services,2
+161,Excel,2
+162,Executive,2
+163,Fabrication,2
+164,Facebook Ads,2
+165,Factoring,2
+166,Finance,2
+167,Financial Accounting,2
+168,Financial Engineering,2
+169,Financial Management,2
+170,Financial Market,2
+171,Financial Regulation,2
+172,Financial Risk,2
+173,Financial Risk Management,2
+174,Financial Risk Modelling,2
+175,Financial Services,2
+176,Financial Statement,2
+177,Financial Statement Analysis,2
+178,First-in First-out (FIFO) Accounting,2
+179,Food Service Operations,2
+180,Forecasting,2
+181,Forensic Accounting,2
+182,Formatting,2
+183,Formula Function,2
+184,Fund Accounting,2
+185,Gambling,2
+186,Generally Accepeted Accounting Principles (GAAP),2
+187,Generally-Accepted Auditing Standards (GAAS),2
+188,Generally-Accepted Principles,2
+189,Ghostwriting,2
+190,Goods,2
+191,Google Ads,2
+192,Google Docs,2
+193,Google Forms,2
+194,Google Sheets,2
+195,Google Slides,2
+196,Governmental Accounting,2
+197,Greenhopper,2
+198,Growth Strategy,2
+199,Heavyweight,2
+200,Hospitality,2
+201,Human Resource Management,2
+202,Human Resources (HR),2
+203,Incident Management,2
+204,Income Statement,2
+205,Industry,2
+206,Innovation,2
+207,Innovation Leadership,2
+208,Innovation Management,2
+209,Inside Sales,2
+210,Insider Trading,2
+211,Instant Messenger,2
+212,Insurance,2
+213,Intellectual Property (IP),2
+214,Intellectual Property Rights,2
+215,International Business,2
+216,International Finance,2
+217,International Financial Reporting Standards (IFRS),2
+218,International Standards on Auditing (ISA),2
+219,Investment,2
+220,Investment Banking,2
+221,Investment Management,2
+222,Investor Relations,2
+223,Joomla,2
+224,Keynote,2
+225,Know Your Customer (KYC),2
+226,Knowledge Management,2
+227,Last-in First-out (LIFO) Accounting,2
+228,Lead Generation,2
+229,Leadership,2
+230,Leadership Development,2
+231,Liquidation,2
+232,Logistics,2
+233,Lookup Table,2
+234,Magento,2
+235,Management,2
+236,Management Accounting,2
+237,Management Accounting Principles (MAP),2
+238,Management Consulting,2
+239,Management Information System (MIS),2
+240,Managerial Finance,2
+241,Manufacturing,2
+242,Market,2
+243,Market Analysis,2
+244,Market Research,2
+245,Market Research Analysis,2
+246,Market Segmentation,2
+247,Marketing,2
+248,Marketing Channel,2
+249,Marketing Consulting,2
+250,Marketing Content Development,2
+251,Marketing Design,2
+252,Marketing Management,2
+253,Marketing Psychology,2
+254,Marketing Research,2
+255,Mass Email,2
+256,Materials Management,2
+257,Media Planning,2
+258,Media Production,2
+259,Medium,2
+260,Mergers and Acquisitions (M&A),2
+261,Metamodel,2
+262,Methodology,2
+263,Microsoft,2
+264,Microsoft Access,2
+265,Microsoft Excel,2
+266,Microsoft Office,2
+267,Microsoft OneNote,2
+268,Microsoft Outlook,2
+269,Microsoft PowerPoint,2
+270,Microsoft Word,2
+271,Mining and Quarrying,2
+272,Mobile Marketing,2
+273,Music Production,2
+274,Needs Analysis,2
+275,Negotiation,2
+276,Networking,2
+277,Newsletters,2
+278,Newspapers,2
+279,Nonverbal Communication,2
+280,Numerical Competence,2
+281,Objection Handling,2
+282,Objection Prevention,2
+283,Office Administration,2
+284,Office Management,2
+285,Offshoring,2
+286,Online Business,2
+287,Online Marketing,2
+288,Online Media,2
+289,OpenCard,2
+290,Operations Management,2
+291,Organizational Behaviour,2
+292,Organizational Skill,2
+293,Organizational Studies,2
+294,Outline of Management,2
+295,Outlook,2
+296,Outreach,2
+297,Outsourcing,2
+298,Page Setup,2
+299,Paid Socia Media Advertisement,2
+300,Pattern Finding,2
+301,Pay-Per-Click (PPC) Marketing,2
+302,Payroll Services,2
+303,Performance Management,2
+304,Performance Review,2
+305,Persuasion,2
+306,Petty Cash Control,2
+307,Photography,2
+308,Pivot Table,2
+309,Planning,2
+310,Point of Sale (POS) Software,2
+311,Policy Analysis,2
+312,Post-Sale Relationship Management,2
+313,Power Management,2
+314,PowerPoint,2
+315,Presentation,2
+316,PrestaShop,2
+317,Private Equity,2
+318,Problem Management,2
+319,Problem Solving,2
+320,Process Model,2
+321,Processing,2
+322,Procurement,2
+323,Product,2
+324,Product Development,2
+325,Product Knowledge,2
+326,Product Liability,2
+327,Product Life-cycle Management (PLM),2
+328,Product Lifecycle Management,2
+329,Product Management,2
+330,Product Marketing,2
+331,Product Roadmap,2
+332,Product Testing,2
+333,Production,2
+334,Production Process,2
+335,Productivity Software Application,2
+336,Professional Training,2
+337,Programming,2
+338,Project Management,2
+339,Project Planning,2
+340,Project Supervision,2
+341,Property,2
+342,Property Information,2
+343,Property Maintenance,2
+344,Property Management,2
+345,Property Management Software,2
+346,Property Management System,2
+347,Property Tax,2
+348,Public Equity,2
+349,Public Relations (PR),2
+350,Public Relations and Communications,2
+351,Public Speaking,2
+352,Publishing,2
+353,QA Testing,2
+354,Qualification Questioning,2
+355,Qualitative Marketing Research,2
+356,Quality Assurance (QA),2
+357,Quality Control,2
+358,Quality Management,2
+359,Quantitative Marketing Research,2
+360,Quantitative Report,2
+361,Quantitative Research,2
+362,Quickbooks,2
+363,Radio Production,2
+364,Rally,2
+365,Rapport Building,2
+366,Real Estate,2
+367,Real Property,2
+368,Reasoning,2
+369,Records Management,2
+370,Recruiting,2
+371,Regional Planning,2
+372,Report Analysis,2
+373,Reporting,2
+374,Requirement Analysis,2
+375,Requirements Gathering,2
+376,Research,2
+377,Research and Development (R&D),2
+378,Resource Management,2
+379,Retail,2
+380,Retail Packaging,2
+381,Revenue Recognition,2
+382,Risk Analysis,2
+383,Risk Management,2
+384,Root Cause Analysis,2
+385,Sales,2
+386,Sales Leadership,2
+387,Sales Management,2
+388,Sales Operations,2
+389,Sales Presentation,2
+390,Salesforce,2
+391,Scheduling,2
+392,Search Engine and Keyword Optimization,2
+393,Search Engine Marketing (SEM),2
+394,Search Engine Optimization (SEO),2
+395,Service,2
+396,Service Management,2
+397,Shopify,2
+398,Slack,2
+399,SmartArt,2
+400,Sociability,2
+401,Social Accounting,2
+402,Social Media Analytics,2
+403,Social Media Management,2
+404,Social Media Marketing,2
+405,Social Network Advertising,2
+406,Social Network Analysis,2
+407,Social Selling,2
+408,Software Business Analysis,2
+409,Source Checking,2
+410,Stock Market,2
+411,Storytelling,2
+412,Strategic Management,2
+413,Strategic Planning,2
+414,Strategic Prospecting,2
+415,Subject Matter Expert (SME),2
+416,Supply Chain Management,2
+417,Supply Chain Risk Management,2
+418,System Context Diagram,2
+419,Systems Management,2
+420,Talent Management,2
+421,Target Audience,2
+422,Task Delegation,2
+423,Task Management,2
+424,Tax,2
+425,Tax Accounting,2
+426,Team Building,2
+427,Teamwork,2
+428,Technical Writing,2
+429,Technology Management,2
+430,Telemarketing,2
+431,Template,2
+432,Template Building,2
+433,Territory Management,2
+434,Text Box,2
+435,Time Management,2
+436,Todoist,2
+437,Track Changes,2
+438,Trade,2
+439,Training,2
+440,Transportation,2
+441,Trello,2
+442,Underwriting,2
+443,Venture Capiral,2
+444,Venture Capital (VC),2
+445,VersionOne,2
+446,Video Production,2
+447,VOIP,2
+448,Wireframes,2
+449,WooCommerce,2
+450,Word Processor,2
+451,WordPress,2
+452,Working Capital,2
+453,Writing,2
+454,Yardi,2
+455,Yoast,2
+456,Zapier,2
+457,Zoom,2
+458,.NET,3
+459,2D Computer Graphics,3
+460,3D Computer Graphics,3
+461,3D Modelling Software,3
+462,A/B Testing,3
+463,Abstract Data Type,3
+464,Abstract Syntax Notation One,3
+465,Abstract Syntax Tree,3
+466,Access Query Languages,3
+467,Ada,3
+468,Adaptive Software Development (ASD),3
+469,Agile,3
+470,Agile Software Development,3
+471,Ajax,3
+472,ALGOL,3
+473,Algorithm,3
+474,Algorithm Design,3
+475,Algorithmic Trading,3
+476,Amazon Relational Database Service,3
+477,Anaconda,3
+478,Analysis of Algorithm,3
+479,Android,3
+480,Android Debug Bridge,3
+481,Angular,3
+482,Ansible,3
+483,Ant,3
+484,Apache,3
+485,Apache Ant,3
+486,Apache Cassandra,3
+487,Apache Cordova,3
+488,Apache Groovy,3
+489,Apache Hadoop,3
+490,Apache Hbase,3
+491,Apache Hive,3
+492,Apache Kafka,3
+493,Apache Maven,3
+494,Apache Pig,3
+495,Apache Spark,3
+496,Apache Subversion,3
+497,Apache Tomcat,3
+498,APL,3
+499,Application,3
+500,Application Programming Interface (API),3
+501,Approximation Algorithm,3
+502,apt-build,3
+503,Array,3
+504,Aspect-Oriented Programming,3
+505,Assembly,3
+506,Assembly Language,3
+507,Autodesk Maya,3
+508,Automata Theory,3
+509,Automated Billing Systems,3
+510,AWS Elastic MapReduce,3
+511,B,3
+512,Background Debug Mode,3
+513,Bash,3
+514,BASIC,3
+515,Bayesian Optimization,3
+516,Beats,3
+517,Behaviour-Based Robotics,3
+518,Binary Search,3
+519,Binary Search Algorithm,3
+520,Binary Search Tree,3
+521,Binary Tree,3
+522,Bison,3
+523,Bitbucket,3
+524,BitKeeper,3
+525,Bootstrap,3
+526,BREW,3
+527,Build Automation,3
+528,Build Tool,3
+529,Business Continuity Planning,3
+530,C,3
+531,C Data Type,3
+532,C Sharp,3
+533,C Syntax,3
+534,C#,3
+535,C# Syntax,3
+536,C++,3
+537,Cabal,3
+538,CADES,3
+539,Cascading Style Sheet (CSS),3
+540,Cassandra,3
+541,Cassandra DB,3
+542,Character Encoding,3
+543,Character Encodings in HTML,3
+544,CI/CD,3
+545,Classis Mac OS,3
+546,Cleanroom,3
+547,Cleanroom Software Engineering,3
+548,Clojure,3
+549,Cloud Database Management System,3
+550,Cloudera Hue,3
+551,CMM,3
+552,CMMI/SCAMPI,3
+553,COBOL,3
+554,Coding,3
+555,Cognitive,3
+556,ColdFusion,3
+557,Column-oriented Database Management System,3
+558,Command Language,3
+559,Command-Line Interface,3
+560,Command-Line Interpreter,3
+561,Common ISDN Application Programming Interface (CAPI),3
+562,Common Lisp,3
+563,Compiler,3
+564,Compiler Optimization,3
+565,Compiler Theory,3
+566,Complexity,3
+567,Component-Based Software Engineering,3
+568,Computational Biology,3
+569,Computational Chemistry,3
+570,Computational Complexity Theory,3
+571,Computational Neuroscience,3
+572,Computational Optimization,3
+573,Computational Physics,3
+574,Computational Science,3
+575,Computer Accessibility,3
+576,Computer Algebra,3
+577,Computer Architecture,3
+578,Computer Graphics,3
+579,Computer Hardware,3
+580,Computer Programming,3
+581,Computer Systems Organization,3
+582,Computer-aided Design,3
+583,Computer-Aided Engineering,3
+584,Computer-Aided Software Engineering,3
+585,Computing,3
+586,Computing Interface,3
+587,Concurrency,3
+588,Concurrent Computing,3
+589,Concurrent Programming,3
+590,Concurrent System,3
+591,conda,3
+592,Configuration,3
+593,Configuration Management,3
+594,Contextual Query Language,3
+595,Continuous Delivery (CD),3
+596,Continuous Integration (CI),3
+597,Cordova,3
+598,CouchDB,3
+599,CPLEX,3
+600,Cray Supercomputer,3
+601,CSS Animation,3
+602,CSS Code,3
+603,CSS Framework,3
+604,CVS,3
+605,CVSNT,3
+606,Cybernetics,3
+607,D,3
+608,Data Capture,3
+609,Data Display Debugger,3
+610,Data Encoding,3
+611,Data Management,3
+612,Data Manipulation Language,3
+613,Data Mapping,3
+614,Data Streaming,3
+615,Data Structure,3
+616,Data Structure Alignment,3
+617,Data Structured Language,3
+618,Database,3
+619,Database Administration,3
+620,Database Application,3
+621,Database Design,3
+622,Database Development,3
+623,Database Management System,3
+624,Database System,3
+625,Dataframe,3
+626,Debian Bug Tracking System,3
+627,Debugger,3
+628,Debugging,3
+629,DEC Minicomputer,3
+630,Delphi,3
+631,Dependability,3
+632,Desktop Virtualization,3
+633,Development Tools,3
+634,Developmental Robotics,3
+635,DevOps,3
+636,DevOps Automation Tool,3
+637,Dictionary,3
+638,Disciplined Agile Delivery (DAD),3
+639,Disk Array,3
+640,Distributed Computing,3
+641,Distributed Database,3
+642,Distributed Database Management System (DDBMS),3
+643,Distributed Relational Database Architecture,3
+644,Distributed System,3
+645,Docker,3
+646,Doctrine Query Language (DQL),3
+647,Document-oriented Database,3
+648,Document-oriented Database Management System,3
+649,Dylan,3
+650,Dynamic Systems Development Method (DSDM),3
+651,Eclipse,3
+652,ECMAScript,3
+653,Editor,3
+654,Eiffel,3
+655,Elastic (ELK) Stack,3
+656,Elasticsearch,3
+657,Electronic Design Automation,3
+658,Embedded C++,3
+659,Embedded System,3
+660,Emulator High-Level Language Application Program Interface (EHLLAPI),3
+661,Encoding,3
+662,Energy Consumption,3
+663,Enthought Canopy,3
+664,Entity Relationship Diagram (ERD),3
+665,Entrop Encoding,3
+666,Epigenetic Robotics,3
+667,Erlang,3
+668,Event Listener,3
+669,Event Processor,3
+670,Evolutionary Robotics,3
+671,Experimental Software Engineering,3
+672,Extensible Application Markup Language,3
+673,Extensible HyperText Markup Language (XHTML),3
+674,Extensible Markup Language (XML),3
+675,Extensible Stylesheet Language (XSL),3
+676,Extensible Stylesheet Language Transformations (XSLT),3
+677,Extract Transform Load (ETL),3
+678,Extreme Programming,3
+679,Extreme Programming (XP),3
+680,F#,3
+681,Feature-Driven Development (FDD),3
+682,Final Builder,3
+683,Flow Control Statement,3
+684,Flowchart,3
+685,Formal Method,3
+686,Formal Semantic,3
+687,Forth,3
+688,Fortran,3
+689,FourGen Computer-Aided Software Engineering (CASE) Tools,3
+690,Front End,3
+691,Full Stack Software Engineering,3
+692,Functional Decomposition,3
+693,Gate Array,3
+694,Geometric Algorithm,3
+695,GIAC Web Application Security,3
+696,Git,3
+697,Github,3
+698,GitLab,3
+699,GNU Arch,3
+700,GNU Bazaar,3
+701,GNU Cflow,3
+702,GNU Debugger,3
+703,Golang (Go),3
+704,Google OR-Tools,3
+705,Gradle,3
+706,Graph Algorithm,3
+707,Graph Database,3
+708,Graph Database Management System,3
+709,Graphical User Interface (GUI),3
+710,Graphics Processing Unit (GPU),3
+711,Groovy,3
+712,GUI Design,3
+713,Gurobi,3
+714,Hadoop,3
+715,Hadoop Distributed File System (HDFS),3
+716,Hadoop MapReduce,3
+717,Hardware,3
+718,Hardware Acceleration,3
+719,Hardware Virtualization,3
+720,Hash Table,3
+721,Haskell,3
+722,HBase,3
+723,Hibernate Query Language,3
+724,Hierachical Database,3
+725,Hive,3
+726,Homebrew,3
+727,HTML Abstraction Markup Language,3
+728,Hue,3
+729,Human Machine Interface,3
+730,Human-Computer Interaction,3
+731,Human-Computer Interaction (HCI),3
+732,HyperText Markup Language (HTML),3
+733,IBM Configuration Management Version Control,3
+734,IBM DB2,3
+735,IBM Mainframe,3
+736,IIS Debugging,3
+737,Image Compression,3
+738,Image Manipulation,3
+739,Image Processing,3
+740,Imagine,3
+741,Implementation,3
+742,Incremental Build Model,3
+743,InfiniteGraph,3
+744,InfoGrid,3
+745,Information Visualization,3
+746,Infrastructure as Code (IaS),3
+747,Integrated Circuit,3
+748,Integrated Database Application Program Interface (IDAPI),3
+749,Integrated Design and Engineering Analysis Software (I-DEAS),3
+750,Integrated Development Environment (IDE),3
+751,Interaction Design,3
+752,Internet Server Application Programming Interface,3
+753,Interpreter,3
+754,iOS,3
+755,IPython,3
+756,ISO 15504,3
+757,ISO 9000,3
+758,ISO 9001,3
+759,ISO/IEC 12207,3
+760,ISO/IEC 24744,3
+761,Iterative and Incremental Development (IID),3
+762,Ivy,3
+763,Java,3
+764,Java Persistence Query Language,3
+765,Java Programming Language Compiler (Javac),3
+766,Java Stored Procedure,3
+767,Java Syntax,3
+768,Java Virtual Machine (JVM),3
+769,JavaScript,3
+770,JavaScript Library,3
+771,JavaScript Style Sheet,3
+772,Jenkins,3
+773,Jira,3
+774,jQuery,3
+775,Julia,3
+776,Jupyter,3
+777,Jupyter Notebook,3
+778,JupyterLab,3
+779,Kafka,3
+780,Kanban,3
+781,Kernel Debugger,3
+782,Kernel-Based Virtual Machine,3
+783,Key-value Database,3
+784,Key-value Database Management System,3
+785,Keyhole Markup Language,3
+786,Kibana,3
+787,Knowledge Engineering,3
+788,Kosmos Distributed File System (KFS),3
+789,Kotlin,3
+790,Laravel,3
+791,Lasso,3
+792,LaTeX,3
+793,Lean Software Development,3
+794,LeSS,3
+795,LibreSource Synchronizer,3
+796,Linked List,3
+797,Linker,3
+798,Linux,3
+799,Lisp,3
+800,List,3
+801,Loader,3
+802,Logstash,3
+803,macOS,3
+804,Mail Sorter,3
+805,Make,3
+806,Mapping,3
+807,MariaDB,3
+808,Markup Language,3
+809,Mastercam,3
+810,Maven,3
+811,Maya,3
+812,Mercurial,3
+813,Messaging Application Programming Interface,3
+814,Meta Language (ML),3
+815,Microsft SQL Server Data Engine (MSDE),3
+816,Microsoft .NET,3
+817,Microsoft Azure SQL Database,3
+818,Microsoft Foundation Class Library,3
+819,Microsoft Hyper-V,3
+820,Microsoft Java Virtual Machines,3
+821,Microsoft Soluitions Framework (MSF),3
+822,Microsoft SQL Server,3
+823,Microsoft SQL Servers,3
+824,Microsoft Visual Studio Debugger,3
+825,Middleware,3
+826,Middleware and Integration Software,3
+827,MISRA C,3
+828,Missing Data,3
+829,Mixed Reality,3
+830,ML,3
+831,Mobile Development,3
+832,Model-Driven Engineering (MDE),3
+833,Model-Driven Software Engineering,3
+834,Modelling,3
+835,Modelling Language,3
+836,MODO,3
+837,Molecular Query Language,3
+838,MongoDB,3
+839,MongoDB Atlas,3
+840,MongoDB Community Server,3
+841,MongoDB Enterprise Server,3
+842,Motion Graphic Design,3
+843,MS SQL Server,3
+844,Multi-model Database Management System,3
+845,Multiprocessing,3
+846,Multithreading,3
+847,MySQL,3
+848,MySQL Workbench,3
+849,MySQL++,3
+850,Nant,3
+851,NetBeans,3
+852,Netscape Server Application Programming Interface,3
+853,Nice,3
+854,Node.js,3
+855,NoSQL,3
+856,NP Completeness,3
+857,NuGet,3
+858,Numerical Analysis,3
+859,NumPy,3
+860,Object Database,3
+861,Object Oriented CSS,3
+862,Object-Oriented Database,3
+863,Object-Oriented Database Management System,3
+864,Object-Oriented Design,3
+865,Object-Oriented Programming (OOP),3
+866,Object-Relational Database,3
+867,Object-Relational Mapping (ORM),3
+868,Objective-C,3
+869,Ocaml,3
+870,OneFS Distributed File System,3
+871,Onshape,3
+872,Open Unified Process (OpenUP),3
+873,Operating System,3
+874,Operational Databases,3
+875,Optical Sorting,3
+876,Oracle,3
+877,Oracle Databases,3
+878,Oracle Developer Studio,3
+879,Oracle Netsuite,3
+880,Oracle NoSQL Database,3
+881,Oracle SQL Developer,3
+882,Oracle Virtual Machine,3
+883,Orcale VM VirtualBox,3
+884,Package Manager,3
+885,Palm PDA,3
+886,Pandas,3
+887,Parallel Computing,3
+888,Parallel Programming,3
+889,Parallel System,3
+890,Parallel Virtual Machine,3
+891,Parser,3
+892,Parser Creation Tool,3
+893,Pascal,3
+894,Payment Processing,3
+895,Performance Application Programming Interface,3
+896,Peripheral,3
+897,Perl,3
+898,Permutation,3
+899,Persistent Data Structure,3
+900,Personal Software Process (PSP),3
+901,Phalcon,3
+902,PHP,3
+903,PHP Development,3
+904,PHP Framework,3
+905,PHP Syntax and Semantics,3
+906,PHPMyAdmin,3
+907,Pig,3
+908,pip,3
+909,PL,3
+910,PL/SQL,3
+911,Platform,3
+912,Polytron Version Control System (PVCS),3
+913,Post-Processing,3
+914,PostgreSQL,3
+915,Powershell,3
+916,Printed Circuit Board,3
+917,Priority Queue,3
+918,Process and Methodology,3
+919,Profiler,3
+920,Profiling,3
+921,Programming Language,3
+922,Programming Language Pragmatic,3
+923,Programming Language Theory,3
+924,Programming Model,3
+925,Programming Paradigm,3
+926,Programming Tool,3
+927,Prolog,3
+928,Pseudocode,3
+929,PyCharm,3
+930,PyDev,3
+931,PyPI,3
+932,PyPM,3
+933,Python,3
+934,QEMU,3
+935,Quantum Computing Theory,3
+936,Query Language,3
+937,Quma Version Control System (QVCS),3
+938,QVCS,3
+939,R,3
+940,R Shiny,3
+941,Rake,3
+942,Random Forest Algorithm,3
+943,Rapid Application Development,3
+944,Rapid-Application Building (RAB),3
+945,Rapid-Application Development (RAD),3
+946,Rational Unified Process (RUP),3
+947,RCS,3
+948,React,3
+949,React Native,3
+950,Real-time Computing,3
+951,Redux,3
+952,Relational Database,3
+953,Relational Database Management System (RDSMS),3
+954,Release Automation,3
+955,Release Engineering,3
+956,Remote Debugging,3
+957,Rendering,3
+958,Repetition,3
+959,Representational state transfer (REST),3
+960,Responsive Design Principle,3
+961,Responsive Web Design,3
+962,RESTful API,3
+963,Reverse Engineering,3
+964,Revision Control,3
+965,Rhino,3
+966,Riak,3
+967,Robot,3
+968,RStudio,3
+969,Ruby,3
+970,Ruby on Rails,3
+971,RubyGems,3
+972,Rule-Based Programming,3
+973,Rust,3
+974,Salesforce Object Query Language (SOQL),3
+975,SAP,3
+976,Scala,3
+977,Scaled Agile Framework (SAFe),3
+978,Scheme,3
+979,Scientific Computing,3
+980,SciPy,3
+981,Script Debugger,3
+982,Scripting Language,3
+983,Scrum,3
+984,Scrum Methodology,3
+985,Search Algorithm,3
+986,Searching,3
+987,Security Assertion Markup Language (SAML),3
+988,Sed,3
+989,Selection,3
+990,SEMAT,3
+991,Sequence,3
+992,Service Provisioning Markup Language,3
+993,Shell,3
+994,Simula,3
+995,Simultaneous Localization And Mapping (SLAM) Algorithm,3
+996,SketchUp,3
+997,Smaltalk,3
+998,Social Computing,3
+999,Software Application,3
+1000,Software Architecture,3
+1001,Software as a Service (SaaS),3
+1002,Software Construction,3
+1003,Software Deployment,3
+1004,Software Design,3
+1005,Software Development,3
+1006,Software Development Kit (SDK),3
+1007,Software Development Life Cycle (SDLC),3
+1008,Software Documentation,3
+1009,Software Engineering,3
+1010,Software Interface,3
+1011,Software Maintenance,3
+1012,Software Management,3
+1013,Software Organization,3
+1014,Software Package,3
+1015,Software Process,3
+1016,Software Prototyping,3
+1017,Software Quality Assurance (SQA),3
+1018,Software Requirement,3
+1019,Software Stack,3
+1020,Software System,3
+1021,Software Testing,3
+1022,Software Tool,3
+1023,Solaris,3
+1024,Solid Modelling,3
+1025,Sort-Merge,3
+1026,Sorting,3
+1027,Sorting Algorithm,3
+1028,SortSite,3
+1029,Source Code Management,3
+1030,Source Control,3
+1031,SourceGear Vault,3
+1032,Spark,3
+1033,Spark Streaming,3
+1034,Special Effects,3
+1035,SPEM,3
+1036,Spiral Model,3
+1037,Sprite,3
+1038,Spyder,3
+1039,SQL Server Integration Services,3
+1040,SQL Server Reporting Services,3
+1041,SQLite,3
+1042,Stable Marriage Problem,3
+1043,Standard Generalized Markup Language,3
+1044,Standard Markup Language,3
+1045,Static Code Analysis Tool,3
+1046,Structured Programming,3
+1047,Structured Query Language (SQL),3
+1048,Structured Query Language Procedural Language (SQL PL),3
+1049,Structured Storage,3
+1050,Style Sheet Language,3
+1051,Subversion,3
+1052,Sun Microsystems Solaris,3
+1053,Swift,3
+1054,Sybase,3
+1055,Symbian OS,3
+1056,Symbolic Computation,3
+1057,System Center Virtual Machine Management,3
+1058,Systems on Chip (SoCs),3
+1059,T-SQL,3
+1060,Tabular Database,3
+1061,TC Shell,3
+1062,Tcl,3
+1063,Team Foundation Server,3
+1064,Team Software Process (TSP),3
+1065,Technical Documentation,3
+1066,Telephony Application Programming Interface,3
+1067,Teletraffic Engineering,3
+1068,Teradata,3
+1069,Teradata SQL,3
+1070,Terraform,3
+1071,Testing,3
+1072,Text Editor,3
+1073,Theoretical Computer Science,3
+1074,Theory of Computation,3
+1075,Tidyverse,3
+1076,Tomcat,3
+1077,Transact-SQL,3
+1078,Treatment Algorithm,3
+1079,Tree,3
+1080,Tree Algorithm,3
+1081,Type Theory,3
+1082,Ubiquitous Computing,3
+1083,Ubuntu,3
+1084,UI Design,3
+1085,Unified Process (UP),3
+1086,Unix,3
+1087,Unix Command,3
+1088,Unix Security,3
+1089,Unix Shell,3
+1090,Unix Tool,3
+1091,Unix Utility,3
+1092,Usability Engineering,3
+1093,User Interface (UI),3
+1094,User Interface Design,3
+1095,V-Model,3
+1096,Variable,3
+1097,VBScript,3
+1098,vcpkg,3
+1099,Verilog,3
+1100,Version Control,3
+1101,Version Control Software,3
+1102,Version Control System,3
+1103,Very Large Scale Integratoin,3
+1104,VHDL,3
+1105,Video Encoding,3
+1106,Vim,3
+1107,Virtual Machine,3
+1108,Virtual Machine Interface,3
+1109,Virtual Machine Manager,3
+1110,Virtual Reality (VR),3
+1111,Virtualization,3
+1112,Visual Basic,3
+1113,Visual Basic .NET,3
+1114,Visual Basic For Applications,3
+1115,Visual Build Pro,3
+1116,Visual C++,3
+1117,Visual Studio,3
+1118,Visual Studio Code,3
+1119,Visual Studio Community,3
+1120,Visual Studio Team Services,3
+1121,Visualization,3
+1122,Vmware,3
+1123,vSphere,3
+1124,Waterfall Model,3
+1125,Web Analytics,3
+1126,Web Application,3
+1127,Web Application Attack and Audit Framework,3
+1128,Web Application Description Language (WADL),3
+1129,Web Application Development,3
+1130,Web Application Framework,3
+1131,Web Architecture,3
+1132,Web Design,3
+1133,Web Development,3
+1134,Web Development Framework,3
+1135,Web Framework,3
+1136,Web Navigation,3
+1137,Web Property,3
+1138,Windows,3
+1139,Xcode,3
+1140,XEN,3
+1141,XML Database,3
+1142,Yacc,3
+1143,Yii,3
+1144,3D Segmentation,4
+1145,Adobe Analytics,4
+1146,Adversarial Machine Learning,4
+1147,Agglomerative Clustering,4
+1148,Alteryx,4
+1149,Analysis of Covariance,4
+1150,Analysis of Variance (ANOVA),4
+1151,Analytical Chemistry,4
+1152,Analytical Thinking,4
+1153,Anomaly Detection,4
+1154,Applicant Tracking System,4
+1155,Area Map,4
+1156,Artificial Intelligence (AI),4
+1157,Artificial Neural Network (ANN),4
+1158,ATLAS.ti,4
+1159,Augmented Reality (AR),4
+1160,Autocorrelation (ACF),4
+1161,Autoencoder,4
+1162,Automated Essay Scoring (AES),4
+1163,Automated Machine Learning,4
+1164,Automated Reasoning,4
+1165,Automatic Identification,4
+1166,Automatic Number Plate Recognition,4
+1167,Automatic Summarization,4
+1168,Autonomous Vehicle,4
+1169,Autoregressive (AR) Model,4
+1170,Autoregressive Integrated Moving Average (ARIMA) Model,4
+1171,Autoregressive-Moving-Average (ARMA) Model,4
+1172,Azure Machine Learning,4
+1173,Bag-of-words,4
+1174,Bagging,4
+1175,Balanced Iterative Reducing and Clustering using Hierarchies (BIRCH),4
+1176,Bar Chart,4
+1177,Bayes Network,4
+1178,Bayesian Estimator,4
+1179,Bayesian Inference,4
+1180,Bayesian Modelling,4
+1181,Bayesian Networks,4
+1182,Bayesian Probability,4
+1183,Bayesian Regression,4
+1184,Bayesian Statistics,4
+1185,Bernoulli Regression,4
+1186,Big Data,4
+1187,Big Data Analysis,4
+1188,Big Data Tool,4
+1189,BigML,4
+1190,Bigram,4
+1191,Binomial Regression,4
+1192,Bioinformatics,4
+1193,Bioinformatics Analysis,4
+1194,Boosting,4
+1195,Box Plot,4
+1196,Bubble Chart,4
+1197,Bug Tracking System,4
+1198,Burn Down Chart,4
+1199,Business Intelligence (BI),4
+1200,Business Intelligence Development,4
+1201,Business Intelligence Development Studio,4
+1202,Business Intelligence Testing,4
+1203,Business Intelligence Tool,4
+1204,Caffe,4
+1205,Canonical-Correlation Analysis (CCA),4
+1206,CatBoost,4
+1207,CATS Applicant Tracking System,4
+1208,Central Limit Theorem,4
+1209,Chart Abstraction,4
+1210,Chart.js,4
+1211,Chatbot,4
+1212,Chatterbot,4
+1213,Classification,4
+1214,Classification and Regression Tree,4
+1215,CloudFormation,4
+1216,Cluster Analysis,4
+1217,Cluster-computing Framework,4
+1218,Clustering,4
+1219,Clustering Using Representatives (CURE),4
+1220,Collocation Extraction,4
+1221,Compound Term Processing,4
+1222,Computer Audition,4
+1223,Computer Vision,4
+1224,Computer-Assisted Reviewing,4
+1225,Computer-Assisted Translation (CAT),4
+1226,Concept Mining,4
+1227,Concordancer,4
+1228,Conditional Random Field (CRF),4
+1229,Conditional Random Fields,4
+1230,Confidence Intervals,4
+1231,Content-Based Image Retrieval,4
+1232,Control Chart,4
+1233,Convolutional Neural Network (CNN),4
+1234,Convolutional Neural Network (ConvNet),4
+1235,Copula,4
+1236,Core Architecture Data Model,4
+1237,Coreference Resolution,4
+1238,Correlation,4
+1239,Covariance,4
+1240,Cross Validation,4
+1241,Cross-validation,4
+1242,D3.js,4
+1243,Dash,4
+1244,Dashboard,4
+1245,Data,4
+1246,Data Acquisition,4
+1247,Data Analysis,4
+1248,Data Analysis And Display (DADiSP),4
+1249,Data Analytics,4
+1250,Data Architecture,4
+1251,Data Cleansing,4
+1252,Data Engineering,4
+1253,Data Language,4
+1254,Data Manipulation,4
+1255,Data Mining,4
+1256,Data Mining Query Language (DMQL),4
+1257,Data Modelling,4
+1258,Data Pipeline,4
+1259,Data Preparation,4
+1260,Data Presentation,4
+1261,Data Reporting,4
+1262,Data Science Tool,4
+1263,Data Scraping,4
+1264,Data Sharing,4
+1265,Data Storytelling,4
+1266,Data Visualization,4
+1267,Data Wrangling,4
+1268,DataRobot,4
+1269,Dataset,4
+1270,Datawrapper,4
+1271,DBSCAN,4
+1272,Decision Tree,4
+1273,Decomposition of Time Series,4
+1274,Dedoose,4
+1275,Deep Learning,4
+1276,DeepDream,4
+1277,Degree of Freedom,4
+1278,Density-Based Spatial Clustering of Applications with Noise (DBSCAN),4
+1279,Descriptive Statistics,4
+1280,Digital Image Processing,4
+1281,Dimensionality Reduction,4
+1282,Distributed Social Networking Protocols,4
+1283,Divisive Clustering,4
+1284,E Charts,4
+1285,Echo State Network (ESN),4
+1286,Educational Data Mining,4
+1287,Efficient-Market Hypothesis,4
+1288,Ensemble,4
+1289,Ensemble Learning,4
+1290,Ensemble Method,4
+1291,Errors and Residuals,4
+1292,Erwin,4
+1293,Example-Based Machine Translation (EBMT),4
+1294,Expectation-Maximization (EM),4
+1295,Exploratory Analysis,4
+1296,Exploratory Data Analysis,4
+1297,Exponential Smoothing,4
+1298,F-test,4
+1299,Face Recognition,4
+1300,Facial Recognition,4
+1301,Factor Analysis,4
+1302,Feature Detection,4
+1303,Feature Engineering,4
+1304,Feature Extraction,4
+1305,Feature Labs,4
+1306,Feature Selection,4
+1307,Feed Forward Neural Network,4
+1308,Feedback Neural Network (FNN),4
+1309,Financial Data Analysis,4
+1310,Financial Data Storytelling,4
+1311,Financial Modelling,4
+1312,Flow Process Chart,4
+1313,Frequentist Inference,4
+1314,FusionCharts,4
+1315,Gantt Chart,4
+1316,Gated Recurrent Unit (GRU),4
+1317,Gaussian Process,4
+1318,General Linear Model,4
+1319,Generalized Linear Model,4
+1320,Generative Adversarial Network (GAN),4
+1321,Genetic Programming,4
+1322,Geographic Information System (GIS),4
+1323,ggplot2,4
+1324,Goal Tracking System,4
+1325,Google Analytics,4
+1326,Grammar Checker,4
+1327,Granger Causality,4
+1328,Graph Transformer Networks,4
+1329,Graphical Model,4
+1330,Ground Truth Acquisition,4
+1331,H2O,4
+1332,Handwriting Recognition,4
+1333,Heat Map,4
+1334,Hidden Markov Model (HMM),4
+1335,Hidden Markov Models,4
+1336,Hierarchical Clustering,4
+1337,HighCharts,4
+1338,Histogram,4
+1339,Hyperparameter Optimization,4
+1340,Hypothesis Testing,4
+1341,IBM Cognos Business Intelligence,4
+1342,Image Retrieval,4
+1343,Image Search,4
+1344,Image Segmentation,4
+1345,Image Sensor Technology,4
+1346,Imitation Learning,4
+1347,Impact Metric,4
+1348,IMR,4
+1349,Incremental Learning,4
+1350,Independent Component Analysis (ICA),4
+1351,Inductive Logic Programming (ILP),4
+1352,Inductive Machine Learning,4
+1353,Inference,4
+1354,Inferential Statistics,4
+1355,Informal Retrieval,4
+1356,Intelligent Word Recognition,4
+1357,Interactive Fiction,4
+1358,Interpretational AI,4
+1359,Interval Estimation,4
+1360,Isotonic Regression,4
+1361,Issue Tracking System,4
+1362,Java Data Mining,4
+1363,Joint Consultation Command And Control Information Exchange Data Model (JC3IEDM),4
+1364,k-means Clustering,4
+1365,k-Nearest Neighbour (kNN),4
+1366,K-Nearest Neighbours Algorithm,4
+1367,Keras,4
+1368,Kernel-based Principal Component Analysis (KPCA),4
+1369,Knime,4
+1370,Kurtosis,4
+1371,Language Identification,4
+1372,LASSO Regression,4
+1373,Latent Dirichlet Allocation (LDA),4
+1374,Latent Semantic Analysis,4
+1375,Learning to Learn,4
+1376,Lemmatization,4
+1377,Line Chart,4
+1378,Linear Discriminant Analysis (LDA),4
+1379,Linear Regression,4
+1380,Log-Normal Distribution,4
+1381,Logical Data Models,4
+1382,Logistic Regression,4
+1383,Long Short-Term Memory (LSTM),4
+1384,Lua,4
+1385,Luceo,4
+1386,Lumen Data,4
+1387,Machine Learning,4
+1388,Machine Learning Algorithm,4
+1389,Machine Translation,4
+1390,MapR,4
+1391,MapReduce,4
+1392,Marketing Analytics,4
+1393,Matplotlib,4
+1394,Maximum Entropy Markov Models,4
+1395,Mean Shift,4
+1396,Measure of Central Tendency,4
+1397,Measure of Dispersion,4
+1398,Measure of Variability,4
+1399,Microsoft Business Intelligence,4
+1400,Microsoft Cognitive Toolkit (CNTK),4
+1401,Microsoft Power BI,4
+1402,Microsoft Visio,4
+1403,MLBase,4
+1404,MLFlow,4
+1405,Model Based Reinforcement Learning,4
+1406,Model Evaluation,4
+1407,Model Selection,4
+1408,Model Validation,4
+1409,Motion Analysis,4
+1410,Movement Tracking System,4
+1411,Moving Average,4
+1412,Multi-document Summarization,4
+1413,Multi-task Learning,4
+1414,Multilayer Perceptron,4
+1415,Multiple Linear Regression,4
+1416,Multivariate Analysis of Variance,4
+1417,Multivariate Linear Regression,4
+1418,n-gram,4
+1419,Naïve Bayes,4
+1420,Named-Entity Recognition,4
+1421,Natural Language Generation,4
+1422,Natural Language Processing (NLP),4
+1423,Natural Language Processing System,4
+1424,Natural Language Processing Toolkit (NLTK),4
+1425,Natural Language Programming,4
+1426,Natural Language Toolkit,4
+1427,Natural Language Understanding,4
+1428,Natural Language User Interface,4
+1429,Negative Binomial Distribution,4
+1430,Network Analysis,4
+1431,Network Analysis Module,4
+1432,Neural Machine Translation (NMT),4
+1433,Neural Network,4
+1434,Noise Reduction,4
+1435,Non-negative Matrix Factorization (NMF),4
+1436,Nonlinear Dimensionality Reduction,4
+1437,Nonlinear Regression,4
+1438,Normal Distribution,4
+1439,Noticing Hypothesis,4
+1440,Object Detection,4
+1441,Object Recognition,4
+1442,Object-Oriented Data Model For Database Modelling,4
+1443,Onthology Learning,4
+1444,OpenCV,4
+1445,Optical Character Recognition,4
+1446,Optical Mark Recognition,4
+1447,Oracle Business Intelligence Enterprise Edition,4
+1448,Ordering Points To Identify the Clustering Structure (OPTICS),4
+1449,Ordinary Least Squares,4
+1450,Organizational Chart,4
+1451,Outliers,4
+1452,Overfitting,4
+1453,Pachinko Allocation,4
+1454,Parallel Ensemble Method,4
+1455,Parametric Test,4
+1456,Parsec,4
+1457,Parseint,4
+1458,Parser Generators,4
+1459,Parsing,4
+1460,Part-of-speech (POS) Tagging,4
+1461,Partial Autocorrelation (PACF),4
+1462,Pattern Recognition,4
+1463,Paxata,4
+1464,Perceptron,4
+1465,Pie Chart,4
+1466,Platt Calibration,4
+1467,Plotly,4
+1468,Point Estimation,4
+1469,Poisson Distribution,4
+1470,Poisson Regression,4
+1471,Polynomial Regression,4
+1472,Population,4
+1473,Predictive Analytics,4
+1474,Predictive Modelling,4
+1475,Predictive Text,4
+1476,Principal Component Analysis (PCA),4
+1477,Probabilistic Network,4
+1478,Probability,4
+1479,Probability Distribution,4
+1480,Probability Theory,4
+1481,Probably Approximately Correct (PAC) Learning,4
+1482,Project Chart,4
+1483,Proper Generalized Decomposition (PGD),4
+1484,PySpark,4
+1485,PyTorch,4
+1486,Q-learning,4
+1487,Qlik,4
+1488,Qlik Sense,4
+1489,QlikView,4
+1490,Qualitative Data Analysis,4
+1491,Quantitative Data Analysis,4
+1492,Qubole,4
+1493,Query Type,4
+1494,Question Answering,4
+1495,Random Forest,4
+1496,Random Testing,4
+1497,Random Variable,4
+1498,RapidMiner,4
+1499,Recurrent Neural Network (RNN),4
+1500,Recurrent Sliding Windows,4
+1501,Regression,4
+1502,Regression Analysis,4
+1503,Regression Modelling,4
+1504,Regression Testing,4
+1505,Regression Validation,4
+1506,Regular Expressions,4
+1507,Reinforcement Learning,4
+1508,Relational Data Mining,4
+1509,Relevance Vector Machine (RVM),4
+1510,Remote Sensing,4
+1511,Restricted Boltzmann Machine (RBM),4
+1512,Ridge Regression,4
+1513,Robotics,4
+1514,Rule-based Machine Translation,4
+1515,Sampling,4
+1516,Sampling Distribution,4
+1517,SAP HANA,4
+1518,SAS,4
+1519,SAS Statistical Analysis,4
+1520,SAS Text Miner,4
+1521,Scatter Plot,4
+1522,Scikit-learn,4
+1523,Scoring Metric,4
+1524,Seaborn,4
+1525,Self-Organizing Feature Map (SOFM),4
+1526,Self-Organizing Map (SOM),4
+1527,Semantic Analysis,4
+1528,Semantic Parsing,4
+1529,Semantic Search,4
+1530,Semantic Similarity,4
+1531,Semantic Technology,4
+1532,Semantic Translation,4
+1533,Semi-supervised Learning,4
+1534,Semi-supervised Machine Learning,4
+1535,Sentence Extraction,4
+1536,Sentence Segmentation,4
+1537,Sentiment Analysis,4
+1538,Sequence Generation,4
+1539,Sequence Learning Process,4
+1540,Sequence Prediction,4
+1541,Sequence Recognition,4
+1542,Sequential Decision,4
+1543,Sequential Ensemble Method,4
+1544,Sequential Learning,4
+1545,Sequential Prediction Problem,4
+1546,Sequential Probability Ratios Testing,4
+1547,Sequential Supervised Learning,4
+1548,Shift Invariant Artificial Neural Network (SIANN),4
+1549,Signal Processing,4
+1550,Significance Test,4
+1551,Simple Linear Regression,4
+1552,Sisense,4
+1553,Skewness,4
+1554,Sliding-window Methods,4
+1555,Social Networking Tool,4
+1556,Soft Computing,4
+1557,Space Invariant Artificial Neural Network (SIANN),4
+1558,Speaker Recognition,4
+1559,Spectral Analysis,4
+1560,Spectral Clustering,4
+1561,Speech Processing,4
+1562,Speech Recognition,4
+1563,Speech Segmentation,4
+1564,Speech Synthesis,4
+1565,Spell Checker,4
+1566,SPSS,4
+1567,Stacked Bar Chart,4
+1568,STATA,4
+1569,State-Action-Reward-State-Action (SARSA),4
+1570,Statistical AI,4
+1571,Statistical Analysis,4
+1572,Statistical Hypothesis Testing,4
+1573,Statistical Model,4
+1574,Statistical Modelling,4
+1575,Statistical Semantic,4
+1576,Statistical Theory,4
+1577,Statistics,4
+1578,Stemming,4
+1579,Stochastic Process,4
+1580,Stopwords,4
+1581,Structured Prediction,4
+1582,Student's t-test,4
+1583,Supervised Learning,4
+1584,Supervised Machine Learning,4
+1585,Support Vector Machine (SVM),4
+1586,Survey Data Analysis,4
+1587,Symbolic AI,4
+1588,Syntax Guessing,4
+1589,t-distributed Stochastic Neighbour Embedding (t-SNE),4
+1590,Tableau,4
+1591,Temporal Difference (TD) Learning,4
+1592,TensorFlow,4
+1593,Terminology Extraction,4
+1594,Testing Hypothesis,4
+1595,Text Analysis,4
+1596,Text Chunking,4
+1597,Text Mining,4
+1598,Text Parsing,4
+1599,Text Recognition,4
+1600,Text Segmentation,4
+1601,Text Simplification,4
+1602,Textual Entailment,4
+1603,Theano,4
+1604,Time Series,4
+1605,Time Series Analysis,4
+1606,Time Series Forecasting,4
+1607,Time Series Model,4
+1608,Toad Data Modeler,4
+1609,Topic Model,4
+1610,Topic Modelling,4
+1611,Torch,4
+1612,Tracking System,4
+1613,Transformer,4
+1614,Transfuction,4
+1615,Trend Estimation,4
+1616,Trifacta,4
+1617,Trigram,4
+1618,Truecasing,4
+1619,U-Net,4
+1620,Uniform Distribution,4
+1621,Univariate Analysis,4
+1622,Unsupervised Learning,4
+1623,Unsupervised Machine Learning,4
+1624,Variance Analysis,4
+1625,Vector Autoregression (VAR),4
+1626,Vehicle Tracking System,4
+1627,Virtual Assistant,4
+1628,Virtual Intelligence,4
+1629,Virtual Reality,4
+1630,Voice User Interface,4
+1631,Web Scraping,4
+1632,Weka,4
+1633,Word Segmentation,4
+1634,Word-sense Disambiguation,4
+1635,Xenographic,4
+1636,Yammer,4
+1637,Z-test,4
+1638,360 Secure Browser,5
+1639,Abiquo Enterprise Edition,5
+1640,Access Control,5
+1641,Access Control Facility,5
+1642,Access Control List,5
+1643,Access Control System,5
+1644,Advanced Encryption Standard (AES),5
+1645,Advanced Persistent Threat (APT),5
+1646,Alibaba Cloud,5
+1647,Amazon Silk,5
+1648,Amazon Web Service (AWS),5
+1649,Anonymity Network,5
+1650,Antivirus Software,5
+1651,Apache Hypertext Transfer Protocol Server,5
+1652,Application Layer,5
+1653,Application Level Multicast Infrastructure (ALMI),5
+1654,Application Security,5
+1655,AppScale,5
+1656,Atlassian,5
+1657,Authentication,5
+1658,Authentication Authorization And Accounting (AAA) Server,5
+1659,Authentication Protocol,5
+1660,Authentication Server,5
+1661,Automatic Private IP Addressing (APIPA),5
+1662,Automation,5
+1663,Automative Security,5
+1664,Avant Browser,5
+1665,Avast Secure Browser,5
+1666,Azure,5
+1667,Azure Kubernetes Service,5
+1668,Backdoor,5
+1669,Basic Access Authentication,5
+1670,Basilisk,5
+1671,Beaker,5
+1672,Berkeley Socket,5
+1673,Biometric Spoofing,5
+1674,BitLocker Drive Encryption,5
+1675,Blink,5
+1676,Blink-based Web Brower,5
+1677,Blisk,5
+1678,Block Cipher,5
+1679,Blockchain,5
+1680,Bluemix,5
+1681,Border Gateway Protocol (BGP),5
+1682,Box,5
+1683,Brave,5
+1684,Browser Engine,5
+1685,Cake Browser,5
+1686,Centralized Storage System,5
+1687,Cerfified Ethical Hacker,5
+1688,Certified Information Systems Security Professional (CISSP),5
+1689,Chef,5
+1690,Chromium,5
+1691,Cipher,5
+1692,Ciphertext,5
+1693,Cisco Certified Network Associate (CCNA),5
+1694,Cisco Router,5
+1695,Cloud API,5
+1696,Cloud Application,5
+1697,Cloud Computing,5
+1698,Cloud Computing Architecture,5
+1699,Cloud Computing Security,5
+1700,Cloud Foundry,5
+1701,Cloud Platform,5
+1702,Cloud Service,5
+1703,Cloud Storage,5
+1704,Cloud Technology,5
+1705,CloudBolt,5
+1706,Cloudera,5
+1707,Cloudera Impala,5
+1708,Cloudera Manager,5
+1709,CloudStack,5
+1710,CM Browser,5
+1711,Coc Coc Browser,5
+1712,Cocaine,5
+1713,Coherent Remote File System (CRFS),5
+1714,Common Vulnerabilities and Exposures (CVE),5
+1715,Common Vulnerability Scoring System (CVSS),5
+1716,Common Weakness Enumeration (CWE),5
+1717,Comodo Dragon,5
+1718,Comodo IceDragon,5
+1719,CompTIA Security,5
+1720,Computer Access Control,5
+1721,Computer Crime,5
+1722,Computer Fraud,5
+1723,Computer Security,5
+1724,Computer Simulation,5
+1725,Computer Virus,5
+1726,Computer Worm,5
+1727,Computing Platform,5
+1728,Computing Technology,5
+1729,Confluence,5
+1730,Conkeror,5
+1731,Connectionless-Mode Network Service,5
+1732,Consumer Privacy,5
+1733,Cookies,5
+1734,Counter Mode Cipher Block Chaining Message Authentication Code Protocol (CCMP),5
+1735,CPU Socket,5
+1736,Creatio,5
+1737,Critix Cloud,5
+1738,Cryptocurrency,5
+1739,Cryptographic Hash Function,5
+1740,Cryptographic Protocol,5
+1741,Cryptographic Pseudorandom Number Generator (CPRNG),5
+1742,Cryptographically Secure Pseudorandom Number Generator (CSPRNG),5
+1743,Cryptography,5
+1744,CtrlS,5
+1745,Cybercrime,5
+1746,Cybersecurity,5
+1747,Cybersex Trafficking,5
+1748,Cyberwarfare,5
+1749,Data Encryption Standard,5
+1750,Data Link Layer,5
+1751,Data Privacy,5
+1752,Data Privacy Law,5
+1753,Data Security,5
+1754,Data Transmission,5
+1755,Data Transmission Network,5
+1756,Data-centric Security,5
+1757,Database Encryption,5
+1758,Dataflow,5
+1759,Dataflow Architecture,5
+1760,Decision Support System,5
+1761,Denial-of-service (DoS),5
+1762,Deterministic Random Bit Generator (DRBG),5
+1763,Diffie-Hellman Key Exchange,5
+1764,Digital Library,5
+1765,Digital Marketing System,5
+1766,Digital Storage Systems Interconnect,5
+1767,DigitalOcean,5
+1768,Direct-access Attack,5
+1769,Discrete Logarithm,5
+1770,Distance Vector Multicast Routing Protocol,5
+1771,Distance-Vector Routing Protocol,5
+1772,Distributed Denial-of-service (DDoS),5
+1773,Distributed File System,5
+1774,Distributed System Security Architecture,5
+1775,DNS Security Extension,5
+1776,DNS Server,5
+1777,Dolphin Browser,5
+1778,Domain Name System (DNS),5
+1779,Dooble,5
+1780,Dropbox,5
+1781,Dynamic DNS,5
+1782,Dynamic Host Configuration Protocol (DHCP),5
+1783,Eavesdropping,5
+1784,Elastic Load Balancer,5
+1785,Electrical Socket,5
+1786,Electronic Access Control,5
+1787,Electronic Filing System,5
+1788,Electronic Key Management System,5
+1789,Elliptic Curve Cryptography,5
+1790,Emacs Web Wowser (eww),5
+1791,Email Spoofing,5
+1792,EMC Atmos,5
+1793,EMC Cloud Computing,5
+1794,Encrypted Key Exchange,5
+1795,Encrypting File System,5
+1796,Encryption,5
+1797,Encryption Software,5
+1798,Engine Yard,5
+1799,Enhanced Interior Gateway Routing Protocol,5
+1800,Enterprise Information System,5
+1801,Epic,5
+1802,Ethernet,5
+1803,Ethernet Local Area Network,5
+1804,Ethernet Over Twisted Pair,5
+1805,Ethernet Physical Layer,5
+1806,Ethernet VPN (EVPN),5
+1807,Eucalyptus,5
+1808,Exploit,5
+1809,Extensible Authentication Protocol,5
+1810,Falkon,5
+1811,Fast Ethernet,5
+1812,Fibre Channel Over Ethernet,5
+1813,File Format,5
+1814,File System,5
+1815,File System Permission,5
+1816,File Transfer Protocol (FTP),5
+1817,Filesystem-Level Encryption,5
+1818,Financial Privacy,5
+1819,Firewall,5
+1820,Force.com,5
+1821,Fujitsu,5
+1822,Gateway Load Balancing Protocol,5
+1823,GE Predix,5
+1824,Gecko,5
+1825,Gecko-based Web Browser,5
+1826,General Parallel File System,5
+1827,Geographic Information System,5
+1828,Gigabit Ethernet,5
+1829,Global Server Load Balancing,5
+1830,GNOME Web,5
+1831,GNU IceCat,5
+1832,GoGrid,5
+1833,Google App Engine,5
+1834,Google Chart API,5
+1835,Google Chrome,5
+1836,Google Cloud Platform (GCP),5
+1837,Google Drive,5
+1838,Google Kubernetes Engine (GKE),5
+1839,Google Services,5
+1840,Google Workspace,5
+1841,GreenButton,5
+1842,GreenQloud,5
+1843,Hadoop Common,5
+1844,Hadoop Ozone,5
+1845,Hadoop YARN,5
+1846,Hardware Random-Number Generator (HRNG),5
+1847,Hardware Security,5
+1848,Helion,5
+1849,Heroku,5
+1850,High Assurance Internet Protocols Encryptor,5
+1851,Hortonworks Sandbox,5
+1852,Hot Standby Router Protocol,5
+1853,HP Cloud,5
+1854,HTTP Live Streaming,5
+1855,HTTP Method,5
+1856,Hyper-V,5
+1857,Hypertext Transfer Protocol (HTTP),5
+1858,Hypertext Transfer Protocol Secure (HTTPS),5
+1859,IBM Cloud,5
+1860,IBM Cloud Computing,5
+1861,IBM Disk Storage System,5
+1862,IBM Resource Access Control Facility,5
+1863,IBM XIV Storage System,5
+1864,iCab,5
+1865,iland,5
+1866,Informatics,5
+1867,Information and Communications Technology (ICT),5
+1868,Information Management,5
+1869,Information Privacy,5
+1870,Information Retrieval,5
+1871,Information Security,5
+1872,Information Storage System,5
+1873,Information System,5
+1874,Information Systems Security,5
+1875,Information Systems Security Assessment Framework (ISSAF),5
+1876,Information Threat,5
+1877,Infrastructure as a Service (IaaS),5
+1878,Inktank,5
+1879,Integrated Service Router,5
+1880,Integrated Windows Authentication,5
+1881,Interior Gateway Routing Protocols,5
+1882,Internet,5
+1883,Internet Explorer,5
+1884,Internet Key Exchange,5
+1885,Internet Layer,5
+1886,Internet Message Access Protocol (IMAP),5
+1887,Internet of Things (IoT),5
+1888,Internet Protocl version 4 (IPv4),5
+1889,Internet Protocl version 6 (IPv6),5
+1890,Internet Protocol (IP),5
+1891,Internet Protocol Suite,5
+1892,Internet Security,5
+1893,Internet Security Association And Key Management Protocol,5
+1894,Intrusion Detection System,5
+1895,IP Address,5
+1896,IP Address Blocking,5
+1897,IP Address Management,5
+1898,IP Address Spoofing,5
+1899,IP Addressing,5
+1900,IP Multicasting,5
+1901,IP Routing,5
+1902,Iplant Web Server,5
+1903,Isilon,5
+1904,IT Operations,5
+1905,Java Cryptography Architecture,5
+1906,Java Cryptography Extension,5
+1907,Java Secure Socket Extension,5
+1908,JavaScript Object Notation (JSON),5
+1909,Jelastic,5
+1910,Journaling File System,5
+1911,Joyent,5
+1912,K-Meleon,5
+1913,Kerberos,5
+1914,Kernel-based Virtual Machine (KVM),5
+1915,Key Management,5
+1916,Key Management Interoperability Protocol,5
+1917,Keylogger,5
+1918,Keystroke Logging,5
+1919,Konqueror,5
+1920,Kubernetes,5
+1921,LenelS2,5
+1922,libguestfs,5
+1923,libvirt,5
+1924,Lightweight Directory Access Protocol (LDAP),5
+1925,Link Aggregation,5
+1926,Link Layer,5
+1927,Link Layer Discovery Protocol,5
+1928,Link Layer Topology Discovery,5
+1929,Link-State Routing Protocol,5
+1930,Links,5
+1931,Linode,5
+1932,Load Balancing,5
+1933,Logic Bomb,5
+1934,Lunacloud,5
+1935,Lunascape,5
+1936,Lynx,5
+1937,MAC Spoofing,5
+1938,Malware,5
+1939,Malware Analysis,5
+1940,Malware Detection,5
+1941,Malwarebytes' Anti-Malware,5
+1942,Maxthon,5
+1943,Media Access Control,5
+1944,Media Gateway Control Protocol (MGCP),5
+1945,Medical Privacy,5
+1946,Medium Access Control,5
+1947,Mendix,5
+1948,Message Authentication Code (MAC),5
+1949,Metro Ethernet,5
+1950,Microsoft Azure,5
+1951,Microsoft Edge,5
+1952,Microsoft Office 365,5
+1953,Microsoft OneDrive,5
+1954,Microsoft Personal Web Server,5
+1955,Midori,5
+1956,MindSphere,5
+1957,Mirantis,5
+1958,Mobile IP,5
+1959,Mobile Security,5
+1960,Mobile Security Gateway,5
+1961,Modular Multiplication-Based Block Cipher (MMB),5
+1962,Monte Carlo Method,5
+1963,Mozilla Firefox,5
+1964,Multi-Factor Authentication,5
+1965,Multicast Address Allocation Server,5
+1966,Multicast Routing Protocol,5
+1967,Multicast Source Discovery Protocol,5
+1968,Multicasting,5
+1969,Multimedia Information System,5
+1970,Multitopology Routing Configuration,5
+1971,Navel Whale,5
+1972,NetFront Browser,5
+1973,Netlify,5
+1974,NetSurf,5
+1975,Network,5
+1976,Network Access Control,5
+1977,Network Architecture,5
+1978,Network Component,5
+1979,Network File System,5
+1980,Network Layer,5
+1981,Network Load Balancing,5
+1982,Network Load Balancing Service,5
+1983,Network Management,5
+1984,Network News Transfer Protocol (NNTP),5
+1985,Network Performance Evaluation,5
+1986,Network Protocol,5
+1987,Network Routing,5
+1988,Network Scheduler,5
+1989,Network Security,5
+1990,Network Service,5
+1991,Network Socket,5
+1992,Network Time Protocol (NTP),5
+1993,Network Topology,5
+1994,Network-Attached Storage System,5
+1995,Nimbula,5
+1996,Nimbus,5
+1997,NT File System (NTFS),5
+1998,Offensive Security Certified Professional (OSCP),5
+1999,On-Demand Multicast Routing Protocol (ODMRP),5
+2000,Open Access Network (OAN),5
+2001,Open Cloud Computing Interface,5
+2002,OpenIO,5
+2003,OpenNebula,5
+2004,openQRM,5
+2005,OpenShift,5
+2006,OpenStack,5
+2007,Opera,5
+2008,Operations,5
+2009,Optimized Link State Routing Protocol,5
+2010,Oracle Cloud,5
+2011,Oracle VirtualBox,5
+2012,Oracle VM,5
+2013,OrionVM,5
+2014,Otter Browser,5
+2015,OutSystems,5
+2016,Ovirt,5
+2017,Pale Moon,5
+2018,Password,5
+2019,Password Authentication Protocol,5
+2020,Password Cracking,5
+2021,Password Generator,5
+2022,Password Management,5
+2023,Password Policy,5
+2024,Password Safe,5
+2025,Password Synchronization,5
+2026,Password-Authenticated Key Agreement,5
+2027,Payload,5
+2028,Phising,5
+2029,Physical Security,5
+2030,PirateBrowser,5
+2031,Platform as a Service (PaaS),5
+2032,Pluggable Authentication Module (PAM),5
+2033,Post Office Protocol (POP),5
+2034,Precision Time Protocol (PTP),5
+2035,Pretty Good Privacy (PGP),5
+2036,Privacy,5
+2037,Privacy Law,5
+2038,Privilege Escalation,5
+2039,Procedural Generation,5
+2040,Process Control System,5
+2041,Protocol,5
+2042,Protocol Independent Multicast,5
+2043,Pseudorandom Number Generator (PRNG),5
+2044,Public Key Cryptography,5
+2045,Public Key Cryptography Standards (PKCS),5
+2046,Public Key Infrastructure,5
+2047,Public-key Encryption,5
+2048,Puffin Browser,5
+2049,Puppet,5
+2050,PythonAnywhere,5
+2051,QQ Browser,5
+2052,Quantum Cryptography,5
+2053,qutebrowser,5
+2054,Rackspace,5
+2055,Rackspace Cloud,5
+2056,Random Number Generation (RNG),5
+2057,Ransomware,5
+2058,Raw Socket,5
+2059,Red Hat,5
+2060,Remote Authentication Dial In User Service (RADIUS),5
+2061,Right to Financial Privacy Act,5
+2062,RightScale,5
+2063,Rivest-Shamir-Adleman (RSA),5
+2064,Role-Based Access Control (RBAC),5
+2065,Rootkit,5
+2066,Route Management,5
+2067,Router,5
+2068,Routing Protocol,5
+2069,Runtime Application Self-protection,5
+2070,Safari,5
+2071,Safe Swiss Cloud,5
+2072,SalamWeb,5
+2073,Samsung Internet Browser,5
+2074,SAP Cloud Platform,5
+2075,Scalr,5
+2076,Screen Scraper,5
+2077,Scripting,5
+2078,SeaMonkey,5
+2079,Secure by Default,5
+2080,Secure by Design,5
+2081,Secure Coding,5
+2082,Secure Hash Algorithm,5
+2083,Secure Hypertext Transfer Protocol,5
+2084,Secure Password Authentication,5
+2085,Secure Remote Password Protocol,5
+2086,Secure Shell (SSH),5
+2087,Secure Socket Layer (SSL),5
+2088,Security,5
+2089,Security Exploit,5
+2090,Security Management,5
+2091,Security-focused Operating System,5
+2092,Sentry,5
+2093,Simple Password Exponential Key Exchange (SPEKE),5
+2094,Simple Public Key Infrastructure,5
+2095,Sleipnir,5
+2096,SlimBrowser,5
+2097,Social Engineering,5
+2098,Social Information System,5
+2099,Social Security,5
+2100,Socket,5
+2101,Socket Programming,5
+2102,Socket.io,5
+2103,Socketserver,5
+2104,SoftLayer,5
+2105,Source-Specific Multicast,5
+2106,Spoofing,5
+2107,Sputnik,5
+2108,Spyware,5
+2109,SQL Injection,5
+2110,SRWare Iron,5
+2111,Steganography,5
+2112,Storage Management,5
+2113,Storage System,5
+2114,Stream Cipher,5
+2115,Stream Processing,5
+2116,Stream Restoration,5
+2117,Streaming,5
+2118,Subnet,5
+2119,Subnetwork,5
+2120,Substitution Cipher,5
+2121,Support,5
+2122,surf,5
+2123,Symmetric-key Encryption,5
+2124,System Administration,5
+2125,System Analysis,5
+2126,Tabular Data Stream,5
+2127,Tampering,5
+2128,Technical Support,5
+2129,Telecommunication,5
+2130,TenFourFox,5
+2131,Terminal Access Controller Access-Control System (TACACS),5
+2132,Tor,5
+2133,Transmission Control Protocol (TCP),5
+2134,Transport Layer,5
+2135,Transport Layer Security (TLS),5
+2136,UC Browser,5
+2137,Uniform Resource Identifier (URI) Scheme,5
+2138,Unix File System,5
+2139,User Datagram Protocol (UDP),5
+2140,Value Stream Mapping,5
+2141,Verification And Validation,5
+2142,Virtual IP Address,5
+2143,Virtual Network,5
+2144,Virtual Private Cloud OnDemand,5
+2145,Virtual Router Redundancy Protocol,5
+2146,Visual Cryptography,5
+2147,Vivaldi,5
+2148,Vmware ESXi,5
+2149,Vmware vCloud Air,5
+2150,Vulnerability,5
+2151,VxLAN (Virtual Extensible LAN),5
+2152,w3m,5
+2153,Wakame-vdc,5
+2154,Waterfox,5
+2155,WaveMaker,5
+2156,Web API,5
+2157,Web Application Security,5
+2158,Web Browser,5
+2159,Web Server,5
+2160,Web Server Gateway Interface,5
+2161,Web Server Software,5
+2162,Web Shell,5
+2163,WebKit,5
+2164,WebKit-based Web Browser,5
+2165,Wireless Application Protocol (WAP),5
+2166,Wireless Distribution System,5
+2167,Wireless Engineering,5
+2168,Wireless LAN,5
+2169,Wireless LAN Controllers,5
+2170,Wireless Network,5
+2171,Wireless Paging System,5
+2172,Wireless Routing Protocol,5
+2173,Wireless Security,5
+2174,Wireless Site Survey,5
+2175,Workday,5
+2176,World Wide Web (WWW),5
+2177,Xen,5
+2178,Xen Cloud Platform,5
+2179,XML Encryption,5
+2180,XML Interface For Network Service,5
+2181,XtremIO,5
+2182,Yandex Browser,5
+2183,Zadara Storage,5
+2184,Zeus Web Server,5
+2185,Zoho,5
+2186,Abstract Algebra,6
+2187,Addition,6
+2188,Algebra,6
+2189,Algebraic Geometry,6
+2190,Algebraic Number Theory,6
+2191,Algebraic Topology,6
+2192,Analytic Geometry,6
+2193,Analytic Number Theory,6
+2194,Applied Mathematics,6
+2195,Approximation,6
+2196,Arithmetic,6
+2197,Arithmetic Geometry,6
+2198,Basic Calculus,6
+2199,Bayesian,6
+2200,Bilateral Monopoly,6
+2201,Branch and Bound,6
+2202,Calculus,6
+2203,Coding Theory,6
+2204,Combinatorial Geometry,6
+2205,Combinatorial Number Theory,6
+2206,Combinatorics,6
+2207,Complex Analysis,6
+2208,Computability Theory,6
+2209,Computational Geometry,6
+2210,Computational Number Theory,6
+2211,Conic Sections,6
+2212,Constructive Mathematics,6
+2213,Convex Geometry,6
+2214,Coordinate Geometry,6
+2215,Covariance Matrix,6
+2216,Curvature,6
+2217,Decimal,6
+2218,Decision Theory,6
+2219,Derivative,6
+2220,Descriptive Geometry,6
+2221,Differential Geometry,6
+2222,Differential Topology,6
+2223,Differentiation,6
+2224,Digital Geometry,6
+2225,Diophantine Geometry,6
+2226,Discrete Geometry,6
+2227,Discrete Mathematics,6
+2228,Division,6
+2229,Econometrics,6
+2230,Elementary Algebra,6
+2231,Elementary Number Theory,6
+2232,Enumerative Combinatorics,6
+2233,Euclidean Geometry,6
+2234,External Combinatorics,6
+2235,Formal Logic,6
+2236,Fractal Geometry,6
+2237,Fraction,6
+2238,Function,6
+2239,General Topology,6
+2240,Geometric Number Theory,6
+2241,Geometry,6
+2242,Gradient Descent,6
+2243,Graph,6
+2244,Graph Theory,6
+2245,Induction,6
+2246,Informal Logic,6
+2247,Input-output Model,6
+2248,Integer,6
+2249,Lambda Calculus,6
+2250,Linear Algebra,6
+2251,Linear Algebra Package (LAPACK),6
+2252,Linear Programming,6
+2253,Logic,6
+2254,Mathematical Analysis,6
+2255,Mathematical Economics,6
+2256,Mathematical Finance,6
+2257,Mathematical Function,6
+2258,Mathematical Logic,6
+2259,Mathematical Modelling,6
+2260,Mathematical Optimization,6
+2261,Mathematical Physics,6
+2262,Mathematical Programming,6
+2263,Mathematics,6
+2264,Mathematics Foundations,6
+2265,MATLAB,6
+2266,Matrix Algebra,6
+2267,Mechanism Design,6
+2268,Model Theory,6
+2269,Money Creation,6
+2270,Money Demand,6
+2271,Money Supply,6
+2272,Multiplication,6
+2273,Multivariate Calculus,6
+2274,Natural Number,6
+2275,Network Theory,6
+2276,Number Representation,6
+2277,Number Theory,6
+2278,Numerical Differentiation,6
+2279,Numerical Integration,6
+2280,Numerical Linear Algebra,6
+2281,Numerical Method,6
+2282,Operations Research,6
+2283,Polyhedra,6
+2284,Polytope,6
+2285,Predicate Logic,6
+2286,Proof Theory,6
+2287,Propositional Logic,6
+2288,Pure Mathematics,6
+2289,Relation Algebra,6
+2290,Riemannian Geometry,6
+2291,Set,6
+2292,Set Theory,6
+2293,Subtraction,6
+2294,Syllogistic Logic,6
+2295,Symbolic Logic,6
+2296,Topology,6
+2297,Track Geometry,6
+2298,Transcendental Number Theory,6
+2299,Univariate Calculus,6
+2300,Active Listening,1
+2301,Ad Design,1
+2302,Adobe Acrobat,1
+2303,Adobe Creative Application,1
+2304,Adobe Illustrator,1
+2305,Adobe InDesign,1
+2306,Adobe Photoshop,1
+2307,Aesthetics,1
+2308,Animation,1
+2309,Anthropolocial Linguistics,1
+2310,Anthropology,1
+2311,Anthropology of Religion,1
+2312,Anthrozoology,1
+2313,Applied Anthropology,1
+2314,Applied Linguistics,1
+2315,Archaeology,1
+2316,Art History,1
+2317,Arts,1
+2318,Arts and Crafts,1
+2319,Audio,1
+2320,Audio Format,1
+2321,Behavioral Geography,1
+2322,Bengali,1
+2323,Bhojpuri,1
+2324,Biolinguistics,1
+2325,Burmese,1
+2326,Canon Law,1
+2327,Cartography,1
+2328,Children Geography,1
+2329,Clinical Linguistics,1
+2330,Coaching,1
+2331,Cognitive Linguistics,1
+2332,Cognitive Science,1
+2333,Colour Sense,1
+2334,Colour Theory,1
+2335,Commercial Photography,1
+2336,Communication Studies,1
+2337,Comparative Linguistics,1
+2338,Computational Linguistics,1
+2339,Computational Social Science,1
+2340,Computer Game,1
+2341,Conceptual Art,1
+2342,Cooking,1
+2343,Corel Draw,1
+2344,Creativity,1
+2345,Critical Geography,1
+2346,Culinary Art,1
+2347,Cultural  Geography,1
+2348,Cultural Anthropology,1
+2349,Cultural Studies,1
+2350,Dance,1
+2351,Descriptive Decision Theory,1
+2352,Design,1
+2353,Design Analysis,1
+2354,Development Geography,1
+2355,Development Linguistics,1
+2356,Dialectology,1
+2357,Dialectometry,1
+2358,Digital Art,1
+2359,Digital Image,1
+2360,Digital Media,1
+2361,Digital Printing,1
+2362,Discourse Analysis,1
+2363,Dreamweaver,1
+2364,Eastern Punjabi,1
+2365,Egyptian Arabic,1
+2366,English,1
+2367,Entertainment,1
+2368,Epistemology,1
+2369,Ethics,1
+2370,Ethnobiology,1
+2371,Ethnobotany,1
+2372,Ethnography,1
+2373,Ethnology,1
+2374,Ethnopoetics,1
+2375,Etymology,1
+2376,Evolutionary Anthropology,1
+2377,Evolutionary Linguistics,1
+2378,Experimental Archaeology,1
+2379,Facebook,1
+2380,Feminist Geography,1
+2381,Fine Art,1
+2382,Folkloristics,1
+2383,Food,1
+2384,Foreign Language,1
+2385,Forensic Linguistics,1
+2386,Free Hand,1
+2387,French,1
+2388,Game Design,1
+2389,Game Development,1
+2390,Gamification,1
+2391,Gastronomy,1
+2392,Gender and Sexuality Studies,1
+2393,Geography,1
+2394,Geolinguistics,1
+2395,German,1
+2396,Gerontology,1
+2397,Graphic Design,1
+2398,Gujarati,1
+2399,Hakka Chinese,1
+2400,Hausa,1
+2401,Health Geography,1
+2402,Hindi,1
+2403,Hindu Law,1
+2404,Historical Archaeology,1
+2405,Historical Geography,1
+2406,Historical Linguistics,1
+2407,History,1
+2408,History Of Linguistics,1
+2409,History Of Psychology,1
+2410,Human Geography,1
+2411,Humanities,1
+2412,Image,1
+2413,Indonesian,1
+2414,Industrial Design,1
+2415,Infographics,1
+2416,Instagram,1
+2417,Interactive Media,1
+2418,Interactive Media Design,1
+2419,Interior Design,1
+2420,Iranian Persian,1
+2421,Italian,1
+2422,Jain Law,1
+2423,Japanese,1
+2424,Javanese,1
+2425,Jewish Law,1
+2426,Jin Chinese,1
+2427,Journalism,1
+2428,Kannada,1
+2429,Korean,1
+2430,Language,1
+2431,Language Acquisition,1
+2432,Language Learning,1
+2433,Legal Archaeology,1
+2434,Legal Fiction,1
+2435,Lexis,1
+2436,Linguistic Anthropology,1
+2437,Linguistic History,1
+2438,Linguistic Typology,1
+2439,Linguistics,1
+2440,LinkedIn,1
+2441,Literature,1
+2442,Localization,1
+2443,Logo Creation,1
+2444,Maithili,1
+2445,Malay,1
+2446,Malayalam,1
+2447,Mandarin Chinese,1
+2448,Marathi,1
+2449,Marxist Geography,1
+2450,Media,1
+2451,Media Studies,1
+2452,Medical Anthropology,1
+2453,Military Geography,1
+2454,Min Nan Chinese,1
+2455,Mobile Application Development,1
+2456,Mobile Game,1
+2457,Morphology,1
+2458,Motion Film,1
+2459,Motion Pictures,1
+2460,Music,1
+2461,Neurolinguistics,1
+2462,News,1
+2463,News Writing,1
+2464,Normative Decision Theory,1
+2465,Odia,1
+2466,Orthography,1
+2467,Performing Art,1
+2468,Personal Coaching,1
+2469,Philology,1
+2470,Philosophy,1
+2471,Philosophy of Education,1
+2472,Philosophy of Language,1
+2473,Philosophy of Mathematics,1
+2474,Philosophy of Mind,1
+2475,Philosophy of Science,1
+2476,Phislophy of Information,1
+2477,Phonetics,1
+2478,Phonology,1
+2479,Photo Editing,1
+2480,Phraseology,1
+2481,Physical Anthropology,1
+2482,Physical Geography,1
+2483,Polish,1
+2484,Polotical Philosophy,1
+2485,Population Geography,1
+2486,Portuguese,1
+2487,Poster,1
+2488,Poster Design,1
+2489,Pragmatics,1
+2490,Professional Sports,1
+2491,Prototyping,1
+2492,Psycholinguistics,1
+2493,Psychological Anthropology,1
+2494,Radio,1
+2495,Recreation,1
+2496,Regional Geography,1
+2497,Religious Studies,1
+2498,Responsive Design,1
+2499,Russian,1
+2500,Semantics,1
+2501,Sharia,1
+2502,Sketch,1
+2503,Social Geography,1
+2504,Social Media,1
+2505,Social Media Platform,1
+2506,Social Philosophy,1
+2507,Sociolinguistics,1
+2508,Sound Design,1
+2509,Spanish,1
+2510,Speech and Language Pathology,1
+2511,Speech Science,1
+2512,Sports,1
+2513,Sports Coaching,1
+2514,Storyboarding,1
+2515,Strategic Geography,1
+2516,Stylistics,1
+2517,Syntax,1
+2518,Tamil,1
+2519,Telegram,1
+2520,Television,1
+2521,Telugu,1
+2522,Theatre,1
+2523,TikTok,1
+2524,Time Geography,1
+2525,Tourism Geography,1
+2526,Translation,1
+2527,Turkish,1
+2528,Twitter,1
+2529,Typography,1
+2530,Unity,1
+2531,Urban Geography,1
+2532,Urdu,1
+2533,User Experience (UX),1
+2534,User Experience Design,1
+2535,User Experience Research Methodology,1
+2536,User Modelling,1
+2537,UX Design,1
+2538,UX Research,1
+2539,UX Research Methodology,1
+2540,Vector Graphics,1
+2541,Video,1
+2542,Video Game Development,1
+2543,Video Game Graphics,1
+2544,Vietnamese,1
+2545,Visual Art,1
+2546,Visual Communication,1
+2547,Western Punjabi,1
+2548,Wireframing,1
+2549,World History,1
+2550,Writing Systems,1
+2551,Wu Chinese,1
+2552,Xiang Chinese,1
+2553,Yoruba,1
+2554,Youtube,1
+2555,Yue Chinese,1
+2556,Zooarchaeology,1
+2557,Accoustical Engineering,0
+2558,Aeronautical Engineering,0
+2559,Aerospace,0
+2560,Aerospace Engineering,0
+2561,Agricultural Engineering,0
+2562,Agricultural Production,0
+2563,Agricultural Science,0
+2564,Agriculture,0
+2565,Agronomy,0
+2566,Aircraft Management,0
+2567,Airforce,0
+2568,Amorphous Metals,0
+2569,Animal Husbandry,0
+2570,Apparel,0
+2571,Applied Engineering,0
+2572,Applied Physics,0
+2573,Aquaculture,0
+2574,Arboriculture,0
+2575,Architectonics,0
+2576,Architectural Engineering,0
+2577,Architecture,0
+2578,Astronautical Engineering,0
+2579,Astronautics,0
+2580,AutoCAD,0
+2581,Automotive,0
+2582,Automotive Engineering,0
+2583,Aviation,0
+2584,Aviation and Aerospace,0
+2585,Bioengineering,0
+2586,Biological Engineering,0
+2587,Biomaterials Engineering,0
+2588,Biomedical Engineering,0
+2589,Bionics,0
+2590,Biotechnology,0
+2591,Broadcast Engineering,0
+2592,Building Science,0
+2593,Carpentry,0
+2594,Casting,0
+2595,Ceramic Engineering,0
+2596,Chemical,0
+2597,Chemical Engineering,0
+2598,Civil Engineering,0
+2599,Combat Engineering,0
+2600,Composite Materials,0
+2601,Computer Engineering,0
+2602,Computer-Aided Manufacturing (CAM),0
+2603,Construction Engineering,0
+2604,Control Engineering,0
+2605,Corrosion Engineering,0
+2606,Crystal Engineering,0
+2607,Drilling Engineering,0
+2608,Electrical and Electronic Manufacturing,0
+2609,Electrical Engineering,0
+2610,Electromechanical Engineering,0
+2611,Electromechanics,0
+2612,Electronic and Electrical Engineering,0
+2613,Electronic Control Systems,0
+2614,Electronic Engineering,0
+2615,Electronic Materials,0
+2616,Electronics,0
+2617,Energy Technology,0
+2618,Engineering,0
+2619,Engineering Physics,0
+2620,Engineering Psychology,0
+2621,Engineering Technology,0
+2622,Environmental Data Analysis,0
+2623,Environmental Engineering,0
+2624,Ergonomics,0
+2625,ETAP,0
+2626,Facilities Engineering,0
+2627,Floriculture,0
+2628,Food Production,0
+2629,Food Science,0
+2630,Forensic Materials Engineering,0
+2631,Forensic Science,0
+2632,Forestry,0
+2633,Genetic Engineering,0
+2634,Geotechnical Engineering,0
+2635,Health Science,0
+2636,Horticulture,0
+2637,Hydro Engineering,0
+2638,Hydroculture,0
+2639,Hydroponics,0
+2640,Industrial Automation,0
+2641,Industrial Engineering,0
+2642,Information Engineering,0
+2643,Instrumentaion Engineering,0
+2644,Instrumentation,0
+2645,Landscape Architecture,0
+2646,Language Engineering,0
+2647,Logistic Engineering,0
+2648,Machinery,0
+2649,Machining,0
+2650,Maintanence,0
+2651,Manufacturing Engineering,0
+2652,Manufacturing Operations,0
+2653,Marine Engineering,0
+2654,Materials Engineering,0
+2655,Materials Science,0
+2656,Mechanical Engineering,0
+2657,Mechatronics,0
+2658,Metabolic Engineering,0
+2659,Metal Forming,0
+2660,Metallurgical Engineering,0
+2661,Metals,0
+2662,Microtechnology,0
+2663,Military Education,0
+2664,Military Engineering,0
+2665,Military History,0
+2666,Military Organization,0
+2667,Military Science,0
+2668,Military Strategy and Tactics,0
+2669,Military Technology Engineering,0
+2670,Military Training,0
+2671,Mining,0
+2672,Mining Engineering,0
+2673,Molecular Engineering,0
+2674,Multisim,0
+2675,Nano Materials,0
+2676,Nanotechnology,0
+2677,Naval Architecture,0
+2678,Neural Engineering,0
+2679,Nuclear Engineering,0
+2680,Nuclear Technology,0
+2681,Nursing Informatics,0
+2682,Oil and Energy,0
+2683,Oil and Gas,0
+2684,Optical Engineering,0
+2685,Optics,0
+2686,Performance Engineering,0
+2687,Permaculture,0
+2688,Photogrammetry,0
+2689,Plastics,0
+2690,Plastics Engineering,0
+2691,Polymer Engineering,0
+2692,Power Systems Engineering,0
+2693,Process Engineering,0
+2694,Processor,0
+2695,Pspice,0
+2696,Quality Engineering,0
+2697,Radiation Engineering,0
+2698,Radiation Protection Engineering,0
+2699,Reliability Engineering,0
+2700,Repair,0
+2701,Safety Engineering,0
+2702,Science and Technology Studies,0
+2703,Scientific Method,0
+2704,Security Engineering,0
+2705,Semiconductors,0
+2706,Silviculture,0
+2707,Simulink,0
+2708,Space Exploration,0
+2709,Spatial Science,0
+2710,Sports Engineering,0
+2711,Structural Engineering,0
+2712,Support Engineering,0
+2713,Surface Engineering,0
+2714,Sustainability Studies,0
+2715,Sustainable Development,0
+2716,Systems Engineering,0
+2717,Systems Science,0
+2718,Systems Theory,0
+2719,Telecommunications Engineering,0
+2720,Textiles,0
+2721,Thermal Engineering,0
+2722,Tissue Engineering,0
+2723,Transportation Engineering,0
+2724,Urban Engineering,0
+2725,Urban Planning,0
+2726,Vacuum Engineering,0
+2727,Vitreous Materials,0
+2728,Water Engineering,0
+2729,Welding,0
+2730,Adaptive Expectations,7
+2731,Alternative Medicine,7
+2732,Anatomy,7
+2733,Anesthesiology,7
+2734,Animal Health,7
+2735,Astronomy,7
+2736,Atomic Physics,7
+2737,Basic Science,7
+2738,Biochemistry,7
+2739,Biogeography,7
+2740,Biology,7
+2741,Botany,7
+2742,Cardiology,7
+2743,Chemical Processing,7
+2744,Chemistry,7
+2745,Classical Mechanics,7
+2746,Climatology,7
+2747,Coastal Geography,7
+2748,Condensed Matter Physics,7
+2749,Conservation Medicine,7
+2750,Cosmology,7
+2751,Dentistry,7
+2752,Dermatology,7
+2753,Earth Science,7
+2754,Ecology,7
+2755,Electromagnetism,7
+2756,Endocrinology,7
+2757,Environmental Geography,7
+2758,Environmental Science,7
+2759,Environmental Technology,7
+2760,Evolutionary Biology,7
+2761,Family Medicine,7
+2762,Fisheries Science,7
+2763,Fluid Mechanics,7
+2764,Gastroenterology,7
+2765,General Surgery,7
+2766,Genetic Algorithm,7
+2767,Genomics,7
+2768,Geology,7
+2769,Geomorphology,7
+2770,Glaciology,7
+2771,Gynecology,7
+2772,Health Informatics,7
+2773,Healthcare,7
+2774,Healthcare Management,7
+2775,High-Energy Partical Physics,7
+2776,Human Anatomy,7
+2777,Hydrology,7
+2778,Immunology,7
+2779,Internal Medicine,7
+2780,Landscape Ecology,7
+2781,Life Science,7
+2782,Mechanics,7
+2783,Mechanics of Deformable Solids,7
+2784,Mechanics of Structures,7
+2785,Medicine,7
+2786,Meteorology,7
+2787,Microbiology,7
+2788,Molecular Physics,7
+2789,Neurology,7
+2790,Nuclear Physics,7
+2791,Nursing,7
+2792,Nutrition,7
+2793,Oceanography,7
+2794,Oncology,7
+2795,Ophthalmology,7
+2796,Optometry,7
+2797,Organic Chemistry,7
+2798,Palaeogeography,7
+2799,Particle Mechanics,7
+2800,Pathology,7
+2801,Pathophysiology,7
+2802,Patient Care,7
+2803,Pediatrics,7
+2804,Pharmaceutical Manufacturing,7
+2805,Pharmaceutics,7
+2806,Pharmacology,7
+2807,Pharmacy,7
+2808,Photonics,7
+2809,Physical,7
+2810,Physical Medicine,7
+2811,Physical Science,7
+2812,Physical Therapy,7
+2813,Physics,7
+2814,Physiology,7
+2815,Psychiatry,7
+2816,Psychology,7
+2817,Public Health,7
+2818,Quantum Mechanics,7
+2819,Radiology,7
+2820,Rational Expectations,7
+2821,Rehabilitation,7
+2822,Relativistic Mechanics,7
+2823,Soil Geography,7
+2824,Space Science,7
+2825,Statistical Mechanis,7
+2826,Sustainability,7
+2827,Thermodynamics,7
+2828,Toxicology,7
+2829,Urology,7
+2830,Veterinary,7
+2831,Veterinary Medicine,7
+2832,Zoology,7
+2833,Pharmacokinetics (PK),7
+2834,Pharmacodynamics (PD),7
+2835,PK/PD (PKPD) Modelling,7
+2836,Modelling & Simulation (M&S),7
+2837,"Absorption, Distribution, Metabolism, and Excretion (ADME)",7
+2838,Maximum Absorbable Dose (MAD),7
+2839,Investigational New Drug (IND),7
+2840,Administrative Law,8
+2841,Aggregate Demand,8
+2842,Aggregation Problem,8
+2843,Agricultural Economics,8
+2844,Agricultural Law,8
+2845,Amnesty Law,8
+2846,Applied Economics,8
+2847,Applied Psychology,8
+2848,Average Cost,8
+2849,Aviation Law,8
+2850,Balance of Payments,8
+2851,Banking Law,8
+2852,Behaviour Analysis,8
+2853,Behavioural Economics,8
+2854,Bioeconomics,8
+2855,Biopsychology,8
+2856,Bond,8
+2857,Budget Set,8
+2858,Business Cycle,8
+2859,Business Economics,8
+2860,Capacity Utilization,8
+2861,Capital Flight,8
+2862,Central Bank,8
+2863,Chinese Law,8
+2864,Civics,8
+2865,Civil Law,8
+2866,Clinical Psychology,8
+2867,Cognitive Psychology,8
+2868,Commercial Law,8
+2869,Commodity,8
+2870,Common Law,8
+2871,Comparative Economics,8
+2872,Comparative Law,8
+2873,Comparative Politics,8
+2874,Competition,8
+2875,Competition Law,8
+2876,Computational Economics,8
+2877,Construction Law,8
+2878,Consumer Choice,8
+2879,Consumer Confidence,8
+2880,Consumer Protection,8
+2881,Contract Law,8
+2882,Contract Theory,8
+2883,Convexity,8
+2884,Conveyancing,8
+2885,Corporate Law,8
+2886,Corporate Liability,8
+2887,Cost-benefit Analysis,8
+2888,Criminal Law,8
+2889,Criminology,8
+2890,Critical Legal Studies,8
+2891,Cultural Psychology,8
+2892,Culture,8
+2893,Currency,8
+2894,Cyberlaw,8
+2895,Deadweight Loss,8
+2896,Deflation,8
+2897,Demand Shock,8
+2898,Demography,8
+2899,Depression,8
+2900,Development Economics,8
+2901,Development Studies,8
+2902,Developmental Psychology,8
+2903,Disinflation,8
+2904,Dynamic Stochastic General Equilibrium (DSGE),8
+2905,Ecological Economics,8
+2906,Economic Analysis,8
+2907,Economic Cost,8
+2908,Economic Development,8
+2909,Economic Equilibrium,8
+2910,Economic Geography,8
+2911,Economic Growth,8
+2912,Economic History,8
+2913,Economic Indications,8
+2914,Economic Methodology,8
+2915,Economic Model,8
+2916,Economic Planning,8
+2917,Economic Policy,8
+2918,Economic Sociology,8
+2919,Economic Statistics,8
+2920,Economic Surplus,8
+2921,Economic Systems,8
+2922,Economic Value,8
+2923,Economics,8
+2924,Economies of Scale,8
+2925,Economies of Scope,8
+2926,Education,8
+2927,Education Economics,8
+2928,Educational Psychology,8
+2929,Effective Demand,8
+2930,Elasticity,8
+2931,Election Law,8
+2932,Emotional Intelligence (EQ),8
+2933,Energy Economics,8
+2934,Energy Law,8
+2935,Entertainment Law,8
+2936,Entrepreneurial Economics,8
+2937,Environmental Economics,8
+2938,Environmental Law,8
+2939,Evolutionary Economics,8
+2940,Evolutionary Psychology,8
+2941,Expectations,8
+2942,Expected Utility,8
+2943,Experimental Economics,8
+2944,Experimental Psychology,8
+2945,Externality,8
+2946,Family Law,8
+2947,Feminist Economics,8
+2948,Financial Economics,8
+2949,Financial Law,8
+2950,Firm,8
+2951,Fiscal Policy,8
+2952,Forensic Psychology,8
+2953,Game Theory,8
+2954,General Equilibrium Theory,8
+2955,General Theory of Keynes,8
+2956,Geopolitics,8
+2957,Goods and Services,8
+2958,Great Depression,8
+2959,Green Economics,8
+2960,Health Economics,8
+2961,Health Law,8
+2962,Health Psychology,8
+2963,Heterodox Economics,8
+2964,Humanistic Psychology,8
+2965,Hyperinflation,8
+2966,Ideology,8
+2967,Immigration Law,8
+2968,Indifference Curve,8
+2969,Industrial and Organizational Psychology,8
+2970,Industrial Organization,8
+2971,Industrial Relations,8
+2972,Inflation,8
+2973,Information Science,8
+2974,Insolvency Law,8
+2975,Institutional Economics,8
+2976,Intellectual Property Law,8
+2977,Interest,8
+2978,Interest Rate,8
+2979,International Criminal Law,8
+2980,International Economics,8
+2981,International Human Rights,8
+2982,International Law,8
+2983,International Legal Theory,8
+2984,International Politics,8
+2985,International Relations Theory,8
+2986,International Slavery Law,8
+2987,International Studies,8
+2988,International Trade,8
+2989,International Trade Law,8
+2990,Intertemporal Choice,8
+2991,IS-LM Model,8
+2992,Islamic Economics,8
+2993,Knowledge Economics,8
+2994,Labour and Employment Law,8
+2995,Labour Economics,8
+2996,Law,8
+2997,Law and Economics,8
+2998,Law Practice,8
+2999,Legal Formalism,8
+3000,Legal Management,8
+3001,Legal Service,8
+3002,Legal Systems,8
+3003,Legal Theory,8
+3004,Library Science,8
+3005,Local Government Studies,8
+3006,Macroeconmic Model,8
+3007,Macroeconomics,8
+3008,Managerial Economics,8
+3009,Marginal Cost,8
+3010,Marginal Utility,8
+3011,Maritime Law,8
+3012,Market Economy,8
+3013,Market Failure,8
+3014,Market Structure,8
+3015,Media Law,8
+3016,Media Psychology,8
+3017,Microeconomics,8
+3018,Microfoundations,8
+3019,Military Law,8
+3020,Mixed Economy,8
+3021,Monetary Economics,8
+3022,Monetary Policy,8
+3023,Money,8
+3024,Monopolistic Competition,8
+3025,Monopoly,8
+3026,Monopsony,8
+3027,Music Therapy,8
+3028,National Account Systems (NAS),8
+3029,National Accounts,8
+3030,Natural Resource Economics,8
+3031,Neoclassical Economics,8
+3032,Neuroeconomics,8
+3033,Neuropsychology,8
+3034,Non-Accelerating Inflation Rate of Unemployment (NAIRU),8
+3035,Non-convexity,8
+3036,Non-Disclosure Agreement (NDA),8
+3037,Oligopoly,8
+3038,Oligopsony,8
+3039,Open Economy,8
+3040,Opportunity Cost,8
+3041,Paralegal Studies,8
+3042,Pareto Efficiency,8
+3043,Perfect Competition,8
+3044,Personality Psychology,8
+3045,Planned Economy,8
+3046,Political Economy,8
+3047,Political Geography,8
+3048,Political Psychology,8
+3049,Political Science,8
+3050,Politics,8
+3051,Preference,8
+3052,Price,8
+3053,Price Level,8
+3054,Pricing Policy,8
+3055,Principle of Legality,8
+3056,Production Set,8
+3057,Profit,8
+3058,Property Law,8
+3059,Psephology,8
+3060,Psychology of Religion,8
+3061,Psychometrics,8
+3062,Psychophysics,8
+3063,Public Administration,8
+3064,Public Choice,8
+3065,Public Economics,8
+3066,Public Finance,8
+3067,Public Good,8
+3068,Public International Law,8
+3069,Public Law,8
+3070,Public Policy,8
+3071,Purchasing Power Parity (PPP),8
+3072,Rate of Profit,8
+3073,Rationing,8
+3074,Real Estate Economics,8
+3075,Recession,8
+3076,Regional Economics,8
+3077,Religious Law,8
+3078,Rent,8
+3079,Returns to Scale,8
+3080,Risk Aversion,8
+3081,Roman Law,8
+3082,Rule of Law,8
+3083,Rural Sociology,8
+3084,Saving,8
+3085,Scarcity,8
+3086,Securities,8
+3087,Sensation and Perception Psychology,8
+3088,Service Economics,8
+3089,Shortage,8
+3090,Shrinkflation,8
+3091,Social Choice,8
+3092,Social Cost,8
+3093,Social Psychology,8
+3094,Social Work,8
+3095,Socialist Economics,8
+3096,Socialist Law,8
+3097,Socioeconomics,8
+3098,Sociological Concept,8
+3099,Space Law,8
+3100,Sports Law,8
+3101,Stagflation,8
+3102,Statutory Law,8
+3103,Sunk Cost,8
+3104,Supply and Demand,8
+3105,Supply Shock,8
+3106,Sustainable Agriculture,8
+3107,Tax Law,8
+3108,Therapy,8
+3109,Transaction Cost,8
+3110,Transport Economics,8
+3111,Transport Law,8
+3112,Transportation Economics,8
+3113,Trust Law,8
+3114,Uncertainty,8
+3115,Unemployment,8
+3116,Unenforced Law,8
+3117,Unit Cost,8
+3118,Urban Economics,8
+3119,Urban Sociology,8
+3120,Utility,8
+3121,Voting Systems,8
+3122,Wage,8
+3123,Welfare Economics,8
+3124,Xeert,8
+3125,Yassa,8
+3126,Social Network,8
+3127,Credit Risk,8
+3128,Credit Risk Modelling,8
+3129,Credit Risk Analysis,8
