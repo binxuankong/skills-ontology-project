@@ -1,970 +1,935 @@
-Skill,Domain,Count,JobPostedMonth
-Sales,Business,2546.0,2021-01-01
-Communication,Business,2131.0,2021-01-01
-English,Others,1932.0,2021-01-01
-Management,Business,1839.0,2021-01-01
-Training,Business,1394.0,2021-01-01
-Marketing,Business,1297.0,2021-01-01
-Design,Others,1177.0,2021-01-01
-Documentation,Business,975.0,2021-01-01
-Engineering,Others,938.0,2021-01-01
-Reporting,Business,860.0,2021-01-01
-Manufacturing,Business,856.0,2021-01-01
-Repair,Others,721.0,2021-01-01
-Customer Service,Business,709.0,2021-01-01
-Email,Business,696.0,2021-01-01
-Construction,Business,652.0,2021-01-01
-Security,Information Technology (IT),630.0,2021-01-01
-Analytical,Business,628.0,2021-01-01
-Budget,Business,621.0,2021-01-01
-Accounting,Business,621.0,2021-01-01
-Testing,Computer Science,620.0,2021-01-01
-Administration,Business,592.0,2021-01-01
-Presentation,Business,589.0,2021-01-01
-Finance,Business,580.0,2021-01-01
-Research,Business,571.0,2021-01-01
-Processing,Business,569.0,2021-01-01
-Audit,Business,569.0,2021-01-01
-Social Media,Others,520.0,2021-01-01
-Video,Others,459.0,2021-01-01
-Computer Science,Computer Science,458.0,2021-01-01
-Writing,Business,454.0,2021-01-01
-Database,Computer Science,438.0,2021-01-01
-Market,Business,433.0,2021-01-01
-Electronics,Others,431.0,2021-01-01
-Machinery,Others,427.0,2021-01-01
-Leadership,Business,426.0,2021-01-01
-Platform,Computer Science,425.0,2021-01-01
-Excel,Business,373.0,2021-01-01
-Network,Information Technology (IT),347.0,2021-01-01
-Problem Solving,Business,338.0,2021-01-01
-Banking,Business,318.0,2021-01-01
-Logistics,Business,318.0,2021-01-01
-Negotiation,Business,304.0,2021-01-01
-Accuracy,Business,302.0,2021-01-01
-Advertising,Business,286.0,2021-01-01
-Property,Business,281.0,2021-01-01
-Business Development,Business,279.0,2021-01-01
-Metals,Others,275.0,2021-01-01
-Image,Others,275.0,2021-01-01
-Production Process,Business,272.0,2021-01-01
-Distribution,Data Science,267.0,2021-01-01
-Collaboration,Business,252.0,2021-01-01
-Law,Others,251.0,2021-01-01
-Malay,Others,250.0,2021-01-01
-Insurance,Business,249.0,2021-01-01
-Retail,Business,249.0,2021-01-01
-Automation,Information Technology (IT),246.0,2021-01-01
-Graphic Design,Others,245.0,2021-01-01
-Media,Others,243.0,2021-01-01
-Ad Design,Others,243.0,2021-01-01
-Microsoft Office,Business,238.0,2021-01-01
-Culture,Others,235.0,2021-01-01
-Accountancy,Business,234.0,2021-01-01
-Quality Control,Business,233.0,2021-01-01
-AutoCAD,Others,230.0,2021-01-01
-Scheduling,Business,229.0,2021-01-01
-Brand Management,Business,224.0,2021-01-01
-Human Resources (HR),Business,223.0,2021-01-01
-Hardware,Computer Science,221.0,2021-01-01
-Quality Assurance,Business,214.0,2021-01-01
-Project Management,Business,214.0,2021-01-01
-Operating System,Computer Science,212.0,2021-01-01
-Compiler,Computer Science,211.0,2021-01-01
-Translation,Others,204.0,2021-01-01
-Transportation,Business,201.0,2021-01-01
-Assembly,Computer Science,200.0,2021-01-01
-Facebook,Others,200.0,2021-01-01
-Sorting,Computer Science,200.0,2021-01-01
-Innovation,Business,200.0,2021-01-01
-D,Computer Science,198.0,2021-01-01
-Chemical,Others,196.0,2021-01-01
-Architecture,Others,194.0,2021-01-01
-Configuration,Computer Science,193.0,2021-01-01
-Coding,Computer Science,191.0,2021-01-01
-Selection,Computer Science,190.0,2021-01-01
-Unemployment,Others,190.0,2021-01-01
-Physical,Others,189.0,2021-01-01
-IT Operations,Information Technology (IT),189.0,2021-01-01
-Closing,Business,186.0,2021-01-01
-eCommerce,Business,185.0,2021-01-01
-Digital Marketing,Business,182.0,2021-01-01
-Coaching,Others,182.0,2021-01-01
-Internet,Information Technology (IT),180.0,2021-01-01
-Time Management,Business,177.0,2021-01-01
-Expectations,Others,177.0,2021-01-01
-Technical Support,Information Technology (IT),176.0,2021-01-01
-Profit,Others,175.0,2021-01-01
-Microsoft,Business,175.0,2021-01-01
-Mechanical Engineering,Others,174.0,2021-01-01
-Procurement,Business,173.0,2021-01-01
-Programming,Business,169.0,2021-01-01
-Cooking,Others,167.0,2021-01-01
-Creatio,Information Technology (IT),167.0,2021-01-01
-JavaScript,Computer Science,165.0,2021-01-01
-Marketing Research,Business,163.0,2021-01-01
-Teamwork,Business,163.0,2021-01-01
-Financial Statement,Business,163.0,2021-01-01
-Windows,Computer Science,160.0,2021-01-01
-Healthcare,Others,157.0,2021-01-01
-Product Development,Business,157.0,2021-01-01
-Nonverbal Communication,Business,157.0,2021-01-01
-Ada,Computer Science,155.0,2021-01-01
-Investment,Business,151.0,2021-01-01
-Welding,Others,151.0,2021-01-01
-Market Research,Business,149.0,2021-01-01
-IPython,Computer Science,149.0,2021-01-01
-Fabrication,Business,148.0,2021-01-01
-Electronic Engineering,Others,146.0,2021-01-01
-Creativity,Others,145.0,2021-01-01
-Agile,Business,144.0,2021-01-01
-SAP,Computer Science,138.0,2021-01-01
-Editing,Business,138.0,2021-01-01
-Forecasting,Business,137.0,2021-01-01
-Lean Software Development,Computer Science,136.0,2021-01-01
-B,Computer Science,136.0,2021-01-01
-Consulting,Business,132.0,2021-01-01
-Accounts Payable,Business,132.0,2021-01-01
-Statistics,Data Science,130.0,2021-01-01
-Interpreter,Computer Science,128.0,2021-01-01
-Business Plan,Business,128.0,2021-01-01
-Business Process,Business,125.0,2021-01-01
-Instagram,Others,124.0,2021-01-01
-Plastics,Others,124.0,2021-01-01
-Account Receivable,Business,122.0,2021-01-01
-Networking,Business,121.0,2021-01-01
-Risk Management,Business,121.0,2021-01-01
-RStudio,Computer Science,119.0,2021-01-01
-Photography,Business,118.0,2021-01-01
-Agile Software Development,Computer Science,116.0,2021-01-01
-Router,Information Technology (IT),116.0,2021-01-01
-Addition,Others,115.0,2021-01-01
-Business Administration,Business,115.0,2021-01-01
-Trade,Business,113.0,2021-01-01
-MySQL,Computer Science,113.0,2021-01-01
-Decision Making,Business,112.0,2021-01-01
-Electrical Engineering,Others,111.0,2021-01-01
-Hospitality,Business,109.0,2021-01-01
-Balance Sheet,Business,107.0,2021-01-01
-PowerPoint,Business,107.0,2021-01-01
-Software Engineering,Computer Science,106.0,2021-01-01
-User Experience (UX),Others,106.0,2021-01-01
-Box,Information Technology (IT),103.0,2021-01-01
-Quality Management,Business,103.0,2021-01-01
-C,Computer Science,101.0,2021-01-01
-Effective Communication,Business,101.0,2021-01-01
-Publishing,Business,100.0,2021-01-01
-Oracle,Computer Science,99.0,2021-01-01
-Dashboard,Data Science,96.0,2021-01-01
-Java,Computer Science,96.0,2021-01-01
-Microsoft Excel,Business,95.0,2021-01-01
-Saving,Others,95.0,2021-01-01
-Adobe Photoshop,Others,94.0,2021-01-01
-Objective-C,Computer Science,94.0,2021-01-01
-Software Development Kit (SDK),Computer Science,93.0,2021-01-01
-Microsoft Office 365,Information Technology (IT),92.0,2021-01-01
-Protocol,Information Technology (IT),92.0,2021-01-01
-Linux,Computer Science,91.0,2021-01-01
-Accounting Software,Business,91.0,2021-01-01
-Office Administration,Business,90.0,2021-01-01
-Critical Thinking,Business,89.0,2021-01-01
-Perceptron,Data Science,88.0,2021-01-01
-Human Resource Management,Business,88.0,2021-01-01
-Software Tool,Computer Science,87.0,2021-01-01
-Methodology,Business,87.0,2021-01-01
-PHP,Computer Science,86.0,2021-01-01
-Programming Language,Computer Science,86.0,2021-01-01
-Business Operations,Business,85.0,2021-01-01
-Medium,Business,83.0,2021-01-01
-Telemarketing,Business,83.0,2021-01-01
-Searching,Computer Science,83.0,2021-01-01
-Organizational Skill,Business,82.0,2021-01-01
-Research and Development (R&D),Business,82.0,2021-01-01
-C#,Computer Science,82.0,2021-01-01
-Business Analysis,Business,80.0,2021-01-01
-Management Accounting,Business,80.0,2021-01-01
-Biology,Others,80.0,2021-01-01
-Mathematics,Others,78.0,2021-01-01
-Economics,Others,78.0,2021-01-01
-Civil Engineering,Others,77.0,2021-01-01
-Customer Service System,Business,77.0,2021-01-01
-Sports,Others,77.0,2021-01-01
-Mechatronics,Others,76.0,2021-01-01
-Chart,Business,76.0,2021-01-01
-Kubernetes,Information Technology (IT),75.0,2021-01-01
-Recruiting,Business,75.0,2021-01-01
-Customer Experience,Business,75.0,2021-01-01
-Web Application,Computer Science,74.0,2021-01-01
-Social Media Platform,Others,74.0,2021-01-01
-Azure,Information Technology (IT),73.0,2021-01-01
-Machining,Others,72.0,2021-01-01
-History,Others,72.0,2021-01-01
-Firm,Others,72.0,2021-01-01
-Systems Theory,Others,71.0,2021-01-01
-Business Management,Business,71.0,2021-01-01
-Twitter,Others,71.0,2021-01-01
-Scrum,Computer Science,71.0,2021-01-01
-Online Media,Business,70.0,2021-01-01
-Automotive,Others,70.0,2021-01-01
-Editor,Computer Science,69.0,2021-01-01
-Information System,Information Technology (IT),69.0,2021-01-01
-Software Development Life Cycle (SDLC),Computer Science,69.0,2021-01-01
-Calendar,Business,69.0,2021-01-01
-Scheme,Computer Science,68.0,2021-01-01
-Azure Machine Learning,Data Science,68.0,2021-01-01
-Division,Others,68.0,2021-01-01
-Japanese,Others,67.0,2021-01-01
-Telecommunication,Information Technology (IT),67.0,2021-01-01
-DevOps,Computer Science,66.0,2021-01-01
-Bookkeeping,Business,65.0,2021-01-01
-R,Computer Science,65.0,2021-01-01
-Android,Computer Science,64.0,2021-01-01
-Adobe Illustrator,Others,63.0,2021-01-01
-Data Analysis,Data Science,63.0,2021-01-01
-Development Tools,Computer Science,63.0,2021-01-01
-Git,Computer Science,63.0,2021-01-01
-Public Speaking,Business,63.0,2021-01-01
-Product Knowledge,Business,62.0,2021-01-01
-Goods and Services,Others,61.0,2021-01-01
-Docker,Computer Science,61.0,2021-01-01
-Modeling,Computer Science,61.0,2021-01-01
-Root Cause Analysis,Business,61.0,2021-01-01
-Peripheral,Computer Science,61.0,2021-01-01
-Change Management,Business,60.0,2021-01-01
-Scripting,Information Technology (IT),60.0,2021-01-01
-Online Marketing,Business,59.0,2021-01-01
-Animation,Others,59.0,2021-01-01
-Process Engineering,Others,59.0,2021-01-01
-Blogging,Business,58.0,2021-01-01
-Algorithm,Computer Science,58.0,2021-01-01
-Rally,Business,57.0,2021-01-01
-JIRA,Computer Science,57.0,2021-01-01
-Sampling,Data Science,57.0,2021-01-01
-Shell,Computer Science,57.0,2021-01-01
-Project Planning,Business,56.0,2021-01-01
-Chemical Engineering,Others,55.0,2021-01-01
-Money,Others,54.0,2021-01-01
-Copywriting,Business,53.0,2021-01-01
-React,Computer Science,52.0,2021-01-01
-Software System,Computer Science,52.0,2021-01-01
-Clear Communication,Business,52.0,2021-01-01
-Angular,Computer Science,52.0,2021-01-01
-Depression,Others,52.0,2021-01-01
-Spark,Computer Science,52.0,2021-01-01
-GitLab,Computer Science,51.0,2021-01-01
-Target Audience,Business,51.0,2021-01-01
-Accounting Standards,Business,51.0,2021-01-01
-Computer Hardware,Computer Science,51.0,2021-01-01
-Motion Graphic Design,Computer Science,51.0,2021-01-01
-Web Design,Computer Science,50.0,2021-01-01
-NoSQL,Computer Science,50.0,2021-01-01
-Outlook,Business,50.0,2021-01-01
-Business Strategy,Business,50.0,2021-01-01
-Ethics,Others,50.0,2021-01-01
-LinkedIn,Others,50.0,2021-01-01
-Competition,Others,50.0,2021-01-01
-Branding,Business,50.0,2021-01-01
-ISO 9001,Computer Science,49.0,2021-01-01
-Aquaculture,Others,49.0,2021-01-01
-Prototyping,Others,49.0,2021-01-01
-Sequence,Computer Science,49.0,2021-01-01
-Food Science,Others,48.0,2021-01-01
-Pragmatics,Others,48.0,2021-01-01
-Content Marketing,Business,48.0,2021-01-01
-Web Application Development,Computer Science,48.0,2021-01-01
-Swift,Computer Science,47.0,2021-01-01
-Business Model,Business,46.0,2021-01-01
-Bagging,Data Science,46.0,2021-01-01
-Audio,Others,46.0,2021-01-01
-Links,Information Technology (IT),46.0,2021-01-01
-Electronic and Electrical Engineering,Others,46.0,2021-01-01
-Product Management,Business,46.0,2021-01-01
-Gradle,Computer Science,45.0,2021-01-01
-Mining,Others,45.0,2021-01-01
-Mapping,Computer Science,45.0,2021-01-01
-Support Engineering,Others,44.0,2021-01-01
-Mobile Application Development,Others,44.0,2021-01-01
-Asset Management,Business,44.0,2021-01-01
-Product Marketing,Business,44.0,2021-01-01
-Conveyancing,Others,44.0,2021-01-01
-LaTeX,Computer Science,43.0,2021-01-01
-Vietnamese,Others,43.0,2021-01-01
-Adminitrative Assistance,Business,43.0,2021-01-01
-iOS,Computer Science,42.0,2021-01-01
-Agriculture,Others,42.0,2021-01-01
-Machine Learning,Data Science,42.0,2021-01-01
-Github,Computer Science,42.0,2021-01-01
-Utility,Others,42.0,2021-01-01
-Keras,Data Science,42.0,2021-01-01
-Big Data,Data Science,42.0,2021-01-01
-Interior Design,Others,41.0,2021-01-01
-Manufacturing Engineering,Others,41.0,2021-01-01
-Journalism,Others,41.0,2021-01-01
-Reasoning,Business,41.0,2021-01-01
-Sketch,Others,40.0,2021-01-01
-Technical Documentation,Computer Science,40.0,2021-01-01
-Real Estate,Business,40.0,2021-01-01
-Transformer,Data Science,40.0,2021-01-01
-Property Maintenance,Business,40.0,2021-01-01
-A/B Testing,Computer Science,40.0,2021-01-01
-Complexity,Computer Science,40.0,2021-01-01
-Performance Management,Business,40.0,2021-01-01
-Data Analytics,Data Science,40.0,2021-01-01
-Life Science,Others,39.0,2021-01-01
-Hadoop,Computer Science,39.0,2021-01-01
-jQuery,Computer Science,38.0,2021-01-01
-Sustainability,Others,38.0,2021-01-01
-Blockchain,Information Technology (IT),38.0,2021-01-01
-Risk Analysis,Business,38.0,2021-01-01
-Template,Business,38.0,2021-01-01
-Rapid Application Development,Computer Science,38.0,2021-01-01
-Email Marketing,Business,38.0,2021-01-01
-Music,Others,37.0,2021-01-01
-Industrial Relations,Others,37.0,2021-01-01
-Nutrition,Others,37.0,2021-01-01
-Nursing,Others,37.0,2021-01-01
-PostgreSQL,Computer Science,36.0,2021-01-01
-Korean,Others,36.0,2021-01-01
-ML,Computer Science,36.0,2021-01-01
-Microsoft Word,Business,36.0,2021-01-01
-Relational Database,Computer Science,36.0,2021-01-01
-Data Science,Data Science,36.0,2021-01-01
-Debugging,Computer Science,36.0,2021-01-01
-Virtualization,Computer Science,36.0,2021-01-01
-Mechanics,Others,36.0,2021-01-01
-Distributed Computing,Computer Science,36.0,2021-01-01
-Airlines,Business,36.0,2021-01-01
-Software Design,Computer Science,36.0,2021-01-01
-Growth Strategy,Business,35.0,2021-01-01
-Beaker,Information Technology (IT),35.0,2021-01-01
-Network Security,Information Technology (IT),35.0,2021-01-01
-PL,Computer Science,35.0,2021-01-01
-Induction,Others,34.0,2021-01-01
-CMM,Computer Science,34.0,2021-01-01
-News,Others,34.0,2021-01-01
-Solaris,Computer Science,34.0,2021-01-01
-Chemistry,Others,34.0,2021-01-01
-Semiconductors,Others,34.0,2021-01-01
-Business Acumen,Business,33.0,2021-01-01
-Adaptability,Business,33.0,2021-01-01
-C++,Computer Science,33.0,2021-01-01
-Aesthetics,Others,33.0,2021-01-01
-UX Design,Others,32.0,2021-01-01
-Google Cloud Platform (GCP),Information Technology (IT),32.0,2021-01-01
-Literature,Others,32.0,2021-01-01
-Instrumentation,Others,32.0,2021-01-01
-Client Relations,Business,32.0,2021-01-01
-CVS,Computer Science,31.0,2021-01-01
-Sales Presentation,Business,31.0,2021-01-01
-Management Consulting,Business,31.0,2021-01-01
-Medicine,Others,31.0,2021-01-01
-Information Systems Security,Information Technology (IT),31.0,2021-01-01
-Wireframes,Business,30.0,2021-01-01
-Web Server,Information Technology (IT),30.0,2021-01-01
-Industrial Engineering,Others,30.0,2021-01-01
-PHP Development,Computer Science,30.0,2021-01-01
-Entrepreneurship,Business,30.0,2021-01-01
-Social Media Marketing,Business,30.0,2021-01-01
-Data Science Tool,Data Science,30.0,2021-01-01
-Motion Pictures,Others,29.0,2021-01-01
-Business Continuity Planning,Computer Science,29.0,2021-01-01
-Predictive Modeling,Data Science,29.0,2021-01-01
-Shortage,Others,29.0,2021-01-01
-Variable,Computer Science,29.0,2021-01-01
-Customer Relationship Management (CRM),Business,29.0,2021-01-01
-Database Management System,Computer Science,28.0,2021-01-01
-Biotechnology,Others,28.0,2021-01-01
-Theatre,Others,28.0,2021-01-01
-Vmware,Computer Science,28.0,2021-01-01
-Outreach,Business,28.0,2021-01-01
-Development Management,Business,27.0,2021-01-01
-Mergers and Acquisitions (M&A),Business,27.0,2021-01-01
-Quality Engineering,Others,26.0,2021-01-01
-Visualization,Computer Science,26.0,2021-01-01
-Polish,Others,26.0,2021-01-01
-Computer Engineering,Others,26.0,2021-01-01
-Regression,Data Science,26.0,2021-01-01
-Terraform,Computer Science,26.0,2021-01-01
-Special Effects,Computer Science,26.0,2021-01-01
-Cloud Service,Information Technology (IT),26.0,2021-01-01
-Laravel,Computer Science,26.0,2021-01-01
-Cold Calling,Business,26.0,2021-01-01
-Social Security,Information Technology (IT),26.0,2021-01-01
-Income Statement,Business,26.0,2021-01-01
-Labour and Employment Law,Others,26.0,2021-01-01
-System Administration,Information Technology (IT),25.0,2021-01-01
-Project Supervision,Business,25.0,2021-01-01
-Therapy,Others,25.0,2021-01-01
-Variance Analysis,Data Science,25.0,2021-01-01
-Analytical Thinking,Data Science,25.0,2021-01-01
-Sports Engineering,Others,25.0,2021-01-01
-Kafka,Computer Science,25.0,2021-01-01
-Ansible,Computer Science,24.0,2021-01-01
-TensorFlow,Data Science,24.0,2021-01-01
-Scikit-learn,Data Science,24.0,2021-01-01
-Brainstorming,Business,24.0,2021-01-01
-International Business,Business,24.0,2021-01-01
-Newsletters,Business,24.0,2021-01-01
-Poster,Others,24.0,2021-01-01
-Google Analytics,Data Science,24.0,2021-01-01
-Power Management,Business,24.0,2021-01-01
-Data Capture,Computer Science,24.0,2021-01-01
-Optics,Others,24.0,2021-01-01
-Delegation,Business,24.0,2021-01-01
-Supply Chain Risk Management,Business,24.0,2021-01-01
-PyTorch,Data Science,24.0,2021-01-01
-Property Management,Business,24.0,2021-01-01
-Cash Flow Management,Business,24.0,2021-01-01
-Full Stack Software Engineering,Computer Science,24.0,2021-01-01
-Textiles,Others,24.0,2021-01-01
-Public Relations and Communications,Business,24.0,2021-01-01
-Data Management,Computer Science,24.0,2021-01-01
-Array,Computer Science,24.0,2021-01-01
-Data Visualization,Data Science,23.0,2021-01-01
-WordPress,Business,23.0,2021-01-01
-Office Management,Business,23.0,2021-01-01
-Physics,Others,23.0,2021-01-01
-Middleware,Computer Science,23.0,2021-01-01
-Benchmarking,Business,23.0,2021-01-01
-eCommerce Platforms,Business,22.0,2021-01-01
-Confluence,Information Technology (IT),22.0,2021-01-01
-Route Management,Information Technology (IT),22.0,2021-01-01
-Information Security,Information Technology (IT),22.0,2021-01-01
-Casting,Others,22.0,2021-01-01
-Video Production,Business,22.0,2021-01-01
-Linker,Computer Science,22.0,2021-01-01
-Data Structure,Computer Science,22.0,2021-01-01
-Bash,Computer Science,22.0,2021-01-01
-Lead Generation,Business,22.0,2021-01-01
-iland,Information Technology (IT),21.0,2021-01-01
-Pharmacy,Others,21.0,2021-01-01
-Front End,Computer Science,21.0,2021-01-01
-Electromechanics,Others,21.0,2021-01-01
-MS SQL Server,Computer Science,21.0,2021-01-01
-Nice,Computer Science,20.0,2021-01-01
-Automotive Engineering,Others,20.0,2021-01-01
-Radio,Others,20.0,2021-01-01
-Italian,Others,20.0,2021-01-01
-Ecology,Others,20.0,2021-01-01
-Source Control,Computer Science,20.0,2021-01-01
-Graph Database Management System,Computer Science,20.0,2021-01-01
-Responsive Design,Others,20.0,2021-01-01
-Statistical Model,Data Science,20.0,2021-01-01
-NP Completeness,Computer Science,19.0,2021-01-01
-Regression Analysis,Data Science,19.0,2021-01-01
-Unity,Others,19.0,2021-01-01
-Spanish,Others,18.0,2021-01-01
-Content Management,Business,18.0,2021-01-01
-Equity,Business,18.0,2021-01-01
-Localization,Others,18.0,2021-01-01
-Newspapers,Business,18.0,2021-01-01
-Incident Management,Business,18.0,2021-01-01
-Entertainment,Others,18.0,2021-01-01
-Market Research Analysis,Business,18.0,2021-01-01
-Firewall,Information Technology (IT),18.0,2021-01-01
-Unix,Computer Science,18.0,2021-01-01
-Web Analytics,Computer Science,18.0,2021-01-01
-Business Ethics,Business,18.0,2021-01-01
-Team Building,Business,18.0,2021-01-01
-Agricultural Science,Others,18.0,2021-01-01
-Data Mining,Data Science,18.0,2021-01-01
-QA Testing,Business,18.0,2021-01-01
-Zoom,Business,18.0,2021-01-01
-Database Design,Computer Science,18.0,2021-01-01
-SketchUp,Computer Science,18.0,2021-01-01
-Maya,Computer Science,18.0,2021-01-01
-Streaming,Information Technology (IT),18.0,2021-01-01
-Manufacturing Operations,Others,17.0,2021-01-01
-Product Testing,Business,17.0,2021-01-01
-Online Business,Business,17.0,2021-01-01
-Data Preparation,Data Science,17.0,2021-01-01
-Apparel,Others,17.0,2021-01-01
-Web Framework,Computer Science,17.0,2021-01-01
-vSphere,Computer Science,16.0,2021-01-01
-Common ISDN Application Programming Interface (CAPI),Computer Science,16.0,2021-01-01
-Application Programming Interface (API),Computer Science,16.0,2021-01-01
-Bond,Others,16.0,2021-01-01
-Social Information System,Information Technology (IT),16.0,2021-01-01
-Industrial Automation,Others,16.0,2021-01-01
-Big Data Analysis,Data Science,16.0,2021-01-01
-Password,Information Technology (IT),16.0,2021-01-01
-Business Intelligence,Data Science,16.0,2021-01-01
-Messaging Application Programming Interface,Computer Science,16.0,2021-01-01
-Marketing Analytics,Data Science,16.0,2021-01-01
-Legal Management,Others,16.0,2021-01-01
-Corporate Communication,Business,16.0,2021-01-01
-Forestry,Others,16.0,2021-01-01
-Software Architecture,Computer Science,16.0,2021-01-01
-Graph,Others,16.0,2021-01-01
-Network Architecture,Information Technology (IT),16.0,2021-01-01
-Authentication,Information Technology (IT),16.0,2021-01-01
-Configuration Management,Business,16.0,2021-01-01
-Strategic Planning,Business,16.0,2021-01-01
-Performance Application Programming Interface,Computer Science,16.0,2021-01-01
-Unix Shell,Computer Science,16.0,2021-01-01
-Telephony Application Programming Interface,Computer Science,16.0,2021-01-01
-Arts,Others,16.0,2021-01-01
-Management Information System (MIS),Business,16.0,2021-01-01
-Computer Vision,Data Science,16.0,2021-01-01
-Kotlin,Computer Science,16.0,2021-01-01
-Distributed System,Computer Science,16.0,2021-01-01
-Profiling,Computer Science,16.0,2021-01-01
-Chatbot,Data Science,16.0,2021-01-01
-Quantitative Research,Business,16.0,2021-01-01
-Tax Accounting,Business,16.0,2021-01-01
-React Native,Computer Science,16.0,2021-01-01
-Materials Engineering,Others,15.0,2021-01-01
-Structural Engineering,Others,15.0,2021-01-01
-Commercial Law,Others,15.0,2021-01-01
-Biomaterials Engineering,Others,15.0,2021-01-01
-Salesforce,Business,15.0,2021-01-01
-Usability Engineering,Computer Science,15.0,2021-01-01
-Object-Oriented Programming (OOP),Computer Science,15.0,2021-01-01
-Naïve Bayes,Data Science,14.0,2021-01-01
-CouchDB,Computer Science,14.0,2021-01-01
-Email Marketing Campaign,Business,14.0,2021-01-01
-Oil and Gas,Others,14.0,2021-01-01
-Computing Platform,Information Technology (IT),14.0,2021-01-01
-OpenShift,Information Technology (IT),14.0,2021-01-01
-Indonesian,Others,14.0,2021-01-01
-Software Application,Computer Science,14.0,2021-01-01
-Service Management,Business,14.0,2021-01-01
-Cleanroom,Computer Science,14.0,2021-01-01
-Process and Methodology,Computer Science,14.0,2021-01-01
-Control Chart,Data Science,14.0,2021-01-01
-Software Development,Computer Science,14.0,2021-01-01
-Food Production,Others,14.0,2021-01-01
-Maintanence,Others,14.0,2021-01-01
-Telecommunications Engineering,Others,14.0,2021-01-01
-Cost Accounting,Business,14.0,2021-01-01
-Annual Report,Business,14.0,2021-01-01
-Machine Learning Algorithm,Data Science,14.0,2021-01-01
-Performance Review,Business,14.0,2021-01-01
-Decision Tree,Data Science,14.0,2021-01-01
-Web Development,Computer Science,14.0,2021-01-01
-Computing,Computer Science,14.0,2021-01-01
-Cisco Router,Information Technology (IT),14.0,2021-01-01
-Population,Data Science,14.0,2021-01-01
-Legal Service,Others,14.0,2021-01-01
-Xen Cloud Platform,Information Technology (IT),14.0,2021-01-01
-Social Media Management,Business,14.0,2021-01-01
-Source Code Management,Computer Science,14.0,2021-01-01
-Database Application,Computer Science,14.0,2021-01-01
-Energy Consumption,Computer Science,14.0,2021-01-01
-Task Management,Business,14.0,2021-01-01
-Ruby on Rails,Computer Science,14.0,2021-01-01
-Tamil,Others,14.0,2021-01-01
-Infrastructure as a Service (IaaS),Information Technology (IT),14.0,2021-01-01
-VOIP,Business,14.0,2021-01-01
-Financial Risk Management,Business,14.0,2021-01-01
-Property Information,Business,13.0,2021-01-01
-Oil and Energy,Others,13.0,2021-01-01
-Burmese,Others,13.0,2021-01-01
-Tableau,Data Science,13.0,2021-01-01
-Sales Operations,Business,13.0,2021-01-01
-Node.js,Computer Science,13.0,2021-01-01
-Recreation,Others,12.0,2021-01-01
-Scripting Language,Computer Science,12.0,2021-01-01
-Cloud Computing,Information Technology (IT),12.0,2021-01-01
-Data Sharing,Data Science,12.0,2021-01-01
-macOS,Computer Science,12.0,2021-01-01
-Database System,Computer Science,12.0,2021-01-01
-Bootstrap,Computer Science,12.0,2021-01-01
-Classification,Data Science,12.0,2021-01-01
-Supply and Demand,Others,12.0,2021-01-01
-Cybersecurity,Information Technology (IT),12.0,2021-01-01
-Software Interface,Computer Science,12.0,2021-01-01
-Active Listening,Others,12.0,2021-01-01
-Robotics,Data Science,12.0,2021-01-01
-Commodity,Others,12.0,2021-01-01
-Version Control,Computer Science,12.0,2021-01-01
-Post-Sale Relationship Management,Business,12.0,2021-01-01
-PL/SQL,Computer Science,12.0,2021-01-01
-Electronic Control Systems,Others,12.0,2021-01-01
-Tcl,Computer Science,12.0,2021-01-01
-Concurrency,Computer Science,12.0,2021-01-01
-Requirement Analysis,Business,12.0,2021-01-01
-Redux,Computer Science,12.0,2021-01-01
-Sales Management,Business,12.0,2021-01-01
-Repetition,Computer Science,12.0,2021-01-01
-Q-learning,Data Science,12.0,2021-01-01
-Cryptocurrency,Information Technology (IT),12.0,2021-01-01
-Bitbucket,Computer Science,12.0,2021-01-01
-Digital Art,Others,12.0,2021-01-01
-Computer Game,Others,12.0,2021-01-01
-SAS Statistical Analysis,Data Science,12.0,2021-01-01
-Google Drive,Information Technology (IT),12.0,2021-01-01
-Affliate Marketing,Business,12.0,2021-01-01
-Information Management,Information Technology (IT),12.0,2021-01-01
-Computer Worm,Information Technology (IT),12.0,2021-01-01
-Deep Learning,Data Science,12.0,2021-01-01
-Corporate Finance,Business,12.0,2021-01-01
-Carpentry,Others,11.0,2021-01-01
-Television,Others,11.0,2021-01-01
-Informatics,Information Technology (IT),11.0,2021-01-01
-Report Analysis,Business,11.0,2021-01-01
-Database Administration,Computer Science,11.0,2021-01-01
-Marketing Management,Business,11.0,2021-01-01
-Aviation,Others,11.0,2021-01-01
-Steganography,Information Technology (IT),11.0,2021-01-01
-Safari,Information Technology (IT),11.0,2021-01-01
-Geometry,Others,10.0,2021-01-01
-DevOps Automation Tool,Computer Science,10.0,2021-01-01
-Philosophy,Others,10.0,2021-01-01
-Industrial and Organizational Psychology,Others,10.0,2021-01-01
-Financial Regulation,Business,10.0,2021-01-01
-Social Science,Others,10.0,2021-01-01
-Video Encoding,Computer Science,10.0,2021-01-01
-Agile Methodology,Business,10.0,2021-01-01
-Health Psychology,Others,10.0,2021-01-01
-Social Network,Others,10.0,2021-01-01
-Cloud Computing Architecture,Information Technology (IT),10.0,2021-01-01
-Data Modeling,Data Science,10.0,2021-01-01
-Forensic Psychology,Others,10.0,2021-01-01
-Experimental Psychology,Others,10.0,2021-01-01
-Behaviour Analysis,Others,10.0,2021-01-01
-Software Testing,Computer Science,10.0,2021-01-01
-Reverse Engineering,Computer Science,10.0,2021-01-01
-SciPy,Computer Science,10.0,2021-01-01
-Optometry,Others,10.0,2021-01-01
-NumPy,Computer Science,10.0,2021-01-01
-Scientific Method,Others,10.0,2021-01-01
-Uncertainty,Others,10.0,2021-01-01
-Hive,Computer Science,10.0,2021-01-01
-Mathematical Modelling,Others,10.0,2021-01-01
-Cloud Database Management System,Computer Science,10.0,2021-01-01
-Google Workspace,Information Technology (IT),10.0,2021-01-01
-Drupal,Business,10.0,2021-01-01
-Flowchart,Computer Science,10.0,2021-01-01
-Load Balancing,Information Technology (IT),10.0,2021-01-01
-Developmental Psychology,Others,10.0,2021-01-01
-Data Acquisition,Data Science,10.0,2021-01-01
-Probability,Data Science,10.0,2021-01-01
-Algebra,Others,10.0,2021-01-01
-Securities,Others,10.0,2021-01-01
-Cryptography,Information Technology (IT),10.0,2021-01-01
-Matplotlib,Data Science,10.0,2021-01-01
-Correlation,Data Science,10.0,2021-01-01
-Pharmacology,Others,10.0,2021-01-01
-Environmental Science,Others,10.0,2021-01-01
-Forensic Science,Others,10.0,2021-01-01
-Financial Management,Business,10.0,2021-01-01
-Dreamweaver,Others,10.0,2021-01-01
-Model Based Reinforcement Learning,Data Science,10.0,2021-01-01
-Data Cleansing,Data Science,10.0,2021-01-01
-Clinical Psychology,Others,10.0,2021-01-01
-Web Application Security,Information Technology (IT),10.0,2021-01-01
-Perl,Computer Science,10.0,2021-01-01
-Ruby,Computer Science,10.0,2021-01-01
-Wireless Network,Information Technology (IT),10.0,2021-01-01
-Market Analysis,Business,10.0,2021-01-01
-Financial Engineering,Business,9.0,2021-01-01
-Microbiology,Others,9.0,2021-01-01
-Subject Matter Expert (SME),Business,9.0,2021-01-01
-Business Intelligence Tool,Data Science,9.0,2021-01-01
-Financial Accounting,Business,9.0,2021-01-01
-Tax Law,Others,9.0,2021-01-01
-Operations Management,Business,9.0,2021-01-01
-Outsourcing,Business,9.0,2021-01-01
-Construction Law,Others,9.0,2021-01-01
-Network Management,Information Technology (IT),8.0,2021-01-01
-Business Writing,Business,8.0,2021-01-01
-Bug Tracking System,Data Science,8.0,2021-01-01
-Wireless Security,Information Technology (IT),8.0,2021-01-01
-Basic Access Authentication,Information Technology (IT),8.0,2021-01-01
-Microsoft Access,Business,8.0,2021-01-01
-Financial Services,Business,8.0,2021-01-01
-Tomcat,Computer Science,8.0,2021-01-01
-Data Security,Information Technology (IT),8.0,2021-01-01
-Forth,Computer Science,8.0,2021-01-01
-Educational Psychology,Others,8.0,2021-01-01
-Cloud Platform,Information Technology (IT),8.0,2021-01-01
-Product Roadmap,Business,8.0,2021-01-01
-Production Set,Others,8.0,2021-01-01
-Magento,Business,8.0,2021-01-01
-Pascal,Computer Science,8.0,2021-01-01
-Marine Engineering,Others,8.0,2021-01-01
-Routing Protocol,Information Technology (IT),8.0,2021-01-01
-Mathematical Economics,Others,8.0,2021-01-01
-Requirements Gathering,Business,8.0,2021-01-01
-International Finance,Business,8.0,2021-01-01
-WooCommerce,Business,8.0,2021-01-01
-Payment Processing,Computer Science,8.0,2021-01-01
-Digital Media,Others,8.0,2021-01-01
-Public Policy,Others,8.0,2021-01-01
-Encoding,Computer Science,8.0,2021-01-01
-Marketing Design,Business,8.0,2021-01-01
-Strategic Management,Business,8.0,2021-01-01
-Build Tool,Computer Science,8.0,2021-01-01
-Infographics,Others,8.0,2021-01-01
-Programming Language Theory,Computer Science,8.0,2021-01-01
-Content Management System (CMS),Business,8.0,2021-01-01
-Pivot Table,Business,8.0,2021-01-01
-Email Production,Business,8.0,2021-01-01
-Marketing Psychology,Business,8.0,2021-01-01
-Web Application Framework,Computer Science,8.0,2021-01-01
-Needs Analysis,Business,8.0,2021-01-01
-Gender and Sexuality Studies,Others,8.0,2021-01-01
-Computer-aided Design,Computer Science,8.0,2021-01-01
-Scala,Computer Science,8.0,2021-01-01
-Software as a Service (SaaS),Computer Science,8.0,2021-01-01
-Financial Law,Others,8.0,2021-01-01
-Storage System,Information Technology (IT),8.0,2021-01-01
-Loader,Computer Science,8.0,2021-01-01
-Legal Systems,Others,8.0,2021-01-01
-Hbase,Computer Science,8.0,2021-01-01
-Clustering,Data Science,8.0,2021-01-01
-German,Others,8.0,2021-01-01
-Audio Production,Business,8.0,2021-01-01
-Tree,Computer Science,8.0,2021-01-01
-Supply Chain Management,Business,8.0,2021-01-01
-Wireframing,Others,8.0,2021-01-01
-Photo Editing,Others,7.0,2021-01-01
-Consumer Behaviour,Business,7.0,2021-01-01
-Business Intelligence Testing,Data Science,7.0,2021-01-01
-Culinary Art,Others,7.0,2021-01-01
-Email Management,Business,7.0,2021-01-01
-Corporate Law,Others,7.0,2021-01-01
-Investor Relations,Business,7.0,2021-01-01
-Microsoft .NET,Computer Science,7.0,2021-01-01
-Tracking System,Data Science,7.0,2021-01-01
-UI Design,Computer Science,7.0,2021-01-01
-Electronic Materials,Others,6.0,2021-01-01
-COBOL,Computer Science,6.0,2021-01-01
-Enterprise Software,Business,6.0,2021-01-01
-Science and Technology Studies,Others,6.0,2021-01-01
-Interactive Media,Others,6.0,2021-01-01
-Working Capital,Business,6.0,2021-01-01
-Joomla,Business,6.0,2021-01-01
-Sustainable Development,Others,6.0,2021-01-01
-Facial Recognition,Data Science,6.0,2021-01-01
-Gamification,Others,6.0,2021-01-01
-Investment Banking,Business,6.0,2021-01-01
-Operations Research,Others,6.0,2021-01-01
-Social Work,Others,6.0,2021-01-01
-Stock Market,Business,6.0,2021-01-01
-Empathy,Business,6.0,2021-01-01
-Global Server Load Balancing,Information Technology (IT),6.0,2021-01-01
-Amazon Web Service (AWS),Information Technology (IT),6.0,2021-01-01
-Radiology,Others,6.0,2021-01-01
-e-business,Business,6.0,2021-01-01
-Vulnerability,Information Technology (IT),6.0,2021-01-01
-Applied Mathematics,Others,6.0,2021-01-01
-Paid Socia Media Advertisement,Business,6.0,2021-01-01
-Key-value Database Management System,Computer Science,6.0,2021-01-01
-Storytelling,Business,6.0,2021-01-01
-Social Networking Tool,Data Science,6.0,2021-01-01
-Responsive Web Design,Computer Science,6.0,2021-01-01
-Encryption,Information Technology (IT),6.0,2021-01-01
-Key Management,Information Technology (IT),6.0,2021-01-01
-Vmware ESXi,Information Technology (IT),6.0,2021-01-01
-Yii,Computer Science,6.0,2021-01-01
-Secure Coding,Information Technology (IT),6.0,2021-01-01
-Relational Database Management System (RDSMS),Computer Science,6.0,2021-01-01
-SAS,Data Science,6.0,2021-01-01
-Cloud Application,Information Technology (IT),6.0,2021-01-01
-Patient Care,Others,6.0,2021-01-01
-Multi-model Database Management System,Computer Science,6.0,2021-01-01
-Facilities Engineering,Others,6.0,2021-01-01
-Social Selling,Business,6.0,2021-01-01
-Search Engine Marketing,Business,6.0,2021-01-01
-Graph Database,Computer Science,6.0,2021-01-01
-IP Address,Information Technology (IT),6.0,2021-01-01
-Storage Management,Information Technology (IT),6.0,2021-01-01
-Market Segmentation,Business,6.0,2021-01-01
-Storyboarding,Others,6.0,2021-01-01
-Statutory Law,Others,6.0,2021-01-01
-Verification And Validation,Information Technology (IT),6.0,2021-01-01
-Petty Cash Control,Business,6.0,2021-01-01
-Regression Testing,Data Science,6.0,2021-01-01
-Budget Planning,Business,6.0,2021-01-01
-Property Management Software,Business,6.0,2021-01-01
-Property Management System,Business,6.0,2021-01-01
-Goal Tracking System,Data Science,6.0,2021-01-01
-Fast Ethernet,Information Technology (IT),6.0,2021-01-01
-Knowledge Management,Business,6.0,2021-01-01
-Business Analytics,Business,6.0,2021-01-01
-Revision Control,Computer Science,6.0,2021-01-01
-Mobile Development,Computer Science,6.0,2021-01-01
-Agricultural Production,Others,6.0,2021-01-01
-Apache,Computer Science,6.0,2021-01-01
-Email Client,Business,6.0,2021-01-01
-Syntax,Others,6.0,2021-01-01
-Microsoft Azure,Information Technology (IT),6.0,2021-01-01
-Urban Engineering,Others,6.0,2021-01-01
-Search Engine Optimization (SEO),Business,6.0,2021-01-01
-Search Engine and Keyword Optimization,Business,6.0,2021-01-01
-Oracle Databases,Computer Science,6.0,2021-01-01
-Objection Handling,Business,6.0,2021-01-01
-Maven,Computer Science,6.0,2021-01-01
-Electronic Key Management System,Information Technology (IT),6.0,2021-01-01
-Gecko,Information Technology (IT),6.0,2021-01-01
-Software Package,Computer Science,6.0,2021-01-01
-Liquidation,Business,6.0,2021-01-01
-Logic,Others,6.0,2021-01-01
-Talent Management,Business,6.0,2021-01-01
-Professional Training,Business,6.0,2021-01-01
-Unit Cost,Others,6.0,2021-01-01
-Systems Engineering,Others,6.0,2021-01-01
-Testing Hypothesis,Data Science,6.0,2021-01-01
-Opera,Information Technology (IT),6.0,2021-01-01
-Natural Language Processing Toolkit (NLTK),Data Science,6.0,2021-01-01
-Natural Language Processing System,Data Science,6.0,2021-01-01
-Innovation Management,Business,6.0,2021-01-01
-Natural Language Processing (NLP),Data Science,6.0,2021-01-01
-Project Chart,Data Science,6.0,2021-01-01
-Data Presentation,Data Science,6.0,2021-01-01
-Game Development,Others,6.0,2021-01-01
-Development Studies,Others,6.0,2021-01-01
-Horticulture,Others,6.0,2021-01-01
-Meteorology,Others,6.0,2021-01-01
-Contact Manager,Business,5.0,2021-01-01
-Financial Modeling,Data Science,5.0,2021-01-01
-Psychometrics,Others,5.0,2021-01-01
-Web Scraping,Data Science,5.0,2021-01-01
-Digital Printing,Others,5.0,2021-01-01
-Greenhopper,Business,4.0,2021-01-01
-Cordova,Computer Science,4.0,2021-01-01
-Animal Husbandry,Others,4.0,2021-01-01
-Problem Management,Business,4.0,2021-01-01
-Microsoft Power BI,Data Science,4.0,2021-01-01
-Microsoft SQL Servers,Computer Science,4.0,2021-01-01
-Visual Studio Code,Computer Science,4.0,2021-01-01
-Wireless LAN,Information Technology (IT),4.0,2021-01-01
-Corel Draw,Others,4.0,2021-01-01
-Enterprise System,Business,4.0,2021-01-01
-Gantt Chart,Data Science,4.0,2021-01-01
-Economic Growth,Others,4.0,2021-01-01
-Persuasion,Business,4.0,2021-01-01
-Social Psychology,Others,4.0,2021-01-01
-MATLAB,Others,4.0,2021-01-01
-Dash,Data Science,4.0,2021-01-01
-Oracle NoSQL Database,Computer Science,4.0,2021-01-01
-Red Hat,Information Technology (IT),4.0,2021-01-01
-Polytron Version Control System (PVCS),Computer Science,4.0,2021-01-01
-Pediatrics,Others,4.0,2021-01-01
-Quma Version Control System (QVCS),Computer Science,4.0,2021-01-01
-Signal Processing,Data Science,4.0,2021-01-01
-Ajax,Computer Science,4.0,2021-01-01
-Pattern Recognition,Data Science,4.0,2021-01-01
-T-SQL,Computer Science,4.0,2021-01-01
-SPSS,Data Science,4.0,2021-01-01
-Human Machine Interface,Computer Science,4.0,2021-01-01
-Public Health,Others,4.0,2021-01-01
-Financial Risk,Business,4.0,2021-01-01
-Supervised Machine Learning,Data Science,4.0,2021-01-01
-Sentiment Analysis,Data Science,4.0,2021-01-01
-Music Therapy,Others,4.0,2021-01-01
-Extract Transform Load (ETL),Computer Science,4.0,2021-01-01
-Text Analysis,Data Science,4.0,2021-01-01
-PrestaShop,Business,4.0,2021-01-01
-Privacy,Information Technology (IT),4.0,2021-01-01
-Materials Science,Others,4.0,2021-01-01
-Semantic Analysis,Data Science,4.0,2021-01-01
-Teradata,Computer Science,4.0,2021-01-01
-SQLite,Computer Science,4.0,2021-01-01
-Food Service Operations,Business,4.0,2021-01-01
-Marketing Content Development,Business,4.0,2021-01-01
-Imagine,Computer Science,4.0,2021-01-01
-Systems Management,Business,4.0,2021-01-01
-Mean Shift,Data Science,4.0,2021-01-01
-Computer Systems Organization,Computer Science,4.0,2021-01-01
-French,Others,4.0,2021-01-01
-Microsoft PowerPoint,Business,4.0,2021-01-01
-Biomedical Engineering,Others,4.0,2021-01-01
-Polymer Engineering,Others,4.0,2021-01-01
-VersionOne,Business,4.0,2021-01-01
-Event Planning,Business,4.0,2021-01-01
-STATA,Data Science,4.0,2021-01-01
-Apache Kafka,Computer Science,4.0,2021-01-01
-International Financial Reporting Standards (IFRS),Business,4.0,2021-01-01
-Vacuum Engineering,Others,4.0,2021-01-01
-Graphical User Interface (GUI),Computer Science,4.0,2021-01-01
-Programming Tool,Computer Science,4.0,2021-01-01
-Web API,Information Technology (IT),4.0,2021-01-01
-MongoDB,Computer Science,4.0,2021-01-01
-Torch,Data Science,4.0,2021-01-01
-Slack,Business,4.0,2021-01-01
-Geography,Others,4.0,2021-01-01
-Performing Art,Others,4.0,2021-01-01
-Decision Process,Business,4.0,2021-01-01
-Proof Theory,Others,4.0,2021-01-01
-Conceptual Art,Others,4.0,2021-01-01
-Financial Statement Analysis,Business,4.0,2021-01-01
-Jin Chinese,Others,4.0,2021-01-01
-Ubuntu,Computer Science,4.0,2021-01-01
-MariaDB,Computer Science,4.0,2021-01-01
-Mastercam,Computer Science,4.0,2021-01-01
-OpenStack,Information Technology (IT),4.0,2021-01-01
-Apache Ant,Computer Science,4.0,2021-01-01
-User Interface Design,Computer Science,4.0,2021-01-01
-Digital Marketing System,Information Technology (IT),3.0,2021-01-01
-Engineering Technology,Others,3.0,2021-01-01
-Ant,Computer Science,3.0,2021-01-01
-Architectural Engineering,Others,3.0,2021-01-01
-Currency,Others,3.0,2021-01-01
-Know Your Customer (KYC),Business,3.0,2021-01-01
-Business Intelligence (BI),Data Science,3.0,2021-01-01
-Instrumentaion Engineering,Others,3.0,2021-01-01
-Agronomy,Others,3.0,2021-01-01
-Jelastic,Information Technology (IT),3.0,2021-01-01
-Cookies,Information Technology (IT),2.0,2021-01-01
-IBM Cognos Business Intelligence,Data Science,2.0,2021-01-01
-Russian,Others,2.0,2021-01-01
-Records Management,Business,2.0,2021-01-01
-Complex Analysis,Others,2.0,2021-01-01
-Issue Tracking System,Data Science,2.0,2021-01-01
-Antivirus Software,Information Technology (IT),2.0,2021-01-01
-IBM DB2,Computer Science,2.0,2021-01-01
-Cassandra,Computer Science,2.0,2021-01-01
-Network Service,Information Technology (IT),2.0,2021-01-01
-Rehabilitation,Others,2.0,2021-01-01
-Principle of Legality,Others,2.0,2021-01-01
-Adobe Acrobat,Others,2.0,2021-01-01
-Socket,Information Technology (IT),2.0,2021-01-01
-Process Control System,Information Technology (IT),2.0,2021-01-01
-Ensemble,Data Science,2.0,2021-01-01
-Mathematical Logic,Others,2.0,2021-01-01
-Regional Planning,Business,2.0,2021-01-01
-Hydroponics,Others,2.0,2021-01-01
-Mixed Reality,Computer Science,2.0,2021-01-01
-Rapport Building,Business,2.0,2021-01-01
-Media Production,Business,2.0,2021-01-01
-Rent,Others,2.0,2021-01-01
-Reliability Engineering,Others,2.0,2021-01-01
-Mathematical Programming,Others,2.0,2021-01-01
-Exploit,Information Technology (IT),2.0,2021-01-01
-Cognitive Psychology,Others,2.0,2021-01-01
-Product Liability,Business,2.0,2021-01-01
-Derivative,Others,2.0,2021-01-01
-Capacity Utilization,Others,2.0,2021-01-01
-Pandas,Computer Science,2.0,2021-01-01
-Resource Management,Business,2.0,2021-01-01
-Database Development,Computer Science,2.0,2021-01-01
-Information Science,Others,2.0,2021-01-01
-Socket Programming,Information Technology (IT),2.0,2021-01-01
-Intellectual Property Law,Others,2.0,2021-01-01
-Psychology,Others,2.0,2021-01-01
-Industrial Design,Others,2.0,2021-01-01
-Intellectual Property Rights,Business,2.0,2021-01-01
-Intellectual Property (IP),Business,2.0,2021-01-01
-Cost-benefit Analysis,Others,2.0,2021-01-01
-Design Analysis,Others,2.0,2021-01-01
-Gurobi,Computer Science,2.0,2021-01-01
-Immunology,Others,2.0,2021-01-01
-Toxicology,Others,2.0,2021-01-01
-Marketing Consulting,Business,2.0,2021-01-01
-ISO 9000,Computer Science,2.0,2021-01-01
-Google OR-Tools,Computer Science,2.0,2021-01-01
-Crisis Management,Business,2.0,2021-01-01
-Public Relations (PR),Business,2.0,2021-01-01
-Visual Communication,Others,2.0,2021-01-01
-Programming Model,Computer Science,2.0,2021-01-01
-Chemical Processing,Others,2.0,2021-01-01
-CPLEX,Computer Science,2.0,2021-01-01
-Typography,Others,1.0,2021-01-01
-Embedded System,Computer Science,1.0,2021-01-01
-Information Technology (IT),Information Technology (IT),1.0,2021-01-01
-Microsoft Business Intelligence,Data Science,1.0,2021-01-01
-Oracle SQL Developer,Computer Science,1.0,2021-01-01
-Microsoft Visio,Data Science,1.0,2021-01-01
+Skill,Domain,Count,JobPostedMonth,Source
+Sales,Business,2580.0,2021-01-01,MYFutureJobs
+Communication,Business,2151.0,2021-01-01,MYFutureJobs
+English,Others,1932.0,2021-01-01,MYFutureJobs
+Management,Business,1893.0,2021-01-01,MYFutureJobs
+Training,Business,1398.0,2021-01-01,MYFutureJobs
+Marketing,Business,1305.0,2021-01-01,MYFutureJobs
+Design,Others,1183.0,2021-01-01,MYFutureJobs
+Documentation,Business,971.0,2021-01-01,MYFutureJobs
+Engineering,Others,942.0,2021-01-01,MYFutureJobs
+Market,Business,903.0,2021-01-01,MYFutureJobs
+Reporting,Business,864.0,2021-01-01,MYFutureJobs
+Manufacturing,Business,856.0,2021-01-01,MYFutureJobs
+Customer Service,Business,760.0,2021-01-01,MYFutureJobs
+Repair,Others,721.0,2021-01-01,MYFutureJobs
+Construction,Business,652.0,2021-01-01,MYFutureJobs
+Security,Information Technology (IT),652.0,2021-01-01,MYFutureJobs
+Analytical,Business,632.0,2021-01-01,MYFutureJobs
+Budget,Business,621.0,2021-01-01,MYFutureJobs
+Accounting,Business,621.0,2021-01-01,MYFutureJobs
+Testing,Computer Science,620.0,2021-01-01,MYFutureJobs
+Problem Solving,Business,615.0,2021-01-01,MYFutureJobs
+Email,Business,612.0,2021-01-01,MYFutureJobs
+Administration,Business,592.0,2021-01-01,MYFutureJobs
+Presentation,Business,591.0,2021-01-01,MYFutureJobs
+Research,Business,583.0,2021-01-01,MYFutureJobs
+Finance,Business,580.0,2021-01-01,MYFutureJobs
+Processing,Business,571.0,2021-01-01,MYFutureJobs
+Audit,Business,569.0,2021-01-01,MYFutureJobs
+Social Media,Others,539.0,2021-01-01,MYFutureJobs
+Sentry,Information Technology (IT),507.0,2021-01-01,MYFutureJobs
+Database,Computer Science,464.0,2021-01-01,MYFutureJobs
+Platform,Computer Science,461.0,2021-01-01,MYFutureJobs
+Video,Others,459.0,2021-01-01,MYFutureJobs
+Writing,Business,456.0,2021-01-01,MYFutureJobs
+Electronics,Others,431.0,2021-01-01,MYFutureJobs
+Machinery,Others,427.0,2021-01-01,MYFutureJobs
+Leadership,Business,426.0,2021-01-01,MYFutureJobs
+Network,Information Technology (IT),384.0,2021-01-01,MYFutureJobs
+Excel,Business,380.0,2021-01-01,MYFutureJobs
+Microsoft Office,Business,330.0,2021-01-01,MYFutureJobs
+Logistics,Business,318.0,2021-01-01,MYFutureJobs
+Banking,Business,318.0,2021-01-01,MYFutureJobs
+Negotiation,Business,304.0,2021-01-01,MYFutureJobs
+Accuracy,Business,302.0,2021-01-01,MYFutureJobs
+Advertising,Business,286.0,2021-01-01,MYFutureJobs
+Graphic Design,Others,284.0,2021-01-01,MYFutureJobs
+Property,Business,281.0,2021-01-01,MYFutureJobs
+Law,Others,279.0,2021-01-01,MYFutureJobs
+Business Development,Business,279.0,2021-01-01,MYFutureJobs
+Metals,Others,275.0,2021-01-01,MYFutureJobs
+Image,Others,275.0,2021-01-01,MYFutureJobs
+Production Process,Business,272.0,2021-01-01,MYFutureJobs
+Human Resources (HR),Business,262.0,2021-01-01,MYFutureJobs
+Collaboration,Business,254.0,2021-01-01,MYFutureJobs
+Malay,Others,250.0,2021-01-01,MYFutureJobs
+Insurance,Business,249.0,2021-01-01,MYFutureJobs
+Retail,Business,249.0,2021-01-01,MYFutureJobs
+Ad Design,Others,243.0,2021-01-01,MYFutureJobs
+Media,Others,243.0,2021-01-01,MYFutureJobs
+Automation,Information Technology (IT),241.0,2021-01-01,MYFutureJobs
+Accountancy,Business,234.0,2021-01-01,MYFutureJobs
+Quality Control,Business,233.0,2021-01-01,MYFutureJobs
+Scheduling,Business,229.0,2021-01-01,MYFutureJobs
+Brand Management,Business,224.0,2021-01-01,MYFutureJobs
+AutoCAD,Others,224.0,2021-01-01,MYFutureJobs
+Operating System,Computer Science,224.0,2021-01-01,MYFutureJobs
+Hardware,Computer Science,221.0,2021-01-01,MYFutureJobs
+Project Management,Business,214.0,2021-01-01,MYFutureJobs
+Quality Assurance (QA),Business,214.0,2021-01-01,MYFutureJobs
+Translation,Others,212.0,2021-01-01,MYFutureJobs
+Compiler,Computer Science,211.0,2021-01-01,MYFutureJobs
+Agile,Computer Science,203.0,2021-01-01,MYFutureJobs
+Time Management,Business,203.0,2021-01-01,MYFutureJobs
+Transportation,Business,201.0,2021-01-01,MYFutureJobs
+Sorting,Computer Science,200.0,2021-01-01,MYFutureJobs
+Assembly,Computer Science,200.0,2021-01-01,MYFutureJobs
+Innovation,Business,200.0,2021-01-01,MYFutureJobs
+Chemical,Others,196.0,2021-01-01,MYFutureJobs
+Configuration,Computer Science,193.0,2021-01-01,MYFutureJobs
+Coding,Computer Science,191.0,2021-01-01,MYFutureJobs
+Selection,Computer Science,190.0,2021-01-01,MYFutureJobs
+IT Operations,Information Technology (IT),189.0,2021-01-01,MYFutureJobs
+C,Computer Science,188.0,2021-01-01,MYFutureJobs
+Closing,Business,186.0,2021-01-01,MYFutureJobs
+eCommerce,Business,185.0,2021-01-01,MYFutureJobs
+Digital Marketing,Business,185.0,2021-01-01,MYFutureJobs
+Architecture,Others,184.0,2021-01-01,MYFutureJobs
+Coaching,Others,182.0,2021-01-01,MYFutureJobs
+Internet,Information Technology (IT),180.0,2021-01-01,MYFutureJobs
+Technical Support,Information Technology (IT),176.0,2021-01-01,MYFutureJobs
+Mechanical Engineering,Others,174.0,2021-01-01,MYFutureJobs
+Procurement,Business,173.0,2021-01-01,MYFutureJobs
+Programming,Business,169.0,2021-01-01,MYFutureJobs
+Financial Statement,Business,167.0,2021-01-01,MYFutureJobs
+Cooking,Others,167.0,2021-01-01,MYFutureJobs
+Creatio,Information Technology (IT),167.0,2021-01-01,MYFutureJobs
+Chef,Information Technology (IT),166.0,2021-01-01,MYFutureJobs
+JavaScript,Computer Science,165.0,2021-01-01,MYFutureJobs
+Marketing Research,Business,163.0,2021-01-01,MYFutureJobs
+Microsoft,Business,163.0,2021-01-01,MYFutureJobs
+Teamwork,Business,163.0,2021-01-01,MYFutureJobs
+Facebook,Others,161.0,2021-01-01,MYFutureJobs
+Windows,Computer Science,160.0,2021-01-01,MYFutureJobs
+Nonverbal Communication,Business,157.0,2021-01-01,MYFutureJobs
+Electronic Engineering,Others,157.0,2021-01-01,MYFutureJobs
+Product Development,Business,157.0,2021-01-01,MYFutureJobs
+Healthcare,Others,157.0,2021-01-01,MYFutureJobs
+Electrical Engineering,Others,156.0,2021-01-01,MYFutureJobs
+Java,Computer Science,153.0,2021-01-01,MYFutureJobs
+Investment,Business,151.0,2021-01-01,MYFutureJobs
+Welding,Others,151.0,2021-01-01,MYFutureJobs
+Python,Computer Science,149.0,2021-01-01,MYFutureJobs
+Market Research,Business,149.0,2021-01-01,MYFutureJobs
+Fabrication,Business,148.0,2021-01-01,MYFutureJobs
+Decision Making,Business,147.0,2021-01-01,MYFutureJobs
+Creativity,Others,145.0,2021-01-01,MYFutureJobs
+Editing,Business,138.0,2021-01-01,MYFutureJobs
+SAP,Computer Science,138.0,2021-01-01,MYFutureJobs
+Forecasting,Business,137.0,2021-01-01,MYFutureJobs
+Risk Management,Business,137.0,2021-01-01,MYFutureJobs
+Consulting,Business,132.0,2021-01-01,MYFutureJobs
+Accounts Payable,Business,132.0,2021-01-01,MYFutureJobs
+Statistics,Data Science,130.0,2021-01-01,MYFutureJobs
+Software Engineering,Computer Science,130.0,2021-01-01,MYFutureJobs
+Interpreter,Computer Science,128.0,2021-01-01,MYFutureJobs
+Business Plan,Business,128.0,2021-01-01,MYFutureJobs
+Business Process,Business,125.0,2021-01-01,MYFutureJobs
+Trade,Business,125.0,2021-01-01,MYFutureJobs
+Plastics,Others,124.0,2021-01-01,MYFutureJobs
+Instagram,Others,124.0,2021-01-01,MYFutureJobs
+Box,Information Technology (IT),122.0,2021-01-01,MYFutureJobs
+Account Receivable,Business,122.0,2021-01-01,MYFutureJobs
+Networking,Business,121.0,2021-01-01,MYFutureJobs
+Router,Information Technology (IT),120.0,2021-01-01,MYFutureJobs
+RStudio,Computer Science,119.0,2021-01-01,MYFutureJobs
+Photography,Business,118.0,2021-01-01,MYFutureJobs
+Software Development,Computer Science,117.0,2021-01-01,MYFutureJobs
+Business Administration,Business,115.0,2021-01-01,MYFutureJobs
+Profiler,Computer Science,114.0,2021-01-01,MYFutureJobs
+MySQL,Computer Science,113.0,2021-01-01,MYFutureJobs
+User Experience (UX),Others,112.0,2021-01-01,MYFutureJobs
+Hospitality,Business,109.0,2021-01-01,MYFutureJobs
+Balance Sheet,Business,107.0,2021-01-01,MYFutureJobs
+PowerPoint,Business,107.0,2021-01-01,MYFutureJobs
+Microsoft Excel,Business,107.0,2021-01-01,MYFutureJobs
+Quality Management,Business,103.0,2021-01-01,MYFutureJobs
+Effective Communication,Business,101.0,2021-01-01,MYFutureJobs
+Oracle,Computer Science,100.0,2021-01-01,MYFutureJobs
+Publishing,Business,100.0,2021-01-01,MYFutureJobs
+Information System,Information Technology (IT),100.0,2021-01-01,MYFutureJobs
+Dashboard,Data Science,96.0,2021-01-01,MYFutureJobs
+Saving,Others,95.0,2021-01-01,MYFutureJobs
+Methodology,Business,95.0,2021-01-01,MYFutureJobs
+Objective-C,Computer Science,94.0,2021-01-01,MYFutureJobs
+Programming Language,Computer Science,94.0,2021-01-01,MYFutureJobs
+R,Computer Science,94.0,2021-01-01,MYFutureJobs
+Adobe Photoshop,Others,94.0,2021-01-01,MYFutureJobs
+Protocol,Information Technology (IT),92.0,2021-01-01,MYFutureJobs
+Machine Learning,Data Science,92.0,2021-01-01,MYFutureJobs
+Front End,Computer Science,92.0,2021-01-01,MYFutureJobs
+Linux,Computer Science,91.0,2021-01-01,MYFutureJobs
+Git,Computer Science,91.0,2021-01-01,MYFutureJobs
+Accounting Software,Business,91.0,2021-01-01,MYFutureJobs
+Office Administration,Business,90.0,2021-01-01,MYFutureJobs
+Medium,Business,89.0,2021-01-01,MYFutureJobs
+Critical Thinking,Business,89.0,2021-01-01,MYFutureJobs
+Perceptron,Data Science,88.0,2021-01-01,MYFutureJobs
+Software Tool,Computer Science,87.0,2021-01-01,MYFutureJobs
+PHP,Computer Science,86.0,2021-01-01,MYFutureJobs
+Business Operations,Business,85.0,2021-01-01,MYFutureJobs
+Searching,Computer Science,83.0,2021-01-01,MYFutureJobs
+Organizational Skill,Business,82.0,2021-01-01,MYFutureJobs
+C#,Computer Science,82.0,2021-01-01,MYFutureJobs
+Telecommunication,Information Technology (IT),81.0,2021-01-01,MYFutureJobs
+Management Accounting,Business,80.0,2021-01-01,MYFutureJobs
+Biology,Others,80.0,2021-01-01,MYFutureJobs
+Business Analysis,Business,80.0,2021-01-01,MYFutureJobs
+Data Analysis,Data Science,79.0,2021-01-01,MYFutureJobs
+Mathematics,Others,78.0,2021-01-01,MYFutureJobs
+Economics,Others,78.0,2021-01-01,MYFutureJobs
+Telemarketing,Business,77.0,2021-01-01,MYFutureJobs
+Azure,Information Technology (IT),77.0,2021-01-01,MYFutureJobs
+Sports,Others,77.0,2021-01-01,MYFutureJobs
+Civil Engineering,Others,77.0,2021-01-01,MYFutureJobs
+Mechatronics,Others,76.0,2021-01-01,MYFutureJobs
+Chart,Business,76.0,2021-01-01,MYFutureJobs
+Recruiting,Business,75.0,2021-01-01,MYFutureJobs
+Customer Experience,Business,75.0,2021-01-01,MYFutureJobs
+Kubernetes,Information Technology (IT),75.0,2021-01-01,MYFutureJobs
+LeSS,Computer Science,74.0,2021-01-01,MYFutureJobs
+Web Application,Computer Science,74.0,2021-01-01,MYFutureJobs
+History,Others,72.0,2021-01-01,MYFutureJobs
+Machining,Others,72.0,2021-01-01,MYFutureJobs
+Scrum,Computer Science,71.0,2021-01-01,MYFutureJobs
+Twitter,Others,71.0,2021-01-01,MYFutureJobs
+Business Management,Business,71.0,2021-01-01,MYFutureJobs
+Systems Theory,Others,71.0,2021-01-01,MYFutureJobs
+Research and Development (R&D),Business,70.0,2021-01-01,MYFutureJobs
+Online Media,Business,70.0,2021-01-01,MYFutureJobs
+Root Cause Analysis,Business,70.0,2021-01-01,MYFutureJobs
+Automotive,Others,70.0,2021-01-01,MYFutureJobs
+Calendar,Business,69.0,2021-01-01,MYFutureJobs
+Editor,Computer Science,69.0,2021-01-01,MYFutureJobs
+Scheme,Computer Science,68.0,2021-01-01,MYFutureJobs
+Division,Others,68.0,2021-01-01,MYFutureJobs
+Japanese,Others,67.0,2021-01-01,MYFutureJobs
+DevOps,Computer Science,66.0,2021-01-01,MYFutureJobs
+Gradle,Computer Science,65.0,2021-01-01,MYFutureJobs
+Android,Computer Science,64.0,2021-01-01,MYFutureJobs
+Development Tools,Computer Science,63.0,2021-01-01,MYFutureJobs
+Public Speaking,Business,63.0,2021-01-01,MYFutureJobs
+Adobe Illustrator,Others,63.0,2021-01-01,MYFutureJobs
+Product Knowledge,Business,62.0,2021-01-01,MYFutureJobs
+Youtube,Others,62.0,2021-01-01,MYFutureJobs
+Peripheral,Computer Science,61.0,2021-01-01,MYFutureJobs
+Docker,Computer Science,61.0,2021-01-01,MYFutureJobs
+Scripting,Information Technology (IT),60.0,2021-01-01,MYFutureJobs
+Change Management,Business,60.0,2021-01-01,MYFutureJobs
+Animation,Others,59.0,2021-01-01,MYFutureJobs
+Public Relations (PR),Business,59.0,2021-01-01,MYFutureJobs
+Online Marketing,Business,59.0,2021-01-01,MYFutureJobs
+Algorithm,Computer Science,58.0,2021-01-01,MYFutureJobs
+Blogging,Business,58.0,2021-01-01,MYFutureJobs
+Social Media Platform,Others,58.0,2021-01-01,MYFutureJobs
+Shell,Computer Science,57.0,2021-01-01,MYFutureJobs
+Bookkeeping,Business,57.0,2021-01-01,MYFutureJobs
+Rally,Business,57.0,2021-01-01,MYFutureJobs
+Jira,Computer Science,57.0,2021-01-01,MYFutureJobs
+Sampling,Data Science,57.0,2021-01-01,MYFutureJobs
+Project Planning,Business,56.0,2021-01-01,MYFutureJobs
+Goods and Services,Others,55.0,2021-01-01,MYFutureJobs
+Chemical Engineering,Others,55.0,2021-01-01,MYFutureJobs
+NoSQL,Computer Science,54.0,2021-01-01,MYFutureJobs
+Branding,Business,54.0,2021-01-01,MYFutureJobs
+Modelling,Computer Science,53.0,2021-01-01,MYFutureJobs
+Process Engineering,Others,53.0,2021-01-01,MYFutureJobs
+React,Computer Science,52.0,2021-01-01,MYFutureJobs
+Sketch,Others,52.0,2021-01-01,MYFutureJobs
+Angular,Computer Science,52.0,2021-01-01,MYFutureJobs
+Clear Communication,Business,52.0,2021-01-01,MYFutureJobs
+Depression,Others,52.0,2021-01-01,MYFutureJobs
+Spark,Computer Science,52.0,2021-01-01,MYFutureJobs
+Software System,Computer Science,52.0,2021-01-01,MYFutureJobs
+Copywriting,Business,51.0,2021-01-01,MYFutureJobs
+Accounting Standards,Business,51.0,2021-01-01,MYFutureJobs
+Target Audience,Business,51.0,2021-01-01,MYFutureJobs
+GitLab,Computer Science,51.0,2021-01-01,MYFutureJobs
+Computer Hardware,Computer Science,51.0,2021-01-01,MYFutureJobs
+Ethics,Others,50.0,2021-01-01,MYFutureJobs
+Competition,Others,50.0,2021-01-01,MYFutureJobs
+Business Strategy,Business,50.0,2021-01-01,MYFutureJobs
+Outlook,Business,50.0,2021-01-01,MYFutureJobs
+Web Design,Computer Science,50.0,2021-01-01,MYFutureJobs
+Prototyping,Others,49.0,2021-01-01,MYFutureJobs
+Aquaculture,Others,49.0,2021-01-01,MYFutureJobs
+ISO 9001,Computer Science,49.0,2021-01-01,MYFutureJobs
+Sequence,Computer Science,49.0,2021-01-01,MYFutureJobs
+Food Science,Others,48.0,2021-01-01,MYFutureJobs
+Content Marketing,Business,48.0,2021-01-01,MYFutureJobs
+Github,Computer Science,48.0,2021-01-01,MYFutureJobs
+Pragmatics,Others,48.0,2021-01-01,MYFutureJobs
+Swift,Computer Science,47.0,2021-01-01,MYFutureJobs
+Performance Management,Business,47.0,2021-01-01,MYFutureJobs
+Bagging,Data Science,46.0,2021-01-01,MYFutureJobs
+Real Estate,Business,46.0,2021-01-01,MYFutureJobs
+Links,Information Technology (IT),46.0,2021-01-01,MYFutureJobs
+Audio,Others,46.0,2021-01-01,MYFutureJobs
+Product Management,Business,46.0,2021-01-01,MYFutureJobs
+Sustainability,Others,46.0,2021-01-01,MYFutureJobs
+Business Model,Business,46.0,2021-01-01,MYFutureJobs
+Mapping,Computer Science,45.0,2021-01-01,MYFutureJobs
+Mining,Others,45.0,2021-01-01,MYFutureJobs
+Cold Calling,Business,45.0,2021-01-01,MYFutureJobs
+LinkedIn,Others,44.0,2021-01-01,MYFutureJobs
+Human Resource Management,Business,44.0,2021-01-01,MYFutureJobs
+Conveyancing,Others,44.0,2021-01-01,MYFutureJobs
+Support Engineering,Others,44.0,2021-01-01,MYFutureJobs
+Asset Management,Business,44.0,2021-01-01,MYFutureJobs
+Product Marketing,Business,44.0,2021-01-01,MYFutureJobs
+Adminitrative Assistance,Business,43.0,2021-01-01,MYFutureJobs
+Vietnamese,Others,43.0,2021-01-01,MYFutureJobs
+LaTeX,Computer Science,43.0,2021-01-01,MYFutureJobs
+Agriculture,Others,42.0,2021-01-01,MYFutureJobs
+iOS,Computer Science,42.0,2021-01-01,MYFutureJobs
+Keras,Data Science,42.0,2021-01-01,MYFutureJobs
+Big Data,Data Science,42.0,2021-01-01,MYFutureJobs
+Utility,Others,42.0,2021-01-01,MYFutureJobs
+Interior Design,Others,41.0,2021-01-01,MYFutureJobs
+Journalism,Others,41.0,2021-01-01,MYFutureJobs
+Reasoning,Business,41.0,2021-01-01,MYFutureJobs
+Manufacturing Engineering,Others,41.0,2021-01-01,MYFutureJobs
+Property Maintenance,Business,40.0,2021-01-01,MYFutureJobs
+Technical Documentation,Computer Science,40.0,2021-01-01,MYFutureJobs
+A/B Testing,Computer Science,40.0,2021-01-01,MYFutureJobs
+Complexity,Computer Science,40.0,2021-01-01,MYFutureJobs
+Transformer,Data Science,40.0,2021-01-01,MYFutureJobs
+Data Analytics,Data Science,40.0,2021-01-01,MYFutureJobs
+Life Science,Others,39.0,2021-01-01,MYFutureJobs
+Hadoop,Computer Science,39.0,2021-01-01,MYFutureJobs
+Facebook Ads,Business,39.0,2021-01-01,MYFutureJobs
+Risk Analysis,Business,38.0,2021-01-01,MYFutureJobs
+Blockchain,Information Technology (IT),38.0,2021-01-01,MYFutureJobs
+Email Marketing,Business,38.0,2021-01-01,MYFutureJobs
+jQuery,Computer Science,38.0,2021-01-01,MYFutureJobs
+Template,Business,38.0,2021-01-01,MYFutureJobs
+Industrial Relations,Others,37.0,2021-01-01,MYFutureJobs
+Nutrition,Others,37.0,2021-01-01,MYFutureJobs
+Music,Others,37.0,2021-01-01,MYFutureJobs
+Nursing,Others,37.0,2021-01-01,MYFutureJobs
+Korean,Others,36.0,2021-01-01,MYFutureJobs
+Mechanics,Others,36.0,2021-01-01,MYFutureJobs
+PostgreSQL,Computer Science,36.0,2021-01-01,MYFutureJobs
+Debugging,Computer Science,36.0,2021-01-01,MYFutureJobs
+Distributed Computing,Computer Science,36.0,2021-01-01,MYFutureJobs
+Microsoft Word,Business,36.0,2021-01-01,MYFutureJobs
+ML,Computer Science,36.0,2021-01-01,MYFutureJobs
+Virtualization,Computer Science,36.0,2021-01-01,MYFutureJobs
+Airlines,Business,36.0,2021-01-01,MYFutureJobs
+Relational Database,Computer Science,36.0,2021-01-01,MYFutureJobs
+Software Design,Computer Science,36.0,2021-01-01,MYFutureJobs
+PL,Computer Science,35.0,2021-01-01,MYFutureJobs
+Network Security,Information Technology (IT),35.0,2021-01-01,MYFutureJobs
+Growth Strategy,Business,35.0,2021-01-01,MYFutureJobs
+Beaker,Information Technology (IT),35.0,2021-01-01,MYFutureJobs
+Subject Matter Expert (SME),Business,35.0,2021-01-01,MYFutureJobs
+Property Management,Business,34.0,2021-01-01,MYFutureJobs
+Solaris,Computer Science,34.0,2021-01-01,MYFutureJobs
+Chemistry,Others,34.0,2021-01-01,MYFutureJobs
+Artificial Intelligence (AI),Data Science,34.0,2021-01-01,MYFutureJobs
+Induction,Others,34.0,2021-01-01,MYFutureJobs
+News,Others,34.0,2021-01-01,MYFutureJobs
+CMM,Computer Science,34.0,2021-01-01,MYFutureJobs
+Semiconductors,Others,34.0,2021-01-01,MYFutureJobs
+Business Acumen,Business,33.0,2021-01-01,MYFutureJobs
+Aesthetics,Others,33.0,2021-01-01,MYFutureJobs
+C++,Computer Science,33.0,2021-01-01,MYFutureJobs
+Adaptability,Business,33.0,2021-01-01,MYFutureJobs
+Google Cloud Platform (GCP),Information Technology (IT),32.0,2021-01-01,MYFutureJobs
+UX Design,Others,32.0,2021-01-01,MYFutureJobs
+Instrumentation,Others,32.0,2021-01-01,MYFutureJobs
+Literature,Others,32.0,2021-01-01,MYFutureJobs
+Client Relations,Business,32.0,2021-01-01,MYFutureJobs
+Quality Engineering,Others,32.0,2021-01-01,MYFutureJobs
+CVS,Computer Science,31.0,2021-01-01,MYFutureJobs
+Sales Presentation,Business,31.0,2021-01-01,MYFutureJobs
+Management Consulting,Business,31.0,2021-01-01,MYFutureJobs
+Medicine,Others,31.0,2021-01-01,MYFutureJobs
+Jenkins,Computer Science,31.0,2021-01-01,MYFutureJobs
+Wireframes,Business,30.0,2021-01-01,MYFutureJobs
+Continuous Integration (CI),Computer Science,30.0,2021-01-01,MYFutureJobs
+PHP Development,Computer Science,30.0,2021-01-01,MYFutureJobs
+Web Server,Information Technology (IT),30.0,2021-01-01,MYFutureJobs
+Industrial Engineering,Others,30.0,2021-01-01,MYFutureJobs
+Entrepreneurship,Business,30.0,2021-01-01,MYFutureJobs
+Motion Pictures,Others,29.0,2021-01-01,MYFutureJobs
+Predictive Modelling,Data Science,29.0,2021-01-01,MYFutureJobs
+Variable,Computer Science,29.0,2021-01-01,MYFutureJobs
+Shortage,Others,29.0,2021-01-01,MYFutureJobs
+Biotechnology,Others,28.0,2021-01-01,MYFutureJobs
+Theatre,Others,28.0,2021-01-01,MYFutureJobs
+Web Application Development,Computer Science,28.0,2021-01-01,MYFutureJobs
+Vmware,Computer Science,28.0,2021-01-01,MYFutureJobs
+Outreach,Business,28.0,2021-01-01,MYFutureJobs
+Development Management,Business,27.0,2021-01-01,MYFutureJobs
+Lean Software Development,Computer Science,27.0,2021-01-01,MYFutureJobs
+Mergers and Acquisitions (M&A),Business,27.0,2021-01-01,MYFutureJobs
+Laravel,Computer Science,26.0,2021-01-01,MYFutureJobs
+Special Effects,Computer Science,26.0,2021-01-01,MYFutureJobs
+Nice,Computer Science,26.0,2021-01-01,MYFutureJobs
+Delegation,Business,26.0,2021-01-01,MYFutureJobs
+Customer Service System,Business,26.0,2021-01-01,MYFutureJobs
+Visualization,Computer Science,26.0,2021-01-01,MYFutureJobs
+Terraform,Computer Science,26.0,2021-01-01,MYFutureJobs
+Cloud Service,Information Technology (IT),26.0,2021-01-01,MYFutureJobs
+Regression,Data Science,26.0,2021-01-01,MYFutureJobs
+Social Security,Information Technology (IT),26.0,2021-01-01,MYFutureJobs
+Income Statement,Business,26.0,2021-01-01,MYFutureJobs
+Polish,Others,26.0,2021-01-01,MYFutureJobs
+Computer Engineering,Others,26.0,2021-01-01,MYFutureJobs
+Sports Engineering,Others,25.0,2021-01-01,MYFutureJobs
+System Administration,Information Technology (IT),25.0,2021-01-01,MYFutureJobs
+Project Supervision,Business,25.0,2021-01-01,MYFutureJobs
+Business Intelligence (BI),Data Science,25.0,2021-01-01,MYFutureJobs
+Kafka,Computer Science,25.0,2021-01-01,MYFutureJobs
+Variance Analysis,Data Science,25.0,2021-01-01,MYFutureJobs
+Analytical Thinking,Data Science,25.0,2021-01-01,MYFutureJobs
+Therapy,Others,25.0,2021-01-01,MYFutureJobs
+Cash Flow Management,Business,24.0,2021-01-01,MYFutureJobs
+PyTorch,Data Science,24.0,2021-01-01,MYFutureJobs
+Optics,Others,24.0,2021-01-01,MYFutureJobs
+Newsletters,Business,24.0,2021-01-01,MYFutureJobs
+Social Media Marketing,Business,24.0,2021-01-01,MYFutureJobs
+Poster,Others,24.0,2021-01-01,MYFutureJobs
+Brainstorming,Business,24.0,2021-01-01,MYFutureJobs
+Textiles,Others,24.0,2021-01-01,MYFutureJobs
+International Business,Business,24.0,2021-01-01,MYFutureJobs
+Authentication,Information Technology (IT),24.0,2021-01-01,MYFutureJobs
+Power Management,Business,24.0,2021-01-01,MYFutureJobs
+Ansible,Computer Science,24.0,2021-01-01,MYFutureJobs
+Strategic Planning,Business,24.0,2021-01-01,MYFutureJobs
+Data Capture,Computer Science,24.0,2021-01-01,MYFutureJobs
+Google Analytics,Data Science,24.0,2021-01-01,MYFutureJobs
+Array,Computer Science,24.0,2021-01-01,MYFutureJobs
+Data Management,Computer Science,24.0,2021-01-01,MYFutureJobs
+TensorFlow,Data Science,24.0,2021-01-01,MYFutureJobs
+Marketing Channel,Business,24.0,2021-01-01,MYFutureJobs
+Middleware,Computer Science,23.0,2021-01-01,MYFutureJobs
+Data Visualization,Data Science,23.0,2021-01-01,MYFutureJobs
+Casting,Others,23.0,2021-01-01,MYFutureJobs
+Office Management,Business,23.0,2021-01-01,MYFutureJobs
+Physics,Others,23.0,2021-01-01,MYFutureJobs
+WordPress,Business,23.0,2021-01-01,MYFutureJobs
+Google Ads,Business,23.0,2021-01-01,MYFutureJobs
+Benchmarking,Business,23.0,2021-01-01,MYFutureJobs
+Video Production,Business,22.0,2021-01-01,MYFutureJobs
+Information Security,Information Technology (IT),22.0,2021-01-01,MYFutureJobs
+Route Management,Information Technology (IT),22.0,2021-01-01,MYFutureJobs
+Data Structure,Computer Science,22.0,2021-01-01,MYFutureJobs
+Lead Generation,Business,22.0,2021-01-01,MYFutureJobs
+eCommerce Platforms,Business,22.0,2021-01-01,MYFutureJobs
+Bash,Computer Science,22.0,2021-01-01,MYFutureJobs
+Cloud Platform,Information Technology (IT),22.0,2021-01-01,MYFutureJobs
+Confluence,Information Technology (IT),22.0,2021-01-01,MYFutureJobs
+Linker,Computer Science,22.0,2021-01-01,MYFutureJobs
+iland,Information Technology (IT),21.0,2021-01-01,MYFutureJobs
+MS SQL Server,Computer Science,21.0,2021-01-01,MYFutureJobs
+Usability Engineering,Computer Science,21.0,2021-01-01,MYFutureJobs
+Electromechanics,Others,21.0,2021-01-01,MYFutureJobs
+Pharmacy,Others,21.0,2021-01-01,MYFutureJobs
+Business Continuity Planning,Computer Science,21.0,2021-01-01,MYFutureJobs
+User Interface (UI),Computer Science,21.0,2021-01-01,MYFutureJobs
+Radio,Others,20.0,2021-01-01,MYFutureJobs
+Automotive Engineering,Others,20.0,2021-01-01,MYFutureJobs
+Source Control,Computer Science,20.0,2021-01-01,MYFutureJobs
+Responsive Design,Others,20.0,2021-01-01,MYFutureJobs
+Rapid Application Development,Computer Science,20.0,2021-01-01,MYFutureJobs
+Task Management,Business,20.0,2021-01-01,MYFutureJobs
+Ecology,Others,20.0,2021-01-01,MYFutureJobs
+Italian,Others,20.0,2021-01-01,MYFutureJobs
+Statistical Model,Data Science,20.0,2021-01-01,MYFutureJobs
+Unity,Others,19.0,2021-01-01,MYFutureJobs
+Regression Analysis,Data Science,19.0,2021-01-01,MYFutureJobs
+NP Completeness,Computer Science,19.0,2021-01-01,MYFutureJobs
+Streaming,Information Technology (IT),18.0,2021-01-01,MYFutureJobs
+Market Research Analysis,Business,18.0,2021-01-01,MYFutureJobs
+Newspapers,Business,18.0,2021-01-01,MYFutureJobs
+Unix,Computer Science,18.0,2021-01-01,MYFutureJobs
+Database Design,Computer Science,18.0,2021-01-01,MYFutureJobs
+Team Building,Business,18.0,2021-01-01,MYFutureJobs
+Content Management,Business,18.0,2021-01-01,MYFutureJobs
+Web Analytics,Computer Science,18.0,2021-01-01,MYFutureJobs
+RESTful API,Computer Science,18.0,2021-01-01,MYFutureJobs
+Firewall,Information Technology (IT),18.0,2021-01-01,MYFutureJobs
+Business Ethics,Business,18.0,2021-01-01,MYFutureJobs
+Spanish,Others,18.0,2021-01-01,MYFutureJobs
+Localization,Others,18.0,2021-01-01,MYFutureJobs
+Data Mining,Data Science,18.0,2021-01-01,MYFutureJobs
+Maya,Computer Science,18.0,2021-01-01,MYFutureJobs
+Incident Management,Business,18.0,2021-01-01,MYFutureJobs
+Zoom,Business,18.0,2021-01-01,MYFutureJobs
+Agricultural Science,Others,18.0,2021-01-01,MYFutureJobs
+Equity,Business,18.0,2021-01-01,MYFutureJobs
+QA Testing,Business,18.0,2021-01-01,MYFutureJobs
+Entertainment,Others,18.0,2021-01-01,MYFutureJobs
+Manufacturing Operations,Others,17.0,2021-01-01,MYFutureJobs
+Online Business,Business,17.0,2021-01-01,MYFutureJobs
+Web Framework,Computer Science,17.0,2021-01-01,MYFutureJobs
+Product Testing,Business,17.0,2021-01-01,MYFutureJobs
+Apparel,Others,17.0,2021-01-01,MYFutureJobs
+Data Preparation,Data Science,17.0,2021-01-01,MYFutureJobs
+Distributed System,Computer Science,16.0,2021-01-01,MYFutureJobs
+Forestry,Others,16.0,2021-01-01,MYFutureJobs
+Infrastructure as Code (IaS),Computer Science,16.0,2021-01-01,MYFutureJobs
+Profiling,Computer Science,16.0,2021-01-01,MYFutureJobs
+Marketing Analytics,Data Science,16.0,2021-01-01,MYFutureJobs
+Management Information System (MIS),Business,16.0,2021-01-01,MYFutureJobs
+Social Network,Others,16.0,2021-01-01,MYFutureJobs
+Graph,Others,16.0,2021-01-01,MYFutureJobs
+Graph Database,Computer Science,16.0,2021-01-01,MYFutureJobs
+Arts,Others,16.0,2021-01-01,MYFutureJobs
+Quantitative Research,Business,16.0,2021-01-01,MYFutureJobs
+Application Programming Interface (API),Computer Science,16.0,2021-01-01,MYFutureJobs
+Tax Accounting,Business,16.0,2021-01-01,MYFutureJobs
+Software Architecture,Computer Science,16.0,2021-01-01,MYFutureJobs
+Computer Vision,Data Science,16.0,2021-01-01,MYFutureJobs
+Deep Learning,Data Science,16.0,2021-01-01,MYFutureJobs
+Load Balancing,Information Technology (IT),16.0,2021-01-01,MYFutureJobs
+Industrial Automation,Others,16.0,2021-01-01,MYFutureJobs
+Network Architecture,Information Technology (IT),16.0,2021-01-01,MYFutureJobs
+Corporate Communication,Business,16.0,2021-01-01,MYFutureJobs
+Chatbot,Data Science,16.0,2021-01-01,MYFutureJobs
+vSphere,Computer Science,16.0,2021-01-01,MYFutureJobs
+Password,Information Technology (IT),16.0,2021-01-01,MYFutureJobs
+Kotlin,Computer Science,16.0,2021-01-01,MYFutureJobs
+Bond,Others,16.0,2021-01-01,MYFutureJobs
+Unix Shell,Computer Science,16.0,2021-01-01,MYFutureJobs
+React Native,Computer Science,16.0,2021-01-01,MYFutureJobs
+Configuration Management,Computer Science,16.0,2021-01-01,MYFutureJobs
+Golang (Go),Computer Science,16.0,2021-01-01,MYFutureJobs
+Legal Management,Others,16.0,2021-01-01,MYFutureJobs
+Commercial Law,Others,15.0,2021-01-01,MYFutureJobs
+Kanban,Computer Science,15.0,2021-01-01,MYFutureJobs
+Biomaterials Engineering,Others,15.0,2021-01-01,MYFutureJobs
+Salesforce,Business,15.0,2021-01-01,MYFutureJobs
+Structural Engineering,Others,15.0,2021-01-01,MYFutureJobs
+Materials Engineering,Others,15.0,2021-01-01,MYFutureJobs
+Tracking System,Data Science,15.0,2021-01-01,MYFutureJobs
+Software Development Kit (SDK),Computer Science,14.0,2021-01-01,MYFutureJobs
+Cost Accounting,Business,14.0,2021-01-01,MYFutureJobs
+Naïve Bayes,Data Science,14.0,2021-01-01,MYFutureJobs
+Ruby on Rails,Computer Science,14.0,2021-01-01,MYFutureJobs
+Computing Platform,Information Technology (IT),14.0,2021-01-01,MYFutureJobs
+OpenShift,Information Technology (IT),14.0,2021-01-01,MYFutureJobs
+Cisco Router,Information Technology (IT),14.0,2021-01-01,MYFutureJobs
+Database Application,Computer Science,14.0,2021-01-01,MYFutureJobs
+Control Chart,Data Science,14.0,2021-01-01,MYFutureJobs
+CouchDB,Computer Science,14.0,2021-01-01,MYFutureJobs
+Energy Consumption,Computer Science,14.0,2021-01-01,MYFutureJobs
+Performance Review,Business,14.0,2021-01-01,MYFutureJobs
+Annual Report,Business,14.0,2021-01-01,MYFutureJobs
+Decision Tree,Data Science,14.0,2021-01-01,MYFutureJobs
+Indonesian,Others,14.0,2021-01-01,MYFutureJobs
+Machine Learning Algorithm,Data Science,14.0,2021-01-01,MYFutureJobs
+Tamil,Others,14.0,2021-01-01,MYFutureJobs
+Software Application,Computer Science,14.0,2021-01-01,MYFutureJobs
+Web Development,Computer Science,14.0,2021-01-01,MYFutureJobs
+Source Code Management,Computer Science,14.0,2021-01-01,MYFutureJobs
+Food Production,Others,14.0,2021-01-01,MYFutureJobs
+VOIP,Business,14.0,2021-01-01,MYFutureJobs
+Oil and Gas,Others,14.0,2021-01-01,MYFutureJobs
+Service Management,Business,14.0,2021-01-01,MYFutureJobs
+Maintanence,Others,14.0,2021-01-01,MYFutureJobs
+Population,Data Science,14.0,2021-01-01,MYFutureJobs
+Telecommunications Engineering,Others,14.0,2021-01-01,MYFutureJobs
+Computing,Computer Science,14.0,2021-01-01,MYFutureJobs
+Legal Service,Others,14.0,2021-01-01,MYFutureJobs
+Burmese,Others,13.0,2021-01-01,MYFutureJobs
+Software Development Life Cycle (SDLC),Computer Science,13.0,2021-01-01,MYFutureJobs
+Property Information,Business,13.0,2021-01-01,MYFutureJobs
+Sales Operations,Business,13.0,2021-01-01,MYFutureJobs
+Social Media Management,Business,13.0,2021-01-01,MYFutureJobs
+Tableau,Data Science,13.0,2021-01-01,MYFutureJobs
+Node.js,Computer Science,13.0,2021-01-01,MYFutureJobs
+Software Interface,Computer Science,12.0,2021-01-01,MYFutureJobs
+Data Pipeline,Data Science,12.0,2021-01-01,MYFutureJobs
+Robotics,Data Science,12.0,2021-01-01,MYFutureJobs
+Sales Management,Business,12.0,2021-01-01,MYFutureJobs
+Electronic Control Systems,Others,12.0,2021-01-01,MYFutureJobs
+Cryptocurrency,Information Technology (IT),12.0,2021-01-01,MYFutureJobs
+Commodity,Others,12.0,2021-01-01,MYFutureJobs
+Corporate Finance,Business,12.0,2021-01-01,MYFutureJobs
+macOS,Computer Science,12.0,2021-01-01,MYFutureJobs
+Supply and Demand,Others,12.0,2021-01-01,MYFutureJobs
+Database System,Computer Science,12.0,2021-01-01,MYFutureJobs
+Bootstrap,Computer Science,12.0,2021-01-01,MYFutureJobs
+Recreation,Others,12.0,2021-01-01,MYFutureJobs
+Active Listening,Others,12.0,2021-01-01,MYFutureJobs
+Cloud Computing,Information Technology (IT),12.0,2021-01-01,MYFutureJobs
+Version Control,Computer Science,12.0,2021-01-01,MYFutureJobs
+Scripting Language,Computer Science,12.0,2021-01-01,MYFutureJobs
+Resource Management,Business,12.0,2021-01-01,MYFutureJobs
+SAS Statistical Analysis,Data Science,12.0,2021-01-01,MYFutureJobs
+PL/SQL,Computer Science,12.0,2021-01-01,MYFutureJobs
+Concurrency,Computer Science,12.0,2021-01-01,MYFutureJobs
+Requirement Analysis,Business,12.0,2021-01-01,MYFutureJobs
+Cybersecurity,Information Technology (IT),12.0,2021-01-01,MYFutureJobs
+Computer Worm,Information Technology (IT),12.0,2021-01-01,MYFutureJobs
+SketchUp,Computer Science,12.0,2021-01-01,MYFutureJobs
+Google Drive,Information Technology (IT),12.0,2021-01-01,MYFutureJobs
+Affliate Marketing,Business,12.0,2021-01-01,MYFutureJobs
+Classification,Data Science,12.0,2021-01-01,MYFutureJobs
+Repetition,Computer Science,12.0,2021-01-01,MYFutureJobs
+Continuous Delivery (CD),Computer Science,12.0,2021-01-01,MYFutureJobs
+Motion Graphic Design,Computer Science,12.0,2021-01-01,MYFutureJobs
+Digital Art,Others,12.0,2021-01-01,MYFutureJobs
+Redux,Computer Science,12.0,2021-01-01,MYFutureJobs
+Computer Game,Others,12.0,2021-01-01,MYFutureJobs
+Puppet,Information Technology (IT),12.0,2021-01-01,MYFutureJobs
+Data Sharing,Data Science,12.0,2021-01-01,MYFutureJobs
+Information Management,Information Technology (IT),12.0,2021-01-01,MYFutureJobs
+Bitbucket,Computer Science,12.0,2021-01-01,MYFutureJobs
+Tcl,Computer Science,12.0,2021-01-01,MYFutureJobs
+Informatics,Information Technology (IT),11.0,2021-01-01,MYFutureJobs
+Report Analysis,Business,11.0,2021-01-01,MYFutureJobs
+Marketing Management,Business,11.0,2021-01-01,MYFutureJobs
+Aviation,Others,11.0,2021-01-01,MYFutureJobs
+Safari,Information Technology (IT),11.0,2021-01-01,MYFutureJobs
+Carpentry,Others,11.0,2021-01-01,MYFutureJobs
+Television,Others,11.0,2021-01-01,MYFutureJobs
+Steganography,Information Technology (IT),11.0,2021-01-01,MYFutureJobs
+Database Administration,Computer Science,11.0,2021-01-01,MYFutureJobs
+Market Analysis,Business,10.0,2021-01-01,MYFutureJobs
+Matplotlib,Data Science,10.0,2021-01-01,MYFutureJobs
+Cloud Computing Architecture,Information Technology (IT),10.0,2021-01-01,MYFutureJobs
+Geometry,Others,10.0,2021-01-01,MYFutureJobs
+Reinforcement Learning,Data Science,10.0,2021-01-01,MYFutureJobs
+Dreamweaver,Others,10.0,2021-01-01,MYFutureJobs
+Data Cleansing,Data Science,10.0,2021-01-01,MYFutureJobs
+Algebra,Others,10.0,2021-01-01,MYFutureJobs
+Philosophy,Others,10.0,2021-01-01,MYFutureJobs
+Data Modelling,Data Science,10.0,2021-01-01,MYFutureJobs
+Scientific Method,Others,10.0,2021-01-01,MYFutureJobs
+Financial Management,Business,10.0,2021-01-01,MYFutureJobs
+Mobile Application Development,Others,10.0,2021-01-01,MYFutureJobs
+Uncertainty,Others,10.0,2021-01-01,MYFutureJobs
+Ruby,Computer Science,10.0,2021-01-01,MYFutureJobs
+Reverse Engineering,Computer Science,10.0,2021-01-01,MYFutureJobs
+DevOps Automation Tool,Computer Science,10.0,2021-01-01,MYFutureJobs
+Agile Methodology,Business,10.0,2021-01-01,MYFutureJobs
+Hive,Computer Science,10.0,2021-01-01,MYFutureJobs
+Financial Regulation,Business,10.0,2021-01-01,MYFutureJobs
+Flowchart,Computer Science,10.0,2021-01-01,MYFutureJobs
+Mathematical Modelling,Others,10.0,2021-01-01,MYFutureJobs
+Data Acquisition,Data Science,10.0,2021-01-01,MYFutureJobs
+Data Science Tool,Data Science,10.0,2021-01-01,MYFutureJobs
+Forensic Science,Others,10.0,2021-01-01,MYFutureJobs
+Drupal,Business,10.0,2021-01-01,MYFutureJobs
+Pharmacology,Others,10.0,2021-01-01,MYFutureJobs
+Experimental Psychology,Others,10.0,2021-01-01,MYFutureJobs
+Developmental Psychology,Others,10.0,2021-01-01,MYFutureJobs
+Perl,Computer Science,10.0,2021-01-01,MYFutureJobs
+Video Encoding,Computer Science,10.0,2021-01-01,MYFutureJobs
+Cryptography,Information Technology (IT),10.0,2021-01-01,MYFutureJobs
+Environmental Science,Others,10.0,2021-01-01,MYFutureJobs
+Cultural Psychology,Others,10.0,2021-01-01,MYFutureJobs
+Data Architecture,Data Science,10.0,2021-01-01,MYFutureJobs
+Database Management System,Computer Science,10.0,2021-01-01,MYFutureJobs
+Forensic Psychology,Others,10.0,2021-01-01,MYFutureJobs
+Software Testing,Computer Science,10.0,2021-01-01,MYFutureJobs
+Clinical Psychology,Others,10.0,2021-01-01,MYFutureJobs
+Optometry,Others,10.0,2021-01-01,MYFutureJobs
+Wireless Network,Information Technology (IT),10.0,2021-01-01,MYFutureJobs
+Behaviour Analysis,Others,10.0,2021-01-01,MYFutureJobs
+Caffe,Data Science,10.0,2021-01-01,MYFutureJobs
+SciPy,Computer Science,10.0,2021-01-01,MYFutureJobs
+NumPy,Computer Science,10.0,2021-01-01,MYFutureJobs
+Probability,Data Science,10.0,2021-01-01,MYFutureJobs
+Correlation,Data Science,10.0,2021-01-01,MYFutureJobs
+Google Workspace,Information Technology (IT),10.0,2021-01-01,MYFutureJobs
+Securities,Others,10.0,2021-01-01,MYFutureJobs
+Health Psychology,Others,10.0,2021-01-01,MYFutureJobs
+Outsourcing,Business,9.0,2021-01-01,MYFutureJobs
+Financial Accounting,Business,9.0,2021-01-01,MYFutureJobs
+Construction Law,Others,9.0,2021-01-01,MYFutureJobs
+Tax Law,Others,9.0,2021-01-01,MYFutureJobs
+Microbiology,Others,9.0,2021-01-01,MYFutureJobs
+Financial Engineering,Business,9.0,2021-01-01,MYFutureJobs
+Operations Management,Business,9.0,2021-01-01,MYFutureJobs
+Marketing Design,Business,8.0,2021-01-01,MYFutureJobs
+Tree,Computer Science,8.0,2021-01-01,MYFutureJobs
+Data Security,Information Technology (IT),8.0,2021-01-01,MYFutureJobs
+Marine Engineering,Others,8.0,2021-01-01,MYFutureJobs
+Strategic Management,Business,8.0,2021-01-01,MYFutureJobs
+International Finance,Business,8.0,2021-01-01,MYFutureJobs
+Encoding,Computer Science,8.0,2021-01-01,MYFutureJobs
+Pivot Table,Business,8.0,2021-01-01,MYFutureJobs
+Software Requirement,Computer Science,8.0,2021-01-01,MYFutureJobs
+Microsoft Access,Business,8.0,2021-01-01,MYFutureJobs
+Customer Relationship Management (CRM),Business,8.0,2021-01-01,MYFutureJobs
+Forth,Computer Science,8.0,2021-01-01,MYFutureJobs
+Magento,Business,8.0,2021-01-01,MYFutureJobs
+Financial Services,Business,8.0,2021-01-01,MYFutureJobs
+Tomcat,Computer Science,8.0,2021-01-01,MYFutureJobs
+Pascal,Computer Science,8.0,2021-01-01,MYFutureJobs
+Storage System,Information Technology (IT),8.0,2021-01-01,MYFutureJobs
+Needs Analysis,Business,8.0,2021-01-01,MYFutureJobs
+Educational Psychology,Others,8.0,2021-01-01,MYFutureJobs
+Network Management,Information Technology (IT),8.0,2021-01-01,MYFutureJobs
+Payment Processing,Computer Science,8.0,2021-01-01,MYFutureJobs
+Factoring,Business,8.0,2021-01-01,MYFutureJobs
+Public Relations and Communications,Business,8.0,2021-01-01,MYFutureJobs
+Digital Media,Others,8.0,2021-01-01,MYFutureJobs
+Email Production,Business,8.0,2021-01-01,MYFutureJobs
+Product Liability,Business,8.0,2021-01-01,MYFutureJobs
+HBase,Computer Science,8.0,2021-01-01,MYFutureJobs
+Requirements Gathering,Business,8.0,2021-01-01,MYFutureJobs
+Wireframing,Others,8.0,2021-01-01,MYFutureJobs
+Scala,Computer Science,8.0,2021-01-01,MYFutureJobs
+Product Roadmap,Business,8.0,2021-01-01,MYFutureJobs
+Routing Protocol,Information Technology (IT),8.0,2021-01-01,MYFutureJobs
+Email Marketing Campaign,Business,8.0,2021-01-01,MYFutureJobs
+Supply Chain Risk Management,Business,8.0,2021-01-01,MYFutureJobs
+German,Others,8.0,2021-01-01,MYFutureJobs
+Wireless Security,Information Technology (IT),8.0,2021-01-01,MYFutureJobs
+Supply Chain Management,Business,8.0,2021-01-01,MYFutureJobs
+Clustering,Data Science,8.0,2021-01-01,MYFutureJobs
+Infographics,Others,8.0,2021-01-01,MYFutureJobs
+Audio Production,Business,8.0,2021-01-01,MYFutureJobs
+Business Writing,Business,8.0,2021-01-01,MYFutureJobs
+Financial Law,Others,8.0,2021-01-01,MYFutureJobs
+Legal Systems,Others,8.0,2021-01-01,MYFutureJobs
+Powershell,Computer Science,8.0,2021-01-01,MYFutureJobs
+Mathematical Economics,Others,8.0,2021-01-01,MYFutureJobs
+Build Tool,Computer Science,8.0,2021-01-01,MYFutureJobs
+Public Policy,Others,8.0,2021-01-01,MYFutureJobs
+WooCommerce,Business,8.0,2021-01-01,MYFutureJobs
+Loader,Computer Science,8.0,2021-01-01,MYFutureJobs
+Production Set,Others,8.0,2021-01-01,MYFutureJobs
+Marketing Psychology,Business,8.0,2021-01-01,MYFutureJobs
+Photo Editing,Others,7.0,2021-01-01,MYFutureJobs
+Corporate Law,Others,7.0,2021-01-01,MYFutureJobs
+UI Design,Computer Science,7.0,2021-01-01,MYFutureJobs
+Email Management,Business,7.0,2021-01-01,MYFutureJobs
+Investor Relations,Business,7.0,2021-01-01,MYFutureJobs
+Culinary Art,Others,7.0,2021-01-01,MYFutureJobs
+Build Automation,Computer Science,7.0,2021-01-01,MYFutureJobs
+Consumer Behaviour,Business,7.0,2021-01-01,MYFutureJobs
+Business Intelligence Tool,Data Science,7.0,2021-01-01,MYFutureJobs
+Dataset,Data Science,7.0,2021-01-01,MYFutureJobs
+Microsoft .NET,Computer Science,7.0,2021-01-01,MYFutureJobs
+SAS,Data Science,6.0,2021-01-01,MYFutureJobs
+Vulnerability,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Market Segmentation,Business,6.0,2021-01-01,MYFutureJobs
+Electronic Key Management System,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Social Work,Others,6.0,2021-01-01,MYFutureJobs
+Development Studies,Others,6.0,2021-01-01,MYFutureJobs
+Sustainable Development,Others,6.0,2021-01-01,MYFutureJobs
+Key Management,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Enterprise Software,Business,6.0,2021-01-01,MYFutureJobs
+Facial Recognition,Data Science,6.0,2021-01-01,MYFutureJobs
+Vmware ESXi,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Agile Software Development,Computer Science,6.0,2021-01-01,MYFutureJobs
+Working Capital,Business,6.0,2021-01-01,MYFutureJobs
+Patient Care,Others,6.0,2021-01-01,MYFutureJobs
+Electronic Materials,Others,6.0,2021-01-01,MYFutureJobs
+Game Development,Others,6.0,2021-01-01,MYFutureJobs
+Agricultural Production,Others,6.0,2021-01-01,MYFutureJobs
+Yii,Computer Science,6.0,2021-01-01,MYFutureJobs
+Joomla,Business,6.0,2021-01-01,MYFutureJobs
+Cloud Application,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Apache,Computer Science,6.0,2021-01-01,MYFutureJobs
+Project Chart,Data Science,6.0,2021-01-01,MYFutureJobs
+Data Presentation,Data Science,6.0,2021-01-01,MYFutureJobs
+Facilities Engineering,Others,6.0,2021-01-01,MYFutureJobs
+Investment Banking,Business,6.0,2021-01-01,MYFutureJobs
+Secure Coding,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Empathy,Business,6.0,2021-01-01,MYFutureJobs
+Gecko,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Applied Mathematics,Others,6.0,2021-01-01,MYFutureJobs
+Stock Market,Business,6.0,2021-01-01,MYFutureJobs
+Encryption,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Storage Management,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Amazon Web Service (AWS),Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Radiology,Others,6.0,2021-01-01,MYFutureJobs
+Storytelling,Business,6.0,2021-01-01,MYFutureJobs
+Operations Research,Others,6.0,2021-01-01,MYFutureJobs
+Interactive Media,Others,6.0,2021-01-01,MYFutureJobs
+Regression Testing,Data Science,6.0,2021-01-01,MYFutureJobs
+Gamification,Others,6.0,2021-01-01,MYFutureJobs
+Enterprise Resource Planning (ERP),Business,6.0,2021-01-01,MYFutureJobs
+Email Client,Business,6.0,2021-01-01,MYFutureJobs
+Unit Cost,Others,6.0,2021-01-01,MYFutureJobs
+Objection Handling,Business,6.0,2021-01-01,MYFutureJobs
+Search Engine Optimization (SEO),Business,6.0,2021-01-01,MYFutureJobs
+IP Address,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Software Maintenance,Computer Science,6.0,2021-01-01,MYFutureJobs
+Budget Planning,Business,6.0,2021-01-01,MYFutureJobs
+Horticulture,Others,6.0,2021-01-01,MYFutureJobs
+Statutory Law,Others,6.0,2021-01-01,MYFutureJobs
+Elasticsearch,Computer Science,6.0,2021-01-01,MYFutureJobs
+Mobile Development,Computer Science,6.0,2021-01-01,MYFutureJobs
+Revision Control,Computer Science,6.0,2021-01-01,MYFutureJobs
+Syntax,Others,6.0,2021-01-01,MYFutureJobs
+Urban Engineering,Others,6.0,2021-01-01,MYFutureJobs
+Fast Ethernet,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Business Analytics,Business,6.0,2021-01-01,MYFutureJobs
+Software Deployment,Computer Science,6.0,2021-01-01,MYFutureJobs
+Time Series,Data Science,6.0,2021-01-01,MYFutureJobs
+Social Selling,Business,6.0,2021-01-01,MYFutureJobs
+Meteorology,Others,6.0,2021-01-01,MYFutureJobs
+Storyboarding,Others,6.0,2021-01-01,MYFutureJobs
+Maven,Computer Science,6.0,2021-01-01,MYFutureJobs
+Petty Cash Control,Business,6.0,2021-01-01,MYFutureJobs
+Oracle Databases,Computer Science,6.0,2021-01-01,MYFutureJobs
+Professional Training,Business,6.0,2021-01-01,MYFutureJobs
+Liquidation,Business,6.0,2021-01-01,MYFutureJobs
+Talent Management,Business,6.0,2021-01-01,MYFutureJobs
+Software Package,Computer Science,6.0,2021-01-01,MYFutureJobs
+Search Engine Marketing (SEM),Business,6.0,2021-01-01,MYFutureJobs
+Systems Engineering,Others,6.0,2021-01-01,MYFutureJobs
+Microsoft Azure,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Innovation Management,Business,6.0,2021-01-01,MYFutureJobs
+Cleanroom,Computer Science,6.0,2021-01-01,MYFutureJobs
+Logic,Others,6.0,2021-01-01,MYFutureJobs
+COBOL,Computer Science,6.0,2021-01-01,MYFutureJobs
+Testing Hypothesis,Data Science,6.0,2021-01-01,MYFutureJobs
+Knowledge Management,Business,6.0,2021-01-01,MYFutureJobs
+Telegram,Others,6.0,2021-01-01,MYFutureJobs
+Opera,Information Technology (IT),6.0,2021-01-01,MYFutureJobs
+Natural Language Processing (NLP),Data Science,6.0,2021-01-01,MYFutureJobs
+Social Networking Tool,Data Science,6.0,2021-01-01,MYFutureJobs
+Psychometrics,Others,5.0,2021-01-01,MYFutureJobs
+Web Scraping,Data Science,5.0,2021-01-01,MYFutureJobs
+Financial Modelling,Data Science,5.0,2021-01-01,MYFutureJobs
+Contact Manager,Business,5.0,2021-01-01,MYFutureJobs
+Theano,Data Science,5.0,2021-01-01,MYFutureJobs
+Digital Printing,Others,5.0,2021-01-01,MYFutureJobs
+Sentiment Analysis,Data Science,4.0,2021-01-01,MYFutureJobs
+Slack,Business,4.0,2021-01-01,MYFutureJobs
+Azure Machine Learning,Data Science,4.0,2021-01-01,MYFutureJobs
+Microsoft PowerPoint,Business,4.0,2021-01-01,MYFutureJobs
+Visual Studio,Computer Science,4.0,2021-01-01,MYFutureJobs
+Wireless LAN,Information Technology (IT),4.0,2021-01-01,MYFutureJobs
+Microsoft SQL Servers,Computer Science,4.0,2021-01-01,MYFutureJobs
+Decision Process,Business,4.0,2021-01-01,MYFutureJobs
+Proof Theory,Others,4.0,2021-01-01,MYFutureJobs
+Geography,Others,4.0,2021-01-01,MYFutureJobs
+Software Documentation,Computer Science,4.0,2021-01-01,MYFutureJobs
+Red Hat,Information Technology (IT),4.0,2021-01-01,MYFutureJobs
+Microsoft SQL Server,Computer Science,4.0,2021-01-01,MYFutureJobs
+Ajax,Computer Science,4.0,2021-01-01,MYFutureJobs
+Conceptual Art,Others,4.0,2021-01-01,MYFutureJobs
+Music Therapy,Others,4.0,2021-01-01,MYFutureJobs
+Financial Risk,Business,4.0,2021-01-01,MYFutureJobs
+Social Psychology,Others,4.0,2021-01-01,MYFutureJobs
+Data Engineering,Data Science,4.0,2021-01-01,MYFutureJobs
+Persuasion,Business,4.0,2021-01-01,MYFutureJobs
+SPSS,Data Science,4.0,2021-01-01,MYFutureJobs
+MATLAB,Others,4.0,2021-01-01,MYFutureJobs
+Animal Husbandry,Others,4.0,2021-01-01,MYFutureJobs
+Economic Growth,Others,4.0,2021-01-01,MYFutureJobs
+Performing Art,Others,4.0,2021-01-01,MYFutureJobs
+Debugger,Computer Science,4.0,2021-01-01,MYFutureJobs
+Extract Transform Load (ETL),Computer Science,4.0,2021-01-01,MYFutureJobs
+Gantt Chart,Data Science,4.0,2021-01-01,MYFutureJobs
+Text Analysis,Data Science,4.0,2021-01-01,MYFutureJobs
+Torch,Data Science,4.0,2021-01-01,MYFutureJobs
+Pediatrics,Others,4.0,2021-01-01,MYFutureJobs
+Version Control System,Computer Science,4.0,2021-01-01,MYFutureJobs
+Image Processing,Computer Science,4.0,2021-01-01,MYFutureJobs
+Public Health,Others,4.0,2021-01-01,MYFutureJobs
+Qlik Sense,Data Science,4.0,2021-01-01,MYFutureJobs
+Time Series Analysis,Data Science,4.0,2021-01-01,MYFutureJobs
+User Interface Design,Computer Science,4.0,2021-01-01,MYFutureJobs
+Corel Draw,Others,4.0,2021-01-01,MYFutureJobs
+STATA,Data Science,4.0,2021-01-01,MYFutureJobs
+Atlassian,Information Technology (IT),4.0,2021-01-01,MYFutureJobs
+Event Planning,Business,4.0,2021-01-01,MYFutureJobs
+Systems Management,Business,4.0,2021-01-01,MYFutureJobs
+French,Others,4.0,2021-01-01,MYFutureJobs
+Application Security,Information Technology (IT),4.0,2021-01-01,MYFutureJobs
+Biomedical Engineering,Others,4.0,2021-01-01,MYFutureJobs
+Privacy,Information Technology (IT),4.0,2021-01-01,MYFutureJobs
+Programming Tool,Computer Science,4.0,2021-01-01,MYFutureJobs
+Teradata,Computer Science,4.0,2021-01-01,MYFutureJobs
+Materials Science,Others,4.0,2021-01-01,MYFutureJobs
+Mean Shift,Data Science,4.0,2021-01-01,MYFutureJobs
+Semantic Analysis,Data Science,4.0,2021-01-01,MYFutureJobs
+Apache Ant,Computer Science,4.0,2021-01-01,MYFutureJobs
+MongoDB,Computer Science,4.0,2021-01-01,MYFutureJobs
+Imagine,Computer Science,4.0,2021-01-01,MYFutureJobs
+OpenStack,Information Technology (IT),4.0,2021-01-01,MYFutureJobs
+Ubuntu,Computer Science,4.0,2021-01-01,MYFutureJobs
+MariaDB,Computer Science,4.0,2021-01-01,MYFutureJobs
+Mastercam,Computer Science,4.0,2021-01-01,MYFutureJobs
+Polymer Engineering,Others,4.0,2021-01-01,MYFutureJobs
+Web API,Information Technology (IT),4.0,2021-01-01,MYFutureJobs
+Pattern Recognition,Data Science,4.0,2021-01-01,MYFutureJobs
+GUI Design,Computer Science,4.0,2021-01-01,MYFutureJobs
+Problem Management,Business,4.0,2021-01-01,MYFutureJobs
+SQLite,Computer Science,4.0,2021-01-01,MYFutureJobs
+Greenhopper,Business,4.0,2021-01-01,MYFutureJobs
+Jin Chinese,Others,4.0,2021-01-01,MYFutureJobs
+PrestaShop,Business,4.0,2021-01-01,MYFutureJobs
+Enterprise System,Business,4.0,2021-01-01,MYFutureJobs
+Cordova,Computer Science,4.0,2021-01-01,MYFutureJobs
+Vacuum Engineering,Others,4.0,2021-01-01,MYFutureJobs
+Dash,Data Science,4.0,2021-01-01,MYFutureJobs
+Signal Processing,Data Science,4.0,2021-01-01,MYFutureJobs
+R Shiny,Computer Science,4.0,2021-01-01,MYFutureJobs
+Graphical User Interface (GUI),Computer Science,4.0,2021-01-01,MYFutureJobs
+Apache Kafka,Computer Science,4.0,2021-01-01,MYFutureJobs
+VersionOne,Business,4.0,2021-01-01,MYFutureJobs
+Ant,Computer Science,3.0,2021-01-01,MYFutureJobs
+Instrumentaion Engineering,Others,3.0,2021-01-01,MYFutureJobs
+Engineering Technology,Others,3.0,2021-01-01,MYFutureJobs
+Virtual Network,Information Technology (IT),3.0,2021-01-01,MYFutureJobs
+Know Your Customer (KYC),Business,3.0,2021-01-01,MYFutureJobs
+Currency,Others,3.0,2021-01-01,MYFutureJobs
+Architectural Engineering,Others,3.0,2021-01-01,MYFutureJobs
+Agronomy,Others,3.0,2021-01-01,MYFutureJobs
+Jelastic,Information Technology (IT),3.0,2021-01-01,MYFutureJobs
+Media Production,Business,2.0,2021-01-01,MYFutureJobs
+Transport Layer,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+Rent,Others,2.0,2021-01-01,MYFutureJobs
+Rehabilitation,Others,2.0,2021-01-01,MYFutureJobs
+Cookies,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+Augmented Reality (AR),Data Science,2.0,2021-01-01,MYFutureJobs
+Exploit,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+Regional Planning,Business,2.0,2021-01-01,MYFutureJobs
+Mixed Reality,Computer Science,2.0,2021-01-01,MYFutureJobs
+Socket Programming,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+Adobe Acrobat,Others,2.0,2021-01-01,MYFutureJobs
+Network Layer,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+IBM DB2,Computer Science,2.0,2021-01-01,MYFutureJobs
+Content Management System (CMS),Business,2.0,2021-01-01,MYFutureJobs
+Verification And Validation,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+Ensemble,Data Science,2.0,2021-01-01,MYFutureJobs
+Hydroponics,Others,2.0,2021-01-01,MYFutureJobs
+Socket,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+Rapport Building,Business,2.0,2021-01-01,MYFutureJobs
+Programming Model,Computer Science,2.0,2021-01-01,MYFutureJobs
+Mathematical Programming,Others,2.0,2021-01-01,MYFutureJobs
+Cognitive Psychology,Others,2.0,2021-01-01,MYFutureJobs
+Mathematical Logic,Others,2.0,2021-01-01,MYFutureJobs
+Information Science,Others,2.0,2021-01-01,MYFutureJobs
+Reliability Engineering,Others,2.0,2021-01-01,MYFutureJobs
+Russian,Others,2.0,2021-01-01,MYFutureJobs
+Pandas,Computer Science,2.0,2021-01-01,MYFutureJobs
+Software Process,Computer Science,2.0,2021-01-01,MYFutureJobs
+Capacity Utilization,Others,2.0,2021-01-01,MYFutureJobs
+Software Quality Assurance (SQA),Computer Science,2.0,2021-01-01,MYFutureJobs
+Chemical Processing,Others,2.0,2021-01-01,MYFutureJobs
+CPLEX,Computer Science,2.0,2021-01-01,MYFutureJobs
+Gurobi,Computer Science,2.0,2021-01-01,MYFutureJobs
+Records Management,Business,2.0,2021-01-01,MYFutureJobs
+Design Analysis,Others,2.0,2021-01-01,MYFutureJobs
+Marketing Consulting,Business,2.0,2021-01-01,MYFutureJobs
+Intellectual Property (IP),Business,2.0,2021-01-01,MYFutureJobs
+Derivative,Others,2.0,2021-01-01,MYFutureJobs
+Psychology,Others,2.0,2021-01-01,MYFutureJobs
+Database Development,Computer Science,2.0,2021-01-01,MYFutureJobs
+Industrial Design,Others,2.0,2021-01-01,MYFutureJobs
+Crisis Management,Business,2.0,2021-01-01,MYFutureJobs
+Toxicology,Others,2.0,2021-01-01,MYFutureJobs
+Network Service,Information Technology (IT),2.0,2021-01-01,MYFutureJobs
+Complex Analysis,Others,2.0,2021-01-01,MYFutureJobs
+Cassandra,Computer Science,2.0,2021-01-01,MYFutureJobs
+Immunology,Others,2.0,2021-01-01,MYFutureJobs
+ISO 9000,Computer Science,2.0,2021-01-01,MYFutureJobs
+Visual Communication,Others,2.0,2021-01-01,MYFutureJobs
+Embedded System,Computer Science,1.0,2021-01-01,MYFutureJobs
+Typography,Others,1.0,2021-01-01,MYFutureJobs
+Microsoft Visio,Data Science,1.0,2021-01-01,MYFutureJobs

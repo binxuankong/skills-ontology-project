@@ -1,970 +1,935 @@
 index,1 - Primary Education,2 - PMR / PT3,3 - SPM / O Level / SKM,4 - STPM / A Level,5 - Diploma / DVM,6 - Bachelor's,7 - Master's,8 - Doctoral (PhD),total,domain
-Sales,87,159,1049,59,646,529,13,4,2546,Business
-Communication,78,150,808,48,558,475,5,9,2131,Business
-English,69,138,747,45,508,407,10,8,1932,Others
-Management,63,144,742,39,475,360,10,6,1839,Business
-Training,39,88,583,45,340,287,10,2,1394,Business
-Marketing,37,87,547,29,310,278,6,3,1297,Business
-Design,36,82,478,24,312,242,2,1,1177,Others
-Documentation,37,64,390,24,244,208,5,3,975,Business
-Engineering,41,76,379,22,226,187,5,2,938,Others
-Reporting,31,60,318,31,206,212,1,1,860,Business
-Manufacturing,27,64,337,22,228,172,6,,856,Business
-Repair,35,55,284,16,174,153,4,,721,Others
-Customer Service,24,45,288,21,189,137,4,1,709,Business
-Email,24,50,274,10,191,139,4,4,696,Business
-Construction,27,48,264,16,156,136,2,3,652,Business
-Security,15,41,252,23,156,139,2,2,630,Information Technology (IT)
-Analytical,22,35,246,17,156,148,1,3,628,Business
-Budget,26,33,230,11,162,155,1,3,621,Business
-Accounting,23,38,267,7,142,139,2,3,621,Business
-Testing,28,38,263,10,167,108,5,1,620,Computer Science
-Administration,19,44,240,16,152,115,5,1,592,Business
-Presentation,15,35,249,11,152,126,,1,589,Business
-Finance,22,31,244,18,126,137,,2,580,Business
-Research,11,41,219,7,161,122,3,7,571,Business
-Processing,15,40,238,13,151,110,2,,569,Business
-Audit,23,30,224,14,142,134,2,,569,Business
-Social Media,20,33,226,8,113,113,2,5,520,Others
-Video,17,33,178,21,104,104,1,1,459,Others
-Computer Science,16,27,195,10,119,90,,1,458,Computer Science
-Writing,28,39,184,8,99,91,2,3,454,Business
-Database,16,25,191,12,106,84,1,3,438,Computer Science
-Market,13,33,180,4,110,87,2,4,433,Business
-Electronics,9,27,172,10,114,98,,1,431,Others
-Machinery,13,40,176,12,93,90,1,2,427,Others
-Leadership,15,30,182,7,114,76,1,1,426,Business
-Platform,15,32,167,12,94,102,3,,425,Computer Science
-Excel,17,24,163,5,87,75,1,1,373,Business
-Network,11,20,147,6,94,66,1,2,347,Information Technology (IT)
-Problem Solving,15,22,130,7,97,67,,,338,Business
-Banking,15,28,132,6,76,61,,,318,Business
-Logistics,6,26,126,8,80,72,,,318,Business
-Negotiation,12,14,104,4,82,86,2,,304,Business
-Accuracy,7,17,112,7,101,56,2,,302,Business
-Advertising,11,17,130,4,62,59,1,2,286,Business
-Property,10,20,99,13,69,70,,,281,Business
-Business Development,9,15,112,6,75,60,1,1,279,Business
-Metals,11,17,108,3,77,57,1,1,275,Others
-Image,12,16,110,13,78,46,,,275,Others
-Production Process,13,10,132,7,60,50,,,272,Business
-Distribution,8,14,109,2,69,65,,,267,Data Science
-Collaboration,12,12,121,7,61,37,1,1,252,Business
-Law,10,14,82,11,70,63,1,,251,Others
-Malay,10,19,85,9,61,61,3,2,250,Others
-Insurance,8,11,96,4,62,63,4,1,249,Business
-Retail,12,14,97,5,68,53,,,249,Business
-Automation,10,20,113,7,50,42,2,2,246,Information Technology (IT)
-Graphic Design,11,10,101,13,51,58,,1,245,Others
-Media,8,12,91,11,69,49,3,,243,Others
-Ad Design,4,19,104,9,61,43,3,,243,Others
-Microsoft Office,13,19,90,2,59,53,1,1,238,Business
-Culture,11,22,103,3,41,54,,1,235,Others
-Accountancy,9,17,101,10,58,39,,,234,Business
-Quality Control,8,21,99,3,64,38,,,233,Business
-AutoCAD,7,17,98,4,54,49,1,,230,Others
-Scheduling,8,13,102,4,59,40,3,,229,Business
-Brand Management,10,16,81,3,59,55,,,224,Business
-Human Resources (HR),8,16,89,7,62,40,1,,223,Business
-Hardware,6,14,94,6,40,59,2,,221,Computer Science
-Quality Assurance,8,13,95,6,45,46,,1,214,Business
-Project Management,5,18,84,8,50,47,,2,214,Business
-Operating System,12,15,86,7,54,38,,,212,Computer Science
-Compiler,7,13,84,5,58,43,,1,211,Computer Science
-Translation,8,13,81,7,48,47,,,204,Others
-Transportation,8,17,83,2,53,37,1,,201,Business
-Assembly,9,16,72,7,50,44,1,1,200,Computer Science
-Facebook,3,11,93,3,47,38,4,1,200,Others
-Sorting,5,14,72,3,59,45,1,1,200,Computer Science
-Innovation,10,14,85,2,38,50,1,,200,Business
-D,5,10,84,1,52,43,2,1,198,Computer Science
-Chemical,7,10,74,1,57,45,1,1,196,Others
-Architecture,9,8,94,3,45,32,2,1,194,Others
-Configuration,4,9,86,2,49,42,1,,193,Computer Science
-Coding,6,12,75,2,56,40,,,191,Computer Science
-Selection,3,20,69,5,55,37,1,,190,Computer Science
-Unemployment,5,13,73,8,52,39,,,190,Others
-Physical,5,15,73,7,46,41,1,1,189,Others
-IT Operations,10,13,90,4,44,27,,1,189,Information Technology (IT)
-Closing,10,7,83,7,41,37,,1,186,Business
-eCommerce,5,15,72,6,43,43,,1,185,Business
-Digital Marketing,9,10,73,5,40,45,,,182,Business
-Coaching,6,14,66,6,48,39,2,1,182,Others
-Internet,8,9,91,1,48,20,,3,180,Information Technology (IT)
-Time Management,6,17,75,2,52,25,,,177,Business
-Expectations,3,6,66,3,47,50,1,1,177,Others
-Technical Support,1,18,66,3,47,38,2,1,176,Information Technology (IT)
-Profit,8,13,60,5,48,40,1,,175,Others
-Microsoft,6,16,76,2,30,44,1,,175,Business
-Mechanical Engineering,8,15,73,2,39,37,,,174,Others
-Procurement,4,14,61,5,51,37,,1,173,Business
-Programming,6,14,70,9,39,30,,1,169,Business
-Cooking,6,8,57,1,61,32,1,1,167,Others
-Creatio,7,12,66,3,38,41,,,167,Information Technology (IT)
-JavaScript,4,7,65,5,44,38,1,1,165,Computer Science
-Marketing Research,8,8,70,2,43,32,,,163,Business
-Teamwork,5,14,64,4,37,39,,,163,Business
-Financial Statement,10,4,64,5,40,38,2,,163,Business
-Windows,8,12,67,3,34,35,,1,160,Computer Science
-Healthcare,6,11,67,2,43,26,1,1,157,Others
-Product Development,1,8,67,2,38,41,,,157,Business
-Nonverbal Communication,6,8,74,4,39,25,1,,157,Business
-Ada,11,15,49,,44,32,2,2,155,Computer Science
-Investment,5,4,77,3,35,27,,,151,Business
-Welding,11,13,63,3,35,24,2,,151,Others
-Market Research,8,7,63,2,39,30,,,149,Business
-IPython,2,9,57,4,41,36,,,149,Computer Science
-Fabrication,6,13,57,2,43,25,2,,148,Business
-Electronic Engineering,2,10,57,2,32,41,1,1,146,Others
-Creativity,2,12,63,2,34,30,,2,145,Others
-Agile,3,11,69,3,32,24,1,1,144,Business
-SAP,3,5,59,6,37,26,2,,138,Computer Science
-Editing,7,10,49,4,42,25,,1,138,Business
-Forecasting,5,5,51,2,45,28,1,,137,Business
-Lean Software Development,7,5,59,2,32,30,1,,136,Computer Science
-B,8,9,55,1,37,26,,,136,Computer Science
-Consulting,2,7,61,5,37,18,1,1,132,Business
-Accounts Payable,5,5,54,3,29,36,,,132,Business
-Statistics,5,5,47,5,32,36,,,130,Data Science
-Interpreter,6,6,62,1,32,21,,,128,Computer Science
-Business Plan,6,6,49,1,34,31,1,,128,Business
-Business Process,3,7,60,6,26,23,,,125,Business
-Instagram,1,6,65,3,29,20,,,124,Others
-Plastics,1,8,53,4,38,18,2,,124,Others
-Account Receivable,3,9,53,3,28,26,,,122,Business
-Networking,2,9,54,,31,23,2,,121,Business
-Risk Management,3,10,49,5,22,32,,,121,Business
-RStudio,4,6,52,4,28,25,,,119,Computer Science
-Photography,6,5,53,1,24,25,3,1,118,Business
-Agile Software Development,6,5,62,2,21,20,,,116,Computer Science
-Router,7,7,44,3,28,27,,,116,Information Technology (IT)
-Addition,4,4,60,3,27,16,1,,115,Others
-Business Administration,4,9,41,2,29,30,,,115,Business
-Trade,4,4,51,2,25,26,1,,113,Business
-MySQL,1,4,45,3,31,29,,,113,Computer Science
-Decision Making,3,6,46,,33,22,1,1,112,Business
-Electrical Engineering,2,13,46,1,18,31,,,111,Others
-Hospitality,9,7,51,4,22,15,1,,109,Business
-Balance Sheet,6,8,40,3,25,25,,,107,Business
-PowerPoint,8,9,38,1,28,22,,1,107,Business
-Software Engineering,3,5,42,5,24,27,,,106,Computer Science
-User Experience (UX),5,4,46,2,21,28,,,106,Others
-Box,,3,55,3,20,22,,,103,Information Technology (IT)
-Quality Management,4,7,41,2,31,18,,,103,Business
-C,5,4,40,2,31,19,,,101,Computer Science
-Effective Communication,5,9,44,2,28,13,,,101,Business
-Publishing,3,6,32,7,29,23,,,100,Business
-Oracle,2,6,50,3,15,23,,,99,Computer Science
-Dashboard,6,9,38,1,21,20,1,,96,Data Science
-Java,4,7,53,3,16,11,2,,96,Computer Science
-Microsoft Excel,3,5,35,6,28,18,,,95,Business
-Saving,5,6,39,,26,18,1,,95,Others
-Adobe Photoshop,,5,41,5,17,26,,,94,Others
-Objective-C,4,2,38,1,28,19,2,,94,Computer Science
-Software Development Kit (SDK),5,5,43,1,21,18,,,93,Computer Science
-Microsoft Office 365,4,3,34,1,28,22,,,92,Information Technology (IT)
-Protocol,4,5,37,2,30,14,,,92,Information Technology (IT)
-Linux,1,5,40,3,19,23,,,91,Computer Science
-Accounting Software,1,5,39,4,21,20,1,,91,Business
-Office Administration,1,8,36,2,25,17,1,,90,Business
-Critical Thinking,1,6,39,3,22,17,1,,89,Business
-Perceptron,6,9,39,2,15,17,,,88,Data Science
-Human Resource Management,4,8,35,2,31,7,1,,88,Business
-Software Tool,2,6,33,3,20,22,,1,87,Computer Science
-Methodology,5,7,29,6,21,18,1,,87,Business
-PHP,2,5,30,2,28,19,,,86,Computer Science
-Programming Language,1,2,28,1,28,26,,,86,Computer Science
-Business Operations,3,8,32,1,27,13,1,,85,Business
-Medium,,5,40,2,20,16,,,83,Business
-Telemarketing,3,5,33,2,21,19,,,83,Business
-Searching,4,7,30,,25,17,,,83,Computer Science
-Organizational Skill,2,1,36,1,18,23,,1,82,Business
-Research and Development (R&D),1,3,36,2,23,16,1,,82,Business
-C#,2,8,35,2,17,18,,,82,Computer Science
-Business Analysis,5,3,39,3,18,12,,,80,Business
-Management Accounting,4,5,32,5,26,8,,,80,Business
-Biology,,3,34,4,24,15,,,80,Others
-Mathematics,2,4,34,3,15,20,,,78,Others
-Economics,,4,32,1,18,23,,,78,Others
-Civil Engineering,1,5,43,1,11,16,,,77,Others
-Customer Service System,,2,37,2,18,17,,1,77,Business
-Sports,7,3,24,2,21,20,,,77,Others
-Mechatronics,2,7,37,1,12,16,1,,76,Others
-Chart,,6,26,1,19,22,1,1,76,Business
-Kubernetes,2,4,33,2,16,16,1,1,75,Information Technology (IT)
-Recruiting,1,6,29,1,27,10,1,,75,Business
-Customer Experience,3,3,25,,21,23,,,75,Business
-Web Application,1,3,28,3,24,15,,,74,Computer Science
-Social Media Platform,3,4,32,1,24,10,,,74,Others
-Azure,3,8,28,2,14,18,,,73,Information Technology (IT)
-Machining,4,6,23,1,24,14,,,72,Others
-History,4,6,30,,22,10,,,72,Others
-Firm,5,3,30,4,17,13,,,72,Others
-Systems Theory,2,6,25,1,15,22,,,71,Others
-Business Management,3,5,20,3,22,18,,,71,Business
-Twitter,1,8,34,,17,9,1,1,71,Others
-Scrum,3,5,34,2,14,13,,,71,Computer Science
-Online Media,2,3,23,6,22,14,,,70,Business
-Automotive,3,5,32,2,14,14,,,70,Others
-Editor,3,5,20,,23,17,1,,69,Computer Science
-Information System,5,2,26,,22,14,,,69,Information Technology (IT)
-Software Development Life Cycle (SDLC),3,4,34,,18,10,,,69,Computer Science
-Calendar,6,4,25,2,11,21,,,69,Business
-Scheme,3,6,24,,21,14,,,68,Computer Science
-Azure Machine Learning,1,3,18,2,20,23,1,,68,Data Science
-Division,2,7,31,,16,10,1,1,68,Others
-Japanese,2,9,28,1,17,10,,,67,Others
-Telecommunication,2,4,29,,17,15,,,67,Information Technology (IT)
-DevOps,4,2,31,2,11,15,1,,66,Computer Science
-Bookkeeping,1,2,28,2,22,8,1,1,65,Business
-R,4,4,27,3,18,8,1,,65,Computer Science
-Android,4,4,25,1,19,10,1,,64,Computer Science
-Adobe Illustrator,2,5,30,2,9,15,,,63,Others
-Data Analysis,1,4,23,2,16,17,,,63,Data Science
-Development Tools,,1,26,2,21,12,1,,63,Computer Science
-Git,1,1,23,1,11,26,,,63,Computer Science
-Public Speaking,4,,27,1,17,14,,,63,Business
-Product Knowledge,2,3,27,,13,17,,,62,Business
-Goods and Services,1,,25,2,14,19,,,61,Others
-Docker,2,3,27,2,13,13,1,,61,Computer Science
-Modeling,5,3,23,3,13,14,,,61,Computer Science
-Root Cause Analysis,2,4,28,,13,14,,,61,Business
-Peripheral,2,3,27,,17,12,,,61,Computer Science
-Change Management,2,1,32,,17,8,,,60,Business
-Scripting,6,2,22,2,10,18,,,60,Information Technology (IT)
-Online Marketing,1,8,18,1,20,11,,,59,Business
-Animation,2,5,23,2,12,15,,,59,Others
-Process Engineering,3,5,28,2,13,7,1,,59,Others
-Blogging,4,6,28,3,12,5,,,58,Business
-Algorithm,2,1,19,1,16,19,,,58,Computer Science
-Rally,1,1,34,1,15,4,,1,57,Business
-JIRA,,2,27,,9,18,,1,57,Computer Science
-Sampling,2,1,32,,13,9,,,57,Data Science
-Shell,1,4,26,2,9,15,,,57,Computer Science
-Project Planning,2,5,17,,19,13,,,56,Business
-Chemical Engineering,2,6,22,1,13,11,,,55,Others
-Money,1,1,25,2,10,15,,,54,Others
-Copywriting,4,3,15,,11,20,,,53,Business
-React,3,,21,3,16,9,,,52,Computer Science
-Software System,5,2,19,1,12,13,,,52,Computer Science
-Clear Communication,2,4,22,1,10,13,,,52,Business
-Angular,,,21,3,15,12,1,,52,Computer Science
-Depression,2,4,16,1,16,13,,,52,Others
-Spark,3,2,19,3,15,9,1,,52,Computer Science
-GitLab,,5,22,,15,9,,,51,Computer Science
-Target Audience,1,5,22,3,9,10,1,,51,Business
-Accounting Standards,1,2,23,1,16,8,,,51,Business
-Computer Hardware,,1,21,1,15,13,,,51,Computer Science
-Motion Graphic Design,1,2,20,1,10,17,,,51,Computer Science
-Web Design,1,3,20,2,11,13,,,50,Computer Science
-NoSQL,1,,17,3,9,20,,,50,Computer Science
-Outlook,1,3,19,1,13,13,,,50,Business
-Business Strategy,2,2,11,3,15,17,,,50,Business
-Ethics,2,6,21,,15,6,,,50,Others
-LinkedIn,,5,26,,9,9,1,,50,Others
-Competition,1,2,23,,13,11,,,50,Others
-Branding,3,4,26,2,6,9,,,50,Business
-ISO 9001,6,2,18,,13,10,,,49,Computer Science
-Aquaculture,1,3,19,2,12,12,,,49,Others
-Prototyping,1,1,19,1,16,10,1,,49,Others
-Sequence,3,2,17,2,14,11,,,49,Computer Science
-Food Science,,4,20,2,16,6,,,48,Others
-Pragmatics,2,2,18,2,10,14,,,48,Others
-Content Marketing,1,5,26,,10,5,1,,48,Business
-Web Application Development,1,4,26,,9,8,,,48,Computer Science
-Swift,1,2,19,2,17,5,1,,47,Computer Science
-Business Model,4,1,13,2,16,10,,,46,Business
-Bagging,,2,24,,12,8,,,46,Data Science
-Audio,2,2,19,3,16,4,,,46,Others
-Links,1,5,15,,14,10,1,,46,Information Technology (IT)
-Electronic and Electrical Engineering,,,18,,14,12,1,1,46,Others
-Product Management,1,1,23,,8,13,,,46,Business
-Gradle,2,5,26,1,4,7,,,45,Computer Science
-Mining,1,4,12,1,18,4,,5,45,Others
-Mapping,1,2,14,1,17,10,,,45,Computer Science
-Support Engineering,2,,23,2,11,5,1,,44,Others
-Mobile Application Development,1,4,22,,9,8,,,44,Others
-Asset Management,1,3,20,3,12,5,,,44,Business
-Product Marketing,4,4,20,1,6,7,2,,44,Business
-Conveyancing,,3,18,1,13,9,,,44,Others
-LaTeX,1,1,11,1,16,13,,,43,Computer Science
-Vietnamese,3,,22,1,8,9,,,43,Others
-Adminitrative Assistance,1,2,18,1,7,14,,,43,Business
-iOS,2,2,17,1,11,8,1,,42,Computer Science
-Agriculture,1,4,15,,13,7,2,,42,Others
-Machine Learning,,2,17,1,10,11,,1,42,Data Science
-Github,2,3,13,,15,9,,,42,Computer Science
-Utility,5,3,20,,7,7,,,42,Others
-Keras,1,2,13,2,14,10,,,42,Data Science
-Big Data,2,2,13,2,12,10,1,,42,Data Science
-Interior Design,1,3,14,,12,11,,,41,Others
-Manufacturing Engineering,1,1,18,,10,11,,,41,Others
-Journalism,3,5,11,1,7,13,,1,41,Others
-Reasoning,,3,19,2,10,7,,,41,Business
-Sketch,2,1,16,1,8,12,,,40,Others
-Technical Documentation,2,4,19,1,6,7,1,,40,Computer Science
-Real Estate,1,3,15,2,12,7,,,40,Business
-Transformer,1,2,18,,12,7,,,40,Data Science
-Property Maintenance,2,2,13,1,8,14,,,40,Business
-A/B Testing,,1,13,,9,17,,,40,Computer Science
-Complexity,2,,20,,11,6,,1,40,Computer Science
-Performance Management,,6,17,,10,7,,,40,Business
-Data Analytics,2,3,20,1,7,7,,,40,Data Science
-Life Science,1,1,16,1,13,7,,,39,Others
-Hadoop,1,1,12,2,14,8,1,,39,Computer Science
-jQuery,1,1,12,2,9,13,,,38,Computer Science
-Sustainability,2,6,8,,15,6,1,,38,Others
-Blockchain,,,15,1,10,11,1,,38,Information Technology (IT)
-Risk Analysis,2,,15,,8,12,1,,38,Business
-Template,,1,22,,9,6,,,38,Business
-Rapid Application Development,1,4,19,,7,7,,,38,Computer Science
-Email Marketing,2,,15,,13,8,,,38,Business
-Music,,3,16,2,11,5,,,37,Others
-Industrial Relations,,2,11,1,12,11,,,37,Others
-Nutrition,1,1,16,1,11,6,1,,37,Others
-Nursing,,1,14,,15,7,,,37,Others
-PostgreSQL,1,3,11,1,13,7,,,36,Computer Science
-Korean,,1,17,1,8,9,,,36,Others
-ML,1,,10,2,8,15,,,36,Computer Science
-Microsoft Word,2,,15,1,12,6,,,36,Business
-Relational Database,1,1,8,1,11,14,,,36,Computer Science
-Data Science,,2,10,1,14,9,,,36,Data Science
-Debugging,,,15,2,10,8,,1,36,Computer Science
-Virtualization,1,5,14,,8,8,,,36,Computer Science
-Mechanics,3,1,13,4,8,7,,,36,Others
-Distributed Computing,,1,13,,8,13,1,,36,Computer Science
-Airlines,2,7,13,1,9,4,,,36,Business
-Software Design,1,4,17,,6,7,1,,36,Computer Science
-Growth Strategy,1,3,7,,17,7,,,35,Business
-Beaker,2,,19,1,6,7,,,35,Information Technology (IT)
-Network Security,1,2,15,1,4,11,,1,35,Information Technology (IT)
-PL,2,6,13,,6,8,,,35,Computer Science
-Induction,,4,13,1,11,5,,,34,Others
-CMM,1,2,16,3,6,6,,,34,Computer Science
-News,,,11,4,7,11,1,,34,Others
-Solaris,2,,21,1,6,4,,,34,Computer Science
-Chemistry,1,3,14,3,7,5,,1,34,Others
-Semiconductors,2,4,11,1,7,9,,,34,Others
-Business Acumen,,1,18,,8,6,,,33,Business
-Adaptability,1,2,13,2,12,3,,,33,Business
-C++,1,2,12,1,6,11,,,33,Computer Science
-Aesthetics,3,1,12,1,8,8,,,33,Others
-UX Design,2,2,15,,4,9,,,32,Others
-Google Cloud Platform (GCP),,1,10,,8,13,,,32,Information Technology (IT)
-Literature,,2,11,1,10,7,,1,32,Others
-Instrumentation,1,1,9,2,9,10,,,32,Others
-Client Relations,,2,14,2,9,5,,,32,Business
-CVS,1,5,11,1,10,2,1,,31,Computer Science
-Sales Presentation,,1,14,2,8,5,1,,31,Business
-Management Consulting,2,2,10,4,5,8,,,31,Business
-Medicine,2,4,14,,9,2,,,31,Others
-Information Systems Security,,3,11,1,8,8,,,31,Information Technology (IT)
-Wireframes,1,,6,,11,12,,,30,Business
-Web Server,,2,14,2,2,10,,,30,Information Technology (IT)
-Industrial Engineering,,2,17,1,6,4,,,30,Others
-PHP Development,,2,14,1,10,3,,,30,Computer Science
-Entrepreneurship,2,1,13,,11,3,,,30,Business
-Social Media Marketing,2,2,13,,8,5,,,30,Business
-Data Science Tool,1,,6,2,8,13,,,30,Data Science
-Motion Pictures,1,2,12,,5,9,,,29,Others
-Business Continuity Planning,2,6,6,,5,10,,,29,Computer Science
-Predictive Modeling,1,1,7,,7,13,,,29,Data Science
-Shortage,1,1,5,1,13,8,,,29,Others
-Variable,3,1,9,1,7,8,,,29,Computer Science
-Customer Relationship Management (CRM),1,,8,,9,11,,,29,Business
-Database Management System,,1,16,3,4,4,,,28,Computer Science
-Biotechnology,,2,11,2,11,1,1,,28,Others
-Theatre,1,2,12,,5,8,,,28,Others
-Vmware,,3,11,,5,9,,,28,Computer Science
-Outreach,1,2,9,,9,7,,,28,Business
-Development Management,1,2,12,,6,5,,1,27,Business
-Mergers and Acquisitions (M&A),2,1,11,1,6,6,,,27,Business
-Quality Engineering,,,10,,9,7,,,26,Others
-Visualization,1,,11,,5,9,,,26,Computer Science
-Polish,1,4,7,,8,6,,,26,Others
-Computer Engineering,,1,7,2,5,11,,,26,Others
-Regression,,1,8,,7,10,,,26,Data Science
-Terraform,1,1,13,,6,4,1,,26,Computer Science
-Special Effects,2,5,9,1,4,5,,,26,Computer Science
-Cloud Service,1,3,8,1,9,4,,,26,Information Technology (IT)
-Laravel,,,13,2,7,4,,,26,Computer Science
-Cold Calling,,,12,,7,7,,,26,Business
-Social Security,,2,10,1,5,8,,,26,Information Technology (IT)
-Income Statement,,2,10,2,6,6,,,26,Business
-Labour and Employment Law,2,2,10,1,7,4,,,26,Others
-System Administration,1,2,8,2,6,6,,,25,Information Technology (IT)
-Project Supervision,1,,15,,4,5,,,25,Business
-Therapy,1,1,11,,7,4,,1,25,Others
-Variance Analysis,,1,10,,10,4,,,25,Data Science
-Analytical Thinking,,8,9,,5,3,,,25,Data Science
-Sports Engineering,1,,12,1,6,4,1,,25,Others
-Kafka,1,1,9,,9,4,1,,25,Computer Science
-Ansible,1,1,15,,3,4,,,24,Computer Science
-TensorFlow,1,,4,2,6,11,,,24,Data Science
-Scikit-learn,1,,4,2,6,11,,,24,Data Science
-Brainstorming,1,1,10,2,6,3,,1,24,Business
-International Business,,2,8,,9,5,,,24,Business
-Newsletters,1,2,9,1,6,5,,,24,Business
-Poster,1,2,12,,4,5,,,24,Others
-Google Analytics,1,,15,,5,3,,,24,Data Science
-Power Management,,1,12,2,1,8,,,24,Business
-Data Capture,,1,12,2,1,8,,,24,Computer Science
-Optics,1,2,9,,7,5,,,24,Others
-Delegation,,1,9,,11,3,,,24,Business
-Supply Chain Risk Management,,1,11,,9,3,,,24,Business
-PyTorch,1,,4,2,6,11,,,24,Data Science
-Property Management,,1,12,2,1,8,,,24,Business
-Cash Flow Management,1,,12,1,9,1,,,24,Business
-Full Stack Software Engineering,,3,10,1,6,4,,,24,Computer Science
-Textiles,,2,9,2,7,4,,,24,Others
-Public Relations and Communications,,3,9,,6,6,,,24,Business
-Data Management,,,10,2,6,6,,,24,Computer Science
-Array,,3,6,,8,7,,,24,Computer Science
-Data Visualization,1,,13,,5,4,,,23,Data Science
-WordPress,1,1,11,,5,5,,,23,Business
-Office Management,,2,5,2,11,3,,,23,Business
-Physics,1,3,11,2,2,4,,,23,Others
-Middleware,2,2,13,,5,1,,,23,Computer Science
-Benchmarking,,2,13,,6,2,,,23,Business
-eCommerce Platforms,,1,14,,3,4,,,22,Business
-Confluence,,1,5,,5,11,,,22,Information Technology (IT)
-Route Management,,3,12,,4,3,,,22,Information Technology (IT)
-Information Security,1,,8,,4,9,,,22,Information Technology (IT)
-Casting,1,,12,,4,5,,,22,Others
-Video Production,1,2,7,,9,3,,,22,Business
-Linker,1,2,6,,6,7,,,22,Computer Science
-Data Structure,1,,6,,9,6,,,22,Computer Science
-Bash,,1,13,,2,6,,,22,Computer Science
-Lead Generation,,1,11,2,4,4,,,22,Business
-iland,,,9,,6,6,,,21,Information Technology (IT)
-Pharmacy,1,3,11,,3,3,,,21,Others
-Front End,,,9,2,7,2,1,,21,Computer Science
-Electromechanics,,2,9,1,2,7,,,21,Others
-MS SQL Server,,2,7,2,8,2,,,21,Computer Science
-Nice,1,,12,,4,3,,,20,Computer Science
-Automotive Engineering,,2,7,,6,5,,,20,Others
-Radio,,4,6,1,6,3,,,20,Others
-Italian,,3,10,,5,2,,,20,Others
-Ecology,,,8,1,6,5,,,20,Others
-Source Control,,,11,1,4,4,,,20,Computer Science
-Graph Database Management System,,,10,,5,5,,,20,Computer Science
-Responsive Design,1,,10,,2,7,,,20,Others
-Statistical Model,,1,6,,5,8,,,20,Data Science
-NP Completeness,1,1,6,1,9,1,,,19,Computer Science
-Regression Analysis,,1,6,,4,8,,,19,Data Science
-Unity,2,,8,,3,6,,,19,Others
-Spanish,1,1,9,,4,2,1,,18,Others
-Content Management,,,2,3,3,10,,,18,Business
-Equity,,,6,,2,10,,,18,Business
-Localization,1,,4,1,6,6,,,18,Others
-Newspapers,2,1,5,,6,4,,,18,Business
-Incident Management,1,1,9,,5,2,,,18,Business
-Entertainment,,1,8,,3,6,,,18,Others
-Market Research Analysis,,1,7,,5,5,,,18,Business
-Firewall,2,1,7,,2,6,,,18,Information Technology (IT)
-Unix,,,14,,3,1,,,18,Computer Science
-Web Analytics,,,11,2,2,3,,,18,Computer Science
-Business Ethics,1,1,7,,3,6,,,18,Business
-Team Building,,3,8,,6,1,,,18,Business
-Agricultural Science,,2,7,1,4,4,,,18,Others
-Data Mining,1,2,10,1,2,2,,,18,Data Science
-QA Testing,,,8,,4,5,1,,18,Business
-Zoom,,2,7,1,4,4,,,18,Business
-Database Design,1,,7,3,3,4,,,18,Computer Science
-SketchUp,,2,6,,7,3,,,18,Computer Science
-Maya,,2,6,2,4,4,,,18,Computer Science
-Streaming,1,,6,2,5,4,,,18,Information Technology (IT)
-Manufacturing Operations,,1,4,,10,2,,,17,Others
-Product Testing,,,6,,7,4,,,17,Business
-Online Business,1,1,3,,8,4,,,17,Business
-Data Preparation,,1,7,,4,5,,,17,Data Science
-Apparel,,1,9,,3,4,,,17,Others
-Web Framework,1,,10,,4,2,,,17,Computer Science
-vSphere,,3,6,,5,2,,,16,Computer Science
-Common ISDN Application Programming Interface (CAPI),,2,4,1,7,2,,,16,Computer Science
-Application Programming Interface (API),,2,4,1,7,2,,,16,Computer Science
-Bond,,,7,,4,4,,1,16,Others
-Social Information System,,2,4,1,7,2,,,16,Information Technology (IT)
-Industrial Automation,1,3,7,,1,3,1,,16,Others
-Big Data Analysis,,1,11,,2,1,1,,16,Data Science
-Password,,,4,,11,1,,,16,Information Technology (IT)
-Business Intelligence,,,6,1,4,5,,,16,Data Science
-Messaging Application Programming Interface,,2,4,1,7,2,,,16,Computer Science
-Marketing Analytics,2,,9,,3,2,,,16,Data Science
-Legal Management,,,9,,4,3,,,16,Others
-Corporate Communication,,3,7,,4,2,,,16,Business
-Forestry,,2,4,,6,3,1,,16,Others
-Software Architecture,,2,3,,4,7,,,16,Computer Science
-Graph,,2,7,,4,3,,,16,Others
-Network Architecture,,2,4,1,7,2,,,16,Information Technology (IT)
-Authentication,,,6,,1,9,,,16,Information Technology (IT)
-Configuration Management,2,1,8,,4,1,,,16,Business
-Strategic Planning,1,,8,1,6,,,,16,Business
-Performance Application Programming Interface,,2,4,1,7,2,,,16,Computer Science
-Unix Shell,1,,12,,1,1,1,,16,Computer Science
-Telephony Application Programming Interface,,2,4,1,7,2,,,16,Computer Science
-Arts,,2,6,,2,6,,,16,Others
-Management Information System (MIS),,1,6,,4,5,,,16,Business
-Computer Vision,1,,3,2,5,5,,,16,Data Science
-Kotlin,1,1,10,,3,1,,,16,Computer Science
-Distributed System,2,,4,,6,3,1,,16,Computer Science
-Profiling,1,2,1,,8,4,,,16,Computer Science
-Chatbot,,1,4,,5,6,,,16,Data Science
-Quantitative Research,,1,4,,4,7,,,16,Business
-Tax Accounting,,3,10,,2,1,,,16,Business
-React Native,,,6,,3,7,,,16,Computer Science
-Materials Engineering,,5,6,,2,2,,,15,Others
-Structural Engineering,,4,4,,3,4,,,15,Others
-Commercial Law,1,,7,,4,3,,,15,Others
-Biomaterials Engineering,,5,6,,2,2,,,15,Others
-Salesforce,,1,7,,4,3,,,15,Business
-Usability Engineering,,,5,,5,5,,,15,Computer Science
-Object-Oriented Programming (OOP),,,2,,4,9,,,15,Computer Science
-Naïve Bayes,,,3,,3,8,,,14,Data Science
-CouchDB,,,6,1,2,5,,,14,Computer Science
-Email Marketing Campaign,,,8,2,2,2,,,14,Business
-Oil and Gas,,2,4,,7,1,,,14,Others
-Computing Platform,,,3,,3,8,,,14,Information Technology (IT)
-OpenShift,,2,8,,2,2,,,14,Information Technology (IT)
-Indonesian,,,6,1,2,5,,,14,Others
-Software Application,,,9,1,1,3,,,14,Computer Science
-Service Management,,1,5,1,4,3,,,14,Business
-Cleanroom,,1,5,,3,5,,,14,Computer Science
-Process and Methodology,,1,7,1,2,3,,,14,Computer Science
-Control Chart,,1,6,,4,3,,,14,Data Science
-Software Development,,,6,,4,4,,,14,Computer Science
-Food Production,,1,3,,7,3,,,14,Others
-Maintanence,,,10,,1,2,,1,14,Others
-Telecommunications Engineering,,1,9,,2,2,,,14,Others
-Cost Accounting,,,7,,3,4,,,14,Business
-Annual Report,,,5,,5,4,,,14,Business
-Machine Learning Algorithm,,,3,,3,8,,,14,Data Science
-Performance Review,,1,5,,3,5,,,14,Business
-Decision Tree,,,3,,3,8,,,14,Data Science
-Web Development,1,3,3,1,1,5,,,14,Computer Science
-Computing,1,,5,,5,3,,,14,Computer Science
-Cisco Router,1,2,3,,3,5,,,14,Information Technology (IT)
-Population,1,,7,,3,3,,,14,Data Science
-Legal Service,1,,7,,2,3,1,,14,Others
-Xen Cloud Platform,,3,4,,5,2,,,14,Information Technology (IT)
-Social Media Management,1,,5,1,3,4,,,14,Business
-Source Code Management,,3,4,,5,2,,,14,Computer Science
-Database Application,1,1,7,,1,4,,,14,Computer Science
-Energy Consumption,,2,3,,6,2,1,,14,Computer Science
-Task Management,1,1,6,1,4,1,,,14,Business
-Ruby on Rails,1,1,2,,6,4,,,14,Computer Science
-Tamil,1,,6,,5,2,,,14,Others
-Infrastructure as a Service (IaaS),1,1,6,1,4,1,,,14,Information Technology (IT)
-VOIP,2,1,5,,2,4,,,14,Business
-Financial Risk Management,1,2,6,,1,4,,,14,Business
-Property Information,2,,2,2,4,3,,,13,Business
-Oil and Energy,1,1,3,,6,2,,,13,Others
-Burmese,,,6,,4,3,,,13,Others
-Tableau,,,7,2,2,2,,,13,Data Science
-Sales Operations,2,2,3,,3,3,,,13,Business
-Node.js,,2,5,1,2,3,,,13,Computer Science
-Recreation,,1,3,,4,4,,,12,Others
-Scripting Language,,1,7,,1,3,,,12,Computer Science
-Cloud Computing,,1,5,,4,1,1,,12,Information Technology (IT)
-Data Sharing,1,,6,,2,3,,,12,Data Science
-macOS,2,1,5,,1,3,,,12,Computer Science
-Database System,,,3,1,6,2,,,12,Computer Science
-Bootstrap,,1,3,1,,7,,,12,Computer Science
-Classification,,2,4,,5,1,,,12,Data Science
-Supply and Demand,,,4,,3,5,,,12,Others
-Cybersecurity,,,8,,4,,,,12,Information Technology (IT)
-Software Interface,,,5,1,3,3,,,12,Computer Science
-Active Listening,,,6,,3,3,,,12,Others
-Robotics,,,6,,3,3,,,12,Data Science
-Commodity,2,1,2,,3,4,,,12,Others
-Version Control,,,7,1,1,3,,,12,Computer Science
-Post-Sale Relationship Management,,,7,1,2,2,,,12,Business
-PL/SQL,,,9,1,,1,,1,12,Computer Science
-Electronic Control Systems,,,4,,5,3,,,12,Others
-Tcl,1,,6,,5,,,,12,Computer Science
-Concurrency,,,10,,2,,,,12,Computer Science
-Requirement Analysis,2,1,3,,3,2,1,,12,Business
-Redux,,,3,,7,2,,,12,Computer Science
-Sales Management,,,4,,6,1,1,,12,Business
-Repetition,1,,2,,6,2,,1,12,Computer Science
-Q-learning,1,,1,2,5,3,,,12,Data Science
-Cryptocurrency,,,4,,2,6,,,12,Information Technology (IT)
-Bitbucket,,,3,,7,2,,,12,Computer Science
-Digital Art,,2,5,,4,1,,,12,Others
-Computer Game,,2,4,1,1,4,,,12,Others
-SAS Statistical Analysis,3,1,2,,2,4,,,12,Data Science
-Google Drive,,2,6,,4,,,,12,Information Technology (IT)
-Affliate Marketing,,3,3,,5,1,,,12,Business
-Information Management,,4,5,,2,1,,,12,Information Technology (IT)
-Computer Worm,,2,7,,2,1,,,12,Information Technology (IT)
-Deep Learning,1,,3,2,3,3,,,12,Data Science
-Corporate Finance,,1,3,,7,1,,,12,Business
-Carpentry,,,2,,6,3,,,11,Others
-Television,2,,4,,4,1,,,11,Others
-Informatics,,,6,,3,2,,,11,Information Technology (IT)
-Report Analysis,,,6,,2,3,,,11,Business
-Database Administration,,2,6,,2,1,,,11,Computer Science
-Marketing Management,,,3,,5,3,,,11,Business
-Aviation,,2,5,,1,3,,,11,Others
-Steganography,,1,4,,5,1,,,11,Information Technology (IT)
-Safari,2,,5,,2,2,,,11,Information Technology (IT)
-Geometry,1,,5,,2,2,,,10,Others
-DevOps Automation Tool,,,4,,1,4,,1,10,Computer Science
-Philosophy,1,3,3,,1,2,,,10,Others
-Industrial and Organizational Psychology,,,5,,2,3,,,10,Others
-Financial Regulation,1,,3,,1,5,,,10,Business
-Social Science,,,2,,3,5,,,10,Others
-Video Encoding,,,5,1,4,,,,10,Computer Science
-Agile Methodology,,1,4,,1,4,,,10,Business
-Health Psychology,,,5,,2,3,,,10,Others
-Social Network,,1,6,,2,1,,,10,Others
-Cloud Computing Architecture,1,,1,2,3,3,,,10,Information Technology (IT)
-Data Modeling,,1,7,,1,1,,,10,Data Science
-Forensic Psychology,,,5,,2,3,,,10,Others
-Experimental Psychology,,,5,,2,3,,,10,Others
-Behaviour Analysis,,,5,,2,3,,,10,Others
-Software Testing,,,1,,2,7,,,10,Computer Science
-Reverse Engineering,,1,3,,2,4,,,10,Computer Science
-SciPy,1,,1,2,3,3,,,10,Computer Science
-Optometry,,,5,1,4,,,,10,Others
-NumPy,1,,1,2,3,3,,,10,Computer Science
-Scientific Method,,1,6,,2,1,,,10,Others
-Uncertainty,,1,3,,1,5,,,10,Others
-Hive,,,4,,4,2,,,10,Computer Science
-Mathematical Modelling,1,,4,1,1,3,,,10,Others
-Cloud Database Management System,,,5,,4,1,,,10,Computer Science
-Google Workspace,,,5,,3,2,,,10,Information Technology (IT)
-Drupal,,,5,,2,3,,,10,Business
-Flowchart,1,,2,,3,4,,,10,Computer Science
-Load Balancing,,1,7,,1,1,,,10,Information Technology (IT)
-Developmental Psychology,,,5,,2,3,,,10,Others
-Data Acquisition,1,,6,,3,,,,10,Data Science
-Probability,,,6,1,2,1,,,10,Data Science
-Algebra,1,,1,2,3,3,,,10,Others
-Securities,,1,3,,4,2,,,10,Others
-Cryptography,,,5,,1,4,,,10,Information Technology (IT)
-Matplotlib,1,,1,2,3,3,,,10,Data Science
-Correlation,,2,1,2,2,3,,,10,Data Science
-Pharmacology,,1,4,,5,,,,10,Others
-Environmental Science,,1,4,,5,,,,10,Others
-Forensic Science,,1,4,,5,,,,10,Others
-Financial Management,,,6,,3,1,,,10,Business
-Dreamweaver,,1,6,,1,2,,,10,Others
-Model Based Reinforcement Learning,1,,1,2,3,3,,,10,Data Science
-Data Cleansing,,,4,,4,2,,,10,Data Science
-Clinical Psychology,,,5,,2,3,,,10,Others
-Web Application Security,,2,5,,2,1,,,10,Information Technology (IT)
-Perl,,,5,,,5,,,10,Computer Science
-Ruby,,1,7,,1,1,,,10,Computer Science
-Wireless Network,1,2,1,,1,5,,,10,Information Technology (IT)
-Market Analysis,,,6,,3,1,,,10,Business
-Financial Engineering,1,2,4,1,,1,,,9,Business
-Microbiology,,,4,,4,,1,,9,Others
-Subject Matter Expert (SME),1,,4,,2,2,,,9,Business
-Business Intelligence Tool,1,1,2,1,2,2,,,9,Data Science
-Financial Accounting,,,4,,3,2,,,9,Business
-Tax Law,,,5,,2,2,,,9,Others
-Operations Management,1,,4,,1,3,,,9,Business
-Outsourcing,1,,3,,3,2,,,9,Business
-Construction Law,,1,5,,,3,,,9,Others
-Network Management,1,1,1,,1,4,,,8,Information Technology (IT)
-Business Writing,,2,2,,2,2,,,8,Business
-Bug Tracking System,,3,2,,2,1,,,8,Data Science
-Wireless Security,1,1,1,,1,4,,,8,Information Technology (IT)
-Basic Access Authentication,1,1,1,,1,4,,,8,Information Technology (IT)
-Microsoft Access,,,6,,1,1,,,8,Business
-Financial Services,,,6,,2,,,,8,Business
-Tomcat,,,6,,1,1,,,8,Computer Science
-Data Security,,,2,,,5,,1,8,Information Technology (IT)
-Forth,,,5,,3,,,,8,Computer Science
-Educational Psychology,,,2,,1,3,2,,8,Others
-Cloud Platform,1,,6,,1,,,,8,Information Technology (IT)
-Product Roadmap,,3,2,,3,,,,8,Business
-Production Set,,3,2,,1,2,,,8,Others
-Magento,,,6,,,2,,,8,Business
-Pascal,,,6,,1,1,,,8,Computer Science
-Marine Engineering,1,1,1,,3,2,,,8,Others
-Routing Protocol,1,1,1,,1,4,,,8,Information Technology (IT)
-Mathematical Economics,1,2,3,1,,1,,,8,Others
-Requirements Gathering,1,1,1,,2,2,1,,8,Business
-International Finance,1,,3,,3,1,,,8,Business
-WooCommerce,,1,3,,2,2,,,8,Business
-Payment Processing,,1,5,,1,1,,,8,Computer Science
-Digital Media,,1,2,1,2,2,,,8,Others
-Public Policy,1,,3,,1,3,,,8,Others
-Encoding,1,,1,,2,4,,,8,Computer Science
-Marketing Design,,,4,,3,1,,,8,Business
-Strategic Management,2,1,,,2,3,,,8,Business
-Build Tool,,1,5,,1,1,,,8,Computer Science
-Infographics,,,3,,1,4,,,8,Others
-Programming Language Theory,2,,2,,,4,,,8,Computer Science
-Content Management System (CMS),,1,2,1,3,1,,,8,Business
-Pivot Table,1,,3,,1,3,,,8,Business
-Email Production,,,3,,4,1,,,8,Business
-Marketing Psychology,,1,6,,,,1,,8,Business
-Web Application Framework,,,1,,2,5,,,8,Computer Science
-Needs Analysis,,,3,,3,2,,,8,Business
-Gender and Sexuality Studies,1,,3,,1,3,,,8,Others
-Computer-aided Design,,,4,,2,2,,,8,Computer Science
-Scala,,,3,,4,1,,,8,Computer Science
-Software as a Service (SaaS),,,5,,2,1,,,8,Computer Science
-Financial Law,,1,1,,5,1,,,8,Others
-Storage System,1,,4,,2,1,,,8,Information Technology (IT)
-Loader,,1,1,1,4,1,,,8,Computer Science
-Legal Systems,1,,3,,1,3,,,8,Others
-Hbase,,,3,,4,1,,,8,Computer Science
-Clustering,,,3,,,5,,,8,Data Science
-German,,,3,,3,2,,,8,Others
-Audio Production,,,3,,3,2,,,8,Business
-Tree,,,4,,2,2,,,8,Computer Science
-Supply Chain Management,,1,2,,3,2,,,8,Business
-Wireframing,,,3,,1,4,,,8,Others
-Photo Editing,,2,4,,1,,,,7,Others
-Consumer Behaviour,,2,4,,1,,,,7,Business
-Business Intelligence Testing,1,1,2,1,2,,,,7,Data Science
-Culinary Art,,,3,,3,1,,,7,Others
-Email Management,,,3,,3,1,,,7,Business
-Corporate Law,,,4,,3,,,,7,Others
-Investor Relations,,,5,,2,,,,7,Business
-Microsoft .NET,,,3,,2,2,,,7,Computer Science
-Tracking System,1,1,3,1,1,,,,7,Data Science
-UI Design,,,3,,3,1,,,7,Computer Science
-Electronic Materials,,,4,,2,,,,6,Others
-COBOL,,,4,,1,1,,,6,Computer Science
-Enterprise Software,,,4,,1,1,,,6,Business
-Science and Technology Studies,,,4,,1,,,1,6,Others
-Interactive Media,,,4,,2,,,,6,Others
-Working Capital,,,4,,1,1,,,6,Business
-Joomla,,,3,,2,1,,,6,Business
-Sustainable Development,,,4,,2,,,,6,Others
-Facial Recognition,,,3,,2,1,,,6,Data Science
-Gamification,,,3,,2,1,,,6,Others
-Investment Banking,,,3,,1,2,,,6,Business
-Operations Research,,,3,,2,1,,,6,Others
-Social Work,,,2,,3,1,,,6,Others
-Stock Market,,,3,,1,2,,,6,Business
-Empathy,,,4,,1,1,,,6,Business
-Global Server Load Balancing,,,4,,2,,,,6,Information Technology (IT)
-Amazon Web Service (AWS),,,3,,1,2,,,6,Information Technology (IT)
-Radiology,,,4,,,2,,,6,Others
-e-business,,,2,,2,2,,,6,Business
-Vulnerability,,,4,,1,1,,,6,Information Technology (IT)
-Applied Mathematics,,,2,,2,2,,,6,Others
-Paid Socia Media Advertisement,,,4,,1,1,,,6,Business
-Key-value Database Management System,,,3,,2,1,,,6,Computer Science
-Storytelling,,,3,,,3,,,6,Business
-Social Networking Tool,,,4,,2,,,,6,Data Science
-Responsive Web Design,,,2,,2,2,,,6,Computer Science
-Encryption,,,4,,1,1,,,6,Information Technology (IT)
-Key Management,,,4,,1,1,,,6,Information Technology (IT)
-Vmware ESXi,,,2,,,3,,1,6,Information Technology (IT)
-Yii,,,3,,2,1,,,6,Computer Science
-Secure Coding,,,2,,,3,,1,6,Information Technology (IT)
-Relational Database Management System (RDSMS),,,3,,2,1,,,6,Computer Science
-SAS,,,2,,1,3,,,6,Data Science
-Cloud Application,,,2,,2,1,1,,6,Information Technology (IT)
-Patient Care,,,2,,2,2,,,6,Others
-Multi-model Database Management System,,,3,,2,1,,,6,Computer Science
-Facilities Engineering,,,4,1,1,,,,6,Others
-Social Selling,,1,2,,2,1,,,6,Business
-Search Engine Marketing,,,4,,2,,,,6,Business
-Graph Database,1,,1,,2,2,,,6,Computer Science
-IP Address,,1,2,,2,1,,,6,Information Technology (IT)
-Storage Management,,,2,,3,1,,,6,Information Technology (IT)
-Market Segmentation,,,2,,1,3,,,6,Business
-Storyboarding,,1,2,,,3,,,6,Others
-Statutory Law,,1,2,,2,1,,,6,Others
-Verification And Validation,,2,2,,2,,,,6,Information Technology (IT)
-Petty Cash Control,,2,3,,,1,,,6,Business
-Regression Testing,,,2,,2,2,,,6,Data Science
-Budget Planning,,2,1,,1,2,,,6,Business
-Property Management Software,,2,1,,2,1,,,6,Business
-Property Management System,,2,3,,1,,,,6,Business
-Goal Tracking System,,3,1,,2,,,,6,Data Science
-Fast Ethernet,1,1,2,,1,1,,,6,Information Technology (IT)
-Knowledge Management,,1,3,,2,,,,6,Business
-Business Analytics,1,,3,,2,,,,6,Business
-Revision Control,1,,5,,,,,,6,Computer Science
-Mobile Development,1,,4,,,1,,,6,Computer Science
-Agricultural Production,,,1,,2,3,,,6,Others
-Apache,,,1,,,5,,,6,Computer Science
-Email Client,1,,1,,2,2,,,6,Business
-Syntax,1,,4,,1,,,,6,Others
-Microsoft Azure,1,,4,,1,,,,6,Information Technology (IT)
-Urban Engineering,1,,4,,1,,,,6,Others
-Search Engine Optimization (SEO),1,,2,,3,,,,6,Business
-Search Engine and Keyword Optimization,1,,2,,3,,,,6,Business
-Oracle Databases,1,,3,,1,1,,,6,Computer Science
-Objection Handling,2,1,,,3,,,,6,Business
-Maven,,2,3,,1,,,,6,Computer Science
-Electronic Key Management System,,,2,2,1,1,,,6,Information Technology (IT)
-Gecko,,,2,,2,2,,,6,Information Technology (IT)
-Software Package,,,4,,2,,,,6,Computer Science
-Liquidation,,,5,,1,,,,6,Business
-Logic,,,4,,1,1,,,6,Others
-Talent Management,,,4,,2,,,,6,Business
-Professional Training,,,5,,1,,,,6,Business
-Unit Cost,2,1,,,1,2,,,6,Others
-Systems Engineering,,,4,,1,1,,,6,Others
-Testing Hypothesis,2,1,,,1,2,,,6,Data Science
-Opera,,1,1,,1,3,,,6,Information Technology (IT)
-Natural Language Processing Toolkit (NLTK),,1,2,,2,1,,,6,Data Science
-Natural Language Processing System,,1,2,,2,1,,,6,Data Science
-Innovation Management,,,4,,2,,,,6,Business
-Natural Language Processing (NLP),,1,2,,2,1,,,6,Data Science
-Project Chart,,,2,,2,2,,,6,Data Science
-Data Presentation,,,2,1,2,1,,,6,Data Science
-Game Development,,,2,,4,,,,6,Others
-Development Studies,,,2,,4,,,,6,Others
-Horticulture,,1,2,,1,2,,,6,Others
-Meteorology,,1,1,1,1,2,,,6,Others
-Contact Manager,,,2,1,2,,,,5,Business
-Financial Modeling,,,3,,2,,,,5,Data Science
-Psychometrics,,1,1,,2,1,,,5,Others
-Web Scraping,,,4,,1,,,,5,Data Science
-Digital Printing,,,2,,2,1,,,5,Others
-Greenhopper,,,2,,1,1,,,4,Business
-Cordova,,,2,,1,1,,,4,Computer Science
-Animal Husbandry,,,1,,1,2,,,4,Others
-Problem Management,,,2,,1,1,,,4,Business
-Microsoft Power BI,,,1,2,,1,,,4,Data Science
-Microsoft SQL Servers,,,2,,,2,,,4,Computer Science
-Visual Studio Code,,,2,,,2,,,4,Computer Science
-Wireless LAN,,,2,,1,1,,,4,Information Technology (IT)
-Corel Draw,,,2,,,2,,,4,Others
-Enterprise System,,,2,,1,1,,,4,Business
-Gantt Chart,,,1,,1,2,,,4,Data Science
-Economic Growth,,,1,,2,1,,,4,Others
-Persuasion,,,1,,1,2,,,4,Business
-Social Psychology,,,,,2,2,,,4,Others
-MATLAB,,,1,,1,2,,,4,Others
-Dash,,,2,,1,1,,,4,Data Science
-Oracle NoSQL Database,,,2,,1,1,,,4,Computer Science
-Red Hat,,,2,,1,1,,,4,Information Technology (IT)
-Polytron Version Control System (PVCS),,,2,,1,1,,,4,Computer Science
-Pediatrics,,,2,,2,,,,4,Others
-Quma Version Control System (QVCS),,,2,,1,1,,,4,Computer Science
-Signal Processing,,,2,,1,1,,,4,Data Science
-Ajax,,,2,,,2,,,4,Computer Science
-Pattern Recognition,,,2,,1,1,,,4,Data Science
-T-SQL,,,1,1,,2,,,4,Computer Science
-SPSS,,,1,,1,2,,,4,Data Science
-Human Machine Interface,,,1,1,,2,,,4,Computer Science
-Public Health,,,2,,2,,,,4,Others
-Financial Risk,,,,,,4,,,4,Business
-Supervised Machine Learning,,,2,,1,1,,,4,Data Science
-Sentiment Analysis,,,2,,1,1,,,4,Data Science
-Music Therapy,,,1,,2,1,,,4,Others
-Extract Transform Load (ETL),,,1,,2,1,,,4,Computer Science
-Text Analysis,,,1,1,2,,,,4,Data Science
-PrestaShop,,,2,,,2,,,4,Business
-Privacy,,1,,,3,,,,4,Information Technology (IT)
-Materials Science,,1,2,,1,,,,4,Others
-Semantic Analysis,,1,,1,1,1,,,4,Data Science
-Teradata,,,4,,,,,,4,Computer Science
-SQLite,,,4,,,,,,4,Computer Science
-Food Service Operations,,1,1,,1,1,,,4,Business
-Marketing Content Development,,1,1,,1,1,,,4,Business
-Imagine,,1,1,,1,1,,,4,Computer Science
-Systems Management,,1,1,,,2,,,4,Business
-Mean Shift,,1,1,,2,,,,4,Data Science
-Computer Systems Organization,,1,2,,1,,,,4,Computer Science
-French,,1,2,,,,1,,4,Others
-Microsoft PowerPoint,,,4,,,,,,4,Business
-Biomedical Engineering,,1,1,,2,,,,4,Others
-Polymer Engineering,,1,2,,1,,,,4,Others
-VersionOne,,,2,,1,1,,,4,Business
-Event Planning,,2,,,,2,,,4,Business
-STATA,,2,2,,,,,,4,Data Science
-Apache Kafka,1,,1,2,,,,,4,Computer Science
-International Financial Reporting Standards (IFRS),1,,1,,2,,,,4,Business
-Vacuum Engineering,1,,2,,1,,,,4,Others
-Graphical User Interface (GUI),1,,1,,,2,,,4,Computer Science
-Programming Tool,,,4,,,,,,4,Computer Science
-Web API,,,4,,,,,,4,Information Technology (IT)
-MongoDB,,,4,,,,,,4,Computer Science
-Torch,1,,3,,,,,,4,Data Science
-Slack,,,2,,1,1,,,4,Business
-Geography,1,,2,,,1,,,4,Others
-Performing Art,1,1,1,,,1,,,4,Others
-Decision Process,,,2,,1,1,,,4,Business
-Proof Theory,,,2,,1,1,,,4,Others
-Conceptual Art,,,2,,1,1,,,4,Others
-Financial Statement Analysis,,,2,,1,1,,,4,Business
-Jin Chinese,1,,,1,,2,,,4,Others
-Ubuntu,,,3,,,1,,,4,Computer Science
-MariaDB,,,3,,,1,,,4,Computer Science
-Mastercam,,,3,,1,,,,4,Computer Science
-OpenStack,,,3,,,1,,,4,Information Technology (IT)
-Apache Ant,,,4,,,,,,4,Computer Science
-User Interface Design,1,,1,,,2,,,4,Computer Science
-Digital Marketing System,1,,1,,1,,,,3,Information Technology (IT)
-Engineering Technology,,,1,1,1,,,,3,Others
-Ant,,,,,2,1,,,3,Computer Science
-Architectural Engineering,,,,,2,1,,,3,Others
-Currency,,,,,3,,,,3,Others
-Know Your Customer (KYC),,,,,3,,,,3,Business
-Business Intelligence (BI),1,,1,,1,,,,3,Data Science
-Instrumentaion Engineering,,,2,,,1,,,3,Others
-Agronomy,,2,,,,1,,,3,Others
-Jelastic,,,2,,,1,,,3,Information Technology (IT)
-Cookies,,,,,2,,,,2,Information Technology (IT)
-IBM Cognos Business Intelligence,,,,,,2,,,2,Data Science
-Russian,1,,1,,,,,,2,Others
-Records Management,,,1,,,1,,,2,Business
-Complex Analysis,,,1,,1,,,,2,Others
-Issue Tracking System,,,1,,,1,,,2,Data Science
-Antivirus Software,,,,,,2,,,2,Information Technology (IT)
-IBM DB2,,,,,,2,,,2,Computer Science
-Cassandra,,,1,,,1,,,2,Computer Science
-Network Service,,,1,,,1,,,2,Information Technology (IT)
-Rehabilitation,,,1,,,1,,,2,Others
-Principle of Legality,,,,,,2,,,2,Others
-Adobe Acrobat,,,,,,2,,,2,Others
-Socket,,,,,2,,,,2,Information Technology (IT)
-Process Control System,,,,1,,1,,,2,Information Technology (IT)
-Ensemble,,,,1,1,,,,2,Data Science
-Mathematical Logic,1,1,,,,,,,2,Others
-Regional Planning,,,1,,1,,,,2,Business
-Hydroponics,,,,,2,,,,2,Others
-Mixed Reality,,,,,2,,,,2,Computer Science
-Rapport Building,,,,,1,1,,,2,Business
-Media Production,,,,,2,,,,2,Business
-Rent,,,,,1,1,,,2,Others
-Reliability Engineering,,,2,,,,,,2,Others
-Mathematical Programming,,,1,,1,,,,2,Others
-Exploit,,,1,,1,,,,2,Information Technology (IT)
-Cognitive Psychology,,,1,,1,,,,2,Others
-Product Liability,,,2,,,,,,2,Business
-Derivative,,,2,,,,,,2,Others
-Capacity Utilization,,,2,,,,,,2,Others
-Pandas,,,2,,,,,,2,Computer Science
-Resource Management,,,2,,,,,,2,Business
-Database Development,,,2,,,,,,2,Computer Science
-Information Science,,2,,,,,,,2,Others
-Socket Programming,,,1,,,1,,,2,Information Technology (IT)
-Intellectual Property Law,,,1,,1,,,,2,Others
-Psychology,,,1,,1,,,,2,Others
-Industrial Design,,,1,,1,,,,2,Others
-Intellectual Property Rights,,,1,,1,,,,2,Business
-Intellectual Property (IP),,,1,,1,,,,2,Business
-Cost-benefit Analysis,,,1,,1,,,,2,Others
-Design Analysis,,,1,,,1,,,2,Others
-Gurobi,,,1,,1,,,,2,Computer Science
-Immunology,,,1,,1,,,,2,Others
-Toxicology,,,1,,1,,,,2,Others
-Marketing Consulting,1,,,,,1,,,2,Business
-ISO 9000,,,1,,1,,,,2,Computer Science
-Google OR-Tools,,,1,,1,,,,2,Computer Science
-Crisis Management,1,,,,,1,,,2,Business
-Public Relations (PR),1,,,,,1,,,2,Business
-Visual Communication,1,,,,1,,,,2,Others
-Programming Model,,,1,,,1,,,2,Computer Science
-Chemical Processing,,,1,,1,,,,2,Others
-CPLEX,,,1,,1,,,,2,Computer Science
-Typography,,,1,,,,,,1,Others
-Embedded System,,,1,,,,,,1,Computer Science
-Information Technology (IT),,,1,,,,,,1,Information Technology (IT)
-Microsoft Business Intelligence,,,,,,1,,,1,Data Science
-Oracle SQL Developer,,,,,,1,,,1,Computer Science
-Microsoft Visio,,,,,,1,,,1,Data Science
+Sales,87.0,162.0,1064.0,59.0,655.0,536.0,13.0,4.0,2580.0,Business
+Communication,78.0,153.0,816.0,49.0,562.0,479.0,5.0,9.0,2151.0,Business
+English,69.0,138.0,747.0,45.0,508.0,407.0,10.0,8.0,1932.0,Others
+Management,63.0,146.0,766.0,43.0,486.0,373.0,10.0,6.0,1893.0,Business
+Training,39.0,88.0,587.0,45.0,340.0,287.0,10.0,2.0,1398.0,Business
+Marketing,37.0,86.0,555.0,30.0,312.0,276.0,6.0,3.0,1305.0,Business
+Design,36.0,82.0,480.0,24.0,314.0,244.0,2.0,1.0,1183.0,Others
+Documentation,37.0,64.0,388.0,24.0,243.0,207.0,5.0,3.0,971.0,Business
+Engineering,42.0,78.0,386.0,22.0,223.0,184.0,5.0,2.0,942.0,Others
+Market,30.0,71.0,381.0,13.0,225.0,175.0,3.0,5.0,903.0,Business
+Reporting,32.0,60.0,319.0,31.0,208.0,212.0,1.0,1.0,864.0,Business
+Manufacturing,27.0,64.0,337.0,22.0,228.0,172.0,6.0,,856.0,Business
+Customer Service,24.0,46.0,312.0,21.0,201.0,150.0,4.0,2.0,760.0,Business
+Repair,35.0,55.0,284.0,16.0,174.0,153.0,4.0,,721.0,Others
+Construction,27.0,48.0,264.0,16.0,156.0,136.0,2.0,3.0,652.0,Business
+Security,15.0,45.0,258.0,24.0,164.0,142.0,2.0,2.0,652.0,Information Technology (IT)
+Analytical,22.0,36.0,248.0,17.0,157.0,148.0,1.0,3.0,632.0,Business
+Budget,26.0,33.0,230.0,11.0,162.0,155.0,1.0,3.0,621.0,Business
+Accounting,23.0,38.0,267.0,7.0,142.0,139.0,2.0,3.0,621.0,Business
+Testing,28.0,38.0,263.0,10.0,167.0,108.0,5.0,1.0,620.0,Computer Science
+Problem Solving,25.0,35.0,233.0,13.0,172.0,137.0,,,615.0,Business
+Email,22.0,42.0,242.0,10.0,168.0,123.0,4.0,1.0,612.0,Business
+Administration,19.0,44.0,240.0,16.0,152.0,115.0,5.0,1.0,592.0,Business
+Presentation,15.0,37.0,249.0,11.0,152.0,126.0,,1.0,591.0,Business
+Research,12.0,43.0,223.0,7.0,164.0,124.0,3.0,7.0,583.0,Business
+Finance,22.0,31.0,244.0,18.0,126.0,137.0,,2.0,580.0,Business
+Processing,15.0,40.0,238.0,13.0,150.0,113.0,2.0,,571.0,Business
+Audit,23.0,30.0,224.0,14.0,142.0,134.0,2.0,,569.0,Business
+Social Media,20.0,34.0,236.0,9.0,118.0,115.0,2.0,5.0,539.0,Others
+Sentry,19.0,41.0,191.0,12.0,127.0,114.0,3.0,,507.0,Information Technology (IT)
+Database,17.0,25.0,205.0,14.0,111.0,88.0,1.0,3.0,464.0,Computer Science
+Platform,15.0,34.0,189.0,12.0,102.0,106.0,3.0,,461.0,Computer Science
+Video,17.0,33.0,178.0,21.0,104.0,104.0,1.0,1.0,459.0,Others
+Writing,28.0,39.0,184.0,8.0,100.0,92.0,2.0,3.0,456.0,Business
+Electronics,9.0,27.0,172.0,10.0,114.0,98.0,,1.0,431.0,Others
+Machinery,13.0,40.0,176.0,12.0,93.0,90.0,1.0,2.0,427.0,Others
+Leadership,15.0,30.0,182.0,7.0,114.0,76.0,1.0,1.0,426.0,Business
+Network,12.0,25.0,164.0,6.0,99.0,75.0,1.0,2.0,384.0,Information Technology (IT)
+Excel,16.0,28.0,166.0,5.0,90.0,73.0,1.0,1.0,380.0,Business
+Microsoft Office,17.0,22.0,124.0,3.0,87.0,75.0,1.0,1.0,330.0,Business
+Logistics,6.0,26.0,126.0,8.0,80.0,72.0,,,318.0,Business
+Banking,15.0,28.0,132.0,6.0,76.0,61.0,,,318.0,Business
+Negotiation,12.0,14.0,104.0,4.0,82.0,86.0,2.0,,304.0,Business
+Accuracy,7.0,17.0,112.0,7.0,101.0,56.0,2.0,,302.0,Business
+Advertising,11.0,17.0,130.0,4.0,62.0,59.0,1.0,2.0,286.0,Business
+Graphic Design,12.0,10.0,115.0,14.0,61.0,71.0,,1.0,284.0,Others
+Property,10.0,20.0,99.0,13.0,69.0,70.0,,,281.0,Business
+Law,12.0,16.0,93.0,12.0,78.0,67.0,1.0,,279.0,Others
+Business Development,9.0,15.0,112.0,6.0,75.0,60.0,1.0,1.0,279.0,Business
+Metals,11.0,17.0,108.0,3.0,77.0,57.0,1.0,1.0,275.0,Others
+Image,12.0,16.0,110.0,13.0,78.0,46.0,,,275.0,Others
+Production Process,13.0,10.0,132.0,7.0,60.0,50.0,,,272.0,Business
+Human Resources (HR),10.0,17.0,107.0,7.0,71.0,48.0,2.0,,262.0,Business
+Collaboration,12.0,12.0,123.0,7.0,61.0,37.0,1.0,1.0,254.0,Business
+Malay,10.0,19.0,85.0,9.0,61.0,61.0,3.0,2.0,250.0,Others
+Insurance,8.0,11.0,96.0,4.0,62.0,63.0,4.0,1.0,249.0,Business
+Retail,12.0,14.0,97.0,5.0,68.0,53.0,,,249.0,Business
+Ad Design,4.0,19.0,104.0,9.0,61.0,43.0,3.0,,243.0,Others
+Media,8.0,12.0,91.0,11.0,69.0,49.0,3.0,,243.0,Others
+Automation,9.0,20.0,110.0,7.0,51.0,40.0,2.0,2.0,241.0,Information Technology (IT)
+Accountancy,9.0,17.0,101.0,10.0,58.0,39.0,,,234.0,Business
+Quality Control,8.0,21.0,99.0,3.0,64.0,38.0,,,233.0,Business
+Scheduling,8.0,13.0,102.0,4.0,59.0,40.0,3.0,,229.0,Business
+Brand Management,10.0,16.0,81.0,3.0,59.0,55.0,,,224.0,Business
+AutoCAD,7.0,17.0,95.0,4.0,53.0,47.0,1.0,,224.0,Others
+Operating System,12.0,16.0,91.0,7.0,58.0,39.0,1.0,,224.0,Computer Science
+Hardware,6.0,14.0,94.0,6.0,40.0,59.0,2.0,,221.0,Computer Science
+Project Management,5.0,18.0,84.0,8.0,50.0,47.0,,2.0,214.0,Business
+Quality Assurance (QA),8.0,13.0,95.0,6.0,45.0,46.0,,1.0,214.0,Business
+Translation,8.0,13.0,82.0,7.0,54.0,48.0,,,212.0,Others
+Compiler,7.0,13.0,84.0,5.0,58.0,43.0,,1.0,211.0,Computer Science
+Agile,6.0,14.0,99.0,4.0,44.0,34.0,1.0,1.0,203.0,Computer Science
+Time Management,6.0,19.0,86.0,3.0,54.0,34.0,,1.0,203.0,Business
+Transportation,8.0,17.0,83.0,2.0,53.0,37.0,1.0,,201.0,Business
+Sorting,5.0,14.0,72.0,3.0,59.0,45.0,1.0,1.0,200.0,Computer Science
+Assembly,9.0,16.0,72.0,7.0,50.0,44.0,1.0,1.0,200.0,Computer Science
+Innovation,10.0,14.0,85.0,2.0,38.0,50.0,1.0,,200.0,Business
+Chemical,7.0,10.0,74.0,1.0,57.0,45.0,1.0,1.0,196.0,Others
+Configuration,4.0,9.0,86.0,2.0,49.0,42.0,1.0,,193.0,Computer Science
+Coding,6.0,12.0,75.0,2.0,56.0,40.0,,,191.0,Computer Science
+Selection,3.0,20.0,69.0,5.0,55.0,37.0,1.0,,190.0,Computer Science
+IT Operations,10.0,13.0,90.0,4.0,44.0,27.0,,1.0,189.0,Information Technology (IT)
+C,11.0,9.0,75.0,4.0,48.0,40.0,1.0,,188.0,Computer Science
+Closing,10.0,7.0,83.0,7.0,41.0,37.0,,1.0,186.0,Business
+eCommerce,5.0,15.0,72.0,6.0,43.0,43.0,,1.0,185.0,Business
+Digital Marketing,10.0,10.0,74.0,5.0,41.0,45.0,,,185.0,Business
+Architecture,9.0,8.0,91.0,3.0,40.0,30.0,2.0,1.0,184.0,Others
+Coaching,6.0,14.0,66.0,6.0,48.0,39.0,2.0,1.0,182.0,Others
+Internet,8.0,9.0,91.0,1.0,48.0,20.0,,3.0,180.0,Information Technology (IT)
+Technical Support,1.0,18.0,66.0,3.0,47.0,38.0,2.0,1.0,176.0,Information Technology (IT)
+Mechanical Engineering,8.0,15.0,73.0,2.0,39.0,37.0,,,174.0,Others
+Procurement,4.0,14.0,61.0,5.0,51.0,37.0,,1.0,173.0,Business
+Programming,6.0,14.0,70.0,9.0,39.0,30.0,,1.0,169.0,Business
+Financial Statement,10.0,4.0,66.0,5.0,41.0,39.0,2.0,,167.0,Business
+Cooking,6.0,8.0,57.0,1.0,61.0,32.0,1.0,1.0,167.0,Others
+Creatio,7.0,12.0,66.0,3.0,38.0,41.0,,,167.0,Information Technology (IT)
+Chef,8.0,13.0,71.0,6.0,33.0,35.0,,,166.0,Information Technology (IT)
+JavaScript,4.0,7.0,65.0,5.0,44.0,38.0,1.0,1.0,165.0,Computer Science
+Marketing Research,8.0,8.0,70.0,2.0,43.0,32.0,,,163.0,Business
+Microsoft,5.0,16.0,71.0,2.0,28.0,40.0,1.0,,163.0,Business
+Teamwork,5.0,14.0,64.0,4.0,37.0,39.0,,,163.0,Business
+Facebook,1.0,7.0,79.0,3.0,36.0,31.0,3.0,1.0,161.0,Others
+Windows,8.0,12.0,67.0,3.0,34.0,35.0,,1.0,160.0,Computer Science
+Nonverbal Communication,6.0,8.0,74.0,4.0,39.0,25.0,1.0,,157.0,Business
+Electronic Engineering,2.0,10.0,60.0,2.0,36.0,45.0,1.0,1.0,157.0,Others
+Product Development,1.0,8.0,67.0,2.0,38.0,41.0,,,157.0,Business
+Healthcare,6.0,11.0,67.0,2.0,43.0,26.0,1.0,1.0,157.0,Others
+Electrical Engineering,2.0,13.0,64.0,1.0,31.0,43.0,1.0,1.0,156.0,Others
+Java,4.0,9.0,74.0,5.0,32.0,26.0,2.0,1.0,153.0,Computer Science
+Investment,5.0,4.0,77.0,3.0,35.0,27.0,,,151.0,Business
+Welding,11.0,13.0,63.0,3.0,35.0,24.0,2.0,,151.0,Others
+Python,2.0,9.0,57.0,4.0,41.0,36.0,,,149.0,Computer Science
+Market Research,8.0,7.0,63.0,2.0,39.0,30.0,,,149.0,Business
+Fabrication,6.0,13.0,57.0,2.0,43.0,25.0,2.0,,148.0,Business
+Decision Making,5.0,9.0,56.0,1.0,44.0,30.0,1.0,1.0,147.0,Business
+Creativity,2.0,12.0,63.0,2.0,34.0,30.0,,2.0,145.0,Others
+Editing,7.0,10.0,49.0,4.0,42.0,25.0,,1.0,138.0,Business
+SAP,3.0,5.0,59.0,6.0,37.0,26.0,2.0,,138.0,Computer Science
+Forecasting,5.0,5.0,51.0,2.0,45.0,28.0,1.0,,137.0,Business
+Risk Management,3.0,10.0,58.0,5.0,28.0,33.0,,,137.0,Business
+Consulting,2.0,7.0,61.0,5.0,37.0,18.0,1.0,1.0,132.0,Business
+Accounts Payable,5.0,5.0,54.0,3.0,29.0,36.0,,,132.0,Business
+Statistics,5.0,5.0,47.0,5.0,32.0,36.0,,,130.0,Data Science
+Software Engineering,3.0,8.0,52.0,6.0,30.0,31.0,,,130.0,Computer Science
+Interpreter,6.0,6.0,62.0,1.0,32.0,21.0,,,128.0,Computer Science
+Business Plan,6.0,6.0,49.0,1.0,34.0,31.0,1.0,,128.0,Business
+Business Process,3.0,7.0,60.0,6.0,26.0,23.0,,,125.0,Business
+Trade,4.0,4.0,56.0,3.0,28.0,29.0,1.0,,125.0,Business
+Plastics,1.0,8.0,53.0,4.0,38.0,18.0,2.0,,124.0,Others
+Instagram,1.0,6.0,65.0,3.0,29.0,20.0,,,124.0,Others
+Box,,4.0,64.0,4.0,23.0,27.0,,,122.0,Information Technology (IT)
+Account Receivable,3.0,9.0,53.0,3.0,28.0,26.0,,,122.0,Business
+Networking,2.0,9.0,54.0,,31.0,23.0,2.0,,121.0,Business
+Router,7.0,7.0,44.0,3.0,30.0,29.0,,,120.0,Information Technology (IT)
+RStudio,4.0,6.0,52.0,4.0,28.0,25.0,,,119.0,Computer Science
+Photography,6.0,5.0,53.0,1.0,24.0,25.0,3.0,1.0,118.0,Business
+Software Development,3.0,2.0,50.0,,31.0,30.0,1.0,,117.0,Computer Science
+Business Administration,4.0,9.0,41.0,2.0,29.0,30.0,,,115.0,Business
+Profiler,2.0,5.0,48.0,6.0,32.0,21.0,,,114.0,Computer Science
+MySQL,1.0,4.0,45.0,3.0,31.0,29.0,,,113.0,Computer Science
+User Experience (UX),6.0,4.0,47.0,2.0,23.0,30.0,,,112.0,Others
+Hospitality,9.0,7.0,51.0,4.0,22.0,15.0,1.0,,109.0,Business
+Balance Sheet,6.0,8.0,40.0,3.0,25.0,25.0,,,107.0,Business
+PowerPoint,8.0,9.0,38.0,1.0,28.0,22.0,,1.0,107.0,Business
+Microsoft Excel,4.0,5.0,40.0,6.0,30.0,22.0,,,107.0,Business
+Quality Management,4.0,7.0,41.0,2.0,31.0,18.0,,,103.0,Business
+Effective Communication,5.0,9.0,44.0,2.0,28.0,13.0,,,101.0,Business
+Oracle,2.0,6.0,50.0,3.0,15.0,24.0,,,100.0,Computer Science
+Publishing,3.0,6.0,32.0,7.0,29.0,23.0,,,100.0,Business
+Information System,5.0,5.0,37.0,1.0,30.0,22.0,,,100.0,Information Technology (IT)
+Dashboard,6.0,9.0,38.0,1.0,21.0,20.0,1.0,,96.0,Data Science
+Saving,5.0,6.0,39.0,,26.0,18.0,1.0,,95.0,Others
+Methodology,5.0,7.0,35.0,6.0,22.0,19.0,1.0,,95.0,Business
+Objective-C,4.0,2.0,38.0,1.0,28.0,19.0,2.0,,94.0,Computer Science
+Programming Language,3.0,2.0,30.0,1.0,28.0,30.0,,,94.0,Computer Science
+R,5.0,4.0,39.0,3.0,26.0,16.0,1.0,,94.0,Computer Science
+Adobe Photoshop,,5.0,41.0,5.0,17.0,26.0,,,94.0,Others
+Protocol,4.0,5.0,37.0,2.0,30.0,14.0,,,92.0,Information Technology (IT)
+Machine Learning,1.0,5.0,30.0,3.0,26.0,25.0,1.0,1.0,92.0,Data Science
+Front End,1.0,,42.0,3.0,27.0,18.0,1.0,,92.0,Computer Science
+Linux,1.0,5.0,40.0,3.0,19.0,23.0,,,91.0,Computer Science
+Git,2.0,4.0,29.0,1.0,24.0,31.0,,,91.0,Computer Science
+Accounting Software,1.0,5.0,39.0,4.0,21.0,20.0,1.0,,91.0,Business
+Office Administration,1.0,8.0,36.0,2.0,25.0,17.0,1.0,,90.0,Business
+Medium,1.0,6.0,44.0,2.0,20.0,16.0,,,89.0,Business
+Critical Thinking,1.0,6.0,39.0,3.0,22.0,17.0,1.0,,89.0,Business
+Perceptron,6.0,9.0,39.0,2.0,15.0,17.0,,,88.0,Data Science
+Software Tool,2.0,6.0,33.0,3.0,20.0,22.0,,1.0,87.0,Computer Science
+PHP,2.0,5.0,30.0,2.0,28.0,19.0,,,86.0,Computer Science
+Business Operations,3.0,8.0,32.0,1.0,27.0,13.0,1.0,,85.0,Business
+Searching,4.0,7.0,30.0,,25.0,17.0,,,83.0,Computer Science
+Organizational Skill,2.0,1.0,36.0,1.0,18.0,23.0,,1.0,82.0,Business
+C#,2.0,8.0,35.0,2.0,17.0,18.0,,,82.0,Computer Science
+Telecommunication,2.0,5.0,38.0,,19.0,17.0,,,81.0,Information Technology (IT)
+Management Accounting,4.0,5.0,32.0,5.0,26.0,8.0,,,80.0,Business
+Biology,,3.0,34.0,4.0,24.0,15.0,,,80.0,Others
+Business Analysis,5.0,3.0,39.0,3.0,18.0,12.0,,,80.0,Business
+Data Analysis,1.0,5.0,34.0,2.0,18.0,18.0,1.0,,79.0,Data Science
+Mathematics,2.0,4.0,34.0,3.0,15.0,20.0,,,78.0,Others
+Economics,,4.0,32.0,1.0,18.0,23.0,,,78.0,Others
+Telemarketing,3.0,5.0,29.0,1.0,20.0,19.0,,,77.0,Business
+Azure,3.0,9.0,31.0,2.0,14.0,18.0,,,77.0,Information Technology (IT)
+Sports,7.0,3.0,24.0,2.0,21.0,20.0,,,77.0,Others
+Civil Engineering,1.0,5.0,43.0,1.0,11.0,16.0,,,77.0,Others
+Mechatronics,2.0,7.0,37.0,1.0,12.0,16.0,1.0,,76.0,Others
+Chart,,6.0,26.0,1.0,19.0,22.0,1.0,1.0,76.0,Business
+Recruiting,1.0,6.0,29.0,1.0,27.0,10.0,1.0,,75.0,Business
+Customer Experience,3.0,3.0,25.0,,21.0,23.0,,,75.0,Business
+Kubernetes,2.0,4.0,33.0,2.0,16.0,16.0,1.0,1.0,75.0,Information Technology (IT)
+LeSS,2.0,3.0,22.0,1.0,28.0,17.0,1.0,,74.0,Computer Science
+Web Application,1.0,3.0,28.0,3.0,24.0,15.0,,,74.0,Computer Science
+History,4.0,6.0,30.0,,22.0,10.0,,,72.0,Others
+Machining,4.0,6.0,23.0,1.0,24.0,14.0,,,72.0,Others
+Scrum,3.0,5.0,34.0,2.0,14.0,13.0,,,71.0,Computer Science
+Twitter,1.0,8.0,34.0,,17.0,9.0,1.0,1.0,71.0,Others
+Business Management,3.0,5.0,20.0,3.0,22.0,18.0,,,71.0,Business
+Systems Theory,2.0,6.0,25.0,1.0,15.0,22.0,,,71.0,Others
+Research and Development (R&D),,1.0,32.0,2.0,20.0,14.0,1.0,,70.0,Business
+Online Media,2.0,3.0,23.0,6.0,22.0,14.0,,,70.0,Business
+Root Cause Analysis,2.0,5.0,32.0,,15.0,16.0,,,70.0,Business
+Automotive,3.0,5.0,32.0,2.0,14.0,14.0,,,70.0,Others
+Calendar,6.0,4.0,25.0,2.0,11.0,21.0,,,69.0,Business
+Editor,3.0,5.0,20.0,,23.0,17.0,1.0,,69.0,Computer Science
+Scheme,3.0,6.0,24.0,,21.0,14.0,,,68.0,Computer Science
+Division,2.0,7.0,31.0,,16.0,10.0,1.0,1.0,68.0,Others
+Japanese,2.0,9.0,28.0,1.0,17.0,10.0,,,67.0,Others
+DevOps,4.0,2.0,31.0,2.0,11.0,15.0,1.0,,66.0,Computer Science
+Gradle,2.0,5.0,33.0,3.0,12.0,9.0,1.0,,65.0,Computer Science
+Android,4.0,4.0,25.0,1.0,19.0,10.0,1.0,,64.0,Computer Science
+Development Tools,,1.0,26.0,2.0,21.0,12.0,1.0,,63.0,Computer Science
+Public Speaking,4.0,,27.0,1.0,17.0,14.0,,,63.0,Business
+Adobe Illustrator,2.0,5.0,30.0,2.0,9.0,15.0,,,63.0,Others
+Product Knowledge,2.0,3.0,27.0,,13.0,17.0,,,62.0,Business
+Youtube,1.0,9.0,29.0,1.0,13.0,8.0,1.0,,62.0,Others
+Peripheral,2.0,3.0,27.0,,17.0,12.0,,,61.0,Computer Science
+Docker,2.0,3.0,27.0,2.0,13.0,13.0,1.0,,61.0,Computer Science
+Scripting,6.0,2.0,22.0,2.0,10.0,18.0,,,60.0,Information Technology (IT)
+Change Management,2.0,1.0,32.0,,17.0,8.0,,,60.0,Business
+Animation,2.0,5.0,23.0,2.0,12.0,15.0,,,59.0,Others
+Public Relations (PR),1.0,5.0,19.0,2.0,19.0,12.0,,1.0,59.0,Business
+Online Marketing,1.0,8.0,18.0,1.0,20.0,11.0,,,59.0,Business
+Algorithm,2.0,1.0,19.0,1.0,16.0,19.0,,,58.0,Computer Science
+Blogging,4.0,6.0,28.0,3.0,12.0,5.0,,,58.0,Business
+Social Media Platform,3.0,3.0,25.0,,19.0,8.0,,,58.0,Others
+Shell,1.0,4.0,26.0,2.0,9.0,15.0,,,57.0,Computer Science
+Bookkeeping,1.0,1.0,26.0,2.0,18.0,7.0,1.0,1.0,57.0,Business
+Rally,1.0,1.0,34.0,1.0,15.0,4.0,,1.0,57.0,Business
+Jira,,2.0,27.0,,9.0,18.0,,1.0,57.0,Computer Science
+Sampling,2.0,1.0,32.0,,13.0,9.0,,,57.0,Data Science
+Project Planning,2.0,5.0,17.0,,19.0,13.0,,,56.0,Business
+Goods and Services,1.0,,23.0,2.0,11.0,18.0,,,55.0,Others
+Chemical Engineering,2.0,6.0,22.0,1.0,13.0,11.0,,,55.0,Others
+NoSQL,1.0,,19.0,3.0,10.0,21.0,,,54.0,Computer Science
+Branding,3.0,4.0,27.0,2.0,9.0,9.0,,,54.0,Business
+Modelling,4.0,3.0,21.0,2.0,12.0,11.0,,,53.0,Computer Science
+Process Engineering,2.0,4.0,25.0,2.0,13.0,6.0,1.0,,53.0,Others
+React,3.0,,21.0,3.0,16.0,9.0,,,52.0,Computer Science
+Sketch,2.0,3.0,22.0,1.0,10.0,14.0,,,52.0,Others
+Angular,,,21.0,3.0,15.0,12.0,1.0,,52.0,Computer Science
+Clear Communication,2.0,4.0,22.0,1.0,10.0,13.0,,,52.0,Business
+Depression,2.0,4.0,16.0,1.0,16.0,13.0,,,52.0,Others
+Spark,3.0,2.0,19.0,3.0,15.0,9.0,1.0,,52.0,Computer Science
+Software System,5.0,2.0,19.0,1.0,12.0,13.0,,,52.0,Computer Science
+Copywriting,4.0,3.0,15.0,,10.0,19.0,,,51.0,Business
+Accounting Standards,1.0,2.0,23.0,1.0,16.0,8.0,,,51.0,Business
+Target Audience,1.0,5.0,22.0,3.0,9.0,10.0,1.0,,51.0,Business
+GitLab,,5.0,22.0,,15.0,9.0,,,51.0,Computer Science
+Computer Hardware,,1.0,21.0,1.0,15.0,13.0,,,51.0,Computer Science
+Ethics,2.0,6.0,21.0,,15.0,6.0,,,50.0,Others
+Competition,1.0,2.0,23.0,,13.0,11.0,,,50.0,Others
+Business Strategy,2.0,2.0,11.0,3.0,15.0,17.0,,,50.0,Business
+Outlook,1.0,3.0,19.0,1.0,13.0,13.0,,,50.0,Business
+Web Design,1.0,3.0,20.0,2.0,11.0,13.0,,,50.0,Computer Science
+Prototyping,1.0,1.0,19.0,1.0,16.0,10.0,1.0,,49.0,Others
+Aquaculture,1.0,3.0,19.0,2.0,12.0,12.0,,,49.0,Others
+ISO 9001,6.0,2.0,18.0,,13.0,10.0,,,49.0,Computer Science
+Sequence,3.0,2.0,17.0,2.0,14.0,11.0,,,49.0,Computer Science
+Food Science,,4.0,20.0,2.0,16.0,6.0,,,48.0,Others
+Content Marketing,1.0,5.0,26.0,,10.0,5.0,1.0,,48.0,Business
+Github,2.0,3.0,16.0,1.0,16.0,10.0,,,48.0,Computer Science
+Pragmatics,2.0,2.0,18.0,2.0,10.0,14.0,,,48.0,Others
+Swift,1.0,2.0,19.0,2.0,17.0,5.0,1.0,,47.0,Computer Science
+Performance Management,1.0,6.0,19.0,,11.0,10.0,,,47.0,Business
+Bagging,,2.0,24.0,,12.0,8.0,,,46.0,Data Science
+Real Estate,1.0,3.0,18.0,2.0,14.0,7.0,1.0,,46.0,Business
+Links,1.0,5.0,15.0,,14.0,10.0,1.0,,46.0,Information Technology (IT)
+Audio,2.0,2.0,19.0,3.0,16.0,4.0,,,46.0,Others
+Product Management,1.0,1.0,23.0,,8.0,13.0,,,46.0,Business
+Sustainability,2.0,7.0,13.0,,17.0,6.0,1.0,,46.0,Others
+Business Model,4.0,1.0,13.0,2.0,16.0,10.0,,,46.0,Business
+Mapping,1.0,2.0,14.0,1.0,17.0,10.0,,,45.0,Computer Science
+Mining,1.0,4.0,12.0,1.0,18.0,4.0,,5.0,45.0,Others
+Cold Calling,,,21.0,2.0,11.0,10.0,1.0,,45.0,Business
+LinkedIn,,5.0,22.0,,8.0,8.0,1.0,,44.0,Others
+Human Resource Management,3.0,2.0,21.0,,13.0,5.0,,,44.0,Business
+Conveyancing,,3.0,18.0,1.0,13.0,9.0,,,44.0,Others
+Support Engineering,2.0,,23.0,2.0,11.0,5.0,1.0,,44.0,Others
+Asset Management,1.0,3.0,20.0,3.0,12.0,5.0,,,44.0,Business
+Product Marketing,4.0,4.0,20.0,1.0,6.0,7.0,2.0,,44.0,Business
+Adminitrative Assistance,1.0,2.0,18.0,1.0,7.0,14.0,,,43.0,Business
+Vietnamese,3.0,,22.0,1.0,8.0,9.0,,,43.0,Others
+LaTeX,1.0,1.0,11.0,1.0,16.0,13.0,,,43.0,Computer Science
+Agriculture,1.0,4.0,15.0,,13.0,7.0,2.0,,42.0,Others
+iOS,2.0,2.0,17.0,1.0,11.0,8.0,1.0,,42.0,Computer Science
+Keras,1.0,2.0,13.0,2.0,14.0,10.0,,,42.0,Data Science
+Big Data,2.0,2.0,13.0,2.0,12.0,10.0,1.0,,42.0,Data Science
+Utility,5.0,3.0,20.0,,7.0,7.0,,,42.0,Others
+Interior Design,1.0,3.0,14.0,,12.0,11.0,,,41.0,Others
+Journalism,3.0,5.0,11.0,1.0,7.0,13.0,,1.0,41.0,Others
+Reasoning,,3.0,19.0,2.0,10.0,7.0,,,41.0,Business
+Manufacturing Engineering,1.0,1.0,18.0,,10.0,11.0,,,41.0,Others
+Property Maintenance,2.0,2.0,13.0,1.0,8.0,14.0,,,40.0,Business
+Technical Documentation,2.0,4.0,19.0,1.0,6.0,7.0,1.0,,40.0,Computer Science
+A/B Testing,,1.0,13.0,,9.0,17.0,,,40.0,Computer Science
+Complexity,2.0,,20.0,,11.0,6.0,,1.0,40.0,Computer Science
+Transformer,1.0,2.0,18.0,,12.0,7.0,,,40.0,Data Science
+Data Analytics,2.0,3.0,20.0,1.0,7.0,7.0,,,40.0,Data Science
+Life Science,1.0,1.0,16.0,1.0,13.0,7.0,,,39.0,Others
+Hadoop,1.0,1.0,12.0,2.0,14.0,8.0,1.0,,39.0,Computer Science
+Facebook Ads,2.0,4.0,14.0,,11.0,7.0,1.0,,39.0,Business
+Risk Analysis,2.0,,15.0,,8.0,12.0,1.0,,38.0,Business
+Blockchain,,,15.0,1.0,10.0,11.0,1.0,,38.0,Information Technology (IT)
+Email Marketing,2.0,,15.0,,13.0,8.0,,,38.0,Business
+jQuery,1.0,1.0,12.0,2.0,9.0,13.0,,,38.0,Computer Science
+Template,,1.0,22.0,,9.0,6.0,,,38.0,Business
+Industrial Relations,,2.0,11.0,1.0,12.0,11.0,,,37.0,Others
+Nutrition,1.0,1.0,16.0,1.0,11.0,6.0,1.0,,37.0,Others
+Music,,3.0,16.0,2.0,11.0,5.0,,,37.0,Others
+Nursing,,1.0,14.0,,15.0,7.0,,,37.0,Others
+Korean,,1.0,17.0,1.0,8.0,9.0,,,36.0,Others
+Mechanics,3.0,1.0,13.0,4.0,8.0,7.0,,,36.0,Others
+PostgreSQL,1.0,3.0,11.0,1.0,13.0,7.0,,,36.0,Computer Science
+Debugging,,,15.0,2.0,10.0,8.0,,1.0,36.0,Computer Science
+Distributed Computing,,1.0,13.0,,8.0,13.0,1.0,,36.0,Computer Science
+Microsoft Word,2.0,,15.0,1.0,12.0,6.0,,,36.0,Business
+ML,1.0,,10.0,2.0,8.0,15.0,,,36.0,Computer Science
+Virtualization,1.0,5.0,14.0,,8.0,8.0,,,36.0,Computer Science
+Airlines,2.0,7.0,13.0,1.0,9.0,4.0,,,36.0,Business
+Relational Database,1.0,1.0,8.0,1.0,11.0,14.0,,,36.0,Computer Science
+Software Design,1.0,4.0,17.0,,6.0,7.0,1.0,,36.0,Computer Science
+PL,2.0,6.0,13.0,,6.0,8.0,,,35.0,Computer Science
+Network Security,1.0,2.0,15.0,1.0,4.0,11.0,,1.0,35.0,Information Technology (IT)
+Growth Strategy,1.0,3.0,7.0,,17.0,7.0,,,35.0,Business
+Beaker,2.0,,19.0,1.0,6.0,7.0,,,35.0,Information Technology (IT)
+Subject Matter Expert (SME),1.0,1.0,16.0,2.0,5.0,10.0,,,35.0,Business
+Property Management,,3.0,16.0,2.0,4.0,9.0,,,34.0,Business
+Solaris,2.0,,21.0,1.0,6.0,4.0,,,34.0,Computer Science
+Chemistry,1.0,3.0,14.0,3.0,7.0,5.0,,1.0,34.0,Others
+Artificial Intelligence (AI),,1.0,13.0,1.0,13.0,5.0,1.0,,34.0,Data Science
+Induction,,4.0,13.0,1.0,11.0,5.0,,,34.0,Others
+News,,,11.0,4.0,7.0,11.0,1.0,,34.0,Others
+CMM,1.0,2.0,16.0,3.0,6.0,6.0,,,34.0,Computer Science
+Semiconductors,2.0,4.0,11.0,1.0,7.0,9.0,,,34.0,Others
+Business Acumen,,1.0,18.0,,8.0,6.0,,,33.0,Business
+Aesthetics,3.0,1.0,12.0,1.0,8.0,8.0,,,33.0,Others
+C++,1.0,2.0,12.0,1.0,6.0,11.0,,,33.0,Computer Science
+Adaptability,1.0,2.0,13.0,2.0,12.0,3.0,,,33.0,Business
+Google Cloud Platform (GCP),,1.0,10.0,,8.0,13.0,,,32.0,Information Technology (IT)
+UX Design,2.0,2.0,15.0,,4.0,9.0,,,32.0,Others
+Instrumentation,1.0,1.0,9.0,2.0,9.0,10.0,,,32.0,Others
+Literature,,2.0,11.0,1.0,10.0,7.0,,1.0,32.0,Others
+Client Relations,,2.0,14.0,2.0,9.0,5.0,,,32.0,Business
+Quality Engineering,,,12.0,1.0,10.0,9.0,,,32.0,Others
+CVS,1.0,5.0,11.0,1.0,10.0,2.0,1.0,,31.0,Computer Science
+Sales Presentation,,1.0,14.0,2.0,8.0,5.0,1.0,,31.0,Business
+Management Consulting,2.0,2.0,10.0,4.0,5.0,8.0,,,31.0,Business
+Medicine,2.0,4.0,14.0,,9.0,2.0,,,31.0,Others
+Jenkins,,3.0,19.0,,2.0,6.0,,1.0,31.0,Computer Science
+Wireframes,1.0,,6.0,,11.0,12.0,,,30.0,Business
+Continuous Integration (CI),2.0,2.0,17.0,,4.0,5.0,,,30.0,Computer Science
+PHP Development,,2.0,14.0,1.0,10.0,3.0,,,30.0,Computer Science
+Web Server,,2.0,14.0,2.0,2.0,10.0,,,30.0,Information Technology (IT)
+Industrial Engineering,,2.0,17.0,1.0,6.0,4.0,,,30.0,Others
+Entrepreneurship,2.0,1.0,13.0,,11.0,3.0,,,30.0,Business
+Motion Pictures,1.0,2.0,12.0,,5.0,9.0,,,29.0,Others
+Predictive Modelling,1.0,1.0,7.0,,7.0,13.0,,,29.0,Data Science
+Variable,3.0,1.0,9.0,1.0,7.0,8.0,,,29.0,Computer Science
+Shortage,1.0,1.0,5.0,1.0,13.0,8.0,,,29.0,Others
+Biotechnology,,2.0,11.0,2.0,11.0,1.0,1.0,,28.0,Others
+Theatre,1.0,2.0,12.0,,5.0,8.0,,,28.0,Others
+Web Application Development,1.0,3.0,13.0,,6.0,5.0,,,28.0,Computer Science
+Vmware,,3.0,11.0,,5.0,9.0,,,28.0,Computer Science
+Outreach,1.0,2.0,9.0,,9.0,7.0,,,28.0,Business
+Development Management,1.0,2.0,12.0,,6.0,5.0,,1.0,27.0,Business
+Lean Software Development,2.0,3.0,14.0,1.0,6.0,1.0,,,27.0,Computer Science
+Mergers and Acquisitions (M&A),2.0,1.0,11.0,1.0,6.0,6.0,,,27.0,Business
+Laravel,,,13.0,2.0,7.0,4.0,,,26.0,Computer Science
+Special Effects,2.0,5.0,9.0,1.0,4.0,5.0,,,26.0,Computer Science
+Nice,2.0,1.0,16.0,,4.0,3.0,,,26.0,Computer Science
+Delegation,,1.0,11.0,,11.0,3.0,,,26.0,Business
+Customer Service System,,1.0,13.0,2.0,6.0,4.0,,,26.0,Business
+Visualization,1.0,,11.0,,5.0,9.0,,,26.0,Computer Science
+Terraform,1.0,1.0,13.0,,6.0,4.0,1.0,,26.0,Computer Science
+Cloud Service,1.0,3.0,8.0,1.0,9.0,4.0,,,26.0,Information Technology (IT)
+Regression,,1.0,8.0,,7.0,10.0,,,26.0,Data Science
+Social Security,,2.0,10.0,1.0,5.0,8.0,,,26.0,Information Technology (IT)
+Income Statement,,2.0,10.0,2.0,6.0,6.0,,,26.0,Business
+Polish,1.0,4.0,7.0,,8.0,6.0,,,26.0,Others
+Computer Engineering,,1.0,7.0,2.0,5.0,11.0,,,26.0,Others
+Sports Engineering,1.0,,12.0,1.0,6.0,4.0,1.0,,25.0,Others
+System Administration,1.0,2.0,8.0,2.0,6.0,6.0,,,25.0,Information Technology (IT)
+Project Supervision,1.0,,15.0,,4.0,5.0,,,25.0,Business
+Business Intelligence (BI),1.0,1.0,8.0,2.0,6.0,7.0,,,25.0,Data Science
+Kafka,1.0,1.0,9.0,,9.0,4.0,1.0,,25.0,Computer Science
+Variance Analysis,,1.0,10.0,,10.0,4.0,,,25.0,Data Science
+Analytical Thinking,,8.0,9.0,,5.0,3.0,,,25.0,Data Science
+Therapy,1.0,1.0,11.0,,7.0,4.0,,1.0,25.0,Others
+Cash Flow Management,1.0,,12.0,1.0,9.0,1.0,,,24.0,Business
+PyTorch,1.0,,4.0,2.0,6.0,11.0,,,24.0,Data Science
+Optics,1.0,2.0,9.0,,7.0,5.0,,,24.0,Others
+Newsletters,1.0,2.0,9.0,1.0,6.0,5.0,,,24.0,Business
+Social Media Marketing,1.0,2.0,9.0,,7.0,5.0,,,24.0,Business
+Poster,1.0,2.0,12.0,,4.0,5.0,,,24.0,Others
+Brainstorming,1.0,1.0,10.0,2.0,6.0,3.0,,1.0,24.0,Business
+Textiles,,2.0,9.0,2.0,7.0,4.0,,,24.0,Others
+International Business,,2.0,8.0,,9.0,5.0,,,24.0,Business
+Authentication,1.0,1.0,7.0,,2.0,13.0,,,24.0,Information Technology (IT)
+Power Management,,1.0,12.0,2.0,1.0,8.0,,,24.0,Business
+Ansible,1.0,1.0,15.0,,3.0,4.0,,,24.0,Computer Science
+Strategic Planning,2.0,,13.0,1.0,7.0,1.0,,,24.0,Business
+Data Capture,,1.0,12.0,2.0,1.0,8.0,,,24.0,Computer Science
+Google Analytics,1.0,,15.0,,5.0,3.0,,,24.0,Data Science
+Array,,3.0,6.0,,8.0,7.0,,,24.0,Computer Science
+Data Management,,,10.0,2.0,6.0,6.0,,,24.0,Computer Science
+TensorFlow,1.0,,4.0,2.0,6.0,11.0,,,24.0,Data Science
+Marketing Channel,,3.0,11.0,,5.0,5.0,,,24.0,Business
+Middleware,2.0,2.0,13.0,,5.0,1.0,,,23.0,Computer Science
+Data Visualization,1.0,,13.0,,5.0,4.0,,,23.0,Data Science
+Casting,1.0,,12.0,,5.0,5.0,,,23.0,Others
+Office Management,,2.0,5.0,2.0,11.0,3.0,,,23.0,Business
+Physics,1.0,3.0,11.0,2.0,2.0,4.0,,,23.0,Others
+WordPress,1.0,1.0,11.0,,5.0,5.0,,,23.0,Business
+Google Ads,3.0,3.0,7.0,,1.0,8.0,1.0,,23.0,Business
+Benchmarking,,2.0,13.0,,6.0,2.0,,,23.0,Business
+Video Production,1.0,2.0,7.0,,9.0,3.0,,,22.0,Business
+Information Security,1.0,,8.0,,4.0,9.0,,,22.0,Information Technology (IT)
+Route Management,,3.0,12.0,,4.0,3.0,,,22.0,Information Technology (IT)
+Data Structure,1.0,,6.0,,9.0,6.0,,,22.0,Computer Science
+Lead Generation,,1.0,11.0,2.0,4.0,4.0,,,22.0,Business
+eCommerce Platforms,,1.0,14.0,,3.0,4.0,,,22.0,Business
+Bash,,1.0,13.0,,2.0,6.0,,,22.0,Computer Science
+Cloud Platform,1.0,3.0,10.0,,6.0,2.0,,,22.0,Information Technology (IT)
+Confluence,,1.0,5.0,,5.0,11.0,,,22.0,Information Technology (IT)
+Linker,1.0,2.0,6.0,,6.0,7.0,,,22.0,Computer Science
+iland,,,9.0,,6.0,6.0,,,21.0,Information Technology (IT)
+MS SQL Server,,2.0,7.0,2.0,8.0,2.0,,,21.0,Computer Science
+Usability Engineering,,,7.0,1.0,6.0,7.0,,,21.0,Computer Science
+Electromechanics,,2.0,9.0,1.0,2.0,7.0,,,21.0,Others
+Pharmacy,1.0,3.0,11.0,,3.0,3.0,,,21.0,Others
+Business Continuity Planning,1.0,5.0,5.0,,4.0,6.0,,,21.0,Computer Science
+User Interface (UI),2.0,,10.0,,4.0,5.0,,,21.0,Computer Science
+Radio,,4.0,6.0,1.0,6.0,3.0,,,20.0,Others
+Automotive Engineering,,2.0,7.0,,6.0,5.0,,,20.0,Others
+Source Control,,,11.0,1.0,4.0,4.0,,,20.0,Computer Science
+Responsive Design,1.0,,10.0,,2.0,7.0,,,20.0,Others
+Rapid Application Development,,1.0,12.0,,5.0,2.0,,,20.0,Computer Science
+Task Management,1.0,3.0,9.0,1.0,5.0,1.0,,,20.0,Business
+Ecology,,,8.0,1.0,6.0,5.0,,,20.0,Others
+Italian,,3.0,10.0,,5.0,2.0,,,20.0,Others
+Statistical Model,,1.0,6.0,,5.0,8.0,,,20.0,Data Science
+Unity,2.0,,8.0,,3.0,6.0,,,19.0,Others
+Regression Analysis,,1.0,6.0,,4.0,8.0,,,19.0,Data Science
+NP Completeness,1.0,1.0,6.0,1.0,9.0,1.0,,,19.0,Computer Science
+Streaming,1.0,,6.0,2.0,5.0,4.0,,,18.0,Information Technology (IT)
+Market Research Analysis,,1.0,7.0,,5.0,5.0,,,18.0,Business
+Newspapers,2.0,1.0,5.0,,6.0,4.0,,,18.0,Business
+Unix,,,14.0,,3.0,1.0,,,18.0,Computer Science
+Database Design,1.0,,7.0,3.0,3.0,4.0,,,18.0,Computer Science
+Team Building,,3.0,8.0,,6.0,1.0,,,18.0,Business
+Content Management,,,2.0,3.0,3.0,10.0,,,18.0,Business
+Web Analytics,,,11.0,2.0,2.0,3.0,,,18.0,Computer Science
+RESTful API,2.0,,4.0,,8.0,4.0,,,18.0,Computer Science
+Firewall,2.0,1.0,7.0,,2.0,6.0,,,18.0,Information Technology (IT)
+Business Ethics,1.0,1.0,7.0,,3.0,6.0,,,18.0,Business
+Spanish,1.0,1.0,9.0,,4.0,2.0,1.0,,18.0,Others
+Localization,1.0,,4.0,1.0,6.0,6.0,,,18.0,Others
+Data Mining,1.0,2.0,10.0,1.0,2.0,2.0,,,18.0,Data Science
+Maya,,2.0,6.0,2.0,4.0,4.0,,,18.0,Computer Science
+Incident Management,1.0,1.0,9.0,,5.0,2.0,,,18.0,Business
+Zoom,,2.0,7.0,1.0,4.0,4.0,,,18.0,Business
+Agricultural Science,,2.0,7.0,1.0,4.0,4.0,,,18.0,Others
+Equity,,,6.0,,2.0,10.0,,,18.0,Business
+QA Testing,,,8.0,,4.0,5.0,1.0,,18.0,Business
+Entertainment,,1.0,8.0,,3.0,6.0,,,18.0,Others
+Manufacturing Operations,,1.0,4.0,,10.0,2.0,,,17.0,Others
+Online Business,1.0,1.0,3.0,,8.0,4.0,,,17.0,Business
+Web Framework,1.0,,10.0,,4.0,2.0,,,17.0,Computer Science
+Product Testing,,,6.0,,7.0,4.0,,,17.0,Business
+Apparel,,1.0,9.0,,3.0,4.0,,,17.0,Others
+Data Preparation,,1.0,7.0,,4.0,5.0,,,17.0,Data Science
+Distributed System,2.0,,4.0,,6.0,3.0,1.0,,16.0,Computer Science
+Forestry,,2.0,4.0,,6.0,3.0,1.0,,16.0,Others
+Infrastructure as Code (IaS),,1.0,7.0,,5.0,2.0,1.0,,16.0,Computer Science
+Profiling,1.0,2.0,1.0,,8.0,4.0,,,16.0,Computer Science
+Marketing Analytics,2.0,,9.0,,3.0,2.0,,,16.0,Data Science
+Management Information System (MIS),,1.0,6.0,,4.0,5.0,,,16.0,Business
+Social Network,,1.0,10.0,,4.0,1.0,,,16.0,Others
+Graph,,2.0,7.0,,4.0,3.0,,,16.0,Others
+Graph Database,1.0,,6.0,,3.0,6.0,,,16.0,Computer Science
+Arts,,2.0,6.0,,2.0,6.0,,,16.0,Others
+Quantitative Research,,1.0,4.0,,4.0,7.0,,,16.0,Business
+Application Programming Interface (API),,2.0,4.0,1.0,7.0,2.0,,,16.0,Computer Science
+Tax Accounting,,3.0,10.0,,2.0,1.0,,,16.0,Business
+Software Architecture,,2.0,3.0,,4.0,7.0,,,16.0,Computer Science
+Computer Vision,1.0,,3.0,2.0,5.0,5.0,,,16.0,Data Science
+Deep Learning,1.0,,5.0,2.0,4.0,4.0,,,16.0,Data Science
+Load Balancing,,1.0,11.0,,3.0,1.0,,,16.0,Information Technology (IT)
+Industrial Automation,1.0,3.0,7.0,,1.0,3.0,1.0,,16.0,Others
+Network Architecture,,2.0,4.0,1.0,7.0,2.0,,,16.0,Information Technology (IT)
+Corporate Communication,,3.0,7.0,,4.0,2.0,,,16.0,Business
+Chatbot,,1.0,4.0,,5.0,6.0,,,16.0,Data Science
+vSphere,,3.0,6.0,,5.0,2.0,,,16.0,Computer Science
+Password,,,4.0,,11.0,1.0,,,16.0,Information Technology (IT)
+Kotlin,1.0,1.0,10.0,,3.0,1.0,,,16.0,Computer Science
+Bond,,,7.0,,4.0,4.0,,1.0,16.0,Others
+Unix Shell,1.0,,12.0,,1.0,1.0,1.0,,16.0,Computer Science
+React Native,,,6.0,,3.0,7.0,,,16.0,Computer Science
+Configuration Management,2.0,1.0,8.0,,4.0,1.0,,,16.0,Computer Science
+Golang (Go),,,5.0,,3.0,8.0,,,16.0,Computer Science
+Legal Management,,,9.0,,4.0,3.0,,,16.0,Others
+Commercial Law,1.0,,7.0,,4.0,3.0,,,15.0,Others
+Kanban,,,9.0,,1.0,5.0,,,15.0,Computer Science
+Biomaterials Engineering,,5.0,6.0,,2.0,2.0,,,15.0,Others
+Salesforce,,1.0,7.0,,4.0,3.0,,,15.0,Business
+Structural Engineering,,4.0,4.0,,3.0,4.0,,,15.0,Others
+Materials Engineering,,5.0,6.0,,2.0,2.0,,,15.0,Others
+Tracking System,1.0,4.0,5.0,1.0,3.0,1.0,,,15.0,Data Science
+Software Development Kit (SDK),,,6.0,1.0,5.0,2.0,,,14.0,Computer Science
+Cost Accounting,,,7.0,,3.0,4.0,,,14.0,Business
+Naïve Bayes,,,3.0,,3.0,8.0,,,14.0,Data Science
+Ruby on Rails,1.0,1.0,2.0,,6.0,4.0,,,14.0,Computer Science
+Computing Platform,,,3.0,,3.0,8.0,,,14.0,Information Technology (IT)
+OpenShift,,2.0,8.0,,2.0,2.0,,,14.0,Information Technology (IT)
+Cisco Router,1.0,2.0,3.0,,3.0,5.0,,,14.0,Information Technology (IT)
+Database Application,1.0,1.0,7.0,,1.0,4.0,,,14.0,Computer Science
+Control Chart,,1.0,6.0,,4.0,3.0,,,14.0,Data Science
+CouchDB,,,6.0,1.0,2.0,5.0,,,14.0,Computer Science
+Energy Consumption,,2.0,3.0,,6.0,2.0,1.0,,14.0,Computer Science
+Performance Review,,1.0,5.0,,3.0,5.0,,,14.0,Business
+Annual Report,,,5.0,,5.0,4.0,,,14.0,Business
+Decision Tree,,,3.0,,3.0,8.0,,,14.0,Data Science
+Indonesian,,,6.0,1.0,2.0,5.0,,,14.0,Others
+Machine Learning Algorithm,,,3.0,,3.0,8.0,,,14.0,Data Science
+Tamil,1.0,,6.0,,5.0,2.0,,,14.0,Others
+Software Application,,,9.0,1.0,1.0,3.0,,,14.0,Computer Science
+Web Development,1.0,3.0,3.0,1.0,1.0,5.0,,,14.0,Computer Science
+Source Code Management,,3.0,4.0,,5.0,2.0,,,14.0,Computer Science
+Food Production,,1.0,3.0,,7.0,3.0,,,14.0,Others
+VOIP,2.0,1.0,5.0,,2.0,4.0,,,14.0,Business
+Oil and Gas,,2.0,4.0,,7.0,1.0,,,14.0,Others
+Service Management,,1.0,5.0,1.0,4.0,3.0,,,14.0,Business
+Maintanence,,,10.0,,1.0,2.0,,1.0,14.0,Others
+Population,1.0,,7.0,,3.0,3.0,,,14.0,Data Science
+Telecommunications Engineering,,1.0,9.0,,2.0,2.0,,,14.0,Others
+Computing,1.0,,5.0,,5.0,3.0,,,14.0,Computer Science
+Legal Service,1.0,,7.0,,2.0,3.0,1.0,,14.0,Others
+Burmese,,,6.0,,4.0,3.0,,,13.0,Others
+Software Development Life Cycle (SDLC),2.0,,7.0,,1.0,3.0,,,13.0,Computer Science
+Property Information,2.0,,2.0,2.0,4.0,3.0,,,13.0,Business
+Sales Operations,2.0,2.0,3.0,,3.0,3.0,,,13.0,Business
+Social Media Management,1.0,,5.0,1.0,2.0,4.0,,,13.0,Business
+Tableau,,,7.0,2.0,2.0,2.0,,,13.0,Data Science
+Node.js,,2.0,5.0,1.0,2.0,3.0,,,13.0,Computer Science
+Software Interface,,,5.0,1.0,3.0,3.0,,,12.0,Computer Science
+Data Pipeline,,,5.0,,3.0,4.0,,,12.0,Data Science
+Robotics,,,6.0,,3.0,3.0,,,12.0,Data Science
+Sales Management,,,4.0,,6.0,1.0,1.0,,12.0,Business
+Electronic Control Systems,,,4.0,,5.0,3.0,,,12.0,Others
+Cryptocurrency,,,4.0,,2.0,6.0,,,12.0,Information Technology (IT)
+Commodity,2.0,1.0,2.0,,3.0,4.0,,,12.0,Others
+Corporate Finance,,1.0,3.0,,7.0,1.0,,,12.0,Business
+macOS,2.0,1.0,5.0,,1.0,3.0,,,12.0,Computer Science
+Supply and Demand,,,4.0,,3.0,5.0,,,12.0,Others
+Database System,,,3.0,1.0,6.0,2.0,,,12.0,Computer Science
+Bootstrap,,1.0,3.0,1.0,,7.0,,,12.0,Computer Science
+Recreation,,1.0,3.0,,4.0,4.0,,,12.0,Others
+Active Listening,,,6.0,,3.0,3.0,,,12.0,Others
+Cloud Computing,,1.0,5.0,,4.0,1.0,1.0,,12.0,Information Technology (IT)
+Version Control,,,7.0,1.0,1.0,3.0,,,12.0,Computer Science
+Scripting Language,,1.0,7.0,,1.0,3.0,,,12.0,Computer Science
+Resource Management,,1.0,6.0,,5.0,,,,12.0,Business
+SAS Statistical Analysis,3.0,1.0,2.0,,2.0,4.0,,,12.0,Data Science
+PL/SQL,,,9.0,1.0,,1.0,,1.0,12.0,Computer Science
+Concurrency,,,10.0,,2.0,,,,12.0,Computer Science
+Requirement Analysis,2.0,1.0,3.0,,3.0,2.0,1.0,,12.0,Business
+Cybersecurity,,,8.0,,4.0,,,,12.0,Information Technology (IT)
+Computer Worm,,2.0,7.0,,2.0,1.0,,,12.0,Information Technology (IT)
+SketchUp,,2.0,2.0,,6.0,2.0,,,12.0,Computer Science
+Google Drive,,2.0,6.0,,4.0,,,,12.0,Information Technology (IT)
+Affliate Marketing,,3.0,3.0,,5.0,1.0,,,12.0,Business
+Classification,,2.0,4.0,,5.0,1.0,,,12.0,Data Science
+Repetition,1.0,,2.0,,6.0,2.0,,1.0,12.0,Computer Science
+Continuous Delivery (CD),1.0,1.0,6.0,,3.0,1.0,,,12.0,Computer Science
+Motion Graphic Design,,2.0,6.0,,,4.0,,,12.0,Computer Science
+Digital Art,,2.0,5.0,,4.0,1.0,,,12.0,Others
+Redux,,,3.0,,7.0,2.0,,,12.0,Computer Science
+Computer Game,,2.0,4.0,1.0,1.0,4.0,,,12.0,Others
+Puppet,1.0,1.0,8.0,,1.0,1.0,,,12.0,Information Technology (IT)
+Data Sharing,1.0,,6.0,,2.0,3.0,,,12.0,Data Science
+Information Management,,4.0,5.0,,2.0,1.0,,,12.0,Information Technology (IT)
+Bitbucket,,,3.0,,7.0,2.0,,,12.0,Computer Science
+Tcl,1.0,,6.0,,5.0,,,,12.0,Computer Science
+Informatics,,,6.0,,3.0,2.0,,,11.0,Information Technology (IT)
+Report Analysis,,,6.0,,2.0,3.0,,,11.0,Business
+Marketing Management,,,3.0,,5.0,3.0,,,11.0,Business
+Aviation,,2.0,5.0,,1.0,3.0,,,11.0,Others
+Safari,2.0,,5.0,,2.0,2.0,,,11.0,Information Technology (IT)
+Carpentry,,,2.0,,6.0,3.0,,,11.0,Others
+Television,2.0,,4.0,,4.0,1.0,,,11.0,Others
+Steganography,,1.0,4.0,,5.0,1.0,,,11.0,Information Technology (IT)
+Database Administration,,2.0,6.0,,2.0,1.0,,,11.0,Computer Science
+Market Analysis,,,6.0,,3.0,1.0,,,10.0,Business
+Matplotlib,1.0,,1.0,2.0,3.0,3.0,,,10.0,Data Science
+Cloud Computing Architecture,1.0,,1.0,2.0,3.0,3.0,,,10.0,Information Technology (IT)
+Geometry,1.0,,5.0,,2.0,2.0,,,10.0,Others
+Reinforcement Learning,1.0,,1.0,2.0,3.0,3.0,,,10.0,Data Science
+Dreamweaver,,1.0,6.0,,1.0,2.0,,,10.0,Others
+Data Cleansing,,,4.0,,4.0,2.0,,,10.0,Data Science
+Algebra,1.0,,1.0,2.0,3.0,3.0,,,10.0,Others
+Philosophy,1.0,3.0,3.0,,1.0,2.0,,,10.0,Others
+Data Modelling,,1.0,7.0,,1.0,1.0,,,10.0,Data Science
+Scientific Method,,1.0,6.0,,2.0,1.0,,,10.0,Others
+Financial Management,,,6.0,,3.0,1.0,,,10.0,Business
+Mobile Application Development,,,7.0,,2.0,1.0,,,10.0,Others
+Uncertainty,,1.0,3.0,,1.0,5.0,,,10.0,Others
+Ruby,,1.0,7.0,,1.0,1.0,,,10.0,Computer Science
+Reverse Engineering,,1.0,3.0,,2.0,4.0,,,10.0,Computer Science
+DevOps Automation Tool,,,4.0,,1.0,4.0,,1.0,10.0,Computer Science
+Agile Methodology,,1.0,4.0,,1.0,4.0,,,10.0,Business
+Hive,,,4.0,,4.0,2.0,,,10.0,Computer Science
+Financial Regulation,1.0,,3.0,,1.0,5.0,,,10.0,Business
+Flowchart,1.0,,2.0,,3.0,4.0,,,10.0,Computer Science
+Mathematical Modelling,1.0,,4.0,1.0,1.0,3.0,,,10.0,Others
+Data Acquisition,1.0,,6.0,,3.0,,,,10.0,Data Science
+Data Science Tool,1.0,,1.0,2.0,3.0,3.0,,,10.0,Data Science
+Forensic Science,,1.0,4.0,,5.0,,,,10.0,Others
+Drupal,,,5.0,,2.0,3.0,,,10.0,Business
+Pharmacology,,1.0,4.0,,5.0,,,,10.0,Others
+Experimental Psychology,,,5.0,,2.0,3.0,,,10.0,Others
+Developmental Psychology,,,5.0,,2.0,3.0,,,10.0,Others
+Perl,,,5.0,,,5.0,,,10.0,Computer Science
+Video Encoding,,,5.0,1.0,4.0,,,,10.0,Computer Science
+Cryptography,,,5.0,,1.0,4.0,,,10.0,Information Technology (IT)
+Environmental Science,,1.0,4.0,,5.0,,,,10.0,Others
+Cultural Psychology,,,5.0,,2.0,3.0,,,10.0,Others
+Data Architecture,,,3.0,,5.0,2.0,,,10.0,Data Science
+Database Management System,,,5.0,,4.0,1.0,,,10.0,Computer Science
+Forensic Psychology,,,5.0,,2.0,3.0,,,10.0,Others
+Software Testing,,,1.0,,2.0,7.0,,,10.0,Computer Science
+Clinical Psychology,,,5.0,,2.0,3.0,,,10.0,Others
+Optometry,,,5.0,1.0,4.0,,,,10.0,Others
+Wireless Network,1.0,2.0,1.0,,1.0,5.0,,,10.0,Information Technology (IT)
+Behaviour Analysis,,,5.0,,2.0,3.0,,,10.0,Others
+Caffe,1.0,,1.0,2.0,3.0,3.0,,,10.0,Data Science
+SciPy,1.0,,1.0,2.0,3.0,3.0,,,10.0,Computer Science
+NumPy,1.0,,1.0,2.0,3.0,3.0,,,10.0,Computer Science
+Probability,,,6.0,1.0,2.0,1.0,,,10.0,Data Science
+Correlation,,2.0,1.0,2.0,2.0,3.0,,,10.0,Data Science
+Google Workspace,,,5.0,,3.0,2.0,,,10.0,Information Technology (IT)
+Securities,,1.0,3.0,,4.0,2.0,,,10.0,Others
+Health Psychology,,,5.0,,2.0,3.0,,,10.0,Others
+Outsourcing,1.0,,3.0,,3.0,2.0,,,9.0,Business
+Financial Accounting,,,4.0,,3.0,2.0,,,9.0,Business
+Construction Law,,1.0,5.0,,,3.0,,,9.0,Others
+Tax Law,,,5.0,,2.0,2.0,,,9.0,Others
+Microbiology,,,4.0,,4.0,,1.0,,9.0,Others
+Financial Engineering,1.0,2.0,4.0,1.0,,1.0,,,9.0,Business
+Operations Management,1.0,,4.0,,1.0,3.0,,,9.0,Business
+Marketing Design,,,4.0,,3.0,1.0,,,8.0,Business
+Tree,,,4.0,,2.0,2.0,,,8.0,Computer Science
+Data Security,,,2.0,,,5.0,,1.0,8.0,Information Technology (IT)
+Marine Engineering,1.0,1.0,1.0,,3.0,2.0,,,8.0,Others
+Strategic Management,2.0,1.0,,,2.0,3.0,,,8.0,Business
+International Finance,1.0,,3.0,,3.0,1.0,,,8.0,Business
+Encoding,1.0,,1.0,,2.0,4.0,,,8.0,Computer Science
+Pivot Table,1.0,,3.0,,1.0,3.0,,,8.0,Business
+Software Requirement,,,8.0,,,,,,8.0,Computer Science
+Microsoft Access,,,6.0,,1.0,1.0,,,8.0,Business
+Customer Relationship Management (CRM),,,2.0,,2.0,4.0,,,8.0,Business
+Forth,,,5.0,,3.0,,,,8.0,Computer Science
+Magento,,,6.0,,,2.0,,,8.0,Business
+Financial Services,,,6.0,,2.0,,,,8.0,Business
+Tomcat,,,6.0,,1.0,1.0,,,8.0,Computer Science
+Pascal,,,6.0,,1.0,1.0,,,8.0,Computer Science
+Storage System,1.0,,4.0,,2.0,1.0,,,8.0,Information Technology (IT)
+Needs Analysis,,,3.0,,3.0,2.0,,,8.0,Business
+Educational Psychology,,,2.0,,1.0,3.0,2.0,,8.0,Others
+Network Management,1.0,1.0,1.0,,1.0,4.0,,,8.0,Information Technology (IT)
+Payment Processing,,1.0,5.0,,1.0,1.0,,,8.0,Computer Science
+Factoring,,,3.0,,1.0,4.0,,,8.0,Business
+Public Relations and Communications,,2.0,2.0,,2.0,2.0,,,8.0,Business
+Digital Media,,1.0,2.0,1.0,2.0,2.0,,,8.0,Others
+Email Production,,,3.0,,4.0,1.0,,,8.0,Business
+Product Liability,,1.0,4.0,,1.0,2.0,,,8.0,Business
+HBase,,,3.0,,4.0,1.0,,,8.0,Computer Science
+Requirements Gathering,1.0,1.0,1.0,,2.0,2.0,1.0,,8.0,Business
+Wireframing,,,3.0,,1.0,4.0,,,8.0,Others
+Scala,,,3.0,,4.0,1.0,,,8.0,Computer Science
+Product Roadmap,,3.0,2.0,,3.0,,,,8.0,Business
+Routing Protocol,1.0,1.0,1.0,,1.0,4.0,,,8.0,Information Technology (IT)
+Email Marketing Campaign,,2.0,1.0,2.0,,3.0,,,8.0,Business
+Supply Chain Risk Management,,1.0,2.0,,3.0,2.0,,,8.0,Business
+German,,,3.0,,3.0,2.0,,,8.0,Others
+Wireless Security,1.0,1.0,1.0,,1.0,4.0,,,8.0,Information Technology (IT)
+Supply Chain Management,,1.0,2.0,,3.0,2.0,,,8.0,Business
+Clustering,,,3.0,,,5.0,,,8.0,Data Science
+Infographics,,,3.0,,1.0,4.0,,,8.0,Others
+Audio Production,,,3.0,,3.0,2.0,,,8.0,Business
+Business Writing,,2.0,2.0,,2.0,2.0,,,8.0,Business
+Financial Law,,1.0,1.0,,5.0,1.0,,,8.0,Others
+Legal Systems,1.0,,3.0,,1.0,3.0,,,8.0,Others
+Powershell,,1.0,5.0,,1.0,1.0,,,8.0,Computer Science
+Mathematical Economics,1.0,2.0,3.0,1.0,,1.0,,,8.0,Others
+Build Tool,,1.0,5.0,,1.0,1.0,,,8.0,Computer Science
+Public Policy,1.0,,3.0,,1.0,3.0,,,8.0,Others
+WooCommerce,,1.0,3.0,,2.0,2.0,,,8.0,Business
+Loader,,1.0,1.0,1.0,4.0,1.0,,,8.0,Computer Science
+Production Set,,3.0,2.0,,1.0,2.0,,,8.0,Others
+Marketing Psychology,,1.0,6.0,,,,1.0,,8.0,Business
+Photo Editing,,2.0,4.0,,1.0,,,,7.0,Others
+Corporate Law,,,4.0,,3.0,,,,7.0,Others
+UI Design,,,3.0,,3.0,1.0,,,7.0,Computer Science
+Email Management,,,3.0,,3.0,1.0,,,7.0,Business
+Investor Relations,,,5.0,,2.0,,,,7.0,Business
+Culinary Art,,,3.0,,3.0,1.0,,,7.0,Others
+Build Automation,1.0,,3.0,,1.0,2.0,,,7.0,Computer Science
+Consumer Behaviour,,2.0,4.0,,1.0,,,,7.0,Business
+Business Intelligence Tool,1.0,1.0,2.0,1.0,2.0,,,,7.0,Data Science
+Dataset,1.0,,2.0,,4.0,,,,7.0,Data Science
+Microsoft .NET,,,3.0,,2.0,2.0,,,7.0,Computer Science
+SAS,,,2.0,,1.0,3.0,,,6.0,Data Science
+Vulnerability,,,4.0,,1.0,1.0,,,6.0,Information Technology (IT)
+Market Segmentation,,,2.0,,1.0,3.0,,,6.0,Business
+Electronic Key Management System,,,2.0,2.0,1.0,1.0,,,6.0,Information Technology (IT)
+Social Work,,,2.0,,3.0,1.0,,,6.0,Others
+Development Studies,,,2.0,,4.0,,,,6.0,Others
+Sustainable Development,,,4.0,,2.0,,,,6.0,Others
+Key Management,,,4.0,,1.0,1.0,,,6.0,Information Technology (IT)
+Enterprise Software,,,4.0,,1.0,1.0,,,6.0,Business
+Facial Recognition,,,3.0,,2.0,1.0,,,6.0,Data Science
+Vmware ESXi,,,2.0,,,3.0,,1.0,6.0,Information Technology (IT)
+Agile Software Development,,,4.0,,1.0,1.0,,,6.0,Computer Science
+Working Capital,,,4.0,,1.0,1.0,,,6.0,Business
+Patient Care,,,2.0,,2.0,2.0,,,6.0,Others
+Electronic Materials,,,4.0,,2.0,,,,6.0,Others
+Game Development,,,2.0,,4.0,,,,6.0,Others
+Agricultural Production,,,1.0,,2.0,3.0,,,6.0,Others
+Yii,,,3.0,,2.0,1.0,,,6.0,Computer Science
+Joomla,,,3.0,,2.0,1.0,,,6.0,Business
+Cloud Application,,,2.0,,2.0,1.0,1.0,,6.0,Information Technology (IT)
+Apache,,,1.0,,,5.0,,,6.0,Computer Science
+Project Chart,,,2.0,,2.0,2.0,,,6.0,Data Science
+Data Presentation,,,2.0,1.0,2.0,1.0,,,6.0,Data Science
+Facilities Engineering,,,4.0,1.0,1.0,,,,6.0,Others
+Investment Banking,,,3.0,,1.0,2.0,,,6.0,Business
+Secure Coding,,,2.0,,,3.0,,1.0,6.0,Information Technology (IT)
+Empathy,,,4.0,,1.0,1.0,,,6.0,Business
+Gecko,,,2.0,,2.0,2.0,,,6.0,Information Technology (IT)
+Applied Mathematics,,,2.0,,2.0,2.0,,,6.0,Others
+Stock Market,,,3.0,,1.0,2.0,,,6.0,Business
+Encryption,,,4.0,,1.0,1.0,,,6.0,Information Technology (IT)
+Storage Management,,,2.0,,3.0,1.0,,,6.0,Information Technology (IT)
+Amazon Web Service (AWS),,,3.0,,1.0,2.0,,,6.0,Information Technology (IT)
+Radiology,,,4.0,,,2.0,,,6.0,Others
+Storytelling,,,3.0,,,3.0,,,6.0,Business
+Operations Research,,,3.0,,2.0,1.0,,,6.0,Others
+Interactive Media,,,4.0,,2.0,,,,6.0,Others
+Regression Testing,,,2.0,,2.0,2.0,,,6.0,Data Science
+Gamification,,,3.0,,2.0,1.0,,,6.0,Others
+Enterprise Resource Planning (ERP),1.0,,2.0,,,3.0,,,6.0,Business
+Email Client,1.0,,1.0,,2.0,2.0,,,6.0,Business
+Unit Cost,2.0,1.0,,,1.0,2.0,,,6.0,Others
+Objection Handling,2.0,1.0,,,3.0,,,,6.0,Business
+Search Engine Optimization (SEO),1.0,,2.0,,3.0,,,,6.0,Business
+IP Address,,1.0,2.0,,2.0,1.0,,,6.0,Information Technology (IT)
+Software Maintenance,1.0,1.0,2.0,,1.0,1.0,,,6.0,Computer Science
+Budget Planning,,2.0,1.0,,1.0,2.0,,,6.0,Business
+Horticulture,,1.0,2.0,,1.0,2.0,,,6.0,Others
+Statutory Law,,1.0,2.0,,2.0,1.0,,,6.0,Others
+Elasticsearch,2.0,,3.0,,1.0,,,,6.0,Computer Science
+Mobile Development,1.0,,4.0,,,1.0,,,6.0,Computer Science
+Revision Control,1.0,,5.0,,,,,,6.0,Computer Science
+Syntax,1.0,,4.0,,1.0,,,,6.0,Others
+Urban Engineering,1.0,,4.0,,1.0,,,,6.0,Others
+Fast Ethernet,1.0,1.0,2.0,,1.0,1.0,,,6.0,Information Technology (IT)
+Business Analytics,1.0,,3.0,,2.0,,,,6.0,Business
+Software Deployment,1.0,,2.0,,3.0,,,,6.0,Computer Science
+Time Series,1.0,,2.0,,3.0,,,,6.0,Data Science
+Social Selling,,1.0,2.0,,2.0,1.0,,,6.0,Business
+Meteorology,,1.0,1.0,1.0,1.0,2.0,,,6.0,Others
+Storyboarding,,1.0,2.0,,,3.0,,,6.0,Others
+Maven,,2.0,3.0,,1.0,,,,6.0,Computer Science
+Petty Cash Control,,2.0,3.0,,,1.0,,,6.0,Business
+Oracle Databases,1.0,,3.0,,1.0,1.0,,,6.0,Computer Science
+Professional Training,,,5.0,,1.0,,,,6.0,Business
+Liquidation,,,5.0,,1.0,,,,6.0,Business
+Talent Management,,,4.0,,2.0,,,,6.0,Business
+Software Package,,,4.0,,2.0,,,,6.0,Computer Science
+Search Engine Marketing (SEM),,,4.0,,2.0,,,,6.0,Business
+Systems Engineering,,,4.0,,1.0,1.0,,,6.0,Others
+Microsoft Azure,1.0,,4.0,,1.0,,,,6.0,Information Technology (IT)
+Innovation Management,,,4.0,,2.0,,,,6.0,Business
+Cleanroom,,2.0,1.0,,1.0,2.0,,,6.0,Computer Science
+Logic,,,4.0,,1.0,1.0,,,6.0,Others
+COBOL,,,4.0,,1.0,1.0,,,6.0,Computer Science
+Testing Hypothesis,2.0,1.0,,,1.0,2.0,,,6.0,Data Science
+Knowledge Management,,1.0,3.0,,2.0,,,,6.0,Business
+Telegram,1.0,,2.0,,3.0,,,,6.0,Others
+Opera,,1.0,1.0,,1.0,3.0,,,6.0,Information Technology (IT)
+Natural Language Processing (NLP),,1.0,2.0,,2.0,1.0,,,6.0,Data Science
+Social Networking Tool,,,4.0,,2.0,,,,6.0,Data Science
+Psychometrics,,1.0,1.0,,2.0,1.0,,,5.0,Others
+Web Scraping,,,4.0,,1.0,,,,5.0,Data Science
+Financial Modelling,,,3.0,,2.0,,,,5.0,Data Science
+Contact Manager,,,2.0,1.0,2.0,,,,5.0,Business
+Theano,,,2.0,,3.0,,,,5.0,Data Science
+Digital Printing,,,2.0,,2.0,1.0,,,5.0,Others
+Sentiment Analysis,,,2.0,,1.0,1.0,,,4.0,Data Science
+Slack,,,2.0,,1.0,1.0,,,4.0,Business
+Azure Machine Learning,,,2.0,,1.0,1.0,,,4.0,Data Science
+Microsoft PowerPoint,,,4.0,,,,,,4.0,Business
+Visual Studio,,,2.0,,,2.0,,,4.0,Computer Science
+Wireless LAN,,,2.0,,1.0,1.0,,,4.0,Information Technology (IT)
+Microsoft SQL Servers,,,2.0,,,2.0,,,4.0,Computer Science
+Decision Process,,,2.0,,1.0,1.0,,,4.0,Business
+Proof Theory,,,2.0,,1.0,1.0,,,4.0,Others
+Geography,1.0,,2.0,,,1.0,,,4.0,Others
+Software Documentation,,,2.0,,1.0,1.0,,,4.0,Computer Science
+Red Hat,,,2.0,,1.0,1.0,,,4.0,Information Technology (IT)
+Microsoft SQL Server,,,2.0,,,2.0,,,4.0,Computer Science
+Ajax,,,2.0,,,2.0,,,4.0,Computer Science
+Conceptual Art,,,2.0,,1.0,1.0,,,4.0,Others
+Music Therapy,,,1.0,,2.0,1.0,,,4.0,Others
+Financial Risk,,,,,,4.0,,,4.0,Business
+Social Psychology,,,,,2.0,2.0,,,4.0,Others
+Data Engineering,,,,,2.0,2.0,,,4.0,Data Science
+Persuasion,,,1.0,,1.0,2.0,,,4.0,Business
+SPSS,,,1.0,,1.0,2.0,,,4.0,Data Science
+MATLAB,,,1.0,,1.0,2.0,,,4.0,Others
+Animal Husbandry,,,1.0,,1.0,2.0,,,4.0,Others
+Economic Growth,,,1.0,,2.0,1.0,,,4.0,Others
+Performing Art,1.0,1.0,1.0,,,1.0,,,4.0,Others
+Debugger,,,2.0,,,2.0,,,4.0,Computer Science
+Extract Transform Load (ETL),,,1.0,,2.0,1.0,,,4.0,Computer Science
+Gantt Chart,,,1.0,,1.0,2.0,,,4.0,Data Science
+Text Analysis,,,1.0,1.0,2.0,,,,4.0,Data Science
+Torch,1.0,,3.0,,,,,,4.0,Data Science
+Pediatrics,,,2.0,,2.0,,,,4.0,Others
+Version Control System,,,2.0,,1.0,1.0,,,4.0,Computer Science
+Image Processing,1.0,,2.0,,1.0,,,,4.0,Computer Science
+Public Health,,,2.0,,2.0,,,,4.0,Others
+Qlik Sense,,,2.0,,1.0,1.0,,,4.0,Data Science
+Time Series Analysis,,,2.0,,1.0,1.0,,,4.0,Data Science
+User Interface Design,1.0,,1.0,,,2.0,,,4.0,Computer Science
+Corel Draw,,,2.0,,,2.0,,,4.0,Others
+STATA,,2.0,2.0,,,,,,4.0,Data Science
+Atlassian,,,3.0,,,1.0,,,4.0,Information Technology (IT)
+Event Planning,,2.0,,,,2.0,,,4.0,Business
+Systems Management,,1.0,1.0,,,2.0,,,4.0,Business
+French,,1.0,2.0,,,,1.0,,4.0,Others
+Application Security,,,3.0,,1.0,,,,4.0,Information Technology (IT)
+Biomedical Engineering,,1.0,1.0,,2.0,,,,4.0,Others
+Privacy,,1.0,,,3.0,,,,4.0,Information Technology (IT)
+Programming Tool,,,4.0,,,,,,4.0,Computer Science
+Teradata,,,4.0,,,,,,4.0,Computer Science
+Materials Science,,1.0,2.0,,1.0,,,,4.0,Others
+Mean Shift,,1.0,1.0,,2.0,,,,4.0,Data Science
+Semantic Analysis,,1.0,,1.0,1.0,1.0,,,4.0,Data Science
+Apache Ant,,,4.0,,,,,,4.0,Computer Science
+MongoDB,,,4.0,,,,,,4.0,Computer Science
+Imagine,,1.0,1.0,,1.0,1.0,,,4.0,Computer Science
+OpenStack,,,3.0,,,1.0,,,4.0,Information Technology (IT)
+Ubuntu,,,3.0,,,1.0,,,4.0,Computer Science
+MariaDB,,,3.0,,,1.0,,,4.0,Computer Science
+Mastercam,,,3.0,,1.0,,,,4.0,Computer Science
+Polymer Engineering,,1.0,2.0,,1.0,,,,4.0,Others
+Web API,,,4.0,,,,,,4.0,Information Technology (IT)
+Pattern Recognition,,,2.0,,1.0,1.0,,,4.0,Data Science
+GUI Design,,,2.0,,1.0,1.0,,,4.0,Computer Science
+Problem Management,,,2.0,,1.0,1.0,,,4.0,Business
+SQLite,,,4.0,,,,,,4.0,Computer Science
+Greenhopper,,,2.0,,1.0,1.0,,,4.0,Business
+Jin Chinese,1.0,,,1.0,,2.0,,,4.0,Others
+PrestaShop,,,2.0,,,2.0,,,4.0,Business
+Enterprise System,,,2.0,,1.0,1.0,,,4.0,Business
+Cordova,,,2.0,,1.0,1.0,,,4.0,Computer Science
+Vacuum Engineering,1.0,,2.0,,1.0,,,,4.0,Others
+Dash,,,2.0,,1.0,1.0,,,4.0,Data Science
+Signal Processing,,,2.0,,1.0,1.0,,,4.0,Data Science
+R Shiny,,,2.0,,1.0,1.0,,,4.0,Computer Science
+Graphical User Interface (GUI),1.0,,1.0,,,2.0,,,4.0,Computer Science
+Apache Kafka,1.0,,1.0,2.0,,,,,4.0,Computer Science
+VersionOne,,,2.0,,1.0,1.0,,,4.0,Business
+Ant,,,,,2.0,1.0,,,3.0,Computer Science
+Instrumentaion Engineering,,,2.0,,,1.0,,,3.0,Others
+Engineering Technology,,,1.0,1.0,1.0,,,,3.0,Others
+Virtual Network,,,,,3.0,,,,3.0,Information Technology (IT)
+Know Your Customer (KYC),,,,,3.0,,,,3.0,Business
+Currency,,,,,3.0,,,,3.0,Others
+Architectural Engineering,,,,,2.0,1.0,,,3.0,Others
+Agronomy,,2.0,,,,1.0,,,3.0,Others
+Jelastic,,,2.0,,,1.0,,,3.0,Information Technology (IT)
+Media Production,,,,,2.0,,,,2.0,Business
+Transport Layer,,,1.0,,,1.0,,,2.0,Information Technology (IT)
+Rent,,,,,1.0,1.0,,,2.0,Others
+Rehabilitation,,,1.0,,,1.0,,,2.0,Others
+Cookies,,,,,2.0,,,,2.0,Information Technology (IT)
+Augmented Reality (AR),,,,,2.0,,,,2.0,Data Science
+Exploit,,,1.0,,1.0,,,,2.0,Information Technology (IT)
+Regional Planning,,,1.0,,1.0,,,,2.0,Business
+Mixed Reality,,,,,2.0,,,,2.0,Computer Science
+Socket Programming,,,1.0,,,1.0,,,2.0,Information Technology (IT)
+Adobe Acrobat,,,,,,2.0,,,2.0,Others
+Network Layer,,,1.0,,,1.0,,,2.0,Information Technology (IT)
+IBM DB2,,,,,,2.0,,,2.0,Computer Science
+Content Management System (CMS),,,,,2.0,,,,2.0,Business
+Verification And Validation,,1.0,,,1.0,,,,2.0,Information Technology (IT)
+Ensemble,,,,1.0,1.0,,,,2.0,Data Science
+Hydroponics,,,,,2.0,,,,2.0,Others
+Socket,,,,,2.0,,,,2.0,Information Technology (IT)
+Rapport Building,,,,,1.0,1.0,,,2.0,Business
+Programming Model,,,1.0,,,1.0,,,2.0,Computer Science
+Mathematical Programming,,,1.0,,1.0,,,,2.0,Others
+Cognitive Psychology,,,1.0,,1.0,,,,2.0,Others
+Mathematical Logic,1.0,1.0,,,,,,,2.0,Others
+Information Science,,2.0,,,,,,,2.0,Others
+Reliability Engineering,,,2.0,,,,,,2.0,Others
+Russian,1.0,,1.0,,,,,,2.0,Others
+Pandas,,,2.0,,,,,,2.0,Computer Science
+Software Process,,1.0,,,,1.0,,,2.0,Computer Science
+Capacity Utilization,,,2.0,,,,,,2.0,Others
+Software Quality Assurance (SQA),1.0,,,,,1.0,,,2.0,Computer Science
+Chemical Processing,,,1.0,,1.0,,,,2.0,Others
+CPLEX,,,1.0,,1.0,,,,2.0,Computer Science
+Gurobi,,,1.0,,1.0,,,,2.0,Computer Science
+Records Management,,,1.0,,,1.0,,,2.0,Business
+Design Analysis,,,1.0,,,1.0,,,2.0,Others
+Marketing Consulting,1.0,,,,,1.0,,,2.0,Business
+Intellectual Property (IP),,,1.0,,1.0,,,,2.0,Business
+Derivative,,,2.0,,,,,,2.0,Others
+Psychology,,,1.0,,1.0,,,,2.0,Others
+Database Development,,,2.0,,,,,,2.0,Computer Science
+Industrial Design,,,1.0,,1.0,,,,2.0,Others
+Crisis Management,1.0,,,,,1.0,,,2.0,Business
+Toxicology,,,1.0,,1.0,,,,2.0,Others
+Network Service,,,1.0,,,1.0,,,2.0,Information Technology (IT)
+Complex Analysis,,,1.0,,1.0,,,,2.0,Others
+Cassandra,,,1.0,,,1.0,,,2.0,Computer Science
+Immunology,,,1.0,,1.0,,,,2.0,Others
+ISO 9000,,,1.0,,1.0,,,,2.0,Computer Science
+Visual Communication,1.0,,,,1.0,,,,2.0,Others
+Embedded System,,,1.0,,,,,,1.0,Computer Science
+Typography,,,1.0,,,,,,1.0,Others
+Microsoft Visio,,,,,,1.0,,,1.0,Data Science
