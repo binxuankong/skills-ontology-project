@@ -276,240 +276,240 @@ Id,Skill,DomainId
 274,Metamodel,2
 275,Methodology,2
 276,Microsoft,2
-277,Microsoft Access,2
-278,Microsoft Excel,2
-279,Microsoft Office,2
-280,Microsoft OneNote,2
-281,Microsoft Outlook,2
-282,Microsoft PowerPoint,2
-283,Microsoft Word,2
-284,Mining and Quarrying,2
-285,Mobile Marketing,2
-286,Music Production,2
-287,Needs Analysis,2
-288,Negotiation,2
-289,Networking,2
-290,Newsletters,2
-291,Newspapers,2
-292,Nonverbal Communication,2
-293,Numerical Competence,2
-294,Objection Handling,2
-295,Objection Prevention,2
-296,Office Administration,2
-297,Office Management,2
-298,Offshoring,2
-299,Online Business,2
-300,Online Marketing,2
-301,Online Media,2
-302,OpenCard,2
-303,Operations Management,2
-304,Oral Communication,2
-305,Organizational Behaviour,2
-306,Organizational Skill,2
-307,Organizational Studies,2
-308,Outline of Management,2
-309,Outreach,2
-310,Outsourcing,2
-311,Page Setup,2
-312,Paid Socia Media Advertisement,2
-313,Pattern Finding,2
-314,Pay-Per-Click (PPC) Marketing,2
-315,Payroll Services,2
-316,Performance Management,2
-317,Performance Review,2
-318,Persuasion,2
-319,Petty Cash Control,2
-320,Photography,2
-321,Pivot Table,2
-322,Planning,2
-323,Point of Sale (POS) Software,2
-324,Policy Analysis,2
-325,Post-Sale Relationship Management,2
-326,Power Management,2
-327,Presentation,2
-328,PrestaShop,2
-329,Pricing System,2
-330,Private Equity,2
-331,Problem Management,2
-332,Problem Solving,2
-333,Process Model,2
-334,Processing,2
-335,Procurement,2
-336,Product,2
-337,Product Development,2
-338,Product Knowledge,2
-339,Product Liability,2
-340,Product Lifecycle Management (PLM),2
-341,Product Management,2
-342,Product Marketing,2
-343,Product Roadmap,2
-344,Product Testing,2
-345,Production,2
-346,Production Process,2
-347,Productivity Software Application,2
-348,Professional Training,2
-349,Programming,2
-350,Project Management,2
-351,Project Planning,2
-352,Project Supervision,2
-353,Property,2
-354,Property Information,2
-355,Property Maintenance,2
-356,Property Management,2
-357,Property Management Software,2
-358,Property Management System,2
-359,Property Tax,2
-360,Public Equity,2
-361,Public Relations (PR),2
-362,Public Relations and Communications,2
-363,Public Speaking,2
-364,Publishing,2
-365,QA Testing,2
-366,Qualification Questioning,2
-367,Qualitative Marketing Research,2
-368,Quality Assurance (QA),2
-369,Quality Control,2
-370,Quality Management,2
-371,Quantitative Marketing Research,2
-372,Quantitative Report,2
-373,Quantitative Research,2
-374,Quickbooks,2
-375,Radio Production,2
-376,Rally,2
-377,Rapport Building,2
-378,Real Estate,2
-379,Real Property,2
-380,Reasoning,2
-381,Records Management,2
-382,Recruiting,2
-383,Regional Planning,2
-384,Report Analysis,2
-385,Reporting,2
-386,Requirement Analysis,2
-387,Requirements Gathering,2
-388,Research,2
-389,Research and Development (R&D),2
-390,Resource Management,2
-391,Retail,2
-392,Retail Packaging,2
-393,Revenue Recognition,2
-394,Risk Analysis,2
-395,Risk Management,2
-396,Root Cause Analysis,2
-397,Sales,2
-398,Sales Leadership,2
-399,Sales Management,2
-400,Sales Operations,2
-401,Sales Presentation,2
-402,Salesforce,2
-403,SAP BusinessObjects,2
-404,Scheduling,2
-405,Scorecard,2
-406,Search Engine and Keyword Optimization,2
-407,Search Engine Marketing (SEM),2
-408,Search Engine Optimization (SEO),2
-409,Service,2
-410,Service Management,2
-411,Shopify,2
-412,Slack,2
-413,SmartArt,2
-414,Sociability,2
-415,Social Accounting,2
-416,Social Media Analytics,2
-417,Social Media Management,2
-418,Social Media Marketing,2
-419,Social Network Advertising,2
-420,Social Network Analysis,2
-421,Social Selling,2
-422,Software Business Analysis,2
-423,Source Checking,2
-424,Stock Market,2
-425,Storytelling,2
-426,Strategic Management,2
-427,Strategic Planning,2
-428,Strategic Prospecting,2
-429,Subject Matter Expert (SME),2
-430,Supply Chain Management,2
-431,Supply Chain Risk Management,2
-432,System Context Diagram,2
-433,Systems Management,2
-434,Table,2
-435,Talent Management,2
-436,Target Audience,2
-437,Task Delegation,2
-438,Task Management,2
-439,Tax,2
-440,Tax Accounting,2
-441,Team Building,2
-442,Teamwork,2
-443,Technical Writing,2
-444,Technology Management,2
-445,Telemarketing,2
-446,Template,2
-447,Template Building,2
-448,Territory Management,2
-449,Text Box,2
-450,Time Management,2
-451,Todoist,2
-452,Track Changes,2
-453,Trade,2
-454,Training,2
-455,Transportation,2
-456,Trello,2
-457,Underwriting,2
-458,Venture Capiral,2
-459,Venture Capital (VC),2
-460,VersionOne,2
-461,Video Production,2
-462,Viral Marketing,2
-463,VOIP,2
-464,Wireframes,2
-465,WooCommerce,2
-466,Word Processor,2
-467,WordPress,2
-468,Working Capital,2
-469,Writing,2
-470,Written Communication,2
-471,Yardi,2
-472,Yoast,2
-473,Zapier,2
-474,Zoom,2
-475,.NET Framework,3
-476,2D Computer Graphics,3
-477,3D Computer Graphics,3
-478,3D Modelling Software,3
-479,A/B Testing,3
-480,Abstract Data Type,3
-481,Abstract Syntax Notation One,3
-482,Abstract Syntax Tree,3
-483,Access Query Languages,3
-484,Ada,3
-485,Adaptive Software Development (ASD),3
-486,Agile,3
-487,Agile Software Development,3
-488,Ajax,3
-489,ALGOL,3
-490,Algorithm,3
-491,Algorithm Design,3
-492,Algorithmic Trading,3
-493,Amazon EC2,3
-494,Amazon EMR,3
-495,Amazon Relational Database Service,3
-496,Anaconda,3
-497,Analysis of Algorithm,3
-498,Android,3
-499,Android Debug Bridge,3
-500,Angular,3
-501,Ansible,3
-502,Apache,3
-503,Apache Ant,3
-504,Apache Cassandra,3
-505,Apache Cordova,3
-506,Apache Druid,3
-507,Apache Groovy,3
-508,Apache Hadoop,3
-509,Apache Hbase,3
-510,Apache Hive,3
+277,Microsoft Excel,2
+278,Microsoft Office,2
+279,Microsoft OneNote,2
+280,Microsoft Outlook,2
+281,Microsoft PowerPoint,2
+282,Microsoft Word,2
+283,Mining and Quarrying,2
+284,Mobile Marketing,2
+285,Music Production,2
+286,Needs Analysis,2
+287,Negotiation,2
+288,Networking,2
+289,Newsletters,2
+290,Newspapers,2
+291,Nonverbal Communication,2
+292,Numerical Competence,2
+293,Objection Handling,2
+294,Objection Prevention,2
+295,Office Administration,2
+296,Office Management,2
+297,Offshoring,2
+298,Online Business,2
+299,Online Marketing,2
+300,Online Media,2
+301,OpenCard,2
+302,Operations Management,2
+303,Oral Communication,2
+304,Organizational Behaviour,2
+305,Organizational Skill,2
+306,Organizational Studies,2
+307,Outline of Management,2
+308,Outreach,2
+309,Outsourcing,2
+310,Page Setup,2
+311,Paid Socia Media Advertisement,2
+312,Pattern Finding,2
+313,Pay-Per-Click (PPC) Marketing,2
+314,Payroll Services,2
+315,Performance Management,2
+316,Performance Review,2
+317,Persuasion,2
+318,Petty Cash Control,2
+319,Photography,2
+320,Pivot Table,2
+321,Planning,2
+322,Point of Sale (POS) Software,2
+323,Policy Analysis,2
+324,Post-Sale Relationship Management,2
+325,Power Management,2
+326,Presentation,2
+327,PrestaShop,2
+328,Pricing System,2
+329,Private Equity,2
+330,Problem Management,2
+331,Problem Solving,2
+332,Process Model,2
+333,Processing,2
+334,Procurement,2
+335,Product,2
+336,Product Development,2
+337,Product Knowledge,2
+338,Product Liability,2
+339,Product Lifecycle Management (PLM),2
+340,Product Management,2
+341,Product Marketing,2
+342,Product Roadmap,2
+343,Product Testing,2
+344,Production,2
+345,Production Process,2
+346,Productivity Software Application,2
+347,Professional Training,2
+348,Programming,2
+349,Project Management,2
+350,Project Planning,2
+351,Project Supervision,2
+352,Property,2
+353,Property Information,2
+354,Property Maintenance,2
+355,Property Management,2
+356,Property Management Software,2
+357,Property Management System,2
+358,Property Tax,2
+359,Public Equity,2
+360,Public Relations (PR),2
+361,Public Relations and Communications,2
+362,Public Speaking,2
+363,Publishing,2
+364,QA Testing,2
+365,Qualification Questioning,2
+366,Qualitative Marketing Research,2
+367,Quality Assurance (QA),2
+368,Quality Control,2
+369,Quality Management,2
+370,Quantitative Marketing Research,2
+371,Quantitative Report,2
+372,Quantitative Research,2
+373,Quickbooks,2
+374,Radio Production,2
+375,Rally,2
+376,Rapport Building,2
+377,Real Estate,2
+378,Real Property,2
+379,Reasoning,2
+380,Records Management,2
+381,Recruiting,2
+382,Regional Planning,2
+383,Report Analysis,2
+384,Reporting,2
+385,Requirement Analysis,2
+386,Requirements Gathering,2
+387,Research,2
+388,Research and Development (R&D),2
+389,Resource Management,2
+390,Retail,2
+391,Retail Packaging,2
+392,Revenue Recognition,2
+393,Risk Analysis,2
+394,Risk Management,2
+395,Root Cause Analysis,2
+396,Sales,2
+397,Sales Leadership,2
+398,Sales Management,2
+399,Sales Operations,2
+400,Sales Presentation,2
+401,Salesforce,2
+402,SAP BusinessObjects,2
+403,Scheduling,2
+404,Scorecard,2
+405,Search Engine and Keyword Optimization,2
+406,Search Engine Marketing (SEM),2
+407,Search Engine Optimization (SEO),2
+408,Service,2
+409,Service Management,2
+410,Shopify,2
+411,Slack,2
+412,SmartArt,2
+413,Sociability,2
+414,Social Accounting,2
+415,Social Media Analytics,2
+416,Social Media Management,2
+417,Social Media Marketing,2
+418,Social Network Advertising,2
+419,Social Network Analysis,2
+420,Social Selling,2
+421,Software Business Analysis,2
+422,Source Checking,2
+423,Stock Market,2
+424,Storytelling,2
+425,Strategic Management,2
+426,Strategic Planning,2
+427,Strategic Prospecting,2
+428,Subject Matter Expert (SME),2
+429,Supply Chain Management,2
+430,Supply Chain Risk Management,2
+431,System Context Diagram,2
+432,Systems Management,2
+433,Table,2
+434,Talent Management,2
+435,Target Audience,2
+436,Task Delegation,2
+437,Task Management,2
+438,Tax,2
+439,Tax Accounting,2
+440,Team Building,2
+441,Teamwork,2
+442,Technical Writing,2
+443,Technology Management,2
+444,Telemarketing,2
+445,Template,2
+446,Template Building,2
+447,Territory Management,2
+448,Text Box,2
+449,Time Management,2
+450,Todoist,2
+451,Track Changes,2
+452,Trade,2
+453,Training,2
+454,Transportation,2
+455,Trello,2
+456,Underwriting,2
+457,Venture Capiral,2
+458,Venture Capital (VC),2
+459,VersionOne,2
+460,Video Production,2
+461,Viral Marketing,2
+462,VOIP,2
+463,Wireframes,2
+464,WooCommerce,2
+465,Word Processor,2
+466,WordPress,2
+467,Working Capital,2
+468,Writing,2
+469,Written Communication,2
+470,Yardi,2
+471,Yoast,2
+472,Zapier,2
+473,Zoom,2
+474,.NET Framework,3
+475,2D Computer Graphics,3
+476,3D Computer Graphics,3
+477,3D Modelling Software,3
+478,A/B Testing,3
+479,Abstract Data Type,3
+480,Abstract Syntax Notation One,3
+481,Abstract Syntax Tree,3
+482,Access Query Languages,3
+483,Ada,3
+484,Adaptive Software Development (ASD),3
+485,Agile,3
+486,Agile Software Development,3
+487,Ajax,3
+488,ALGOL,3
+489,Algorithm,3
+490,Algorithm Design,3
+491,Algorithmic Trading,3
+492,Amazon EC2,3
+493,Amazon EMR,3
+494,Amazon Relational Database Service,3
+495,Anaconda,3
+496,Analysis of Algorithm,3
+497,Android,3
+498,Android Debug Bridge,3
+499,Angular,3
+500,Ansible,3
+501,Apache,3
+502,Apache Ant,3
+503,Apache Cassandra,3
+504,Apache Cordova,3
+505,Apache Druid,3
+506,Apache Groovy,3
+507,Apache Hadoop,3
+508,Apache Hbase,3
+509,Apache Hive,3
+510,Apache Impala,3
 511,Apache Kafka,3
 512,Apache Maven,3
 513,Apache Oozie,3
@@ -1159,7 +1159,7 @@ Id,Skill,DomainId
 1157,Virtualization,3
 1158,Visual Basic,3
 1159,Visual Basic .NET,3
-1160,Visual Basic For Applications,3
+1160,Visual Basic For Applications (VBA),3
 1161,Visual Build Pro,3
 1162,Visual C++,3
 1163,Visual Studio,3
@@ -1789,1455 +1789,1454 @@ Id,Skill,DomainId
 1787,Cloud Technology,5
 1788,CloudBolt,5
 1789,Cloudera,5
-1790,Cloudera Impala,5
-1791,Cloudera Manager,5
-1792,CloudStack,5
-1793,CM Browser,5
-1794,Coc Coc Browser,5
-1795,Cocaine,5
-1796,Coherent Remote File System (CRFS),5
-1797,Common Vulnerabilities and Exposures (CVE),5
-1798,Common Vulnerability Scoring System (CVSS),5
-1799,Common Weakness Enumeration (CWE),5
-1800,Comodo Dragon,5
-1801,Comodo IceDragon,5
-1802,CompTIA Security,5
-1803,Computer Access Control,5
-1804,Computer Crime,5
-1805,Computer Fraud,5
-1806,Computer Security,5
-1807,Computer Simulation,5
-1808,Computer Virus,5
-1809,Computer Worm,5
-1810,Computing Platform,5
-1811,Computing Technology,5
-1812,Confluence,5
-1813,Conkeror,5
-1814,Connectionless-Mode Network Service,5
-1815,Consumer Privacy,5
-1816,Cookies,5
-1817,Counter Mode Cipher Block Chaining Message Authentication Code Protocol (CCMP),5
-1818,CPU Socket,5
-1819,Creatio,5
-1820,Critix Cloud,5
-1821,Cryptocurrency,5
-1822,Cryptographic Hash Function,5
-1823,Cryptographic Protocol,5
-1824,Cryptographic Pseudorandom Number Generator (CPRNG),5
-1825,Cryptographically Secure Pseudorandom Number Generator (CSPRNG),5
-1826,Cryptography,5
-1827,CtrlS,5
-1828,Cybercrime,5
-1829,Cybersecurity,5
-1830,Cybersex Trafficking,5
-1831,Cyberwarfare,5
-1832,Data Encryption Standard,5
-1833,Data Link Layer,5
-1834,Data Privacy,5
-1835,Data Privacy Law,5
-1836,Data Security,5
-1837,Data Transmission,5
-1838,Data Transmission Network,5
-1839,Data-centric Security,5
-1840,Database Encryption,5
-1841,Dataflow,5
-1842,Dataflow Architecture,5
-1843,Decision Support System,5
-1844,Denial-of-service (DoS),5
-1845,Deterministic Random Bit Generator (DRBG),5
-1846,Diffie-Hellman Key Exchange,5
-1847,Digital Library,5
-1848,Digital Marketing System,5
-1849,Digital Storage Systems Interconnect,5
-1850,DigitalOcean,5
-1851,Direct-access Attack,5
-1852,Discrete Logarithm,5
-1853,Distance Vector Multicast Routing Protocol,5
-1854,Distance-Vector Routing Protocol,5
-1855,Distributed Denial-of-service (DDoS),5
-1856,Distributed File System,5
-1857,Distributed System Security Architecture,5
-1858,DNS Security Extension,5
-1859,DNS Server,5
-1860,Dolphin Browser,5
-1861,Domain Name System (DNS),5
-1862,Dooble,5
-1863,Dropbox,5
-1864,Dynamic DNS,5
-1865,Dynamic Host Configuration Protocol (DHCP),5
-1866,Eavesdropping,5
-1867,Elastic Load Balancer,5
-1868,Electrical Socket,5
-1869,Electronic Access Control,5
-1870,Electronic Filing System,5
-1871,Electronic Key Management System,5
-1872,Elliptic Curve Cryptography,5
-1873,Emacs Web Wowser (eww),5
-1874,Email Spoofing,5
-1875,EMC Atmos,5
-1876,EMC Cloud Computing,5
-1877,Encrypted Key Exchange,5
-1878,Encrypting File System,5
-1879,Encryption,5
-1880,Encryption Software,5
-1881,Engine Yard,5
-1882,Enhanced Interior Gateway Routing Protocol,5
-1883,Enterprise Information System,5
-1884,Epic,5
-1885,Ethernet,5
-1886,Ethernet Local Area Network,5
-1887,Ethernet Over Twisted Pair,5
-1888,Ethernet Physical Layer,5
-1889,Ethernet VPN (EVPN),5
-1890,Eucalyptus,5
-1891,Exploit,5
-1892,Extensible Authentication Protocol,5
-1893,Falkon,5
-1894,Fast Ethernet,5
-1895,Fibre Channel Over Ethernet,5
-1896,File Format,5
-1897,File System,5
-1898,File System Permission,5
-1899,File Transfer Protocol (FTP),5
-1900,Filesystem-Level Encryption,5
-1901,Financial Privacy,5
-1902,Firewall,5
-1903,Force.com,5
-1904,Fujitsu,5
-1905,Gateway Load Balancing Protocol,5
-1906,GE Predix,5
-1907,Gecko,5
-1908,Gecko-based Web Browser,5
-1909,General Parallel File System,5
-1910,Geographic Information System,5
-1911,Gigabit Ethernet,5
-1912,Global Server Load Balancing,5
-1913,GNOME Web,5
-1914,GNU IceCat,5
-1915,GoGrid,5
-1916,Google Chart API,5
-1917,Google Chrome,5
-1918,Google Cloud Platform (GCP),5
-1919,Google Drive,5
-1920,Google Kubernetes Engine (GKE),5
-1921,Google Services,5
-1922,Google Workspace,5
-1923,GreenButton,5
-1924,GreenQloud,5
-1925,Hadoop Common,5
-1926,Hadoop Ozone,5
-1927,Hadoop YARN,5
-1928,Hardware Random-Number Generator (HRNG),5
-1929,Hardware Security,5
-1930,Helion,5
-1931,Heroku,5
-1932,High Assurance Internet Protocols Encryptor,5
-1933,Hortonworks Sandbox,5
-1934,Hot Standby Router Protocol,5
-1935,HP Cloud,5
-1936,HTTP Live Streaming,5
-1937,HTTP Method,5
-1938,Hyper-V,5
-1939,Hypertext Transfer Protocol (HTTP),5
-1940,Hypertext Transfer Protocol Secure (HTTPS),5
-1941,IBM Cloud,5
-1942,IBM Cloud Computing,5
-1943,IBM Disk Storage System,5
-1944,IBM Resource Access Control Facility,5
-1945,IBM XIV Storage System,5
-1946,iCab,5
-1947,iland,5
-1948,Informatics,5
-1949,Information and Communications Technology (ICT),5
-1950,Information Management,5
-1951,Information Privacy,5
-1952,Information Retrieval,5
-1953,Information Security,5
-1954,Information Storage System,5
-1955,Information System,5
-1956,Information Systems Security,5
-1957,Information Systems Security Assessment Framework (ISSAF),5
-1958,Information Technology (IT),5
-1959,Information Threat,5
-1960,Infrastructure as a Service (IaaS),5
-1961,Inktank,5
-1962,Integrated Service Router,5
-1963,Integrated Windows Authentication,5
-1964,Interior Gateway Routing Protocols,5
-1965,Internet,5
-1966,Internet Explorer,5
-1967,Internet Key Exchange,5
-1968,Internet Layer,5
-1969,Internet Message Access Protocol (IMAP),5
-1970,Internet of Things (IoT),5
-1971,Internet Protocl version 4 (IPv4),5
-1972,Internet Protocl version 6 (IPv6),5
-1973,Internet Protocol (IP),5
-1974,Internet Protocol Suite,5
-1975,Internet Security,5
-1976,Internet Security Association And Key Management Protocol,5
-1977,Intrusion Detection System,5
-1978,IP Address,5
-1979,IP Address Blocking,5
-1980,IP Address Management,5
-1981,IP Address Spoofing,5
-1982,IP Addressing,5
-1983,IP Multicasting,5
-1984,IP Routing,5
-1985,Iplant Web Server,5
-1986,Isilon,5
-1987,IT Operations,5
-1988,Java Cryptography Architecture,5
-1989,Java Cryptography Extension,5
-1990,Java Secure Socket Extension,5
-1991,JavaScript Object Notation (JSON),5
-1992,Jelastic,5
-1993,Journaling File System,5
-1994,Joyent,5
-1995,K-Meleon,5
-1996,Kerberos,5
-1997,Kernel-based Virtual Machine (KVM),5
-1998,Key Management,5
-1999,Key Management Interoperability Protocol,5
-2000,Keylogger,5
-2001,Keystroke Logging,5
-2002,Konqueror,5
-2003,Kubernetes,5
-2004,LenelS2,5
-2005,libguestfs,5
-2006,libvirt,5
-2007,Lightweight Directory Access Protocol (LDAP),5
-2008,Link Aggregation,5
-2009,Link Layer,5
-2010,Link Layer Discovery Protocol,5
-2011,Link Layer Topology Discovery,5
-2012,Link-State Routing Protocol,5
-2013,Links,5
-2014,Linode,5
-2015,Load Balancing,5
-2016,Logic Bomb,5
-2017,Lunacloud,5
-2018,Lunascape,5
-2019,Lynx,5
-2020,MAC Spoofing,5
-2021,Malware,5
-2022,Malware Analysis,5
-2023,Malware Detection,5
-2024,Malwarebytes' Anti-Malware,5
-2025,Maxthon,5
-2026,Media Access Control,5
-2027,Media Gateway Control Protocol (MGCP),5
-2028,Medical Privacy,5
-2029,Medium Access Control,5
-2030,Mendix,5
-2031,Message Authentication Code (MAC),5
-2032,Metro Ethernet,5
-2033,Microsoft Azure,5
-2034,Microsoft Edge,5
-2035,Microsoft Office 365,5
-2036,Microsoft OneDrive,5
-2037,Microsoft Personal Web Server,5
-2038,Midori,5
-2039,MindSphere,5
-2040,Mirantis,5
-2041,Mobile IP,5
-2042,Mobile Security,5
-2043,Mobile Security Gateway,5
-2044,Modular Multiplication-Based Block Cipher (MMB),5
-2045,Monte Carlo Method,5
-2046,Mozilla Firefox,5
-2047,Multi-Factor Authentication,5
-2048,Multicast Address Allocation Server,5
-2049,Multicast Routing Protocol,5
-2050,Multicast Source Discovery Protocol,5
-2051,Multicasting,5
-2052,Multimedia Information System,5
-2053,Multitopology Routing Configuration,5
-2054,Navel Whale,5
-2055,NetFront Browser,5
-2056,Netlify,5
-2057,NetSurf,5
-2058,Network,5
-2059,Network Access Control,5
-2060,Network Architecture,5
-2061,Network Component,5
-2062,Network File System,5
-2063,Network Layer,5
-2064,Network Load Balancing,5
-2065,Network Load Balancing Service,5
-2066,Network Management,5
-2067,Network News Transfer Protocol (NNTP),5
-2068,Network Optimization,5
-2069,Network Performance Evaluation,5
-2070,Network Protocol,5
-2071,Network Routing,5
-2072,Network Scheduler,5
-2073,Network Security,5
-2074,Network Service,5
-2075,Network Socket,5
-2076,Network Time Protocol (NTP),5
-2077,Network Topology,5
-2078,Network-Attached Storage System,5
-2079,Nimbula,5
-2080,Nimbus,5
-2081,NT File System (NTFS),5
-2082,Offensive Security Certified Professional (OSCP),5
-2083,On-Demand Multicast Routing Protocol (ODMRP),5
-2084,Open Access Network (OAN),5
-2085,Open Cloud Computing Interface,5
-2086,OpenIO,5
-2087,OpenNebula,5
-2088,openQRM,5
-2089,OpenShift,5
-2090,OpenStack,5
-2091,Opera,5
-2092,Operations,5
-2093,Optimized Link State Routing Protocol,5
-2094,Oracle Cloud,5
-2095,Oracle VirtualBox,5
-2096,Oracle VM,5
-2097,OrionVM,5
-2098,Otter Browser,5
-2099,OutSystems,5
-2100,Ovirt,5
-2101,Pale Moon,5
-2102,Password,5
-2103,Password Authentication Protocol,5
-2104,Password Cracking,5
-2105,Password Generator,5
-2106,Password Management,5
-2107,Password Policy,5
-2108,Password Safe,5
-2109,Password Synchronization,5
-2110,Password-Authenticated Key Agreement,5
-2111,Payload,5
-2112,Phising,5
-2113,Physical Security,5
-2114,PirateBrowser,5
-2115,Platform as a Service (PaaS),5
-2116,Pluggable Authentication Module (PAM),5
-2117,Post Office Protocol (POP),5
-2118,Precision Time Protocol (PTP),5
-2119,Pretty Good Privacy (PGP),5
-2120,Privacy,5
-2121,Privacy Law,5
-2122,Privilege Escalation,5
-2123,Procedural Generation,5
-2124,Process Control System,5
-2125,Protocol,5
-2126,Protocol Independent Multicast,5
-2127,Pseudorandom Number Generator (PRNG),5
-2128,Public Key Cryptography,5
-2129,Public Key Cryptography Standards (PKCS),5
-2130,Public Key Infrastructure,5
-2131,Public-key Encryption,5
-2132,Puffin Browser,5
-2133,Puppet,5
-2134,PythonAnywhere,5
-2135,QQ Browser,5
-2136,Quantum Cryptography,5
-2137,qutebrowser,5
-2138,Rackspace,5
-2139,Rackspace Cloud,5
-2140,Random Number Generation (RNG),5
-2141,Ransomware,5
-2142,Raw Socket,5
-2143,Red Hat,5
-2144,Remote Authentication Dial In User Service (RADIUS),5
-2145,Right to Financial Privacy Act,5
-2146,RightScale,5
-2147,Rivest-Shamir-Adleman (RSA),5
-2148,Role-Based Access Control (RBAC),5
-2149,Rootkit,5
-2150,Route Management,5
-2151,Router,5
-2152,Routing Protocol,5
-2153,Runtime Application Self-protection,5
-2154,Safari,5
-2155,Safe Swiss Cloud,5
-2156,SalamWeb,5
-2157,Samsung Internet Browser,5
-2158,SAP Cloud Platform,5
-2159,Scalr,5
-2160,Screen Scraper,5
-2161,Scripting,5
-2162,SeaMonkey,5
-2163,Secure by Default,5
-2164,Secure by Design,5
-2165,Secure Coding,5
-2166,Secure Hash Algorithm,5
-2167,Secure Hypertext Transfer Protocol,5
-2168,Secure Password Authentication,5
-2169,Secure Remote Password Protocol,5
-2170,Secure Shell (SSH),5
-2171,Secure Socket Layer (SSL),5
-2172,Security,5
-2173,Security Exploit,5
-2174,Security Management,5
-2175,Security-focused Operating System,5
-2176,Sentry,5
-2177,Simple Password Exponential Key Exchange (SPEKE),5
-2178,Simple Public Key Infrastructure,5
-2179,Sleipnir,5
-2180,SlimBrowser,5
-2181,Social Engineering,5
-2182,Social Information System,5
-2183,Social Security,5
-2184,Socket,5
-2185,Socket Programming,5
-2186,Socket.io,5
-2187,Socketserver,5
-2188,SoftLayer,5
-2189,Source-Specific Multicast,5
-2190,Spoofing,5
-2191,Sputnik,5
-2192,Spyware,5
-2193,SQL Injection,5
-2194,SRWare Iron,5
-2195,Steganography,5
-2196,Storage Management,5
-2197,Storage System,5
-2198,Stream Cipher,5
-2199,Stream Processing,5
-2200,Stream Restoration,5
-2201,Streaming,5
-2202,Subnet,5
-2203,Subnetwork,5
-2204,Substitution Cipher,5
-2205,Support,5
-2206,surf,5
-2207,Symmetric-key Encryption,5
-2208,System Administration,5
-2209,System Analysis,5
-2210,Tabular Data Stream,5
-2211,Tampering,5
-2212,Technical Support,5
-2213,Telecommunication,5
-2214,TenFourFox,5
-2215,Terminal Access Controller Access-Control System (TACACS),5
-2216,Tor,5
-2217,Transmission Control Protocol (TCP),5
-2218,Transport Layer,5
-2219,Transport Layer Security (TLS),5
-2220,UC Browser,5
-2221,Uniform Resource Identifier (URI) Scheme,5
-2222,Unix File System,5
-2223,User Datagram Protocol (UDP),5
-2224,Value Stream Mapping,5
-2225,Verification And Validation,5
-2226,Virtual IP Address,5
-2227,Virtual Network,5
-2228,Virtual Private Cloud OnDemand,5
-2229,Virtual Router Redundancy Protocol,5
-2230,Visual Cryptography,5
-2231,Vivaldi,5
-2232,Vmware ESXi,5
-2233,Vmware vCloud Air,5
-2234,Vulnerability,5
-2235,VxLAN (Virtual Extensible LAN),5
-2236,w3m,5
-2237,Wakame-vdc,5
-2238,Waterfox,5
-2239,WaveMaker,5
-2240,Web API,5
-2241,Web Application Security,5
-2242,Web Browser,5
-2243,Web Server,5
-2244,Web Server Gateway Interface,5
-2245,Web Server Software,5
-2246,Web Shell,5
-2247,WebKit,5
-2248,WebKit-based Web Browser,5
-2249,Wireless Application Protocol (WAP),5
-2250,Wireless Distribution System,5
-2251,Wireless Engineering,5
-2252,Wireless LAN,5
-2253,Wireless LAN Controllers,5
-2254,Wireless Network,5
-2255,Wireless Paging System,5
-2256,Wireless Routing Protocol,5
-2257,Wireless Security,5
-2258,Wireless Site Survey,5
-2259,Workday,5
-2260,World Wide Web (WWW),5
-2261,Xen,5
-2262,Xen Cloud Platform,5
-2263,XML Encryption,5
-2264,XML Interface For Network Service,5
-2265,XtremIO,5
-2266,Yandex Browser,5
-2267,Zadara Storage,5
-2268,Zeus Web Server,5
-2269,Zoho,5
-2270,Abstract Algebra,6
-2271,Addition,6
-2272,Algebra,6
-2273,Algebraic Geometry,6
-2274,Algebraic Number Theory,6
-2275,Algebraic Topology,6
-2276,Analytic Geometry,6
-2277,Analytic Number Theory,6
-2278,Applied Mathematics,6
-2279,Approximation,6
-2280,Arithmetic,6
-2281,Arithmetic Geometry,6
-2282,Basic Calculus,6
-2283,Bayesian,6
-2284,Bilateral Monopoly,6
-2285,Branch and Bound,6
-2286,Calculus,6
-2287,Coding Theory,6
-2288,Combinatorial Geometry,6
-2289,Combinatorial Number Theory,6
-2290,Combinatorics,6
-2291,Complex Analysis,6
-2292,Computability Theory,6
-2293,Computational Geometry,6
-2294,Computational Number Theory,6
-2295,Conic Sections,6
-2296,Constructive Mathematics,6
-2297,Convex Geometry,6
-2298,Coordinate Geometry,6
-2299,Covariance Matrix,6
-2300,Curvature,6
-2301,Decimal,6
-2302,Decision Theory,6
-2303,Derivative,6
-2304,Descriptive Geometry,6
-2305,Differential Geometry,6
-2306,Differential Topology,6
-2307,Differentiation,6
-2308,Digital Geometry,6
-2309,Diophantine Geometry,6
-2310,Discrete Geometry,6
-2311,Discrete Mathematics,6
-2312,Division,6
-2313,Econometrics,6
-2314,Elementary Algebra,6
-2315,Elementary Number Theory,6
-2316,Enumerative Combinatorics,6
-2317,Euclidean Geometry,6
-2318,External Combinatorics,6
-2319,Formal Logic,6
-2320,Fractal Geometry,6
-2321,Fraction,6
-2322,Function,6
-2323,General Topology,6
-2324,Geometric Number Theory,6
-2325,Geometry,6
-2326,Gradient Descent,6
-2327,Graph,6
-2328,Graph Theory,6
-2329,Induction,6
-2330,Informal Logic,6
-2331,Input-output Model,6
-2332,Integer,6
-2333,Lambda Calculus,6
-2334,Linear Algebra,6
-2335,Linear Algebra Package (LAPACK),6
-2336,Linear Programming,6
-2337,Logic,6
-2338,Mathematical Analysis,6
-2339,Mathematical Economics,6
-2340,Mathematical Finance,6
-2341,Mathematical Function,6
-2342,Mathematical Logic,6
-2343,Mathematical Modelling,6
-2344,Mathematical Optimization,6
-2345,Mathematical Physics,6
-2346,Mathematical Programming,6
-2347,Mathematics,6
-2348,Mathematics Foundations,6
-2349,MATLAB,6
-2350,Matrix Algebra,6
-2351,Mechanism Design,6
-2352,Model Theory,6
-2353,Money Creation,6
-2354,Money Demand,6
-2355,Money Supply,6
-2356,Multiplication,6
-2357,Multivariate Calculus,6
-2358,Natural Number,6
-2359,Network Theory,6
-2360,Number Representation,6
-2361,Number Theory,6
-2362,Numerical Differentiation,6
-2363,Numerical Integration,6
-2364,Numerical Linear Algebra,6
-2365,Numerical Method,6
-2366,Operations Research,6
-2367,Polyhedra,6
-2368,Polytope,6
-2369,Predicate Logic,6
-2370,Proof Theory,6
-2371,Propositional Logic,6
-2372,Pure Mathematics,6
-2373,Relation Algebra,6
-2374,Riemannian Geometry,6
-2375,Set,6
-2376,Set Theory,6
-2377,Subtraction,6
-2378,Syllogistic Logic,6
-2379,Symbolic Logic,6
-2380,Topology,6
-2381,Track Geometry,6
-2382,Transcendental Number Theory,6
-2383,Univariate Calculus,6
-2384,Active Listening,1
-2385,Ad Design,1
-2386,Adobe Acrobat,1
-2387,Adobe Creative Application,1
-2388,Adobe Illustrator,1
-2389,Adobe InDesign,1
-2390,Adobe Photoshop,1
-2391,Aesthetics,1
-2392,Animation,1
-2393,Anthropolocial Linguistics,1
-2394,Anthropology,1
-2395,Anthropology of Religion,1
-2396,Anthrozoology,1
-2397,Applied Anthropology,1
-2398,Applied Linguistics,1
-2399,Archaeology,1
-2400,Art History,1
-2401,Arts,1
-2402,Arts and Crafts,1
-2403,Audio,1
-2404,Audio Format,1
-2405,Behavioral Geography,1
-2406,Bengali,1
-2407,Bhojpuri,1
-2408,Biolinguistics,1
-2409,Burmese,1
-2410,Canon Law,1
-2411,Cartography,1
-2412,Children Geography,1
-2413,Clinical Linguistics,1
-2414,Coaching,1
-2415,Cognitive Linguistics,1
-2416,Cognitive Science,1
-2417,Colour Sense,1
-2418,Colour Theory,1
-2419,Commercial Photography,1
-2420,Communication Studies,1
-2421,Comparative Linguistics,1
-2422,Computational Linguistics,1
-2423,Computational Social Science,1
-2424,Computer Game,1
-2425,Conceptual Art,1
-2426,Cooking,1
-2427,Corel Draw,1
-2428,Creativity,1
-2429,Critical Geography,1
-2430,Culinary Art,1
-2431,Cultural  Geography,1
-2432,Cultural Anthropology,1
-2433,Cultural Studies,1
-2434,Dance,1
-2435,Descriptive Decision Theory,1
-2436,Design,1
-2437,Design Analysis,1
-2438,Development Geography,1
-2439,Development Linguistics,1
-2440,Dialectology,1
-2441,Dialectometry,1
-2442,Digital Art,1
-2443,Digital Image,1
-2444,Digital Media,1
-2445,Digital Printing,1
-2446,Discourse Analysis,1
-2447,Dreamweaver,1
-2448,Eastern Punjabi,1
-2449,Egyptian Arabic,1
-2450,English,1
-2451,Entertainment,1
-2452,Epistemology,1
-2453,Ethics,1
-2454,Ethnobiology,1
-2455,Ethnobotany,1
-2456,Ethnography,1
-2457,Ethnology,1
-2458,Ethnopoetics,1
-2459,Etymology,1
-2460,Evolutionary Anthropology,1
-2461,Evolutionary Linguistics,1
-2462,Experimental Archaeology,1
-2463,Facebook,1
-2464,Feminist Geography,1
-2465,Fine Art,1
-2466,Folkloristics,1
-2467,Food,1
-2468,Foreign Language,1
-2469,Forensic Linguistics,1
-2470,Free Hand,1
-2471,French,1
-2472,Game Design,1
-2473,Game Development,1
-2474,Gamification,1
-2475,Gastronomy,1
-2476,Gender and Sexuality Studies,1
-2477,Geography,1
-2478,Geolinguistics,1
-2479,German,1
-2480,Gerontology,1
-2481,Graphic Design,1
-2482,Gujarati,1
-2483,Hakka Chinese,1
-2484,Hausa,1
-2485,Health Geography,1
-2486,Hindi,1
-2487,Hindu Law,1
-2488,Historical Archaeology,1
-2489,Historical Geography,1
-2490,Historical Linguistics,1
-2491,History,1
-2492,History Of Linguistics,1
-2493,History Of Psychology,1
-2494,Human Geography,1
-2495,Humanities,1
-2496,Image,1
-2497,Indonesian,1
-2498,Industrial Design,1
-2499,Infographics,1
-2500,Instagram,1
-2501,Interactive Media,1
-2502,Interactive Media Design,1
-2503,Interior Design,1
-2504,Iranian Persian,1
-2505,Italian,1
-2506,Jain Law,1
-2507,Japanese,1
-2508,Javanese,1
-2509,Jewish Law,1
-2510,Jin Chinese,1
-2511,Journalism,1
-2512,Kannada,1
-2513,Korean,1
-2514,Language,1
-2515,Language Acquisition,1
-2516,Language Learning,1
-2517,Legal Archaeology,1
-2518,Legal Fiction,1
-2519,Lexis,1
-2520,Linguistic Anthropology,1
-2521,Linguistic History,1
-2522,Linguistic Typology,1
-2523,Linguistics,1
-2524,LinkedIn,1
-2525,Literature,1
-2526,Localization,1
-2527,Logo Creation,1
-2528,Maithili,1
-2529,Malay,1
-2530,Malayalam,1
-2531,Mandarin Chinese,1
-2532,Marathi,1
-2533,Marxist Geography,1
-2534,Media,1
-2535,Media Studies,1
-2536,Medical Anthropology,1
-2537,Military Geography,1
-2538,Min Nan Chinese,1
-2539,Mobile Application Development,1
-2540,Mobile Game,1
-2541,Morphology,1
-2542,Motion Film,1
-2543,Motion Pictures,1
-2544,Music,1
-2545,Neurolinguistics,1
-2546,News,1
-2547,News Writing,1
-2548,Normative Decision Theory,1
-2549,Odia,1
-2550,Orthography,1
-2551,Performing Art,1
-2552,Periscope,1
-2553,Personal Coaching,1
-2554,Philology,1
-2555,Philosophy,1
-2556,Philosophy of Education,1
-2557,Philosophy of Language,1
-2558,Philosophy of Mathematics,1
-2559,Philosophy of Mind,1
-2560,Philosophy of Science,1
-2561,Phislophy of Information,1
-2562,Phonetics,1
-2563,Phonology,1
-2564,Photo Editing,1
-2565,Phraseology,1
-2566,Physical Anthropology,1
-2567,Physical Geography,1
-2568,Polish,1
-2569,Polotical Philosophy,1
-2570,Population Geography,1
-2571,Portuguese,1
-2572,Poster,1
-2573,Poster Design,1
-2574,Pragmatics,1
-2575,Professional Sports,1
-2576,Prototyping,1
-2577,Psycholinguistics,1
-2578,Psychological Anthropology,1
-2579,Radio,1
-2580,Recreation,1
-2581,Regional Geography,1
-2582,Religious Studies,1
-2583,Responsive Design,1
-2584,Russian,1
-2585,Semantics,1
-2586,Sharia,1
-2587,Sketch,1
-2588,Social Geography,1
-2589,Social Media,1
-2590,Social Media Platform,1
-2591,Social Philosophy,1
-2592,Sociolinguistics,1
-2593,Sound Design,1
-2594,Spanish,1
-2595,Speech and Language Pathology,1
-2596,Speech Science,1
-2597,Sports,1
-2598,Sports Coaching,1
-2599,Storyboarding,1
-2600,Strategic Geography,1
-2601,Stylistics,1
-2602,Syntax,1
-2603,Tamil,1
-2604,Telegram,1
-2605,Television,1
-2606,Telugu,1
-2607,Theatre,1
-2608,TikTok,1
-2609,Time Geography,1
-2610,Tourism Geography,1
-2611,Translation,1
-2612,Turkish,1
-2613,Twitter,1
-2614,Typography,1
-2615,Unity,1
-2616,Urban Geography,1
-2617,Urdu,1
-2618,User Experience (UX),1
-2619,User Experience Design,1
-2620,User Experience Research Methodology,1
-2621,User Modelling,1
-2622,UX Design,1
-2623,UX Research,1
-2624,UX Research Methodology,1
-2625,Vector Graphics,1
-2626,Video,1
-2627,Video Game Development,1
-2628,Video Game Graphics,1
-2629,Vietnamese,1
-2630,Visual Art,1
-2631,Visual Communication,1
-2632,Western Punjabi,1
-2633,Wireframing,1
-2634,World History,1
-2635,Writing Systems,1
-2636,Wu Chinese,1
-2637,Xiang Chinese,1
-2638,Yoruba,1
-2639,Youtube,1
-2640,Yue Chinese,1
-2641,Zooarchaeology,1
-2642,Accoustical Engineering,0
-2643,Aeronautical Engineering,0
-2644,Aerospace,0
-2645,Aerospace Engineering,0
-2646,Agricultural Engineering,0
-2647,Agricultural Production,0
-2648,Agricultural Science,0
-2649,Agriculture,0
-2650,Agronomy,0
-2651,Aircraft Management,0
-2652,Airforce,0
-2653,Amorphous Metals,0
-2654,Animal Husbandry,0
-2655,Apparel,0
-2656,Applied Engineering,0
-2657,Applied Physics,0
-2658,Aquaculture,0
-2659,Arboriculture,0
-2660,Architectonics,0
-2661,Architectural Engineering,0
-2662,Architecture,0
-2663,Astronautical Engineering,0
-2664,Astronautics,0
-2665,AutoCAD,0
-2666,Automotive,0
-2667,Automotive Engineering,0
-2668,Aviation,0
-2669,Aviation and Aerospace,0
-2670,Bioengineering,0
-2671,Biological Engineering,0
-2672,Biomaterials Engineering,0
-2673,Biomedical Engineering,0
-2674,Bionics,0
-2675,Biotechnology,0
-2676,Broadcast Engineering,0
-2677,Building Science,0
-2678,Carpentry,0
-2679,Casting,0
-2680,Ceramic Engineering,0
-2681,Chemical,0
-2682,Chemical Engineering,0
-2683,Civil Engineering,0
-2684,CODE V,0
-2685,Combat Engineering,0
-2686,Composite Materials,0
-2687,Computer Engineering,0
-2688,Computer-Aided Manufacturing (CAM),0
-2689,Construction Engineering,0
-2690,Contract Research Organization (CRO),0
-2691,Control Engineering,0
-2692,Control System,0
-2693,Control System Design,0
-2694,Corrosion Engineering,0
-2695,Crystal Engineering,0
-2696,Drilling Engineering,0
-2697,Electrical and Electronic Manufacturing,0
-2698,Electrical Engineering,0
-2699,Electromechanical Engineering,0
-2700,Electromechanics,0
-2701,Electronic and Electrical Engineering,0
-2702,Electronic Control Systems,0
-2703,Electronic Engineering,0
-2704,Electronic Materials,0
-2705,Electronics,0
-2706,Energy Technology,0
-2707,Engineering,0
-2708,Engineering Physics,0
-2709,Engineering Psychology,0
-2710,Engineering Technology,0
-2711,Environmental Data Analysis,0
-2712,Environmental Engineering,0
-2713,Ergonomics,0
-2714,ETAP,0
-2715,Facilities Engineering,0
-2716,Floriculture,0
-2717,Food Production,0
-2718,Food Science,0
-2719,Forensic Materials Engineering,0
-2720,Forensic Science,0
-2721,Forestry,0
-2722,Genetic Engineering,0
-2723,Geotechnical Engineering,0
-2724,Health Science,0
-2725,Horticulture,0
-2726,Hydro Engineering,0
-2727,Hydroculture,0
-2728,Hydroponics,0
-2729,Industrial Automation,0
-2730,Industrial Engineering,0
-2731,Information Engineering,0
-2732,Instrumentaion Engineering,0
-2733,Instrumentation,0
-2734,Interferometer,0
-2735,LabVIEW,0
-2736,Landscape Architecture,0
-2737,Language Engineering,0
-2738,Logistic Engineering,0
-2739,Machinery,0
-2740,Machining,0
-2741,Maintanence,0
-2742,Manufacturing Engineering,0
-2743,Manufacturing Operations,0
-2744,Marine Engineering,0
-2745,Materials Engineering,0
-2746,Materials Science,0
-2747,Mechanical Engineering,0
-2748,Mechatronics,0
-2749,Metabolic Engineering,0
-2750,Metal Forming,0
-2751,Metallurgical Engineering,0
-2752,Metals,0
-2753,Metrology,0
-2754,Microtechnology,0
-2755,Military Education,0
-2756,Military Engineering,0
-2757,Military History,0
-2758,Military Organization,0
-2759,Military Science,0
-2760,Military Strategy and Tactics,0
-2761,Military Technology Engineering,0
-2762,Military Training,0
-2763,Mining,0
-2764,Mining Engineering,0
-2765,Molecular Engineering,0
-2766,Motion Control,0
-2767,Motion Control System,0
-2768,Multisim,0
-2769,Nano Materials,0
-2770,Nanotechnology,0
-2771,Naval Architecture,0
-2772,Neural Engineering,0
-2773,Nuclear Engineering,0
-2774,Nuclear Technology,0
-2775,Nursing Informatics,0
-2776,Oil and Energy,0
-2777,Oil and Gas,0
-2778,Optical Engineering,0
-2779,Optical System,0
-2780,Optics,0
-2781,OpticStudio,0
-2782,Performance Engineering,0
-2783,Permaculture,0
-2784,Photogrammetry,0
-2785,Plastics,0
-2786,Plastics Engineering,0
-2787,Polymer Engineering,0
-2788,Power Systems Engineering,0
-2789,Precision Engineering,0
-2790,Process Engineering,0
-2791,Processor,0
-2792,Pspice,0
-2793,Quality Engineering,0
-2794,Radiation Engineering,0
-2795,Radiation Protection Engineering,0
-2796,Reliability Engineering,0
-2797,Repair,0
-2798,Safety Engineering,0
-2799,Science and Technology Studies,0
-2800,Scientific Method,0
-2801,Security Engineering,0
-2802,Semiconductors,0
-2803,Silviculture,0
-2804,Simulink,0
-2805,Space Exploration,0
-2806,Spatial Science,0
-2807,Sports Engineering,0
-2808,Structural Engineering,0
-2809,Support Engineering,0
-2810,Surface Engineering,0
-2811,Sustainability Studies,0
-2812,Sustainable Development,0
-2813,Systems Engineering,0
-2814,Systems Science,0
-2815,Systems Theory,0
-2816,Telecommunications Engineering,0
-2817,Textiles,0
-2818,Thermal Engineering,0
-2819,Tissue Engineering,0
-2820,Transportation Engineering,0
-2821,Urban Engineering,0
-2822,Urban Planning,0
-2823,Vacuum Engineering,0
-2824,Vitreous Materials,0
-2825,Water Engineering,0
-2826,Welding,0
-2827,"Absorption, Distribution, Metabolism, and Excretion (ADME)",7
-2828,Adaptive Expectations,7
-2829,Alternative Medicine,7
-2830,Anatomy,7
-2831,Anesthesiology,7
-2832,Animal Health,7
-2833,Astronomy,7
-2834,Atomic Physics,7
-2835,Basic Science,7
-2836,Biochemistry,7
-2837,Biodistribution,7
-2838,Biogeography,7
-2839,Biology,7
-2840,Biomedicine,7
-2841,Biostatistics,7
-2842,Botany,7
-2843,Cardiology,7
-2844,Chemical Processing,7
-2845,Chemistry,7
-2846,Classical Mechanics,7
-2847,Climatology,7
-2848,Coastal Geography,7
-2849,Condensed Matter Physics,7
-2850,Conservation Medicine,7
-2851,Cosmology,7
-2852,Dentistry,7
-2853,Dermatology,7
-2854,Earth Science,7
-2855,Ecology,7
-2856,Electroencephalogram (EEG),7
-2857,Electromagnetism,7
-2858,Endocrinology,7
-2859,Environmental Geography,7
-2860,Environmental Science,7
-2861,Environmental Technology,7
-2862,Evolutionary Biology,7
-2863,Family Medicine,7
-2864,Fisheries Science,7
-2865,Fluid Mechanics,7
-2866,Functional Magnetic Resonance Imaging (fMRI),7
-2867,Gastroenterology,7
-2868,General Surgery,7
-2869,Genetic Algorithm,7
-2870,Genomics,7
-2871,Geology,7
-2872,Geomorphology,7
-2873,Glaciology,7
-2874,Gynecology,7
-2875,Health Informatics,7
-2876,Healthcare,7
-2877,Healthcare Management,7
-2878,High-Energy Partical Physics,7
-2879,Human Anatomy,7
-2880,Hydrology,7
-2881,Immunogenicity,7
-2882,Immunology,7
-2883,Internal Medicine,7
-2884,Investigational New Drug (IND),7
-2885,Landscape Ecology,7
-2886,Life Science,7
-2887,Maximum Absorbable Dose (MAD),7
-2888,Mechanics,7
-2889,Mechanics of Deformable Solids,7
-2890,Mechanics of Structures,7
-2891,Medicine,7
-2892,Meteorology,7
-2893,Microbiology,7
-2894,Modelling & Simulation (M&S),7
-2895,Molecular Biology,7
-2896,Molecular Physics,7
-2897,Neurology,7
-2898,Nuclear Physics,7
-2899,Nursing,7
-2900,Nutrition,7
-2901,Oceanography,7
-2902,Oncology,7
-2903,Ophthalmology,7
-2904,Optometry,7
-2905,Organic Chemistry,7
-2906,Palaeogeography,7
-2907,Particle Mechanics,7
-2908,Pathology,7
-2909,Pathophysiology,7
-2910,Patient Care,7
-2911,Pediatrics,7
-2912,Pharmaceutical Manufacturing,7
-2913,Pharmaceutics,7
-2914,Pharmacodynamics (PD),7
-2915,Pharmacokinetics (PK),7
-2916,Pharmacology,7
-2917,Pharmacy,7
-2918,Photonics,7
-2919,Physical,7
-2920,Physical Medicine,7
-2921,Physical Science,7
-2922,Physical Therapy,7
-2923,Physics,7
-2924,Physiology,7
-2925,PK/PD (PKPD) Modelling,7
-2926,Polymerase chain reaction (PCR),7
-2927,Psychiatry,7
-2928,Psychology,7
-2929,Public Health,7
-2930,Quantitative Polymerase Chain Reaction (qPCR),7
-2931,Quantum Mechanics,7
-2932,Radiology,7
-2933,Rational Expectations,7
-2934,Real-time Polymerase Chain Reaction (real-time PCR),7
-2935,Rehabilitation,7
-2936,Relativistic Mechanics,7
-2937,Soil Geography,7
-2938,Space Science,7
-2939,Statistical Mechanis,7
-2940,Sustainability,7
-2941,Thermodynamics,7
-2942,Toxicology,7
-2943,Tumor Immunity,7
-2944,Urology,7
-2945,Veterinary,7
-2946,Veterinary Medicine,7
-2947,Zoology,7
-2948,Administrative Law,8
-2949,Aggregate Demand,8
-2950,Aggregation Problem,8
-2951,Agricultural Economics,8
-2952,Agricultural Law,8
-2953,Algorithmic Bias,8
-2954,Amnesty Law,8
-2955,Applied Economics,8
-2956,Applied Psychology,8
-2957,Average Cost,8
-2958,Aviation Law,8
-2959,Balance of Payments,8
-2960,Banking Law,8
-2961,Behaviour Analysis,8
-2962,Behavioural Economics,8
-2963,Bioeconomics,8
-2964,Biopsychology,8
-2965,Bond,8
-2966,Budget Set,8
-2967,Business Cycle,8
-2968,Business Economics,8
-2969,Capacity Utilization,8
-2970,Capital Flight,8
-2971,Central Bank,8
-2972,Chinese Law,8
-2973,Civics,8
-2974,Civil Law,8
-2975,Clinical Psychology,8
-2976,Cognitive Bias,8
-2977,Cognitive Psychology,8
-2978,Commercial Law,8
-2979,Commodity,8
-2980,Common Law,8
-2981,Comparative Economics,8
-2982,Comparative Law,8
-2983,Comparative Politics,8
-2984,Competition,8
-2985,Competition Law,8
-2986,Computational Economics,8
-2987,Construction Law,8
-2988,Consumer Choice,8
-2989,Consumer Confidence,8
-2990,Consumer Protection,8
-2991,Contract Law,8
-2992,Contract Theory,8
-2993,Convexity,8
-2994,Conveyancing,8
-2995,Corporate Law,8
-2996,Corporate Liability,8
-2997,Cost-benefit Analysis,8
-2998,Credit Risk,8
-2999,Credit Risk Analysis,8
-3000,Credit Risk Modelling,8
-3001,Criminal Law,8
-3002,Criminology,8
-3003,Critical Legal Studies,8
-3004,Cross-Cultural Reasoning,8
-3005,Cultural Psychology,8
-3006,Culture,8
-3007,Currency,8
-3008,Cyberlaw,8
-3009,Deadweight Loss,8
-3010,Deflation,8
-3011,Demand Shock,8
-3012,Demography,8
-3013,Depression,8
-3014,Development Economics,8
-3015,Development Studies,8
-3016,Developmental Psychology,8
-3017,Disinflation,8
-3018,Dynamic Stochastic General Equilibrium (DSGE),8
-3019,Ecological Economics,8
-3020,Economic Analysis,8
-3021,Economic Cost,8
-3022,Economic Development,8
-3023,Economic Equilibrium,8
-3024,Economic Geography,8
-3025,Economic Growth,8
-3026,Economic History,8
-3027,Economic Indications,8
-3028,Economic Methodology,8
-3029,Economic Model,8
-3030,Economic Planning,8
-3031,Economic Policy,8
-3032,Economic Sociology,8
-3033,Economic Statistics,8
-3034,Economic Surplus,8
-3035,Economic Systems,8
-3036,Economic Value,8
-3037,Economics,8
-3038,Economies of Scale,8
-3039,Economies of Scope,8
-3040,Education,8
-3041,Education Economics,8
-3042,Educational Psychology,8
-3043,Effective Demand,8
-3044,Elasticity,8
-3045,Election Law,8
-3046,Emotional Intelligence (EQ),8
-3047,Energy Economics,8
-3048,Energy Law,8
-3049,Entertainment Law,8
-3050,Entrepreneurial Economics,8
-3051,Environmental Economics,8
-3052,Environmental Law,8
-3053,Evolutionary Economics,8
-3054,Evolutionary Psychology,8
-3055,Expectations,8
-3056,Expected Utility,8
-3057,Experimental Economics,8
-3058,Experimental Psychology,8
-3059,Externality,8
-3060,Family Law,8
-3061,Feminist Economics,8
-3062,Financial Economics,8
-3063,Financial Law,8
-3064,Firm,8
-3065,Fiscal Policy,8
-3066,Forensic Psychology,8
-3067,Game Theory,8
-3068,General Equilibrium Theory,8
-3069,General Theory of Keynes,8
-3070,Geopolitics,8
-3071,Goods and Services,8
-3072,Great Depression,8
-3073,Green Economics,8
-3074,Health Economics,8
-3075,Health Law,8
-3076,Health Psychology,8
-3077,Heterodox Economics,8
-3078,Humanistic Psychology,8
-3079,Hyperinflation,8
-3080,Ideology,8
-3081,Immigration Law,8
-3082,Indifference Curve,8
-3083,Industrial and Organizational Psychology,8
-3084,Industrial Organization,8
-3085,Industrial Relations,8
-3086,Inflation,8
-3087,Information Science,8
-3088,Insolvency Law,8
-3089,Institutional Economics,8
-3090,Intellectual Property Law,8
-3091,Interest,8
-3092,Interest Rate,8
-3093,International Criminal Law,8
-3094,International Economics,8
-3095,International Human Rights,8
-3096,International Law,8
-3097,International Legal Theory,8
-3098,International Politics,8
-3099,International Relations Theory,8
-3100,International Slavery Law,8
-3101,International Studies,8
-3102,International Trade,8
-3103,International Trade Law,8
-3104,Intertemporal Choice,8
-3105,IS-LM Model,8
-3106,Islamic Economics,8
-3107,Knowledge Economics,8
-3108,Labour and Employment Law,8
-3109,Labour Economics,8
-3110,Law,8
-3111,Law and Economics,8
-3112,Law Practice,8
-3113,Legal Formalism,8
-3114,Legal Management,8
-3115,Legal Service,8
-3116,Legal Systems,8
-3117,Legal Theory,8
-3118,Library Science,8
-3119,Local Government Studies,8
-3120,Macroeconmic Model,8
-3121,Macroeconomics,8
-3122,Managerial Economics,8
-3123,Marginal Cost,8
-3124,Marginal Utility,8
-3125,Maritime Law,8
-3126,Market Economy,8
-3127,Market Failure,8
-3128,Market Structure,8
-3129,Media Law,8
-3130,Media Psychology,8
-3131,Microeconomics,8
-3132,Microfoundations,8
-3133,Military Law,8
-3134,Mixed Economy,8
-3135,Monetary Economics,8
-3136,Monetary Policy,8
-3137,Money,8
-3138,Monopolistic Competition,8
-3139,Monopoly,8
-3140,Monopsony,8
-3141,Music Therapy,8
-3142,National Account Systems (NAS),8
-3143,National Accounts,8
-3144,Natural Resource Economics,8
-3145,Neoclassical Economics,8
-3146,Neuroeconomics,8
-3147,Neuropsychology,8
-3148,Non-Accelerating Inflation Rate of Unemployment (NAIRU),8
-3149,Non-convexity,8
-3150,Non-Disclosure Agreement (NDA),8
-3151,Oligopoly,8
-3152,Oligopsony,8
-3153,Open Economy,8
-3154,Opportunity Cost,8
-3155,Paralegal Studies,8
-3156,Pareto Efficiency,8
-3157,Perfect Competition,8
-3158,Personality Psychology,8
-3159,Planned Economy,8
-3160,Political Economy,8
-3161,Political Geography,8
-3162,Political Psychology,8
-3163,Political Science,8
-3164,Politics,8
-3165,Preference,8
-3166,Price,8
-3167,Price Level,8
-3168,Pricing Policy,8
-3169,Principle of Legality,8
-3170,Production Set,8
-3171,Profit,8
-3172,Property Law,8
-3173,Psephology,8
-3174,Psychology of Religion,8
-3175,Psychometrics,8
-3176,Psychophysics,8
-3177,Public Administration,8
-3178,Public Choice,8
-3179,Public Economics,8
-3180,Public Finance,8
-3181,Public Good,8
-3182,Public International Law,8
-3183,Public Law,8
-3184,Public Policy,8
-3185,Purchasing Power Parity (PPP),8
-3186,Rate of Profit,8
-3187,Rationing,8
-3188,Real Estate Economics,8
-3189,Recession,8
-3190,Regional Economics,8
-3191,Religious Law,8
-3192,Rent,8
-3193,Returns to Scale,8
-3194,Risk Aversion,8
-3195,Roman Law,8
-3196,Rule of Law,8
-3197,Rural Sociology,8
-3198,Saving,8
-3199,Scarcity,8
-3200,Securities,8
-3201,Sensation and Perception Psychology,8
-3202,Service Economics,8
-3203,Shortage,8
-3204,Shrinkflation,8
-3205,Social Choice,8
-3206,Social Cost,8
-3207,Social Network,8
-3208,Social Psychology,8
-3209,Social Work,8
-3210,Socialist Economics,8
-3211,Socialist Law,8
-3212,Socioeconomics,8
-3213,Sociological Concept,8
-3214,Space Law,8
-3215,Sports Law,8
-3216,Stagflation,8
-3217,Statstical Interpretation,8
-3218,Statutory Law,8
-3219,Sunk Cost,8
-3220,Supply and Demand,8
-3221,Supply Shock,8
-3222,Sustainable Agriculture,8
-3223,Tax Law,8
-3224,Therapy,8
-3225,Transaction Cost,8
-3226,Transport Economics,8
-3227,Transport Law,8
-3228,Transportation Economics,8
-3229,Trust Law,8
-3230,Uncertainty,8
-3231,Unemployment,8
-3232,Unenforced Law,8
-3233,Unit Cost,8
-3234,Urban Economics,8
-3235,Urban Sociology,8
-3236,Utility,8
-3237,Voting Systems,8
-3238,Wage,8
-3239,Welfare Economics,8
-3240,Xeert,8
-3241,Yassa,8
+1790,Cloudera Manager,5
+1791,CloudStack,5
+1792,CM Browser,5
+1793,Coc Coc Browser,5
+1794,Cocaine,5
+1795,Coherent Remote File System (CRFS),5
+1796,Common Vulnerabilities and Exposures (CVE),5
+1797,Common Vulnerability Scoring System (CVSS),5
+1798,Common Weakness Enumeration (CWE),5
+1799,Comodo Dragon,5
+1800,Comodo IceDragon,5
+1801,CompTIA Security,5
+1802,Computer Access Control,5
+1803,Computer Crime,5
+1804,Computer Fraud,5
+1805,Computer Security,5
+1806,Computer Simulation,5
+1807,Computer Virus,5
+1808,Computer Worm,5
+1809,Computing Platform,5
+1810,Computing Technology,5
+1811,Confluence,5
+1812,Conkeror,5
+1813,Connectionless-Mode Network Service,5
+1814,Consumer Privacy,5
+1815,Cookies,5
+1816,Counter Mode Cipher Block Chaining Message Authentication Code Protocol (CCMP),5
+1817,CPU Socket,5
+1818,Creatio,5
+1819,Critix Cloud,5
+1820,Cryptocurrency,5
+1821,Cryptographic Hash Function,5
+1822,Cryptographic Protocol,5
+1823,Cryptographic Pseudorandom Number Generator (CPRNG),5
+1824,Cryptographically Secure Pseudorandom Number Generator (CSPRNG),5
+1825,Cryptography,5
+1826,CtrlS,5
+1827,Cybercrime,5
+1828,Cybersecurity,5
+1829,Cybersex Trafficking,5
+1830,Cyberwarfare,5
+1831,Data Encryption Standard,5
+1832,Data Link Layer,5
+1833,Data Privacy,5
+1834,Data Privacy Law,5
+1835,Data Security,5
+1836,Data Transmission,5
+1837,Data Transmission Network,5
+1838,Data-centric Security,5
+1839,Database Encryption,5
+1840,Dataflow,5
+1841,Dataflow Architecture,5
+1842,Decision Support System,5
+1843,Denial-of-service (DoS),5
+1844,Deterministic Random Bit Generator (DRBG),5
+1845,Diffie-Hellman Key Exchange,5
+1846,Digital Library,5
+1847,Digital Marketing System,5
+1848,Digital Storage Systems Interconnect,5
+1849,DigitalOcean,5
+1850,Direct-access Attack,5
+1851,Discrete Logarithm,5
+1852,Distance Vector Multicast Routing Protocol,5
+1853,Distance-Vector Routing Protocol,5
+1854,Distributed Denial-of-service (DDoS),5
+1855,Distributed File System,5
+1856,Distributed System Security Architecture,5
+1857,DNS Security Extension,5
+1858,DNS Server,5
+1859,Dolphin Browser,5
+1860,Domain Name System (DNS),5
+1861,Dooble,5
+1862,Dropbox,5
+1863,Dynamic DNS,5
+1864,Dynamic Host Configuration Protocol (DHCP),5
+1865,Eavesdropping,5
+1866,Elastic Load Balancer,5
+1867,Electrical Socket,5
+1868,Electronic Access Control,5
+1869,Electronic Filing System,5
+1870,Electronic Key Management System,5
+1871,Elliptic Curve Cryptography,5
+1872,Emacs Web Wowser (eww),5
+1873,Email Spoofing,5
+1874,EMC Atmos,5
+1875,EMC Cloud Computing,5
+1876,Encrypted Key Exchange,5
+1877,Encrypting File System,5
+1878,Encryption,5
+1879,Encryption Software,5
+1880,Engine Yard,5
+1881,Enhanced Interior Gateway Routing Protocol (EIGRP),5
+1882,Enterprise Information System,5
+1883,Epic,5
+1884,Ethernet,5
+1885,Ethernet Local Area Network,5
+1886,Ethernet Over Twisted Pair,5
+1887,Ethernet Physical Layer,5
+1888,Ethernet VPN (EVPN),5
+1889,Eucalyptus,5
+1890,Exploit,5
+1891,Extensible Authentication Protocol,5
+1892,Falkon,5
+1893,Fast Ethernet,5
+1894,Fibre Channel Over Ethernet,5
+1895,File Format,5
+1896,File System,5
+1897,File System Permission,5
+1898,File Transfer Protocol (FTP),5
+1899,Filesystem-Level Encryption,5
+1900,Financial Privacy,5
+1901,Firewall,5
+1902,Force.com,5
+1903,Fujitsu,5
+1904,Gateway Load Balancing Protocol,5
+1905,GE Predix,5
+1906,Gecko,5
+1907,Gecko-based Web Browser,5
+1908,General Parallel File System,5
+1909,Geographic Information System,5
+1910,Gigabit Ethernet,5
+1911,Global Server Load Balancing,5
+1912,GNOME Web,5
+1913,GNU IceCat,5
+1914,GoGrid,5
+1915,Google Chart API,5
+1916,Google Chrome,5
+1917,Google Cloud Platform (GCP),5
+1918,Google Drive,5
+1919,Google Kubernetes Engine (GKE),5
+1920,Google Services,5
+1921,Google Workspace,5
+1922,GreenButton,5
+1923,GreenQloud,5
+1924,Hadoop Common,5
+1925,Hadoop Ozone,5
+1926,Hadoop YARN,5
+1927,Hardware Random-Number Generator (HRNG),5
+1928,Hardware Security,5
+1929,Helion,5
+1930,Heroku,5
+1931,High Assurance Internet Protocols Encryptor,5
+1932,Hortonworks Sandbox,5
+1933,Hot Standby Router Protocol,5
+1934,HP Cloud,5
+1935,HTTP Live Streaming,5
+1936,HTTP Method,5
+1937,Hyper-V,5
+1938,Hypertext Transfer Protocol (HTTP),5
+1939,Hypertext Transfer Protocol Secure (HTTPS),5
+1940,IBM Cloud,5
+1941,IBM Cloud Computing,5
+1942,IBM Disk Storage System,5
+1943,IBM Resource Access Control Facility,5
+1944,IBM XIV Storage System,5
+1945,iCab,5
+1946,iland,5
+1947,Informatics,5
+1948,Information and Communications Technology (ICT),5
+1949,Information Management,5
+1950,Information Privacy,5
+1951,Information Retrieval,5
+1952,Information Security,5
+1953,Information Storage System,5
+1954,Information System,5
+1955,Information Systems Security,5
+1956,Information Systems Security Assessment Framework (ISSAF),5
+1957,Information Technology (IT),5
+1958,Information Threat,5
+1959,Infrastructure as a Service (IaaS),5
+1960,Inktank,5
+1961,Integrated Service Router,5
+1962,Integrated Windows Authentication,5
+1963,Interior Gateway Routing Protocols,5
+1964,Internet,5
+1965,Internet Explorer,5
+1966,Internet Key Exchange,5
+1967,Internet Layer,5
+1968,Internet Message Access Protocol (IMAP),5
+1969,Internet of Things (IoT),5
+1970,Internet Protocl version 4 (IPv4),5
+1971,Internet Protocl version 6 (IPv6),5
+1972,Internet Protocol (IP),5
+1973,Internet Protocol Suite,5
+1974,Internet Security,5
+1975,Internet Security Association And Key Management Protocol,5
+1976,Intrusion Detection System,5
+1977,IP Address,5
+1978,IP Address Blocking,5
+1979,IP Address Management,5
+1980,IP Address Spoofing,5
+1981,IP Addressing,5
+1982,IP Multicasting,5
+1983,IP Routing,5
+1984,Iplant Web Server,5
+1985,Isilon,5
+1986,IT Operations,5
+1987,Java Cryptography Architecture,5
+1988,Java Cryptography Extension,5
+1989,Java Secure Socket Extension,5
+1990,JavaScript Object Notation (JSON),5
+1991,Jelastic,5
+1992,Journaling File System,5
+1993,Joyent,5
+1994,K-Meleon,5
+1995,Kerberos,5
+1996,Kernel-based Virtual Machine (KVM),5
+1997,Key Management,5
+1998,Key Management Interoperability Protocol,5
+1999,Keylogger,5
+2000,Keystroke Logging,5
+2001,Konqueror,5
+2002,Kubernetes,5
+2003,LenelS2,5
+2004,libguestfs,5
+2005,libvirt,5
+2006,Lightweight Directory Access Protocol (LDAP),5
+2007,Link Aggregation,5
+2008,Link Layer,5
+2009,Link Layer Discovery Protocol,5
+2010,Link Layer Topology Discovery,5
+2011,Link-State Routing Protocol,5
+2012,Links,5
+2013,Linode,5
+2014,Load Balancing,5
+2015,Logic Bomb,5
+2016,Lunacloud,5
+2017,Lunascape,5
+2018,Lynx,5
+2019,MAC Spoofing,5
+2020,Malware,5
+2021,Malware Analysis,5
+2022,Malware Detection,5
+2023,Malwarebytes' Anti-Malware,5
+2024,Maxthon,5
+2025,Media Access Control,5
+2026,Media Gateway Control Protocol (MGCP),5
+2027,Medical Privacy,5
+2028,Medium Access Control,5
+2029,Mendix,5
+2030,Message Authentication Code (MAC),5
+2031,Metro Ethernet,5
+2032,Microsoft Azure,5
+2033,Microsoft Edge,5
+2034,Microsoft Office 365,5
+2035,Microsoft OneDrive,5
+2036,Microsoft Personal Web Server,5
+2037,Midori,5
+2038,MindSphere,5
+2039,Mirantis,5
+2040,Mobile IP,5
+2041,Mobile Security,5
+2042,Mobile Security Gateway,5
+2043,Modular Multiplication-Based Block Cipher (MMB),5
+2044,Monte Carlo Method,5
+2045,Mozilla Firefox,5
+2046,Multi-Factor Authentication,5
+2047,Multicast Address Allocation Server,5
+2048,Multicast Routing Protocol,5
+2049,Multicast Source Discovery Protocol,5
+2050,Multicasting,5
+2051,Multimedia Information System,5
+2052,Multitopology Routing Configuration,5
+2053,Navel Whale,5
+2054,NetFront Browser,5
+2055,Netlify,5
+2056,NetSurf,5
+2057,Network,5
+2058,Network Access Control,5
+2059,Network Architecture,5
+2060,Network Component,5
+2061,Network File System,5
+2062,Network Layer,5
+2063,Network Load Balancing,5
+2064,Network Load Balancing Service,5
+2065,Network Management,5
+2066,Network News Transfer Protocol (NNTP),5
+2067,Network Optimization,5
+2068,Network Performance Evaluation,5
+2069,Network Protocol,5
+2070,Network Routing,5
+2071,Network Scheduler,5
+2072,Network Security,5
+2073,Network Service,5
+2074,Network Socket,5
+2075,Network Time Protocol (NTP),5
+2076,Network Topology,5
+2077,Network-Attached Storage System,5
+2078,Nimbula,5
+2079,Nimbus,5
+2080,NT File System (NTFS),5
+2081,Offensive Security Certified Professional (OSCP),5
+2082,On-Demand Multicast Routing Protocol (ODMRP),5
+2083,Open Access Network (OAN),5
+2084,Open Cloud Computing Interface,5
+2085,OpenIO,5
+2086,OpenNebula,5
+2087,openQRM,5
+2088,OpenShift,5
+2089,OpenStack,5
+2090,Opera,5
+2091,Operations,5
+2092,Optimized Link State Routing Protocol,5
+2093,Oracle Cloud,5
+2094,Oracle VirtualBox,5
+2095,Oracle VM,5
+2096,OrionVM,5
+2097,Otter Browser,5
+2098,OutSystems,5
+2099,Ovirt,5
+2100,Pale Moon,5
+2101,Password,5
+2102,Password Authentication Protocol,5
+2103,Password Cracking,5
+2104,Password Generator,5
+2105,Password Management,5
+2106,Password Policy,5
+2107,Password Safe,5
+2108,Password Synchronization,5
+2109,Password-Authenticated Key Agreement,5
+2110,Payload,5
+2111,Phising,5
+2112,Physical Security,5
+2113,PirateBrowser,5
+2114,Platform as a Service (PaaS),5
+2115,Pluggable Authentication Module (PAM),5
+2116,Post Office Protocol (POP),5
+2117,Precision Time Protocol (PTP),5
+2118,Pretty Good Privacy (PGP),5
+2119,Privacy,5
+2120,Privacy Law,5
+2121,Privilege Escalation,5
+2122,Procedural Generation,5
+2123,Process Control System,5
+2124,Protocol,5
+2125,Protocol Independent Multicast,5
+2126,Pseudorandom Number Generator (PRNG),5
+2127,Public Key Cryptography,5
+2128,Public Key Cryptography Standards (PKCS),5
+2129,Public Key Infrastructure,5
+2130,Public-key Encryption,5
+2131,Puffin Browser,5
+2132,Puppet,5
+2133,PythonAnywhere,5
+2134,QQ Browser,5
+2135,Quantum Cryptography,5
+2136,qutebrowser,5
+2137,Rackspace,5
+2138,Rackspace Cloud,5
+2139,Random Number Generation (RNG),5
+2140,Ransomware,5
+2141,Raw Socket,5
+2142,Red Hat,5
+2143,Remote Authentication Dial In User Service (RADIUS),5
+2144,Right to Financial Privacy Act,5
+2145,RightScale,5
+2146,Rivest-Shamir-Adleman (RSA),5
+2147,Role-Based Access Control (RBAC),5
+2148,Rootkit,5
+2149,Route Management,5
+2150,Router,5
+2151,Routing Protocol,5
+2152,Runtime Application Self-protection,5
+2153,Safari,5
+2154,Safe Swiss Cloud,5
+2155,SalamWeb,5
+2156,Samsung Internet Browser,5
+2157,SAP Cloud Platform,5
+2158,Scalr,5
+2159,Screen Scraper,5
+2160,Scripting,5
+2161,SeaMonkey,5
+2162,Secure by Default,5
+2163,Secure by Design,5
+2164,Secure Coding,5
+2165,Secure Hash Algorithm,5
+2166,Secure Hypertext Transfer Protocol,5
+2167,Secure Password Authentication,5
+2168,Secure Remote Password Protocol,5
+2169,Secure Shell (SSH),5
+2170,Secure Socket Layer (SSL),5
+2171,Security,5
+2172,Security Exploit,5
+2173,Security Management,5
+2174,Security-focused Operating System,5
+2175,Sentry,5
+2176,Simple Password Exponential Key Exchange (SPEKE),5
+2177,Simple Public Key Infrastructure,5
+2178,Sleipnir,5
+2179,SlimBrowser,5
+2180,Social Engineering,5
+2181,Social Information System,5
+2182,Social Security,5
+2183,Socket,5
+2184,Socket Programming,5
+2185,Socket.io,5
+2186,Socketserver,5
+2187,SoftLayer,5
+2188,Source-Specific Multicast,5
+2189,Spoofing,5
+2190,Sputnik,5
+2191,Spyware,5
+2192,SQL Injection,5
+2193,SRWare Iron,5
+2194,Steganography,5
+2195,Storage Management,5
+2196,Storage System,5
+2197,Stream Cipher,5
+2198,Stream Processing,5
+2199,Stream Restoration,5
+2200,Streaming,5
+2201,Subnet,5
+2202,Subnetwork,5
+2203,Substitution Cipher,5
+2204,Support,5
+2205,surf,5
+2206,Symmetric-key Encryption,5
+2207,System Administration,5
+2208,System Analysis,5
+2209,Tabular Data Stream,5
+2210,Tampering,5
+2211,Technical Support,5
+2212,Telecommunication,5
+2213,TenFourFox,5
+2214,Terminal Access Controller Access-Control System (TACACS),5
+2215,Tor,5
+2216,Transmission Control Protocol (TCP),5
+2217,Transport Layer,5
+2218,Transport Layer Security (TLS),5
+2219,UC Browser,5
+2220,Uniform Resource Identifier (URI) Scheme,5
+2221,Unix File System,5
+2222,User Datagram Protocol (UDP),5
+2223,Value Stream Mapping,5
+2224,Verification And Validation,5
+2225,Virtual IP Address,5
+2226,Virtual Network,5
+2227,Virtual Private Cloud OnDemand,5
+2228,Virtual Router Redundancy Protocol,5
+2229,Visual Cryptography,5
+2230,Vivaldi,5
+2231,Vmware ESXi,5
+2232,Vmware vCloud Air,5
+2233,Vulnerability,5
+2234,VxLAN (Virtual Extensible LAN),5
+2235,w3m,5
+2236,Wakame-vdc,5
+2237,Waterfox,5
+2238,WaveMaker,5
+2239,Web API,5
+2240,Web Application Security,5
+2241,Web Browser,5
+2242,Web Server,5
+2243,Web Server Gateway Interface,5
+2244,Web Server Software,5
+2245,Web Shell,5
+2246,WebKit,5
+2247,WebKit-based Web Browser,5
+2248,Wireless Application Protocol (WAP),5
+2249,Wireless Distribution System,5
+2250,Wireless Engineering,5
+2251,Wireless LAN,5
+2252,Wireless LAN Controllers,5
+2253,Wireless Network,5
+2254,Wireless Paging System,5
+2255,Wireless Routing Protocol,5
+2256,Wireless Security,5
+2257,Wireless Site Survey,5
+2258,Workday,5
+2259,World Wide Web (WWW),5
+2260,Xen,5
+2261,Xen Cloud Platform,5
+2262,XML Encryption,5
+2263,XML Interface For Network Service,5
+2264,XtremIO,5
+2265,Yandex Browser,5
+2266,Zadara Storage,5
+2267,Zeus Web Server,5
+2268,Zoho,5
+2269,Abstract Algebra,6
+2270,Addition,6
+2271,Algebra,6
+2272,Algebraic Geometry,6
+2273,Algebraic Number Theory,6
+2274,Algebraic Topology,6
+2275,Analytic Geometry,6
+2276,Analytic Number Theory,6
+2277,Applied Mathematics,6
+2278,Approximation,6
+2279,Arithmetic,6
+2280,Arithmetic Geometry,6
+2281,Basic Calculus,6
+2282,Bayesian,6
+2283,Bilateral Monopoly,6
+2284,Branch and Bound,6
+2285,Calculus,6
+2286,Coding Theory,6
+2287,Combinatorial Geometry,6
+2288,Combinatorial Number Theory,6
+2289,Combinatorics,6
+2290,Complex Analysis,6
+2291,Computability Theory,6
+2292,Computational Geometry,6
+2293,Computational Number Theory,6
+2294,Conic Sections,6
+2295,Constructive Mathematics,6
+2296,Convex Geometry,6
+2297,Coordinate Geometry,6
+2298,Covariance Matrix,6
+2299,Curvature,6
+2300,Decimal,6
+2301,Decision Theory,6
+2302,Derivative,6
+2303,Descriptive Geometry,6
+2304,Differential Geometry,6
+2305,Differential Topology,6
+2306,Differentiation,6
+2307,Digital Geometry,6
+2308,Diophantine Geometry,6
+2309,Discrete Geometry,6
+2310,Discrete Mathematics,6
+2311,Division,6
+2312,Econometrics,6
+2313,Elementary Algebra,6
+2314,Elementary Number Theory,6
+2315,Enumerative Combinatorics,6
+2316,Euclidean Geometry,6
+2317,External Combinatorics,6
+2318,Formal Logic,6
+2319,Fractal Geometry,6
+2320,Fraction,6
+2321,Function,6
+2322,General Topology,6
+2323,Geometric Number Theory,6
+2324,Geometry,6
+2325,Gradient Descent,6
+2326,Graph,6
+2327,Graph Theory,6
+2328,Induction,6
+2329,Informal Logic,6
+2330,Input-output Model,6
+2331,Integer,6
+2332,Lambda Calculus,6
+2333,Linear Algebra,6
+2334,Linear Algebra Package (LAPACK),6
+2335,Linear Programming,6
+2336,Logic,6
+2337,Mathematical Analysis,6
+2338,Mathematical Economics,6
+2339,Mathematical Finance,6
+2340,Mathematical Function,6
+2341,Mathematical Logic,6
+2342,Mathematical Modelling,6
+2343,Mathematical Optimization,6
+2344,Mathematical Physics,6
+2345,Mathematical Programming,6
+2346,Mathematics,6
+2347,Mathematics Foundations,6
+2348,MATLAB,6
+2349,Matrix Algebra,6
+2350,Mechanism Design,6
+2351,Model Theory,6
+2352,Money Creation,6
+2353,Money Demand,6
+2354,Money Supply,6
+2355,Multiplication,6
+2356,Multivariate Calculus,6
+2357,Natural Number,6
+2358,Network Theory,6
+2359,Number Representation,6
+2360,Number Theory,6
+2361,Numerical Differentiation,6
+2362,Numerical Integration,6
+2363,Numerical Linear Algebra,6
+2364,Numerical Method,6
+2365,Operations Research,6
+2366,Polyhedra,6
+2367,Polytope,6
+2368,Predicate Logic,6
+2369,Proof Theory,6
+2370,Propositional Logic,6
+2371,Pure Mathematics,6
+2372,Relation Algebra,6
+2373,Riemannian Geometry,6
+2374,Set,6
+2375,Set Theory,6
+2376,Subtraction,6
+2377,Syllogistic Logic,6
+2378,Symbolic Logic,6
+2379,Topology,6
+2380,Track Geometry,6
+2381,Transcendental Number Theory,6
+2382,Univariate Calculus,6
+2383,Active Listening,1
+2384,Ad Design,1
+2385,Adobe Acrobat,1
+2386,Adobe Creative Application,1
+2387,Adobe Illustrator,1
+2388,Adobe InDesign,1
+2389,Adobe Photoshop,1
+2390,Aesthetics,1
+2391,Animation,1
+2392,Anthropolocial Linguistics,1
+2393,Anthropology,1
+2394,Anthropology of Religion,1
+2395,Anthrozoology,1
+2396,Applied Anthropology,1
+2397,Applied Linguistics,1
+2398,Archaeology,1
+2399,Art History,1
+2400,Arts,1
+2401,Arts and Crafts,1
+2402,Audio,1
+2403,Audio Format,1
+2404,Behavioral Geography,1
+2405,Bengali,1
+2406,Bhojpuri,1
+2407,Biolinguistics,1
+2408,Burmese,1
+2409,Canon Law,1
+2410,Cartography,1
+2411,Children Geography,1
+2412,Clinical Linguistics,1
+2413,Coaching,1
+2414,Cognitive Linguistics,1
+2415,Cognitive Science,1
+2416,Colour Sense,1
+2417,Colour Theory,1
+2418,Commercial Photography,1
+2419,Communication Studies,1
+2420,Comparative Linguistics,1
+2421,Computational Linguistics,1
+2422,Computational Social Science,1
+2423,Computer Game,1
+2424,Conceptual Art,1
+2425,Cooking,1
+2426,Corel Draw,1
+2427,Creativity,1
+2428,Critical Geography,1
+2429,Culinary Art,1
+2430,Cultural  Geography,1
+2431,Cultural Anthropology,1
+2432,Cultural Studies,1
+2433,Dance,1
+2434,Descriptive Decision Theory,1
+2435,Design,1
+2436,Design Analysis,1
+2437,Development Geography,1
+2438,Development Linguistics,1
+2439,Dialectology,1
+2440,Dialectometry,1
+2441,Digital Art,1
+2442,Digital Image,1
+2443,Digital Media,1
+2444,Digital Printing,1
+2445,Discourse Analysis,1
+2446,Dreamweaver,1
+2447,Eastern Punjabi,1
+2448,Egyptian Arabic,1
+2449,English,1
+2450,Entertainment,1
+2451,Epistemology,1
+2452,Ethics,1
+2453,Ethnobiology,1
+2454,Ethnobotany,1
+2455,Ethnography,1
+2456,Ethnology,1
+2457,Ethnopoetics,1
+2458,Etymology,1
+2459,Evolutionary Anthropology,1
+2460,Evolutionary Linguistics,1
+2461,Experimental Archaeology,1
+2462,Facebook,1
+2463,Feminist Geography,1
+2464,Fine Art,1
+2465,Folkloristics,1
+2466,Food,1
+2467,Foreign Language,1
+2468,Forensic Linguistics,1
+2469,Free Hand,1
+2470,French,1
+2471,Game Design,1
+2472,Game Development,1
+2473,Gamification,1
+2474,Gastronomy,1
+2475,Gender and Sexuality Studies,1
+2476,Geography,1
+2477,Geolinguistics,1
+2478,German,1
+2479,Gerontology,1
+2480,Graphic Design,1
+2481,Gujarati,1
+2482,Hakka Chinese,1
+2483,Hausa,1
+2484,Health Geography,1
+2485,Hindi,1
+2486,Hindu Law,1
+2487,Historical Archaeology,1
+2488,Historical Geography,1
+2489,Historical Linguistics,1
+2490,History,1
+2491,History Of Linguistics,1
+2492,History Of Psychology,1
+2493,Human Geography,1
+2494,Humanities,1
+2495,Image,1
+2496,Indonesian,1
+2497,Industrial Design,1
+2498,Infographics,1
+2499,Instagram,1
+2500,Interactive Media,1
+2501,Interactive Media Design,1
+2502,Interior Design,1
+2503,Iranian Persian,1
+2504,Italian,1
+2505,Jain Law,1
+2506,Japanese,1
+2507,Javanese,1
+2508,Jewish Law,1
+2509,Jin Chinese,1
+2510,Journalism,1
+2511,Kannada,1
+2512,Korean,1
+2513,Language,1
+2514,Language Acquisition,1
+2515,Language Learning,1
+2516,Legal Archaeology,1
+2517,Legal Fiction,1
+2518,Lexis,1
+2519,Linguistic Anthropology,1
+2520,Linguistic History,1
+2521,Linguistic Typology,1
+2522,Linguistics,1
+2523,LinkedIn,1
+2524,Literature,1
+2525,Localization,1
+2526,Logo Creation,1
+2527,Maithili,1
+2528,Malay,1
+2529,Malayalam,1
+2530,Mandarin Chinese,1
+2531,Marathi,1
+2532,Marxist Geography,1
+2533,Media,1
+2534,Media Studies,1
+2535,Medical Anthropology,1
+2536,Military Geography,1
+2537,Min Nan Chinese,1
+2538,Mobile Application Development,1
+2539,Mobile Game,1
+2540,Morphology,1
+2541,Motion Film,1
+2542,Motion Pictures,1
+2543,Music,1
+2544,Neurolinguistics,1
+2545,News,1
+2546,News Writing,1
+2547,Normative Decision Theory,1
+2548,Odia,1
+2549,Orthography,1
+2550,Performing Art,1
+2551,Periscope,1
+2552,Personal Coaching,1
+2553,Philology,1
+2554,Philosophy,1
+2555,Philosophy of Education,1
+2556,Philosophy of Language,1
+2557,Philosophy of Mathematics,1
+2558,Philosophy of Mind,1
+2559,Philosophy of Science,1
+2560,Phislophy of Information,1
+2561,Phonetics,1
+2562,Phonology,1
+2563,Photo Editing,1
+2564,Phraseology,1
+2565,Physical Anthropology,1
+2566,Physical Geography,1
+2567,Polish,1
+2568,Polotical Philosophy,1
+2569,Population Geography,1
+2570,Portuguese,1
+2571,Poster,1
+2572,Poster Design,1
+2573,Pragmatics,1
+2574,Professional Sports,1
+2575,Prototyping,1
+2576,Psycholinguistics,1
+2577,Psychological Anthropology,1
+2578,Radio,1
+2579,Recreation,1
+2580,Regional Geography,1
+2581,Religious Studies,1
+2582,Responsive Design,1
+2583,Russian,1
+2584,Semantics,1
+2585,Sharia,1
+2586,Sketch,1
+2587,Social Geography,1
+2588,Social Media,1
+2589,Social Media Platform,1
+2590,Social Philosophy,1
+2591,Sociolinguistics,1
+2592,Sound Design,1
+2593,Spanish,1
+2594,Speech and Language Pathology,1
+2595,Speech Science,1
+2596,Sports,1
+2597,Sports Coaching,1
+2598,Storyboarding,1
+2599,Strategic Geography,1
+2600,Stylistics,1
+2601,Syntax,1
+2602,Tamil,1
+2603,Telegram,1
+2604,Television,1
+2605,Telugu,1
+2606,Theatre,1
+2607,TikTok,1
+2608,Time Geography,1
+2609,Tourism Geography,1
+2610,Translation,1
+2611,Turkish,1
+2612,Twitter,1
+2613,Typography,1
+2614,Unity,1
+2615,Urban Geography,1
+2616,Urdu,1
+2617,User Experience (UX),1
+2618,User Experience Design,1
+2619,User Experience Research Methodology,1
+2620,User Modelling,1
+2621,UX Design,1
+2622,UX Research,1
+2623,UX Research Methodology,1
+2624,Vector Graphics,1
+2625,Video,1
+2626,Video Game Development,1
+2627,Video Game Graphics,1
+2628,Vietnamese,1
+2629,Visual Art,1
+2630,Visual Communication,1
+2631,Western Punjabi,1
+2632,Wireframing,1
+2633,World History,1
+2634,Writing Systems,1
+2635,Wu Chinese,1
+2636,Xiang Chinese,1
+2637,Yoruba,1
+2638,Youtube,1
+2639,Yue Chinese,1
+2640,Zooarchaeology,1
+2641,Accoustical Engineering,0
+2642,Aeronautical Engineering,0
+2643,Aerospace,0
+2644,Aerospace Engineering,0
+2645,Agricultural Engineering,0
+2646,Agricultural Production,0
+2647,Agricultural Science,0
+2648,Agriculture,0
+2649,Agronomy,0
+2650,Aircraft Management,0
+2651,Airforce,0
+2652,Amorphous Metals,0
+2653,Animal Husbandry,0
+2654,Apparel,0
+2655,Applied Engineering,0
+2656,Applied Physics,0
+2657,Aquaculture,0
+2658,Arboriculture,0
+2659,Architectonics,0
+2660,Architectural Engineering,0
+2661,Architecture,0
+2662,Astronautical Engineering,0
+2663,Astronautics,0
+2664,AutoCAD,0
+2665,Automotive,0
+2666,Automotive Engineering,0
+2667,Aviation,0
+2668,Aviation and Aerospace,0
+2669,Bioengineering,0
+2670,Biological Engineering,0
+2671,Biomaterials Engineering,0
+2672,Biomedical Engineering,0
+2673,Bionics,0
+2674,Biotechnology,0
+2675,Broadcast Engineering,0
+2676,Building Science,0
+2677,Carpentry,0
+2678,Casting,0
+2679,Ceramic Engineering,0
+2680,Chemical,0
+2681,Chemical Engineering,0
+2682,Civil Engineering,0
+2683,CODE V,0
+2684,Combat Engineering,0
+2685,Composite Materials,0
+2686,Computer Engineering,0
+2687,Computer-Aided Manufacturing (CAM),0
+2688,Construction Engineering,0
+2689,Contract Research Organization (CRO),0
+2690,Control Engineering,0
+2691,Control System,0
+2692,Control System Design,0
+2693,Corrosion Engineering,0
+2694,Crystal Engineering,0
+2695,Drilling Engineering,0
+2696,Electrical and Electronic Manufacturing,0
+2697,Electrical Engineering,0
+2698,Electromechanical Engineering,0
+2699,Electromechanics,0
+2700,Electronic and Electrical Engineering,0
+2701,Electronic Control Systems,0
+2702,Electronic Engineering,0
+2703,Electronic Materials,0
+2704,Electronics,0
+2705,Energy Technology,0
+2706,Engineering,0
+2707,Engineering Physics,0
+2708,Engineering Psychology,0
+2709,Engineering Technology,0
+2710,Environmental Data Analysis,0
+2711,Environmental Engineering,0
+2712,Ergonomics,0
+2713,ETAP,0
+2714,Facilities Engineering,0
+2715,Floriculture,0
+2716,Food Production,0
+2717,Food Science,0
+2718,Forensic Materials Engineering,0
+2719,Forensic Science,0
+2720,Forestry,0
+2721,Genetic Engineering,0
+2722,Geotechnical Engineering,0
+2723,Health Science,0
+2724,Horticulture,0
+2725,Hydro Engineering,0
+2726,Hydroculture,0
+2727,Hydroponics,0
+2728,Industrial Automation,0
+2729,Industrial Engineering,0
+2730,Information Engineering,0
+2731,Instrumentaion Engineering,0
+2732,Instrumentation,0
+2733,Interferometer,0
+2734,LabVIEW,0
+2735,Landscape Architecture,0
+2736,Language Engineering,0
+2737,Logistic Engineering,0
+2738,Machinery,0
+2739,Machining,0
+2740,Maintanence,0
+2741,Manufacturing Engineering,0
+2742,Manufacturing Operations,0
+2743,Marine Engineering,0
+2744,Materials Engineering,0
+2745,Materials Science,0
+2746,Mechanical Engineering,0
+2747,Mechatronics,0
+2748,Metabolic Engineering,0
+2749,Metal Forming,0
+2750,Metallurgical Engineering,0
+2751,Metals,0
+2752,Metrology,0
+2753,Microtechnology,0
+2754,Military Education,0
+2755,Military Engineering,0
+2756,Military History,0
+2757,Military Organization,0
+2758,Military Science,0
+2759,Military Strategy and Tactics,0
+2760,Military Technology Engineering,0
+2761,Military Training,0
+2762,Mining,0
+2763,Mining Engineering,0
+2764,Molecular Engineering,0
+2765,Motion Control,0
+2766,Motion Control System,0
+2767,Multisim,0
+2768,Nano Materials,0
+2769,Nanotechnology,0
+2770,Naval Architecture,0
+2771,Neural Engineering,0
+2772,Nuclear Engineering,0
+2773,Nuclear Technology,0
+2774,Nursing Informatics,0
+2775,Oil and Energy,0
+2776,Oil and Gas,0
+2777,Optical Engineering,0
+2778,Optical System,0
+2779,Optics,0
+2780,OpticStudio,0
+2781,Performance Engineering,0
+2782,Permaculture,0
+2783,Photogrammetry,0
+2784,Plastics,0
+2785,Plastics Engineering,0
+2786,Polymer Engineering,0
+2787,Power Systems Engineering,0
+2788,Precision Engineering,0
+2789,Process Engineering,0
+2790,Processor,0
+2791,PSpice,0
+2792,Quality Engineering,0
+2793,Radiation Engineering,0
+2794,Radiation Protection Engineering,0
+2795,Reliability Engineering,0
+2796,Repair,0
+2797,Safety Engineering,0
+2798,Science and Technology Studies,0
+2799,Scientific Method,0
+2800,Security Engineering,0
+2801,Semiconductors,0
+2802,Silviculture,0
+2803,Simulink,0
+2804,Space Exploration,0
+2805,Spatial Science,0
+2806,Sports Engineering,0
+2807,Structural Engineering,0
+2808,Support Engineering,0
+2809,Surface Engineering,0
+2810,Sustainability Studies,0
+2811,Sustainable Development,0
+2812,Systems Engineering,0
+2813,Systems Science,0
+2814,Systems Theory,0
+2815,Telecommunications Engineering,0
+2816,Textiles,0
+2817,Thermal Engineering,0
+2818,Tissue Engineering,0
+2819,Transportation Engineering,0
+2820,Urban Engineering,0
+2821,Urban Planning,0
+2822,Vacuum Engineering,0
+2823,Vitreous Materials,0
+2824,Water Engineering,0
+2825,Welding,0
+2826,"Absorption, Distribution, Metabolism, and Excretion (ADME)",7
+2827,Adaptive Expectations,7
+2828,Alternative Medicine,7
+2829,Anatomy,7
+2830,Anesthesiology,7
+2831,Animal Health,7
+2832,Astronomy,7
+2833,Atomic Physics,7
+2834,Basic Science,7
+2835,Biochemistry,7
+2836,Biodistribution,7
+2837,Biogeography,7
+2838,Biology,7
+2839,Biomedicine,7
+2840,Biostatistics,7
+2841,Botany,7
+2842,Cardiology,7
+2843,Chemical Processing,7
+2844,Chemistry,7
+2845,Classical Mechanics,7
+2846,Climatology,7
+2847,Coastal Geography,7
+2848,Condensed Matter Physics,7
+2849,Conservation Medicine,7
+2850,Cosmology,7
+2851,Dentistry,7
+2852,Dermatology,7
+2853,Earth Science,7
+2854,Ecology,7
+2855,Electroencephalogram (EEG),7
+2856,Electromagnetism,7
+2857,Endocrinology,7
+2858,Environmental Geography,7
+2859,Environmental Science,7
+2860,Environmental Technology,7
+2861,Evolutionary Biology,7
+2862,Family Medicine,7
+2863,Fisheries Science,7
+2864,Fluid Mechanics,7
+2865,Functional Magnetic Resonance Imaging (fMRI),7
+2866,Gastroenterology,7
+2867,General Surgery,7
+2868,Genetic Algorithm,7
+2869,Genomics,7
+2870,Geology,7
+2871,Geomorphology,7
+2872,Glaciology,7
+2873,Gynecology,7
+2874,Health Informatics,7
+2875,Healthcare,7
+2876,Healthcare Management,7
+2877,High-Energy Partical Physics,7
+2878,Human Anatomy,7
+2879,Hydrology,7
+2880,Immunogenicity,7
+2881,Immunology,7
+2882,Internal Medicine,7
+2883,Investigational New Drug (IND),7
+2884,Landscape Ecology,7
+2885,Life Science,7
+2886,Maximum Absorbable Dose (MAD),7
+2887,Mechanics,7
+2888,Mechanics of Deformable Solids,7
+2889,Mechanics of Structures,7
+2890,Medicine,7
+2891,Meteorology,7
+2892,Microbiology,7
+2893,Modelling & Simulation (M&S),7
+2894,Molecular Biology,7
+2895,Molecular Physics,7
+2896,Neurology,7
+2897,Nuclear Physics,7
+2898,Nursing,7
+2899,Nutrition,7
+2900,Oceanography,7
+2901,Oncology,7
+2902,Ophthalmology,7
+2903,Optometry,7
+2904,Organic Chemistry,7
+2905,Palaeogeography,7
+2906,Particle Mechanics,7
+2907,Pathology,7
+2908,Pathophysiology,7
+2909,Patient Care,7
+2910,Pediatrics,7
+2911,Pharmaceutical Manufacturing,7
+2912,Pharmaceutics,7
+2913,Pharmacodynamics (PD),7
+2914,Pharmacokinetics (PK),7
+2915,Pharmacology,7
+2916,Pharmacy,7
+2917,Photonics,7
+2918,Physical,7
+2919,Physical Medicine,7
+2920,Physical Science,7
+2921,Physical Therapy,7
+2922,Physics,7
+2923,Physiology,7
+2924,PK/PD (PKPD) Modelling,7
+2925,Polymerase chain reaction (PCR),7
+2926,Psychiatry,7
+2927,Psychology,7
+2928,Public Health,7
+2929,Quantitative Polymerase Chain Reaction (qPCR),7
+2930,Quantum Mechanics,7
+2931,Radiology,7
+2932,Rational Expectations,7
+2933,Real-time Polymerase Chain Reaction (real-time PCR),7
+2934,Rehabilitation,7
+2935,Relativistic Mechanics,7
+2936,Soil Geography,7
+2937,Space Science,7
+2938,Statistical Mechanis,7
+2939,Sustainability,7
+2940,Thermodynamics,7
+2941,Toxicology,7
+2942,Tumor Immunity,7
+2943,Urology,7
+2944,Veterinary,7
+2945,Veterinary Medicine,7
+2946,Zoology,7
+2947,Administrative Law,8
+2948,Aggregate Demand,8
+2949,Aggregation Problem,8
+2950,Agricultural Economics,8
+2951,Agricultural Law,8
+2952,Algorithmic Bias,8
+2953,Amnesty Law,8
+2954,Applied Economics,8
+2955,Applied Psychology,8
+2956,Average Cost,8
+2957,Aviation Law,8
+2958,Balance of Payments,8
+2959,Banking Law,8
+2960,Behaviour Analysis,8
+2961,Behavioural Economics,8
+2962,Bioeconomics,8
+2963,Biopsychology,8
+2964,Bond,8
+2965,Budget Set,8
+2966,Business Cycle,8
+2967,Business Economics,8
+2968,Capacity Utilization,8
+2969,Capital Flight,8
+2970,Central Bank,8
+2971,Chinese Law,8
+2972,Civics,8
+2973,Civil Law,8
+2974,Clinical Psychology,8
+2975,Cognitive Bias,8
+2976,Cognitive Psychology,8
+2977,Commercial Law,8
+2978,Commodity,8
+2979,Common Law,8
+2980,Comparative Economics,8
+2981,Comparative Law,8
+2982,Comparative Politics,8
+2983,Competition,8
+2984,Competition Law,8
+2985,Computational Economics,8
+2986,Construction Law,8
+2987,Consumer Choice,8
+2988,Consumer Confidence,8
+2989,Consumer Protection,8
+2990,Contract Law,8
+2991,Contract Theory,8
+2992,Convexity,8
+2993,Conveyancing,8
+2994,Corporate Law,8
+2995,Corporate Liability,8
+2996,Cost-benefit Analysis,8
+2997,Credit Risk,8
+2998,Credit Risk Analysis,8
+2999,Credit Risk Modelling,8
+3000,Criminal Law,8
+3001,Criminology,8
+3002,Critical Legal Studies,8
+3003,Cross-Cultural Reasoning,8
+3004,Cultural Psychology,8
+3005,Culture,8
+3006,Currency,8
+3007,Cyberlaw,8
+3008,Deadweight Loss,8
+3009,Deflation,8
+3010,Demand Shock,8
+3011,Demography,8
+3012,Depression,8
+3013,Development Economics,8
+3014,Development Studies,8
+3015,Developmental Psychology,8
+3016,Disinflation,8
+3017,Dynamic Stochastic General Equilibrium (DSGE),8
+3018,Ecological Economics,8
+3019,Economic Analysis,8
+3020,Economic Cost,8
+3021,Economic Development,8
+3022,Economic Equilibrium,8
+3023,Economic Geography,8
+3024,Economic Growth,8
+3025,Economic History,8
+3026,Economic Indications,8
+3027,Economic Methodology,8
+3028,Economic Model,8
+3029,Economic Planning,8
+3030,Economic Policy,8
+3031,Economic Sociology,8
+3032,Economic Statistics,8
+3033,Economic Surplus,8
+3034,Economic Systems,8
+3035,Economic Value,8
+3036,Economics,8
+3037,Economies of Scale,8
+3038,Economies of Scope,8
+3039,Education,8
+3040,Education Economics,8
+3041,Educational Psychology,8
+3042,Effective Demand,8
+3043,Elasticity,8
+3044,Election Law,8
+3045,Emotional Intelligence (EQ),8
+3046,Energy Economics,8
+3047,Energy Law,8
+3048,Entertainment Law,8
+3049,Entrepreneurial Economics,8
+3050,Environmental Economics,8
+3051,Environmental Law,8
+3052,Evolutionary Economics,8
+3053,Evolutionary Psychology,8
+3054,Expectations,8
+3055,Expected Utility,8
+3056,Experimental Economics,8
+3057,Experimental Psychology,8
+3058,Externality,8
+3059,Family Law,8
+3060,Feminist Economics,8
+3061,Financial Economics,8
+3062,Financial Law,8
+3063,Firm,8
+3064,Fiscal Policy,8
+3065,Forensic Psychology,8
+3066,Game Theory,8
+3067,General Equilibrium Theory,8
+3068,General Theory of Keynes,8
+3069,Geopolitics,8
+3070,Goods and Services,8
+3071,Great Depression,8
+3072,Green Economics,8
+3073,Health Economics,8
+3074,Health Law,8
+3075,Health Psychology,8
+3076,Heterodox Economics,8
+3077,Humanistic Psychology,8
+3078,Hyperinflation,8
+3079,Ideology,8
+3080,Immigration Law,8
+3081,Indifference Curve,8
+3082,Industrial and Organizational Psychology,8
+3083,Industrial Organization,8
+3084,Industrial Relations,8
+3085,Inflation,8
+3086,Information Science,8
+3087,Insolvency Law,8
+3088,Institutional Economics,8
+3089,Intellectual Property Law,8
+3090,Interest,8
+3091,Interest Rate,8
+3092,International Criminal Law,8
+3093,International Economics,8
+3094,International Human Rights,8
+3095,International Law,8
+3096,International Legal Theory,8
+3097,International Politics,8
+3098,International Relations Theory,8
+3099,International Slavery Law,8
+3100,International Studies,8
+3101,International Trade,8
+3102,International Trade Law,8
+3103,Intertemporal Choice,8
+3104,IS-LM Model,8
+3105,Islamic Economics,8
+3106,Knowledge Economics,8
+3107,Labour and Employment Law,8
+3108,Labour Economics,8
+3109,Law,8
+3110,Law and Economics,8
+3111,Law Practice,8
+3112,Legal Formalism,8
+3113,Legal Management,8
+3114,Legal Service,8
+3115,Legal Systems,8
+3116,Legal Theory,8
+3117,Library Science,8
+3118,Local Government Studies,8
+3119,Macroeconmic Model,8
+3120,Macroeconomics,8
+3121,Managerial Economics,8
+3122,Marginal Cost,8
+3123,Marginal Utility,8
+3124,Maritime Law,8
+3125,Market Economy,8
+3126,Market Failure,8
+3127,Market Structure,8
+3128,Media Law,8
+3129,Media Psychology,8
+3130,Microeconomics,8
+3131,Microfoundations,8
+3132,Military Law,8
+3133,Mixed Economy,8
+3134,Monetary Economics,8
+3135,Monetary Policy,8
+3136,Money,8
+3137,Monopolistic Competition,8
+3138,Monopoly,8
+3139,Monopsony,8
+3140,Music Therapy,8
+3141,National Account Systems (NAS),8
+3142,National Accounts,8
+3143,Natural Resource Economics,8
+3144,Neoclassical Economics,8
+3145,Neuroeconomics,8
+3146,Neuropsychology,8
+3147,Non-Accelerating Inflation Rate of Unemployment (NAIRU),8
+3148,Non-convexity,8
+3149,Non-Disclosure Agreement (NDA),8
+3150,Oligopoly,8
+3151,Oligopsony,8
+3152,Open Economy,8
+3153,Opportunity Cost,8
+3154,Paralegal Studies,8
+3155,Pareto Efficiency,8
+3156,Perfect Competition,8
+3157,Personality Psychology,8
+3158,Planned Economy,8
+3159,Political Economy,8
+3160,Political Geography,8
+3161,Political Psychology,8
+3162,Political Science,8
+3163,Politics,8
+3164,Preference,8
+3165,Price,8
+3166,Price Level,8
+3167,Pricing Policy,8
+3168,Principle of Legality,8
+3169,Production Set,8
+3170,Profit,8
+3171,Property Law,8
+3172,Psephology,8
+3173,Psychology of Religion,8
+3174,Psychometrics,8
+3175,Psychophysics,8
+3176,Public Administration,8
+3177,Public Choice,8
+3178,Public Economics,8
+3179,Public Finance,8
+3180,Public Good,8
+3181,Public International Law,8
+3182,Public Law,8
+3183,Public Policy,8
+3184,Purchasing Power Parity (PPP),8
+3185,Rate of Profit,8
+3186,Rationing,8
+3187,Real Estate Economics,8
+3188,Recession,8
+3189,Regional Economics,8
+3190,Religious Law,8
+3191,Rent,8
+3192,Returns to Scale,8
+3193,Risk Aversion,8
+3194,Roman Law,8
+3195,Rule of Law,8
+3196,Rural Sociology,8
+3197,Saving,8
+3198,Scarcity,8
+3199,Securities,8
+3200,Sensation and Perception Psychology,8
+3201,Service Economics,8
+3202,Shortage,8
+3203,Shrinkflation,8
+3204,Social Choice,8
+3205,Social Cost,8
+3206,Social Network,8
+3207,Social Psychology,8
+3208,Social Work,8
+3209,Socialist Economics,8
+3210,Socialist Law,8
+3211,Socioeconomics,8
+3212,Sociological Concept,8
+3213,Space Law,8
+3214,Sports Law,8
+3215,Stagflation,8
+3216,Statstical Interpretation,8
+3217,Statutory Law,8
+3218,Sunk Cost,8
+3219,Supply and Demand,8
+3220,Supply Shock,8
+3221,Sustainable Agriculture,8
+3222,Tax Law,8
+3223,Therapy,8
+3224,Transaction Cost,8
+3225,Transport Economics,8
+3226,Transport Law,8
+3227,Transportation Economics,8
+3228,Trust Law,8
+3229,Uncertainty,8
+3230,Unemployment,8
+3231,Unenforced Law,8
+3232,Unit Cost,8
+3233,Urban Economics,8
+3234,Urban Sociology,8
+3235,Utility,8
+3236,Voting Systems,8
+3237,Wage,8
+3238,Welfare Economics,8
+3239,Xeert,8
+3240,Yassa,8
