@@ -1,24 +1,12 @@
-import pandas as pd
 import re
 import nltk
 from nltk import ngrams
 from difflib import get_close_matches as gcm
 
-# Skills
-df_skills = pd.read_csv('skills_db2/skill.csv')
-SKILLS = df_skills['Skill'].unique().tolist()
-# Redundant skills
-df_redskills = pd.read_excel('skills/Other Skills.xlsx')
-RED_SKILLS = df_redskills['Skill'].unique().tolist()
-# Duplicate skills
-df_dupskills = pd.read_excel('skills/Other Skills.xlsx', sheet_name='Duplicates')
-DUP_SKILLS = df_dupskills.set_index('Skill').to_dict()['Parent']
-SKILLS.extend(list(DUP_SKILLS.keys()))
-
-def extract_skills(info, threshold=0.9):
+def extract_skills(info, skills, threshold=0.9):
     words, unigrams, bigrams, trigrams = clean_info(info)
     results = []
-    for skill in SKILLS:
+    for skill in skills:
         s = skill
         if '(' in s:
             abb = s[s.find("(")+1:s.find(")")]
@@ -46,10 +34,10 @@ def extract_skills(info, threshold=0.9):
                 results.append(skill)
     return results
 
-def extract_ignore(skills):
+def extract_ignore(skills, redundant_skills, duplicate_skills):
     ignore_skills = []
     for j, skill in enumerate(skills):
-        if skill in RED_SKILLS:
+        if skill in redundant_skills:
             ignore_skills.append(skill)
             continue
         for other in skills[:j] + skills[j+1:]:
@@ -60,8 +48,8 @@ def extract_ignore(skills):
     job_skills = []
     for skill in skills:
         if skill not in ignore_skills:
-            if skill in DUP_SKILLS.keys():
-                skill = DUP_SKILLS[skill]
+            if skill in duplicate_skills.keys():
+                skill = duplicate_skills[skill]
             job_skills.append(skill)
     return list(set(job_skills)), list(set(ignore_skills))
 
