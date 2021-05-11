@@ -1,0 +1,62 @@
+Pentaho
+Apache Airflow
+Apache NiFi
+Hypertable
+Talend
+Striim
+Matillion
+AWS Glue
+Panoply
+Alooma
+Hevo Data
+FlyData
+Apache Kafka
+CloverDX
+Jaspersoft ETL
+KETL
+Scriptella
+GeoKettle
+HPCC Systems
+Apatar
+Apache Camel
+Airbyte
+Logstash
+Singer
+Xplenty
+Stitch
+Informatica PowerCenter
+Oracle Data Integrator (ODI)
+Skyvia
+Fivetran
+Alooma
+Skyvia
+IRI Voracity
+Sprinkle
+DBConvert Studio
+InfoSphere Information Server
+SQL Server Integrated Services (SSIS)
+AB Initio
+Data Integration Studio
+BusinessObjects Data Integrator
+Oracle Warehouse Builder
+Sybase ETL
+DBSoftlab
+Jasper
+Azure Data Factory
+Fivetran
+Alooma
+Segment
+Atom
+Etleap
+Denodo
+Alteryx
+Oracle Golden Gate (OGG)
+Pentaho Data Integration (PDI)
+Qlik Replicate
+InfoSphere DataStage
+Oracle Data Integrator (ODI)
+TIBCO Messaging
+FME
+Apache Mahout
+Apache Nutch
+Apache Accumulo
